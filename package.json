@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "UoM Timetable Optimiser",
   "main": "dist/server.js",
+  "engines": {
+    "node": "14.18.2"
+  },
   "dependencies": {
     "@sentry/node": "^6.16.1",
     "@types/cheerio": "^0.22.30",
