@@ -3,7 +3,7 @@ import moment = require('moment');
 import Subject from './Subject';
 import SubjectClass from './SubjectClass';
 import {SubjectPeriod} from './SubjectPeriods';
-import {getHTML} from './WebUtils';
+import {getHTMLpastSSO} from './WebUtils';
 import WeirdNames from './WeirdNames';
 
 /**
@@ -18,14 +18,13 @@ export const scrapeSubject = async (
   code: string
 ): Promise<Subject> => {
   // tslint:disable-next-line:max-line-length
-  const swsURL = `https://sws.unimelb.edu.au/${year}/Reports/List.aspx?objects=${code}&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list`;
   try {
-    const htmlSource = await getHTML(swsURL);
+    const htmlSource = await getHTMLpastSSO(year,code);
     const subject: Subject = parseSubject(htmlSource, code, period);
     return subject;
   } catch (err) {
     console.error(
-      `Error trying to parse timetable for ${year}-${period}-${code} -> ${swsURL} -> ${err}`
+      `Error trying to parse timetable for ${year}-${period}-${code} -> ${err}`
     );
     throw err;
   }

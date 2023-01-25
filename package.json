@@ -26,6 +26,7 @@
     "rotating-file-stream": "^3.0.2",
     "s3-streamlogger": "^1.7.0",
     "selenium-webdriver": "4.1.2",
+    "totp-generator": "^0.0.14",
     "winston": "^3.3.3"
   },
   "devDependencies": {
