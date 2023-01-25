@@ -1,0 +1,269 @@
+{
+  "subject": {
+    "code": "ABPL30041",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM1/T01/04",
+          "ABPL30041/U/1/SM1/T01/02",
+          "ABPL30041/U/1/SM1/T01/12",
+          "ABPL30041/U/1/SM1/T01/14",
+          "ABPL30041/U/1/SM1/T01/06",
+          "ABPL30041/U/1/SM1/T01/10",
+          "ABPL30041/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)",
+          "PAR-Glyn Davis (MSD)-215",
+          "PAR-Glyn Davis (MSD)-216",
+          "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM1/T01/09",
+          "ABPL30041/U/1/SM1/T01/01",
+          "ABPL30041/U/1/SM1/T01/11",
+          "ABPL30041/U/1/SM1/T01/03",
+          "ABPL30041/U/1/SM1/T01/13",
+          "ABPL30041/U/1/SM1/T01/07",
+          "ABPL30041/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-237",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)",
+          "PAR-Glyn Davis (MSD)-138 (Evan Walker Studio)",
+          "PAR-Glyn Davis (MSD)-215",
+          "PAR-Glyn Davis (MSD)-216",
+          "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)",
+          "PAR-Glyn Davis (MSD)-236"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM1/T01/09",
+          "ABPL30041/U/1/SM1/T01/01",
+          "ABPL30041/U/1/SM1/T01/11",
+          "ABPL30041/U/1/SM1/T01/03",
+          "ABPL30041/U/1/SM1/T01/13",
+          "ABPL30041/U/1/SM1/T01/07",
+          "ABPL30041/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-237",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)",
+          "PAR-Glyn Davis (MSD)-138 (Evan Walker Studio)",
+          "PAR-Glyn Davis (MSD)-215",
+          "PAR-Glyn Davis (MSD)-216",
+          "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)",
+          "PAR-Glyn Davis (MSD)-236"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM1/T01/04",
+          "ABPL30041/U/1/SM1/T01/02",
+          "ABPL30041/U/1/SM1/T01/12",
+          "ABPL30041/U/1/SM1/T01/14",
+          "ABPL30041/U/1/SM1/T01/06",
+          "ABPL30041/U/1/SM1/T01/10",
+          "ABPL30041/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)",
+          "PAR-Glyn Davis (MSD)-215",
+          "PAR-Glyn Davis (MSD)-216",
+          "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:08.104Z"
+}

@@ -1,0 +1,295 @@
+{
+  "subject": {
+    "code": "DNCE10029",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 8.5,
+        "finish": 9.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE10029",
+        "codes": [
+          "DNCE10029/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE10029",
+        "codes": [
+          "DNCE10029/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-862-109 (Joan Hammond Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 2,
+        "start": 8.5,
+        "finish": 9.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE10029",
+        "codes": [
+          "DNCE10029/STH/1/SM1/T02/01"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 3,
+        "start": 8.5,
+        "finish": 9.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE10029",
+        "codes": [
+          "DNCE10029/STH/1/SM1/T03/01"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE10029",
+        "codes": [
+          "DNCE10029/STH/1/SM1/L02/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 4",
+        "day": 4,
+        "start": 8.5,
+        "finish": 9.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE10029",
+        "codes": [
+          "DNCE10029/STH/1/SM1/T04/01"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 15.5,
+                "finish": 17.5,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DNCE10029",
+                "codes": [
+                  "DNCE10029/STH/1/SM1/W01/01"
+                ],
+                "locations": [
+                  "STH-864-201"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 15.5,
+                "finish": 17.5,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DNCE10029",
+                "codes": [
+                  "DNCE10029/STH/1/SM1/W02/01"
+                ],
+                "locations": [
+                  "STH-864-201"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:03.816Z"
+}

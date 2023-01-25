@@ -1,0 +1,639 @@
+{
+  "subject": {
+    "code": "FINA20026",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W01/02",
+                  "FINA20026/STH/1/WIN/W01/01",
+                  "FINA20026/STH/1/WIN/W01/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 10",
+                "day": 4,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W10/02",
+                  "FINA20026/STH/1/WIN/W10/01",
+                  "FINA20026/STH/1/WIN/W10/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 11",
+                "day": 0,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W11/02",
+                  "FINA20026/STH/1/WIN/W11/01",
+                  "FINA20026/STH/1/WIN/W11/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 12",
+                "day": 0,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W12/02",
+                  "FINA20026/STH/1/WIN/W12/01",
+                  "FINA20026/STH/1/WIN/W12/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 0,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W02/02",
+                  "FINA20026/STH/1/WIN/W02/01",
+                  "FINA20026/STH/1/WIN/W02/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 1,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W03/02",
+                  "FINA20026/STH/1/WIN/W03/01",
+                  "FINA20026/STH/1/WIN/W03/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 1,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W04/02",
+                  "FINA20026/STH/1/WIN/W04/01",
+                  "FINA20026/STH/1/WIN/W04/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 2,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W05/02",
+                  "FINA20026/STH/1/WIN/W05/01",
+                  "FINA20026/STH/1/WIN/W05/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W06/02",
+                  "FINA20026/STH/1/WIN/W06/01",
+                  "FINA20026/STH/1/WIN/W06/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 7",
+                "day": 3,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W07/02",
+                  "FINA20026/STH/1/WIN/W07/01",
+                  "FINA20026/STH/1/WIN/W07/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 8",
+                "day": 3,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W08/02",
+                  "FINA20026/STH/1/WIN/W08/01",
+                  "FINA20026/STH/1/WIN/W08/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 9",
+                "day": 4,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W09/02",
+                  "FINA20026/STH/1/WIN/W09/01",
+                  "FINA20026/STH/1/WIN/W09/04"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)",
+                  "STH-874-209 (Jim Marks Life Drawing Room)",
+                  "STH-874-210 (Utility Room)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              1,
+              4
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W01/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 11",
+                "day": 0,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W11/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 2",
+                "day": 0,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W02/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 12",
+                "day": 0,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W12/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 3",
+                "day": 1,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W03/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 4",
+                "day": 1,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W04/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 5",
+                "day": 2,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W05/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W06/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 7",
+                "day": 3,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W07/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 8",
+                "day": 3,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W08/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 9",
+                "day": 4,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W09/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 10",
+                "day": 4,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/WIN/W10/03"
+                ],
+                "locations": [
+                  "STH-874-211B (Tutorial Room B)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:39.024Z"
+}

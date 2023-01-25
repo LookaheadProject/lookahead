@@ -1,0 +1,288 @@
+{
+  "subject": {
+    "code": "ESLA90004",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/04"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-161"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-161"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-161"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-118"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/04"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-161"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-161"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-161"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ESLA90004",
+        "codes": [
+          "ESLA90004/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-118"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:36.413Z"
+}

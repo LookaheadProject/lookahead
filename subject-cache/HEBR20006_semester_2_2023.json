@@ -1,0 +1,83 @@
+{
+  "subject": {
+    "code": "HEBR20006",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "HEBR20006",
+        "codes": [
+          "HEBR20006/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "HEBR20006",
+        "codes": [
+          "HEBR20006/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:01.289Z"
+}

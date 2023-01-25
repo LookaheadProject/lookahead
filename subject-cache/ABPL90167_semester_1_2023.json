@@ -1,0 +1,357 @@
+{
+  "subject": {
+    "code": "ABPL90167",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-N817 (Rand Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-137"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/02"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-236"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Studio 1 - ONLINE",
+        "day": 4,
+        "start": 12.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-N817 (Rand Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-137"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1 - ONLINE",
+        "day": 4,
+        "start": 12.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90167",
+        "codes": [
+          "ABPL90167/U/1/SM1/ST1/02"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-236"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:11.751Z"
+}

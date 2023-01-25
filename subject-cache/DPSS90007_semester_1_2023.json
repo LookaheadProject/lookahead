@@ -1,0 +1,281 @@
+{
+  "subject": {
+    "code": "DPSS90007",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W08/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fast Films",
+        "day": 2,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fast Films",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W02/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fast Films",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W03/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 6",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W06/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W09/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fast Films",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W04/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 7",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W07/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fast Films",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90007",
+        "codes": [
+          "DPSS90007/STH/1/SM1/W05/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:05.476Z"
+}

@@ -1,0 +1,199 @@
+{
+  "subject": {
+    "code": "LAWS50131",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          2
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 9,
+        "finish": 17.5,
+        "weeks": [
+          3
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/2/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          2
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/1/SUM/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 9,
+        "finish": 17.5,
+        "weeks": [
+          3
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/2/SUM/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          2
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/1/SUM/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 3,
+        "start": 9,
+        "finish": 17.5,
+        "weeks": [
+          3
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/2/SUM/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          2
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/1/SUM/S04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 9,
+        "finish": 17.5,
+        "weeks": [
+          3
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "LAWS50131",
+        "codes": [
+          "LAWS50131/U/2/SUM/S04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:21.992Z"
+}

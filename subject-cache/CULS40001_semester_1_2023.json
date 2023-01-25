@@ -1,0 +1,288 @@
+{
+  "subject": {
+    "code": "CULS40001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/03"
+        ],
+        "locations": [
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/02_OC"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-263 (CLS1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/03"
+        ],
+        "locations": [
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/02_OC"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CULS40001",
+        "codes": [
+          "CULS40001/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-263 (CLS1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:57.243Z"
+}

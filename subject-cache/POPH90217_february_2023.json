@@ -1,0 +1,551 @@
+{
+  "subject": {
+    "code": "POPH90217",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T01/03",
+                  "POPH90217/U/1/FEB/T01/01",
+                  "POPH90217/U/1/FEB/T01/04"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G21",
+                  "PAR-Alan Gilbert-101",
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T02/03",
+                  "POPH90217/U/1/FEB/T02/01",
+                  "POPH90217/U/1/FEB/T02/04"
+                ],
+                "locations": [
+                  "PAR-Old Arts-156",
+                  "PAR-Alan Gilbert-102",
+                  "PAR-Alan Gilbert-G21"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T03/03",
+                  "POPH90217/U/1/FEB/T03/01",
+                  "POPH90217/U/1/FEB/T03/04"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-120 (Theatre 4)",
+                  "PAR-David Caro-Podium 211",
+                  "PAR-Alan Gilbert-121 (Theatre 3)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              1,
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T01/02"
+                ],
+                "locations": [
+                  "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T02/02"
+                ],
+                "locations": [
+                  "PAR-John Medley-WG03"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T03/02"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 18,
+                "finish": 19.5,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T01/05",
+                  "POPH90217/U/1/FEB/T01/09",
+                  "POPH90217/U/1/FEB/T01/08",
+                  "POPH90217/U/1/FEB/T01/07",
+                  "POPH90217/U/1/FEB/T01/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 18,
+                "finish": 19.5,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T02/05",
+                  "POPH90217/U/1/FEB/T02/09",
+                  "POPH90217/U/1/FEB/T02/08",
+                  "POPH90217/U/1/FEB/T02/07",
+                  "POPH90217/U/1/FEB/T02/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 18,
+                "finish": 19.5,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/T03/05",
+                  "POPH90217/U/1/FEB/T03/09",
+                  "POPH90217/U/1/FEB/T03/08",
+                  "POPH90217/U/1/FEB/T03/07",
+                  "POPH90217/U/1/FEB/T03/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5,
+              9,
+              8,
+              7,
+              6
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 3",
+                "day": 1,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/L03/01"
+                ],
+                "locations": [
+                  "PAR-Medical-C403 (Wright Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 1",
+                "day": 3,
+                "start": 9,
+                "finish": 15,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/L01/01"
+                ],
+                "locations": [
+                  "PAR-Medical-C403 (Wright Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 9,
+                "finish": 15,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/L02/01"
+                ],
+                "locations": [
+                  "PAR-Medical-C403 (Wright Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 3",
+                "day": 1,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 1",
+                "day": 3,
+                "start": 9,
+                "finish": 15,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 9,
+                "finish": 15,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      },
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1 - Ways of Knowing - Tutorial",
+                "day": 3,
+                "start": 15,
+                "finish": 17,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/S01/02"
+                ],
+                "locations": [
+                  "X-Departmentally Organised Venue"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 2 - Ways of Knowing - Panel Session",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/S02/01"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 1 - Ways of Knowing - Tutorial",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90217",
+                "codes": [
+                  "POPH90217/U/1/FEB/S01/01"
+                ],
+                "locations": [
+                  "X-Departmentally Organised Venue"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "SeminarWaysofKnowingTutorial"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "SeminarWaysofKnowingTutorial",
+        "type": "S",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 2
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:32.202Z"
+}

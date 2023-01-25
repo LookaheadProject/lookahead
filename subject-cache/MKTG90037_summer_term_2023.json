@@ -1,0 +1,341 @@
+{
+  "subject": {
+    "code": "MKTG90037",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W01/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-4007"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 13,
+                "finish": 14.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W02/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-4007"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W01/01"
+                ],
+                "locations": [
+                  "PAR-The Spot-4007"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 10,
+                "finish": 11.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W02/01"
+                ],
+                "locations": [
+                  "PAR-The Spot-4007"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 17,
+                "finish": 18.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W01/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 17,
+                "finish": 18.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W02/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 15,
+                "finish": 16.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 15,
+                "finish": 16.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 13,
+                "finish": 14.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MKTG90037",
+                "codes": [
+                  "MKTG90037/U/1/SUM/W02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:57.493Z"
+}

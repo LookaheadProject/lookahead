@@ -1,0 +1,70 @@
+{
+  "subject": {
+    "code": "EDUC90870",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 19.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90870",
+        "codes": [
+          "EDUC90870/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 5,
+        "start": 9,
+        "finish": 13.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90870",
+        "codes": [
+          "EDUC90870/U/1/FEB/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:17.810Z"
+}

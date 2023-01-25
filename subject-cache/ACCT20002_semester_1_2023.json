@@ -1,0 +1,1142 @@
+{
+  "subject": {
+    "code": "ACCT20002",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-2018"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-2018"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14,
+        "finish": 15,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-The Spot-2018"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-4012"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14,
+        "finish": 15,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16,
+        "finish": 17,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-4012"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-2018"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-2018"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14,
+        "finish": 15,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-The Spot-2018"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-4012"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14,
+        "finish": 15,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16,
+        "finish": 17,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-The Spot-5019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-4012"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ACCT20002",
+        "codes": [
+          "ACCT20002/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:16.578Z"
+}

@@ -1,0 +1,785 @@
+{
+  "subject": {
+    "code": "DRAM10033",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 4",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W04/01"
+                ],
+                "locations": [
+                  "STH-862-113 (John Hopkins Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 8",
+                "day": 0,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W08/01"
+                ],
+                "locations": [
+                  "STH-862-423"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W01/01"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W04/01"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 8",
+                "day": 0,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W08/01"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 7",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W07/01"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W05/01"
+                ],
+                "locations": [
+                  "STH-862-113 (John Hopkins Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W02/01"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 9",
+                "day": 3,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W09/01"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W05/01"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W06/01"
+                ],
+                "locations": [
+                  "STH-862-113 (John Hopkins Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W03/01"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  17,
+                  18,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W06/01"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 4",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W04/02"
+                ],
+                "locations": [
+                  "STH-862-113 (John Hopkins Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W01/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 7",
+                "day": 0,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W07/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W04/02"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 8",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W08/02"
+                ],
+                "locations": [
+                  "STH-879-213 (Voice Studio)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 3,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W05/02"
+                ],
+                "locations": [
+                  "STH-862-113 (John Hopkins Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W02/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 9",
+                "day": 3,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W09/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 3,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W05/02"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W06/02"
+                ],
+                "locations": [
+                  "STH-862-113 (John Hopkins Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W03/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  17,
+                  18,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DRAM10033",
+                "codes": [
+                  "DRAM10033/STH/1/SM1/W06/02"
+                ],
+                "locations": [
+                  "STH-879-212 (Studio 5)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Workshop",
+        "type": "W",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 13
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:05.661Z"
+}

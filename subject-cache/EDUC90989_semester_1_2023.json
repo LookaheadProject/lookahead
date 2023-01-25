@@ -1,0 +1,277 @@
+{
+  "subject": {
+    "code": "EDUC90989",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90989",
+        "codes": [
+          "EDUC90989/U/1/SM1/S01/09",
+          "EDUC90989/U/1/SM1/S01/08",
+          "EDUC90989/U/1/SM1/S01/07",
+          "EDUC90989/U/1/SM1/S01/05",
+          "EDUC90989/U/1/SM1/S01/10"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90989",
+        "codes": [
+          "EDUC90989/U/1/SM1/S01/03",
+          "EDUC90989/U/1/SM1/S01/01",
+          "EDUC90989/U/1/SM1/S01/02",
+          "EDUC90989/U/1/SM1/S01/06",
+          "EDUC90989/U/1/SM1/S01/04"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+          "PAR-Kwong Lee Dow-213",
+          "PAR-Kwong Lee Dow-217",
+          "PAR-Kwong Lee Dow-409",
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90989",
+        "codes": [
+          "EDUC90989/U/1/SM1/S01/09",
+          "EDUC90989/U/1/SM1/S01/08",
+          "EDUC90989/U/1/SM1/S01/07",
+          "EDUC90989/U/1/SM1/S01/05",
+          "EDUC90989/U/1/SM1/S01/10"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90989",
+        "codes": [
+          "EDUC90989/U/1/SM1/S01/03",
+          "EDUC90989/U/1/SM1/S01/01",
+          "EDUC90989/U/1/SM1/S01/02",
+          "EDUC90989/U/1/SM1/S01/06",
+          "EDUC90989/U/1/SM1/S01/04"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+          "PAR-Kwong Lee Dow-213",
+          "PAR-Kwong Lee Dow-217",
+          "PAR-Kwong Lee Dow-409",
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  11,
+                  13,
+                  16,
+                  18,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90989",
+                "codes": [
+                  "EDUC90989/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-230"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 6,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90989",
+                "codes": [
+                  "EDUC90989/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-230"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  11,
+                  13,
+                  16,
+                  18,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90989",
+                "codes": [
+                  "EDUC90989/U/1/SM1/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 6,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90989",
+                "codes": [
+                  "EDUC90989/U/1/SM1/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:20.310Z"
+}

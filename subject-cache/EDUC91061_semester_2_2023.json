@@ -1,0 +1,74 @@
+{
+  "subject": {
+    "code": "EDUC91061",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91061",
+        "codes": [
+          "EDUC91061/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91061",
+        "codes": [
+          "EDUC91061/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:22.354Z"
+}

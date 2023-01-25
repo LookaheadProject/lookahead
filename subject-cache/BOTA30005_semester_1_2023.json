@@ -1,0 +1,134 @@
+{
+  "subject": {
+    "code": "BOTA30005",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BOTA30005",
+        "codes": [
+          "BOTA30005/U/1/SM1/P01/01",
+          "BOTA30005/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-514 (Biology Comp Lab)",
+          "PAR-Biosciences 4-105PAR-Biosciences 4-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BOTA30005",
+        "codes": [
+          "BOTA30005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-106 (Brown Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BOTA30005",
+        "codes": [
+          "BOTA30005/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-103 (Room 1)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BOTA30005",
+        "codes": [
+          "BOTA30005/U/1/SM1/P01/01",
+          "BOTA30005/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-514 (Biology Comp Lab)",
+          "PAR-Biosciences 4-105PAR-Biosciences 4-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:38.819Z"
+}

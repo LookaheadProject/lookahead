@@ -1,0 +1,448 @@
+{
+  "subject": {
+    "code": "BMEN90036",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90036",
+        "codes": [
+          "BMEN90036/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90036",
+        "codes": [
+          "BMEN90036/U/1/SM2/T01/01",
+          "BMEN90036/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G21",
+          "PAR-Alan Gilbert-G20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BMEN90036",
+        "codes": [
+          "BMEN90036/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BMEN90036",
+        "codes": [
+          "BMEN90036/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90036",
+        "codes": [
+          "BMEN90036/U/1/SM2/T01/01",
+          "BMEN90036/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G21",
+          "PAR-Alan Gilbert-G20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90036",
+        "codes": [
+          "BMEN90036/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  34
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P01/03"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P02/03"
+                ],
+                "locations": [
+                  "PAR-Engineering D-B06A (Undergrad Wet Lab 1 - Tables)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  34
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P01/04"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P02/04"
+                ],
+                "locations": [
+                  "PAR-Engineering D-B06A (Undergrad Wet Lab 1 - Tables)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  34
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P01/02"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P02/02"
+                ],
+                "locations": [
+                  "PAR-Engineering D-B06A (Undergrad Wet Lab 1 - Tables)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  34
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P01/01"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "BMEN90036",
+                "codes": [
+                  "BMEN90036/U/1/SM2/P02/01"
+                ],
+                "locations": [
+                  "PAR-Engineering D-B06A (Undergrad Wet Lab 1 - Tables)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:37.732Z"
+}

@@ -1,0 +1,68 @@
+{
+  "subject": {
+    "code": "FLTV90031",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV90031",
+        "codes": [
+          "FLTV90031/STH/1/SM1/T01/01",
+          "FLTV90031/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV90031",
+        "codes": [
+          "FLTV90031/STH/1/SM1/T01/01",
+          "FLTV90031/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:44.694Z"
+}

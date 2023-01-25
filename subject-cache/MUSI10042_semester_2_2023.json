@@ -1,0 +1,224 @@
+{
+  "subject": {
+    "code": "MUSI10042",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Setup1",
+        "day": 4,
+        "start": 11.25,
+        "finish": 11.5,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10042",
+        "codes": [
+          "MUSI10042/STH/1/SM2/Setup1/01"
+        ],
+        "locations": [
+          "STH-880-809 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Setup"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10042",
+        "codes": [
+          "MUSI10042/STH/1/SM2/R01/01"
+        ],
+        "locations": [
+          "STH-880-809 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Breakout1",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10042",
+        "codes": [
+          "MUSI10042/STH/1/SM2/Breakout1/02",
+          "MUSI10042/STH/1/SM2/Breakout1/03",
+          "MUSI10042/STH/1/SM2/Breakout1/04",
+          "MUSI10042/STH/1/SM2/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-811 (Teaching Studio)",
+          "STH-880-710 (Teaching Studio)",
+          "STH-880-711 (Teaching Studio)",
+          "STH-880-810 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Setup1",
+        "day": 4,
+        "start": 11.25,
+        "finish": 11.5,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10042",
+        "codes": [
+          "MUSI10042/STH/1/SM2/Setup1/01"
+        ],
+        "locations": [
+          "STH-880-809 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Setup"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10042",
+        "codes": [
+          "MUSI10042/STH/1/SM2/R01/01"
+        ],
+        "locations": [
+          "STH-880-809 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Breakout1",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10042",
+        "codes": [
+          "MUSI10042/STH/1/SM2/Breakout1/02",
+          "MUSI10042/STH/1/SM2/Breakout1/03",
+          "MUSI10042/STH/1/SM2/Breakout1/04",
+          "MUSI10042/STH/1/SM2/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-811 (Teaching Studio)",
+          "STH-880-710 (Teaching Studio)",
+          "STH-880-711 (Teaching Studio)",
+          "STH-880-810 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:59.800Z"
+}

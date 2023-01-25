@@ -1,0 +1,64 @@
+{
+  "subject": {
+    "code": "MULT90018",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT90018",
+        "codes": [
+          "MULT90018/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT90018",
+        "codes": [
+          "MULT90018/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:59.030Z"
+}

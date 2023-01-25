@@ -1,0 +1,917 @@
+{
+  "subject": {
+    "code": "COMP10001",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L01/03"
+                ],
+                "locations": [
+                  "Recorded option."
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L02/03"
+                ],
+                "locations": [
+                  "Recorded option."
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 3",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L03/03"
+                ],
+                "locations": [
+                  "Recorded option."
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L01/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L02/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L03/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      },
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/03"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/03"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/03"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/02"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/02"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/02"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/01"
+                ],
+                "locations": [
+                  "PAR-Engineering B-102"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 18.25,
+                "finish": 19.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/06"
+                ],
+                "locations": [
+                  "PAR-Elec. Engineering-121"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 18.25,
+                "finish": 19.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/06"
+                ],
+                "locations": [
+                  "PAR-Elec. Engineering-121"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 18.25,
+                "finish": 19.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/06"
+                ],
+                "locations": [
+                  "PAR-Elec. Engineering-121"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T01/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T02/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP10001",
+                "codes": [
+                  "COMP10001/U/1/SUM/T03/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:51.231Z"
+}

@@ -1,0 +1,323 @@
+{
+  "subject": {
+    "code": "ELEN30012",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-138 (Masters EDS Room 7)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-138 (Masters EDS Room 7)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-138 (Masters EDS Room 7)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Building 168-416 (Steve Howard Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/L03/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-138 (Masters EDS Room 7)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-138 (Masters EDS Room 7)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN30012",
+        "codes": [
+          "ELEN30012/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-138 (Masters EDS Room 7)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:28.855Z"
+}

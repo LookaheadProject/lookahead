@@ -1,0 +1,234 @@
+{
+  "subject": {
+    "code": "DNCE20037",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20037",
+        "codes": [
+          "DNCE20037/STH/1/SM2/W01/01"
+        ],
+        "locations": [
+          "STH-864-221"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20037",
+        "codes": [
+          "DNCE20037/STH/1/SM2/W02/01"
+        ],
+        "locations": [
+          "STH-864-221"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20037",
+        "codes": [
+          "DNCE20037/STH/1/SM2/W03/01"
+        ],
+        "locations": [
+          "STH-864-221"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "Breakout",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 2,
+                "start": 14.25,
+                "finish": 17.5,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "DNCE20037",
+                "codes": [
+                  "DNCE20037/STH/1/SM2/Breakout1/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "Breakout"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 17.5,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "DNCE20037",
+                "codes": [
+                  "DNCE20037/STH/1/SM2/Breakout2/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "Breakout"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 14.25,
+                "finish": 17.5,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DNCE20037",
+                "codes": [
+                  "DNCE20037/STH/1/SM2/Breakout3/01"
+                ],
+                "locations": [
+                  "STH-863-G09"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "Breakout"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "Breakout",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:04.240Z"
+}

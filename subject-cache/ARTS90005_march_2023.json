@@ -1,0 +1,494 @@
+{
+  "subject": {
+    "code": "ARTS90005",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "BSL Seminar 1 - On Campus",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S01/01",
+                  "ARTS90005/U/1/MAR/S01/02",
+                  "ARTS90005/U/1/MAR/S01/03",
+                  "ARTS90005/U/1/MAR/S01/04",
+                  "ARTS90005/U/1/MAR/S01/05",
+                  "ARTS90005/U/1/MAR/S01/07"
+                ],
+                "locations": [
+                  "PAR-Old Quad-G17 (Cussonia Court Room 1)",
+                  "PAR-Arts West North Wing-161",
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-354",
+                  "PAR-Arts West North Wing-361",
+                  "PAR-Arts West North Wing-461"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 1 - Online",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S01/01_BSLOnline",
+                  "ARTS90005/U/1/MAR/S01/02_BSLOnline",
+                  "ARTS90005/U/1/MAR/S01/03_BSLOnline",
+                  "ARTS90005/U/1/MAR/S01/04_BSLOnline",
+                  "ARTS90005/U/1/MAR/S01/05_BSLOnline",
+                  "ARTS90005/U/1/MAR/S01/07_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 2 - On Campus",
+                "day": 4,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S02/01",
+                  "ARTS90005/U/1/MAR/S02/02",
+                  "ARTS90005/U/1/MAR/S02/03",
+                  "ARTS90005/U/1/MAR/S02/04",
+                  "ARTS90005/U/1/MAR/S02/05",
+                  "ARTS90005/U/1/MAR/S02/07"
+                ],
+                "locations": [
+                  "PAR-Old Quad-G17 (Cussonia Court Room 1)",
+                  "PAR-Arts West North Wing-161",
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-354",
+                  "PAR-Arts West North Wing-361",
+                  "PAR-Arts West North Wing-561"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 2 - Online",
+                "day": 4,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S02/01_BSLOnline",
+                  "ARTS90005/U/1/MAR/S02/02_BSLOnline",
+                  "ARTS90005/U/1/MAR/S02/03_BSLOnline",
+                  "ARTS90005/U/1/MAR/S02/04_BSLOnline",
+                  "ARTS90005/U/1/MAR/S02/05_BSLOnline",
+                  "ARTS90005/U/1/MAR/S02/07_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              7
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S01/08"
+                ],
+                "locations": [
+                  "PAR-Old Arts-224 (South Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Seminar 2",
+                "day": 4,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S02/08"
+                ],
+                "locations": [
+                  "PAR-Old Arts-224 (South Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "BSL Seminar 1 - Online",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S01/06_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "BSL Seminar 2 - Online",
+                "day": 4,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S02/06_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "BSL Seminar 1 - On Campus",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S01/06"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-561"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "BSL Seminar 2 - On Campus",
+                "day": 4,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/S02/06"
+                ],
+                "locations": [
+                  "PAR-Old Arts-107 (William Macmahon Ball Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "BSLSeminarOnCampus"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/L01/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-153 (Forum Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 12,
+                "finish": 13.25,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/L02/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-153 (Forum Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 15,
+                "finish": 16.25,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/L03/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-153 (Forum Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 12,
+                "finish": 13.25,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 15,
+                "finish": 16.25,
+                "weeks": [
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARTS90005",
+                "codes": [
+                  "ARTS90005/U/1/MAR/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "BSLSeminarOnCampus",
+        "type": "S",
+        "okNumbers": 2,
+        "weirdNumbers": 1,
+        "maxCount": 4
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:29.877Z"
+}

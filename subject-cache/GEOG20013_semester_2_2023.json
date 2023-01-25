@@ -1,0 +1,561 @@
+{
+  "subject": {
+    "code": "GEOG20013",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Walter Boas-102 (Lower Ground Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-EG66"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Walter Boas-102 (Lower Ground Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-EG66"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOG20013",
+        "codes": [
+          "GEOG20013/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:55.605Z"
+}

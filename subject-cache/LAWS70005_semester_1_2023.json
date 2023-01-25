@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "LAWS70005",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 18,
+        "finish": 20,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS70005",
+        "codes": [
+          "LAWS70005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Law-0611"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 18,
+        "finish": 20,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS70005",
+        "codes": [
+          "LAWS70005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Law-0611"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:22.167Z"
+}

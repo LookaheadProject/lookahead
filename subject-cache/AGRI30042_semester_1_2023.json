@@ -1,0 +1,255 @@
+{
+  "subject": {
+    "code": "AGRI30042",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AGRI30042",
+        "codes": [
+          "AGRI30042/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AGRI30042",
+        "codes": [
+          "AGRI30042/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 17.25,
+                "finish": 20.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  18,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30042",
+                "codes": [
+                  "AGRI30042/U/1/SM1/P01/02"
+                ],
+                "locations": [
+                  "PAR-Building 125-104 (104 Wet Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 17.25,
+                "finish": 20.25,
+                "weeks": [
+                  17,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30042",
+                "codes": [
+                  "AGRI30042/U/1/SM1/P02/02"
+                ],
+                "locations": [
+                  "PAR-Building 125-127and128 (Dry Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  18,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30042",
+                "codes": [
+                  "AGRI30042/U/1/SM1/P01/01_SetUp"
+                ],
+                "locations": [
+                  "PAR-Building 125-104 (104 Wet Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 11,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  18,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30042",
+                "codes": [
+                  "AGRI30042/U/1/SM1/P01/01"
+                ],
+                "locations": [
+                  "PAR-Building 125-104 (104 Wet Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 11,
+                "finish": 14,
+                "weeks": [
+                  17,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30042",
+                "codes": [
+                  "AGRI30042/U/1/SM1/P02/01"
+                ],
+                "locations": [
+                  "PAR-Building 125-127and128 (Dry Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Practical",
+        "type": "P",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 3
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:21.432Z"
+}

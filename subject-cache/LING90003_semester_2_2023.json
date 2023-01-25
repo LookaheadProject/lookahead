@@ -1,0 +1,152 @@
+{
+  "subject": {
+    "code": "LING90003",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "LING90003",
+        "codes": [
+          "LING90003/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "LING90003",
+        "codes": [
+          "LING90003/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "LING90003",
+        "codes": [
+          "LING90003/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "LING90003",
+        "codes": [
+          "LING90003/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:34.290Z"
+}

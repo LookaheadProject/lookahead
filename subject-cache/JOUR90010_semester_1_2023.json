@@ -1,0 +1,220 @@
+{
+  "subject": {
+    "code": "JOUR90010",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "JOUR90010",
+        "codes": [
+          "JOUR90010/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "JOUR90010",
+        "codes": [
+          "JOUR90010/U/1/SM1/S01/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "JOUR90010",
+        "codes": [
+          "JOUR90010/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-231"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "JOUR90010",
+        "codes": [
+          "JOUR90010/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "JOUR90010",
+        "codes": [
+          "JOUR90010/U/1/SM1/S01/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "JOUR90010",
+        "codes": [
+          "JOUR90010/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-231"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:17.728Z"
+}

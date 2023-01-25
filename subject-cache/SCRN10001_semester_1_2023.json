@@ -1,0 +1,1592 @@
+{
+  "subject": {
+    "code": "SCRN10001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Screening 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/SC1/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SC"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Screening 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/SC1/01"
+        ],
+        "locations": [
+          "PAR-Law-GM15 (David P. Derham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SC"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G04"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/11",
+          "SCRN10001/U/1/SM1/T01/20"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)",
+          "PAR-Arts West North Wing-455"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-C216 (Sunderland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-556 (Lectorial Room II)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/14",
+          "SCRN10001/U/1/SM1/T01/22"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)",
+          "PAR-100 Leicester Street-109"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/19"
+        ],
+        "locations": [
+          "PAR-Babel-104 (The Green Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-John Medley-WG03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/21"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/01",
+          "SCRN10001/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-Old Arts-152",
+          "PAR-Biosciences 4-B73 (Loughlin Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/18"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/17"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-Old Arts-227 (Cecil Scutt Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/16"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-120"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Screening 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/SC1/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SC"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Screening 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/SC1/01"
+        ],
+        "locations": [
+          "PAR-Law-GM15 (David P. Derham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SC"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-C216 (Sunderland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G04"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/11",
+          "SCRN10001/U/1/SM1/T01/20"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)",
+          "PAR-Arts West North Wing-455"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/14",
+          "SCRN10001/U/1/SM1/T01/22"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)",
+          "PAR-100 Leicester Street-109"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-556 (Lectorial Room II)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/01",
+          "SCRN10001/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-Old Arts-152",
+          "PAR-Biosciences 4-B73 (Loughlin Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-John Medley-WG03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/19"
+        ],
+        "locations": [
+          "PAR-Babel-104 (The Green Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/21"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-Old Arts-227 (Cecil Scutt Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/17"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/18"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN10001",
+        "codes": [
+          "SCRN10001/U/1/SM1/T01/16"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-120"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:46.061Z"
+}

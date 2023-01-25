@@ -1,0 +1,248 @@
+{
+  "subject": {
+    "code": "ABPL90172",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90172",
+        "codes": [
+          "ABPL90172/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-B25 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90172",
+        "codes": [
+          "ABPL90172/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-B25 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 12.25,
+                "finish": 15.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90172",
+                "codes": [
+                  "ABPL90172/U/1/SM1/ST1/02",
+                  "ABPL90172/U/1/SM1/ST1/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-236",
+                  "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Studio 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90172",
+                "codes": [
+                  "ABPL90172/U/1/SM1/ST2/02",
+                  "ABPL90172/U/1/SM1/ST2/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-236",
+                  "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              1
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 12.25,
+                "finish": 15.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90172",
+                "codes": [
+                  "ABPL90172/U/1/SM1/ST1/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Studio 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90172",
+                "codes": [
+                  "ABPL90172/U/1/SM1/ST2/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "Studio"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:11.846Z"
+}

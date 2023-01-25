@@ -1,0 +1,533 @@
+{
+  "subject": {
+    "code": "FINA10034",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "DPM - Drawing Workshop (Group 2)",
+                "day": 1,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W01/02"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Studio Tutorials (Group 2)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W04/02"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Life Drawing (Group 2)",
+                "day": 2,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W05/02"
+                ],
+                "locations": [
+                  "STH-874-209 (Jim Marks Life Drawing Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Print Workshop (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W02/02"
+                ],
+                "locations": [
+                  "STH-875-194 (Screen Press Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Print Workshop (Group 2)",
+                "day": 2,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W03/02"
+                ],
+                "locations": [
+                  "STH-875-194 (Screen Press Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Group Critique (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W06/02"
+                ],
+                "locations": [
+                  "STH-874-208 (PG Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Studio Practice (Group 2)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W07/02"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Studio Practice (Friday PM)",
+                "day": 4,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W08/02"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "DPM - Drawing Workshop (Group 1)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W01/01"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Print Workshop (Group 1)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W02/01"
+                ],
+                "locations": [
+                  "STH-875-194 (Screen Press Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Print Workshop (Group 1)",
+                "day": 1,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W03/01"
+                ],
+                "locations": [
+                  "STH-875-194 (Screen Press Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Life Drawing (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W05/01"
+                ],
+                "locations": [
+                  "STH-874-209 (Jim Marks Life Drawing Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Studio Tutorials (Group 1)",
+                "day": 2,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W04/01"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Group Critique (Group 1)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W06/01"
+                ],
+                "locations": [
+                  "STH-874-208 (PG Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Studio Practice (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W07/01"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Studio Practice (Friday AM)",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10034",
+                "codes": [
+                  "FINA10034/STH/1/SM2/W08/01"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "DPMStudioPracticeFridayPM"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:38.757Z"
+}

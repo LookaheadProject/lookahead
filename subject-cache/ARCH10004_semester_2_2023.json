@@ -1,0 +1,569 @@
+{
+  "subject": {
+    "code": "ARCH10004",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/01",
+          "ARCH10004/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1006",
+          "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/04",
+          "ARCH10004/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1007",
+          "PAR-David Caro-Podium 209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 16,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1007"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16,
+        "finish": 17.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1007"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/01",
+          "ARCH10004/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1006",
+          "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/04",
+          "ARCH10004/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1007",
+          "PAR-David Caro-Podium 209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 16,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1007"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16,
+        "finish": 17.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH10004",
+        "codes": [
+          "ARCH10004/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1007"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:28.571Z"
+}

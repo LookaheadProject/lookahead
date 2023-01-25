@@ -1,0 +1,664 @@
+{
+  "subject": {
+    "code": "MUSI20164",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/01"
+        ],
+        "locations": [
+          "STH-862-423"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/03",
+          "MUSI20164/STH/1/SM2/P01/02"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-216 (Dr. Tony Gould Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/05",
+          "MUSI20164/STH/1/SM2/P01/04"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-113 (John Hopkins Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/08",
+          "MUSI20164/STH/1/SM2/P01/06",
+          "MUSI20164/STH/1/SM2/P01/07"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/10",
+          "MUSI20164/STH/1/SM2/P01/09"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/12",
+          "MUSI20164/STH/1/SM2/P01/11"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Practical 1 (ON HOLD)",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/17",
+          "MUSI20164/STH/1/SM2/P01/18"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-113 (John Hopkins Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/14",
+          "MUSI20164/STH/1/SM2/P01/13"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/16",
+          "MUSI20164/STH/1/SM2/P01/15"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 16
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/01"
+        ],
+        "locations": [
+          "STH-862-423"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/03",
+          "MUSI20164/STH/1/SM2/P01/02"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-216 (Dr. Tony Gould Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/05",
+          "MUSI20164/STH/1/SM2/P01/04"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-113 (John Hopkins Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/08",
+          "MUSI20164/STH/1/SM2/P01/06",
+          "MUSI20164/STH/1/SM2/P01/07"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/10",
+          "MUSI20164/STH/1/SM2/P01/09"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/12",
+          "MUSI20164/STH/1/SM2/P01/11"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/14",
+          "MUSI20164/STH/1/SM2/P01/13"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/16",
+          "MUSI20164/STH/1/SM2/P01/15"
+        ],
+        "locations": [
+          "STH-862-423",
+          "STH-862-303"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Practical 1 (ON HOLD)",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20164",
+        "codes": [
+          "MUSI20164/STH/1/SM2/P01/17",
+          "MUSI20164/STH/1/SM2/P01/18"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-113 (John Hopkins Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 17
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:05.849Z"
+}

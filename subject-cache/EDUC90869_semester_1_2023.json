@@ -1,0 +1,176 @@
+{
+  "subject": {
+    "code": "EDUC90869",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          17
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 6",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S06/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 7",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S07/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 5,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90869",
+        "codes": [
+          "EDUC90869/U/1/SM1/S05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:17.705Z"
+}

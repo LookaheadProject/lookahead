@@ -1,0 +1,409 @@
+{
+  "subject": {
+    "code": "MUSI10223",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/02"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/03"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/04"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/05"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/06"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/L01/01"
+        ],
+        "locations": [
+          "STH-862-216 (Dr. Tony Gould Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/L01/01"
+        ],
+        "locations": [
+          "STH-862-216 (Dr. Tony Gould Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/02"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/03"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/04"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/05"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10223",
+        "codes": [
+          "MUSI10223/STH/1/SM2/W01/06"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:02.246Z"
+}

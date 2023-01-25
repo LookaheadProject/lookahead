@@ -1,0 +1,475 @@
+{
+  "subject": {
+    "code": "ASIA90015",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSLSeminar 1 - Online",
+        "day": 0,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 6 - Online",
+        "day": 0,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S06/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 1 - On Campus",
+        "day": 0,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 6 - On Campus",
+        "day": 0,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S06/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 7 - Online",
+        "day": 1,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S07/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 2 - Online",
+        "day": 1,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 2 - On Campus",
+        "day": 1,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 7 - On Campus",
+        "day": 1,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S07/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 3 - Online",
+        "day": 2,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S03/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 8 - Online",
+        "day": 2,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S08/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 3 - On Campus",
+        "day": 2,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 8 - On Campus",
+        "day": 2,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S08/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 4 - Online",
+        "day": 3,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S04/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 9 - Online",
+        "day": 3,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S09/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 4 - On Campus",
+        "day": 3,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 9 - On Campus",
+        "day": 3,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S09/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 10 - Online",
+        "day": 4,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S10/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 5 - Online",
+        "day": 4,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S05/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 5 - On Campus",
+        "day": 4,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S05/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSLSeminar 10 - On Campus",
+        "day": 4,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ASIA90015",
+        "codes": [
+          "ASIA90015/U/1/FEB/S10/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:31.685Z"
+}

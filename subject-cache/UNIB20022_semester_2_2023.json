@@ -1,0 +1,151 @@
+{
+  "subject": {
+    "code": "UNIB20022",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "UNIB20022",
+        "codes": [
+          "UNIB20022/U/1/SM2/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "UNIB20022",
+        "codes": [
+          "UNIB20022/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "UNIB20022",
+        "codes": [
+          "UNIB20022/U/1/SM2/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "UNIB20022",
+        "codes": [
+          "UNIB20022/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "PAR-The Spot-5015"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:53.941Z"
+}

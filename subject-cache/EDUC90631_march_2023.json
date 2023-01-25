@@ -1,0 +1,230 @@
+{
+  "subject": {
+    "code": "EDUC90631",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 5,
+                "start": 8.5,
+                "finish": 12.5,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S01/03",
+                  "EDUC90631/U/1/MAR/S01/01"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-107",
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 2",
+                "day": 5,
+                "start": 8.5,
+                "finish": 12.5,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S02/03",
+                  "EDUC90631/U/1/MAR/S02/01"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-107",
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 3",
+                "day": 5,
+                "start": 8.5,
+                "finish": 12.5,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S03/03",
+                  "EDUC90631/U/1/MAR/S03/01"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-107",
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 4",
+                "day": 5,
+                "start": 8.5,
+                "finish": 12.5,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S04/03",
+                  "EDUC90631/U/1/MAR/S04/01"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-107",
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 5,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S01/02"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 2",
+                "day": 5,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S02/02"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 3",
+                "day": 5,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S03/02"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 4",
+                "day": 5,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90631",
+                "codes": [
+                  "EDUC90631/U/1/MAR/S04/02"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-106"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:15.765Z"
+}

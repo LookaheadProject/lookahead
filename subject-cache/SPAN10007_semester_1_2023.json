@@ -1,0 +1,325 @@
+{
+  "subject": {
+    "code": "SPAN10007",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 16.75,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T01/04"
+                ],
+                "locations": [
+                  "PAR-Babel-303"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 16.75,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T02/04"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-354"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T01/03"
+                ],
+                "locations": [
+                  "PAR-Babel-204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T02/03"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-354"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T01/02"
+                ],
+                "locations": [
+                  "PAR-John Medley-WG05"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T02/02"
+                ],
+                "locations": [
+                  "PAR-John Medley-WG05"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T01/01"
+                ],
+                "locations": [
+                  "PAR-John Medley-WG05"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SPAN10007",
+                "codes": [
+                  "SPAN10007/U/1/SM1/T02/01"
+                ],
+                "locations": [
+                  "PAR-John Medley-WG05"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:49.695Z"
+}

@@ -1,0 +1,128 @@
+{
+  "subject": {
+    "code": "CREA30001",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CREA30001",
+        "codes": [
+          "CREA30001/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15,
+        "finish": 17,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CREA30001",
+        "codes": [
+          "CREA30001/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CREA30001",
+        "codes": [
+          "CREA30001/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15,
+        "finish": 17,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CREA30001",
+        "codes": [
+          "CREA30001/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:54.486Z"
+}

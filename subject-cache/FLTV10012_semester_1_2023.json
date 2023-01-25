@@ -1,0 +1,255 @@
+{
+  "subject": {
+    "code": "FLTV10012",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/S01/01"
+        ],
+        "locations": [
+          "STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          11,
+          14,
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/T01/02",
+          "FLTV10012/STH/1/SM1/T01/05",
+          "FLTV10012/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-204 (Rushes 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          11,
+          14,
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/T01/04",
+          "FLTV10012/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-204 (Rushes 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/S01/01"
+        ],
+        "locations": [
+          "STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          11,
+          14,
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/T01/02",
+          "FLTV10012/STH/1/SM1/T01/05",
+          "FLTV10012/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-204 (Rushes 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          11,
+          14,
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10012",
+        "codes": [
+          "FLTV10012/STH/1/SM1/T01/04",
+          "FLTV10012/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-204 (Rushes 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:41.554Z"
+}

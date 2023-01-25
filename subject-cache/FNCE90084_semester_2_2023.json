@@ -1,0 +1,493 @@
+{
+  "subject": {
+    "code": "FNCE90084",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-5008"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-The Spot-3010"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-3010"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-5008"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-The Spot-3010"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-3010"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE90084",
+        "codes": [
+          "FNCE90084/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-The Spot-3031"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:48.324Z"
+}

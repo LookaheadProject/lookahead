@@ -1,0 +1,329 @@
+{
+  "subject": {
+    "code": "GEOL90051",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Fieldwork 5",
+        "day": 0,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/FW5/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/L01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 6",
+        "day": 1,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/FW6/01"
+        ],
+        "locations": [
+          "X-Off Site."
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 1,
+        "start": 14,
+        "finish": 18,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/L03/01"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/FW1/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/L04/01"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 2",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/FW2/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 3",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/FW3/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 4",
+        "day": 6,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL90051",
+        "codes": [
+          "GEOL90051/U/1/MAR/FW4/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14,
+                "finish": 18,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOL90051",
+                "codes": [
+                  "GEOL90051/U/1/MAR/P01/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOL90051",
+                "codes": [
+                  "GEOL90051/U/1/MAR/P02/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 14,
+                "finish": 18,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOL90051",
+                "codes": [
+                  "GEOL90051/U/1/MAR/P03/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 4",
+                "day": 3,
+                "start": 14,
+                "finish": 18,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOL90051",
+                "codes": [
+                  "GEOL90051/U/1/MAR/P04/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:58.508Z"
+}

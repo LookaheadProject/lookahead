@@ -1,0 +1,120 @@
+{
+  "subject": {
+    "code": "MGMT90127",
+    "period": "march",
+    "_classList": [
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MGMT90127",
+        "codes": [
+          "MGMT90127/U/1/MAR/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MGMT90127",
+        "codes": [
+          "MGMT90127/U/1/MAR/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MGMT90127",
+        "codes": [
+          "MGMT90127/U/1/MAR/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MGMT90127",
+        "codes": [
+          "MGMT90127/U/1/MAR/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:51.625Z"
+}

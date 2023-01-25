@@ -1,0 +1,575 @@
+{
+  "subject": {
+    "code": "AGRI10039",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8.5,
+        "finish": 14,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI10039",
+        "codes": [
+          "AGRI10039/DOO/1/FEB/L01/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 8.5,
+        "finish": 14,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI10039",
+        "codes": [
+          "AGRI10039/DOO/1/FEB/L02/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 8.5,
+        "finish": 14,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI10039",
+        "codes": [
+          "AGRI10039/DOO/1/FEB/L03/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 8.5,
+        "finish": 10.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI10039",
+        "codes": [
+          "AGRI10039/DOO/1/FEB/L04/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 4,
+        "start": 8.5,
+        "finish": 9.5,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI10039",
+        "codes": [
+          "AGRI10039/DOO/1/FEB/L05/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P01/02"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G25 (Food Tech Lab 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P02/02"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G25 (Food Tech Lab 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P03/02"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G25 (Food Tech Lab 2)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 19,
+                "finish": 20.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P04/02"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G25 (Food Tech Lab 2)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 5",
+                "day": 2,
+                "start": 19,
+                "finish": 20.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P05/02"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G25 (Food Tech Lab 2)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P06/02"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G25 (Food Tech Lab 2)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P01/01"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G24 (Food Tech Lab 1)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P02/01"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G24 (Food Tech Lab 1)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P03/01"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G24 (Food Tech Lab 1)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 19,
+                "finish": 20.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P04/01"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G24 (Food Tech Lab 1)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 5",
+                "day": 2,
+                "start": 19,
+                "finish": 20.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P05/01"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G24 (Food Tech Lab 1)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P06/01"
+                ],
+                "locations": [
+                  "DOO-Hugh Pye Building-G24 (Food Tech Lab 1)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P01/03"
+                ],
+                "locations": [
+                  "DOO-Gavin Gibson-G03 (B Classroom)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P02/03"
+                ],
+                "locations": [
+                  "DOO-Gavin Gibson-G03 (B Classroom)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P03/03"
+                ],
+                "locations": [
+                  "DOO-Gavin Gibson-G03 (B Classroom)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 4",
+                "day": 2,
+                "start": 19,
+                "finish": 20.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P04/03"
+                ],
+                "locations": [
+                  "DOO-Gavin Gibson-G03 (B Classroom)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 5",
+                "day": 1,
+                "start": 19,
+                "finish": 20.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P05/03"
+                ],
+                "locations": [
+                  "DOO-Gavin Gibson-G03 (B Classroom)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI10039",
+                "codes": [
+                  "AGRI10039/DOO/1/FEB/P06/03"
+                ],
+                "locations": [
+                  "DOO-Gavin Gibson-G03 (B Classroom)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:19.824Z"
+}

@@ -1,0 +1,289 @@
+{
+  "subject": {
+    "code": "ENEN30003",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B116"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B116"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN30003",
+        "codes": [
+          "ENEN30003/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:30.751Z"
+}

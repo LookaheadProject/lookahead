@@ -1,0 +1,283 @@
+{
+  "subject": {
+    "code": "FREN30005",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-561"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-361"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-556 (Lectorial Room II)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-561"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-361"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FREN30005",
+        "codes": [
+          "FREN30005/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-556 (Lectorial Room II)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:50.898Z"
+}

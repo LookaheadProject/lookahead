@@ -1,0 +1,153 @@
+{
+  "subject": {
+    "code": "SOCI40009",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI40009",
+        "codes": [
+          "SOCI40009/U/1/WIN/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 0,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI40009",
+        "codes": [
+          "SOCI40009/U/1/WIN/S05/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 1,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI40009",
+        "codes": [
+          "SOCI40009/U/1/WIN/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 6",
+        "day": 1,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI40009",
+        "codes": [
+          "SOCI40009/U/1/WIN/S06/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 3,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI40009",
+        "codes": [
+          "SOCI40009/U/1/WIN/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI40009",
+        "codes": [
+          "SOCI40009/U/1/WIN/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:48.741Z"
+}

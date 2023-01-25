@@ -1,0 +1,237 @@
+{
+  "subject": {
+    "code": "FLTV30022",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 9,
+        "finish": 9.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV30022",
+        "codes": [
+          "FLTV30022/STH/1/FEB/T01/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 1,
+        "start": 9,
+        "finish": 12.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV30022",
+        "codes": [
+          "FLTV30022/STH/1/FEB/T02/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 2,
+        "start": 9,
+        "finish": 9.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV30022",
+        "codes": [
+          "FLTV30022/STH/1/FEB/T03/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 4",
+        "day": 3,
+        "start": 9,
+        "finish": 11.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV30022",
+        "codes": [
+          "FLTV30022/STH/1/FEB/T04/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 5",
+        "day": 3,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV30022",
+        "codes": [
+          "FLTV30022/STH/1/FEB/T05/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV30022",
+                "codes": [
+                  "FLTV30022/STH/1/FEB/P01/01"
+                ],
+                "locations": [
+                  "STH-861-147 (FTV Studio 1)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV30022",
+                "codes": [
+                  "FLTV30022/STH/1/FEB/P02/01"
+                ],
+                "locations": [
+                  "STH-861-147 (FTV Studio 1)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 9.5,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV30022",
+                "codes": [
+                  "FLTV30022/STH/1/FEB/P03/01"
+                ],
+                "locations": [
+                  "STH-861-147 (FTV Studio 1)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 4",
+                "day": 3,
+                "start": 11.5,
+                "finish": 16,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV30022",
+                "codes": [
+                  "FLTV30022/STH/1/FEB/P04/01"
+                ],
+                "locations": [
+                  "STH-861-147 (FTV Studio 1)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:43.103Z"
+}

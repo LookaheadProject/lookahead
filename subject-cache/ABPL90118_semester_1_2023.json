@@ -1,0 +1,269 @@
+{
+  "subject": {
+    "code": "ABPL90118",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90118",
+        "codes": [
+          "ABPL90118/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Microbiology-127 (Harold Woodruff Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90118",
+        "codes": [
+          "ABPL90118/U/1/SM1/T01/04",
+          "ABPL90118/U/1/SM1/T01/01",
+          "ABPL90118/U/1/SM1/T01/02",
+          "ABPL90118/U/1/SM1/T01/06",
+          "ABPL90118/U/1/SM1/T01/07",
+          "ABPL90118/U/1/SM1/T01/05",
+          "ABPL90118/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-141 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-138 (Evan Walker Studio)",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 19.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90118",
+        "codes": [
+          "ABPL90118/U/1/SM1/T01/11",
+          "ABPL90118/U/1/SM1/T01/08",
+          "ABPL90118/U/1/SM1/T01/09",
+          "ABPL90118/U/1/SM1/T01/13",
+          "ABPL90118/U/1/SM1/T01/14",
+          "ABPL90118/U/1/SM1/T01/12",
+          "ABPL90118/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-141 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-138 (Evan Walker Studio)",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90118",
+        "codes": [
+          "ABPL90118/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Microbiology-127 (Harold Woodruff Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90118",
+        "codes": [
+          "ABPL90118/U/1/SM1/T01/04",
+          "ABPL90118/U/1/SM1/T01/01",
+          "ABPL90118/U/1/SM1/T01/02",
+          "ABPL90118/U/1/SM1/T01/06",
+          "ABPL90118/U/1/SM1/T01/07",
+          "ABPL90118/U/1/SM1/T01/05",
+          "ABPL90118/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-141 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-138 (Evan Walker Studio)",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 19.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90118",
+        "codes": [
+          "ABPL90118/U/1/SM1/T01/11",
+          "ABPL90118/U/1/SM1/T01/08",
+          "ABPL90118/U/1/SM1/T01/09",
+          "ABPL90118/U/1/SM1/T01/13",
+          "ABPL90118/U/1/SM1/T01/14",
+          "ABPL90118/U/1/SM1/T01/12",
+          "ABPL90118/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-141 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-138 (Evan Walker Studio)",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:10.864Z"
+}

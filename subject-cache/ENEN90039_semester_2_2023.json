@@ -1,0 +1,83 @@
+{
+  "subject": {
+    "code": "ENEN90039",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 2",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90039",
+        "codes": [
+          "ENEN90039/U/1/SM2/W02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90039",
+        "codes": [
+          "ENEN90039/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:31.362Z"
+}

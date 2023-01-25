@@ -1,0 +1,61 @@
+{
+  "subject": {
+    "code": "POLS90009",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 2",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          38
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "POLS90009",
+        "codes": [
+          "POLS90009/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          31
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "POLS90009",
+        "codes": [
+          "POLS90009/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:29.250Z"
+}

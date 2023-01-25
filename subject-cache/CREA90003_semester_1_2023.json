@@ -1,0 +1,164 @@
+{
+  "subject": {
+    "code": "CREA90003",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CREA90003",
+        "codes": [
+          "CREA90003/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CREA90003",
+        "codes": [
+          "CREA90003/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)STH-860-202 (Tutorial Room 2)STH-864-301STH-864-302"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 1,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CREA90003",
+        "codes": [
+          "CREA90003/STH/1/SM1/W02/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)STH-860-202 (Tutorial Room 2)STH-864-301STH-864-302"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 2,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CREA90003",
+        "codes": [
+          "CREA90003/STH/1/SM1/W03/01"
+        ],
+        "locations": [
+          "STH-864-301STH-864-302"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 4",
+        "day": 3,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CREA90003",
+        "codes": [
+          "CREA90003/STH/1/SM1/W04/01"
+        ],
+        "locations": [
+          "STH-860-222 (Tutorial Room 4)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CREA90003",
+        "codes": [
+          "CREA90003/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:54.595Z"
+}

@@ -1,0 +1,364 @@
+{
+  "subject": {
+    "code": "MUSI30249",
+    "period": "summer_term",
+    "_classList": [
+      {
+        "description": "Tutor Consultation 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 15.5,
+        "weeks": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/TC1/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G04"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutor Consultation 1",
+        "day": 4,
+        "start": 14.5,
+        "finish": 15.5,
+        "weeks": [
+          4
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/TC1/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G04"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/L01/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/L02/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          4
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/L02/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          4
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutor Consultation 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 15.5,
+        "weeks": [
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/TC1/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G04"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutor Consultation 1",
+        "day": 4,
+        "start": 14.5,
+        "finish": 15.5,
+        "weeks": [
+          4
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30249",
+        "codes": [
+          "MUSI30249/U/1/SUM/TC1/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G04"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30249",
+                "codes": [
+                  "MUSI30249/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G04"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30249",
+                "codes": [
+                  "MUSI30249/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G04"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30249",
+                "codes": [
+                  "MUSI30249/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G04"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:10.816Z"
+}

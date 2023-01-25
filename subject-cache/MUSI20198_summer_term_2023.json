@@ -1,0 +1,600 @@
+{
+  "subject": {
+    "code": "MUSI20198",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L01/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L02/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L03/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L04/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          4
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L03/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          4
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          4
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L04/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          4
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20198",
+        "codes": [
+          "MUSI20198/U/1/SUM/L04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "BSL Tutorial 1 - Online",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T01/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Tutorial 1 - On Campus",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T01/02"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T02/02"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T02/02"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T02/03_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20198",
+                "codes": [
+                  "MUSI20198/U/1/SUM/T02/03_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Tutorial",
+        "type": "T",
+        "okNumbers": 1,
+        "weirdNumbers": 2,
+        "maxCount": 4
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:06.845Z"
+}

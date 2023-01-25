@@ -1,0 +1,111 @@
+{
+  "subject": {
+    "code": "MULT20010",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT20010",
+        "codes": [
+          "MULT20010/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 211"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 0,
+        "start": 14.25,
+        "finish": 18.25,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT20010",
+        "codes": [
+          "MULT20010/U/1/SM2/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          31,
+          32
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT20010",
+        "codes": [
+          "MULT20010/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G17 (Cussonia Court Room 1)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 2,
+        "start": 14.25,
+        "finish": 18.25,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT20010",
+        "codes": [
+          "MULT20010/U/1/SM2/S04/01"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 211"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:58.264Z"
+}

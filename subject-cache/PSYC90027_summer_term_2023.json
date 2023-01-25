@@ -1,0 +1,160 @@
+{
+  "subject": {
+    "code": "PSYC90027",
+    "period": "summer_term",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90027",
+        "codes": [
+          "PSYC90027/U/1/SUM/S01/02"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90027",
+        "codes": [
+          "PSYC90027/U/1/SUM/S01/4"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90027",
+        "codes": [
+          "PSYC90027/U/1/SUM/S01/03",
+          "PSYC90027/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "PAR-Babel-G03 (Lower Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90027",
+        "codes": [
+          "PSYC90027/U/1/SUM/S01/02"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90027",
+        "codes": [
+          "PSYC90027/U/1/SUM/S01/4"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90027",
+        "codes": [
+          "PSYC90027/U/1/SUM/S01/03",
+          "PSYC90027/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "PAR-Babel-G03 (Lower Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:38.078Z"
+}

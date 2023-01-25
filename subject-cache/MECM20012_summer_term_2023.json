@@ -1,0 +1,245 @@
+{
+  "subject": {
+    "code": "MECM20012",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 6",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S06/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 1,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 7",
+        "day": 1,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S07/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 8",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S08/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 9",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S09/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 10",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S10/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MECM20012",
+        "codes": [
+          "MECM20012/U/1/SUM/S05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:44.899Z"
+}

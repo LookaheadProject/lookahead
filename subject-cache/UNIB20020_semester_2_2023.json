@@ -1,0 +1,296 @@
+{
+  "subject": {
+    "code": "UNIB20020",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Biosciences 2-124 (Turner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/T01/02",
+          "UNIB20020/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-122",
+          "PAR-Food and Nutrition Building-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/T01/04",
+          "UNIB20020/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-122",
+          "PAR-Food and Nutrition Building-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Biosciences 2-124 (Turner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/T01/02",
+          "UNIB20020/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-122",
+          "PAR-Food and Nutrition Building-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "UNIB20020",
+        "codes": [
+          "UNIB20020/U/1/SM2/T01/04",
+          "UNIB20020/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-122",
+          "PAR-Food and Nutrition Building-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:53.838Z"
+}

@@ -1,0 +1,137 @@
+{
+  "subject": {
+    "code": "ABPL90173",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1 - ONLINE",
+                "day": 1,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90173",
+                "codes": [
+                  "ABPL90173/U/1/SUM/S01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 2 - ONLINE",
+                "day": 4,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90173",
+                "codes": [
+                  "ABPL90173/U/1/SUM/S02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 1,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90173",
+                "codes": [
+                  "ABPL90173/U/1/SUM/S01/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-129 (Digital Design Hub)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 4,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90173",
+                "codes": [
+                  "ABPL90173/U/1/SUM/S02/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-129 (Digital Design Hub)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "SeminarONLINE"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:11.897Z"
+}

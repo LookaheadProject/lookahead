@@ -1,0 +1,122 @@
+{
+  "subject": {
+    "code": "EDUC91002",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 14,
+        "finish": 16,
+        "weeks": [
+          7,
+          8,
+          12,
+          16,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91002",
+        "codes": [
+          "EDUC91002/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91002",
+        "codes": [
+          "EDUC91002/U/1/FEB/P01/01"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 14,
+        "finish": 16,
+        "weeks": [
+          7,
+          8,
+          12,
+          16,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91002",
+        "codes": [
+          "EDUC91002/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91002",
+        "codes": [
+          "EDUC91002/U/1/FEB/P01/01"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:20.476Z"
+}

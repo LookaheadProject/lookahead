@@ -1,0 +1,698 @@
+{
+  "subject": {
+    "code": "ANCW20028",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 6",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T06/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T07/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 1,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T08/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T03/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 2,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T04/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 9",
+                "day": 2,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T09/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 10",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T10/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T05/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 11",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T11/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T01/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 0,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T07/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 1,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T08/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T03/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 9",
+                "day": 2,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T09/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 3,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/T05/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-254 (OBL I)PAR-Arts West North Wing-255 (OBL II)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L01/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L02/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L03/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L04/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L05/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-156 (Lectorial Room I)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ANCW20028",
+                "codes": [
+                  "ANCW20028/U/1/SUM/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Tutorial",
+        "type": "T",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 11
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:25.141Z"
+}

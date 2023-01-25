@@ -1,0 +1,302 @@
+{
+  "subject": {
+    "code": "ISYS90039",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.5,
+        "finish": 19.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 19.5,
+        "finish": 20.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/T01/06",
+          "ISYS90039/U/1/SM1/T01/03",
+          "ISYS90039/U/1/SM1/T01/04",
+          "ISYS90039/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.5,
+        "finish": 19.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 19.5,
+        "finish": 20.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/T01/07",
+          "ISYS90039/U/1/SM1/T01/01",
+          "ISYS90039/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123",
+          "PAR-Alan Gilbert-101",
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.5,
+        "finish": 19.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.5,
+        "finish": 19.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 19.5,
+        "finish": 20.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/T01/06",
+          "ISYS90039/U/1/SM1/T01/03",
+          "ISYS90039/U/1/SM1/T01/04",
+          "ISYS90039/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 19.5,
+        "finish": 20.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ISYS90039",
+        "codes": [
+          "ISYS90039/U/1/SM1/T01/07",
+          "ISYS90039/U/1/SM1/T01/01",
+          "ISYS90039/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123",
+          "PAR-Alan Gilbert-101",
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:11.688Z"
+}

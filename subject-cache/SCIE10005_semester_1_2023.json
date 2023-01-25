@@ -1,0 +1,5325 @@
+{
+  "subject": {
+    "code": "SCIE10005",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate change activism",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/10"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/10"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate Change, Justice and Security",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/09"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Lecture 3 - Fire, people and sustainability",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/09"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L01/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 2 - Unpacking our devices",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/03"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 3 - Antarctica",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/03"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate change activism",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/20"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 20
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/20"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 20
+              }
+            ],
+            "streamNumbers": [
+              20
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate Change, Justice and Security",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/19"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 19
+              },
+              {
+                "description": "Lecture 3 - Fire, people and sustainability",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/19"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 19
+              }
+            ],
+            "streamNumbers": [
+              19
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Sustainable Agriculture",
+                "day": 3,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/08"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Lecture 3 - Sustainable Agric and Env",
+                "day": 3,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/08"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Design of Smart Buildings",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/07"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Lecture 3 - From Villain to Wonder",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/07"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Sustainable Agriculture",
+                "day": 3,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/18"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 18
+              },
+              {
+                "description": "Lecture 3 - Sustainable Agric and Env",
+                "day": 3,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/18"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 18
+              }
+            ],
+            "streamNumbers": [
+              18
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Design of Smart Buildings",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/17"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Lecture 3 - From Villain to Wonder",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/17"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 17
+              }
+            ],
+            "streamNumbers": [
+              17
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L01/02"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/02"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3 - New solutions for a polluted world",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/02"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Biofuels Past and Present",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/06"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Lecture 3 - Vaccines for everyone",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/06"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate Extremes",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/05"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Lecture 3 - Weather and Climate modelling revolution",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/05"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Lecture 2 - Climate Change: Co-designing solutions",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/04"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Lecture 3 - Getting to zero",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/04"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Biofuels Past and Present",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Lecture 3 - Vaccines for everyone",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate Extremes",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/15"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Lecture 3 - Weather and Climate modelling revolution",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/15"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 15
+              }
+            ],
+            "streamNumbers": [
+              15
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Climate Change: Co-designing solutions",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/14"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 14
+              },
+              {
+                "description": "Lecture 3 - Getting to zero",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/14"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 14
+              }
+            ],
+            "streamNumbers": [
+              14
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2 - Unpacking our devices",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/13"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Lecture 3 - Antarctica",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/13"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 13
+              }
+            ],
+            "streamNumbers": [
+              13
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/12"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Lecture 3 - New solutions for a polluted world",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/12"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L02/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Lecture 3",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/L03/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "LectureClimatechangeactivism"
+      },
+      {
+        "streams": [
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change Activism and New Youth futures",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/120",
+                  "SCIE10005/U/1/SM1/CS1/24",
+                  "SCIE10005/U/1/SM1/CS1/48",
+                  "SCIE10005/U/1/SM1/CS1/72",
+                  "SCIE10005/U/1/SM1/CS1/96"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 120
+              },
+              {
+                "description": "Consultation 2 - Getting to zero",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/120",
+                  "SCIE10005/U/1/SM1/CS2/24",
+                  "SCIE10005/U/1/SM1/CS2/48",
+                  "SCIE10005/U/1/SM1/CS2/72",
+                  "SCIE10005/U/1/SM1/CS2/96"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 120
+              }
+            ],
+            "streamNumbers": [
+              120,
+              24,
+              48,
+              72,
+              96
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Biofuels past and present",
+                "day": 4,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/119",
+                  "SCIE10005/U/1/SM1/CS1/23",
+                  "SCIE10005/U/1/SM1/CS1/47",
+                  "SCIE10005/U/1/SM1/CS1/71",
+                  "SCIE10005/U/1/SM1/CS1/95"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 119
+              },
+              {
+                "description": "Consultation 2 - Antarctica: natural history and future threats",
+                "day": 4,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/119",
+                  "SCIE10005/U/1/SM1/CS2/23",
+                  "SCIE10005/U/1/SM1/CS2/47",
+                  "SCIE10005/U/1/SM1/CS2/71",
+                  "SCIE10005/U/1/SM1/CS2/95"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 119
+              }
+            ],
+            "streamNumbers": [
+              119,
+              23,
+              47,
+              71,
+              95
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Design of smart buildings",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/118",
+                  "SCIE10005/U/1/SM1/CS1/22",
+                  "SCIE10005/U/1/SM1/CS1/46",
+                  "SCIE10005/U/1/SM1/CS1/70",
+                  "SCIE10005/U/1/SM1/CS1/94"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 118
+              },
+              {
+                "description": "Consultation 2 - The weather and climate modelling revolution",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/118",
+                  "SCIE10005/U/1/SM1/CS2/22",
+                  "SCIE10005/U/1/SM1/CS2/46",
+                  "SCIE10005/U/1/SM1/CS2/70",
+                  "SCIE10005/U/1/SM1/CS2/94"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 118
+              }
+            ],
+            "streamNumbers": [
+              118,
+              22,
+              46,
+              70,
+              94
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate change, justice and security",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/117",
+                  "SCIE10005/U/1/SM1/CS1/21",
+                  "SCIE10005/U/1/SM1/CS1/45",
+                  "SCIE10005/U/1/SM1/CS1/69",
+                  "SCIE10005/U/1/SM1/CS1/93"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 117
+              },
+              {
+                "description": "Consultation 2 - New Solutions for a polluted world",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/117",
+                  "SCIE10005/U/1/SM1/CS2/21",
+                  "SCIE10005/U/1/SM1/CS2/45",
+                  "SCIE10005/U/1/SM1/CS2/69",
+                  "SCIE10005/U/1/SM1/CS2/93"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 117
+              }
+            ],
+            "streamNumbers": [
+              117,
+              21,
+              45,
+              69,
+              93
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 3,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/116",
+                  "SCIE10005/U/1/SM1/CS1/20",
+                  "SCIE10005/U/1/SM1/CS1/44",
+                  "SCIE10005/U/1/SM1/CS1/68",
+                  "SCIE10005/U/1/SM1/CS1/92"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 116
+              },
+              {
+                "description": "Consultation 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 3,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/116",
+                  "SCIE10005/U/1/SM1/CS2/20",
+                  "SCIE10005/U/1/SM1/CS2/44",
+                  "SCIE10005/U/1/SM1/CS2/68",
+                  "SCIE10005/U/1/SM1/CS2/92"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 116
+              }
+            ],
+            "streamNumbers": [
+              116,
+              20,
+              44,
+              68,
+              92
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/115",
+                  "SCIE10005/U/1/SM1/CS1/19",
+                  "SCIE10005/U/1/SM1/CS1/43",
+                  "SCIE10005/U/1/SM1/CS1/67",
+                  "SCIE10005/U/1/SM1/CS1/91"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 115
+              },
+              {
+                "description": "Consultation 2 - Antarctica: natural history and future threats",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/115",
+                  "SCIE10005/U/1/SM1/CS2/19",
+                  "SCIE10005/U/1/SM1/CS2/43",
+                  "SCIE10005/U/1/SM1/CS2/67",
+                  "SCIE10005/U/1/SM1/CS2/91"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 115
+              }
+            ],
+            "streamNumbers": [
+              115,
+              19,
+              43,
+              67,
+              91
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change Activism and New Youth futures",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/114",
+                  "SCIE10005/U/1/SM1/CS1/18",
+                  "SCIE10005/U/1/SM1/CS1/42",
+                  "SCIE10005/U/1/SM1/CS1/66",
+                  "SCIE10005/U/1/SM1/CS1/90"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 114
+              },
+              {
+                "description": "Consultation 2 - The weather and climate modelling revolution",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/114",
+                  "SCIE10005/U/1/SM1/CS2/18",
+                  "SCIE10005/U/1/SM1/CS2/42",
+                  "SCIE10005/U/1/SM1/CS2/66",
+                  "SCIE10005/U/1/SM1/CS2/90"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 114
+              }
+            ],
+            "streamNumbers": [
+              114,
+              18,
+              42,
+              66,
+              90
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Biofuels past and present",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/113",
+                  "SCIE10005/U/1/SM1/CS1/17",
+                  "SCIE10005/U/1/SM1/CS1/41",
+                  "SCIE10005/U/1/SM1/CS1/65",
+                  "SCIE10005/U/1/SM1/CS1/89"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 113
+              },
+              {
+                "description": "Consultation 2 - Getting to zero",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/113",
+                  "SCIE10005/U/1/SM1/CS2/17",
+                  "SCIE10005/U/1/SM1/CS2/41",
+                  "SCIE10005/U/1/SM1/CS2/65",
+                  "SCIE10005/U/1/SM1/CS2/89"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 113
+              }
+            ],
+            "streamNumbers": [
+              113,
+              17,
+              41,
+              65,
+              89
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/112",
+                  "SCIE10005/U/1/SM1/CS1/16",
+                  "SCIE10005/U/1/SM1/CS1/40",
+                  "SCIE10005/U/1/SM1/CS1/64",
+                  "SCIE10005/U/1/SM1/CS1/88"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 112
+              },
+              {
+                "description": "Consultation 2 - Sustainable Agriculture and environment",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/112",
+                  "SCIE10005/U/1/SM1/CS2/16",
+                  "SCIE10005/U/1/SM1/CS2/40",
+                  "SCIE10005/U/1/SM1/CS2/64",
+                  "SCIE10005/U/1/SM1/CS2/88"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 112
+              }
+            ],
+            "streamNumbers": [
+              112,
+              16,
+              40,
+              64,
+              88
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/111",
+                  "SCIE10005/U/1/SM1/CS1/15",
+                  "SCIE10005/U/1/SM1/CS1/39",
+                  "SCIE10005/U/1/SM1/CS1/63",
+                  "SCIE10005/U/1/SM1/CS1/87"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 111
+              },
+              {
+                "description": "Consultation 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/111",
+                  "SCIE10005/U/1/SM1/CS2/15",
+                  "SCIE10005/U/1/SM1/CS2/39",
+                  "SCIE10005/U/1/SM1/CS2/63",
+                  "SCIE10005/U/1/SM1/CS2/87"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 111
+              }
+            ],
+            "streamNumbers": [
+              111,
+              15,
+              39,
+              63,
+              87
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/110",
+                  "SCIE10005/U/1/SM1/CS1/14",
+                  "SCIE10005/U/1/SM1/CS1/38",
+                  "SCIE10005/U/1/SM1/CS1/62",
+                  "SCIE10005/U/1/SM1/CS1/86"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 110
+              },
+              {
+                "description": "Consultation 2 - Antarctica: natural history and future threats",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/110",
+                  "SCIE10005/U/1/SM1/CS2/14",
+                  "SCIE10005/U/1/SM1/CS2/38",
+                  "SCIE10005/U/1/SM1/CS2/62",
+                  "SCIE10005/U/1/SM1/CS2/86"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 110
+              }
+            ],
+            "streamNumbers": [
+              110,
+              14,
+              38,
+              62,
+              86
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change Activism and New Youth futures",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/109",
+                  "SCIE10005/U/1/SM1/CS1/13",
+                  "SCIE10005/U/1/SM1/CS1/37",
+                  "SCIE10005/U/1/SM1/CS1/61",
+                  "SCIE10005/U/1/SM1/CS1/85"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 109
+              },
+              {
+                "description": "Consultation 2 - The weather and climate modelling revolution",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/109",
+                  "SCIE10005/U/1/SM1/CS2/13",
+                  "SCIE10005/U/1/SM1/CS2/37",
+                  "SCIE10005/U/1/SM1/CS2/61",
+                  "SCIE10005/U/1/SM1/CS2/85"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 109
+              }
+            ],
+            "streamNumbers": [
+              109,
+              13,
+              37,
+              61,
+              85
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Biofuels past and present",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/108",
+                  "SCIE10005/U/1/SM1/CS1/12",
+                  "SCIE10005/U/1/SM1/CS1/36",
+                  "SCIE10005/U/1/SM1/CS1/60",
+                  "SCIE10005/U/1/SM1/CS1/84"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 108
+              },
+              {
+                "description": "Consultation 2 - Getting to zero",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/108",
+                  "SCIE10005/U/1/SM1/CS2/12",
+                  "SCIE10005/U/1/SM1/CS2/36",
+                  "SCIE10005/U/1/SM1/CS2/60",
+                  "SCIE10005/U/1/SM1/CS2/84"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 108
+              }
+            ],
+            "streamNumbers": [
+              108,
+              12,
+              36,
+              60,
+              84
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/107",
+                  "SCIE10005/U/1/SM1/CS1/11",
+                  "SCIE10005/U/1/SM1/CS1/35",
+                  "SCIE10005/U/1/SM1/CS1/59",
+                  "SCIE10005/U/1/SM1/CS1/83"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 107
+              },
+              {
+                "description": "Consultation 2 - Sustainable Agriculture and environment",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/107",
+                  "SCIE10005/U/1/SM1/CS2/11",
+                  "SCIE10005/U/1/SM1/CS2/35",
+                  "SCIE10005/U/1/SM1/CS2/59",
+                  "SCIE10005/U/1/SM1/CS2/83"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 107
+              }
+            ],
+            "streamNumbers": [
+              107,
+              11,
+              35,
+              59,
+              83
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 1,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/106",
+                  "SCIE10005/U/1/SM1/CS1/10",
+                  "SCIE10005/U/1/SM1/CS1/34",
+                  "SCIE10005/U/1/SM1/CS1/58",
+                  "SCIE10005/U/1/SM1/CS1/82"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 106
+              },
+              {
+                "description": "Consultation 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 1,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/106",
+                  "SCIE10005/U/1/SM1/CS2/10",
+                  "SCIE10005/U/1/SM1/CS2/34",
+                  "SCIE10005/U/1/SM1/CS2/58",
+                  "SCIE10005/U/1/SM1/CS2/82"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 106
+              }
+            ],
+            "streamNumbers": [
+              106,
+              10,
+              34,
+              58,
+              82
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/105",
+                  "SCIE10005/U/1/SM1/CS1/09",
+                  "SCIE10005/U/1/SM1/CS1/33",
+                  "SCIE10005/U/1/SM1/CS1/57",
+                  "SCIE10005/U/1/SM1/CS1/81"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 105
+              },
+              {
+                "description": "Consultation 2 - Antarctica: natural history and future threats",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/105",
+                  "SCIE10005/U/1/SM1/CS2/09",
+                  "SCIE10005/U/1/SM1/CS2/33",
+                  "SCIE10005/U/1/SM1/CS2/57",
+                  "SCIE10005/U/1/SM1/CS2/81"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 105
+              }
+            ],
+            "streamNumbers": [
+              105,
+              9,
+              33,
+              57,
+              81
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change Activism and New Youth futures",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/104",
+                  "SCIE10005/U/1/SM1/CS1/08",
+                  "SCIE10005/U/1/SM1/CS1/32",
+                  "SCIE10005/U/1/SM1/CS1/128",
+                  "SCIE10005/U/1/SM1/CS1/56",
+                  "SCIE10005/U/1/SM1/CS1/80"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 104
+              },
+              {
+                "description": "Consultation 2 - The weather and climate modelling revolution",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/104",
+                  "SCIE10005/U/1/SM1/CS2/08",
+                  "SCIE10005/U/1/SM1/CS2/32",
+                  "SCIE10005/U/1/SM1/CS2/128",
+                  "SCIE10005/U/1/SM1/CS2/56",
+                  "SCIE10005/U/1/SM1/CS2/80"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 104
+              }
+            ],
+            "streamNumbers": [
+              104,
+              8,
+              32,
+              128,
+              56,
+              80
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Biofuels past and present",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/103",
+                  "SCIE10005/U/1/SM1/CS1/07",
+                  "SCIE10005/U/1/SM1/CS1/31",
+                  "SCIE10005/U/1/SM1/CS1/127",
+                  "SCIE10005/U/1/SM1/CS1/55",
+                  "SCIE10005/U/1/SM1/CS1/79"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 103
+              },
+              {
+                "description": "Consultation 2 - Getting to zero",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/103",
+                  "SCIE10005/U/1/SM1/CS2/07",
+                  "SCIE10005/U/1/SM1/CS2/31",
+                  "SCIE10005/U/1/SM1/CS2/127",
+                  "SCIE10005/U/1/SM1/CS2/55",
+                  "SCIE10005/U/1/SM1/CS2/79"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 103
+              }
+            ],
+            "streamNumbers": [
+              103,
+              7,
+              31,
+              127,
+              55,
+              79
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/102",
+                  "SCIE10005/U/1/SM1/CS1/06",
+                  "SCIE10005/U/1/SM1/CS1/30",
+                  "SCIE10005/U/1/SM1/CS1/126",
+                  "SCIE10005/U/1/SM1/CS1/54",
+                  "SCIE10005/U/1/SM1/CS1/78"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 102
+              },
+              {
+                "description": "Consultation 2 - Sustainable Agriculture and environment",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/102",
+                  "SCIE10005/U/1/SM1/CS2/06",
+                  "SCIE10005/U/1/SM1/CS2/30",
+                  "SCIE10005/U/1/SM1/CS2/126",
+                  "SCIE10005/U/1/SM1/CS2/54",
+                  "SCIE10005/U/1/SM1/CS2/78"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 102
+              }
+            ],
+            "streamNumbers": [
+              102,
+              6,
+              30,
+              126,
+              54,
+              78
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/101",
+                  "SCIE10005/U/1/SM1/CS1/05",
+                  "SCIE10005/U/1/SM1/CS1/29",
+                  "SCIE10005/U/1/SM1/CS1/125",
+                  "SCIE10005/U/1/SM1/CS1/53",
+                  "SCIE10005/U/1/SM1/CS1/77"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 101
+              },
+              {
+                "description": "Consultation 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/101",
+                  "SCIE10005/U/1/SM1/CS2/05",
+                  "SCIE10005/U/1/SM1/CS2/29",
+                  "SCIE10005/U/1/SM1/CS2/125",
+                  "SCIE10005/U/1/SM1/CS2/53",
+                  "SCIE10005/U/1/SM1/CS2/77"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 101
+              }
+            ],
+            "streamNumbers": [
+              101,
+              5,
+              29,
+              125,
+              53,
+              77
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/100",
+                  "SCIE10005/U/1/SM1/CS1/04",
+                  "SCIE10005/U/1/SM1/CS1/28",
+                  "SCIE10005/U/1/SM1/CS1/124",
+                  "SCIE10005/U/1/SM1/CS1/52",
+                  "SCIE10005/U/1/SM1/CS1/76"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 100
+              },
+              {
+                "description": "Consultation 2 - Antarctica: natural history and future threats",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/100",
+                  "SCIE10005/U/1/SM1/CS2/04",
+                  "SCIE10005/U/1/SM1/CS2/28",
+                  "SCIE10005/U/1/SM1/CS2/124",
+                  "SCIE10005/U/1/SM1/CS2/52",
+                  "SCIE10005/U/1/SM1/CS2/76"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 100
+              }
+            ],
+            "streamNumbers": [
+              100,
+              4,
+              28,
+              124,
+              52,
+              76
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Climate Change Activism and New Youth futures",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/99",
+                  "SCIE10005/U/1/SM1/CS1/03",
+                  "SCIE10005/U/1/SM1/CS1/27",
+                  "SCIE10005/U/1/SM1/CS1/123",
+                  "SCIE10005/U/1/SM1/CS1/51",
+                  "SCIE10005/U/1/SM1/CS1/75"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 99
+              },
+              {
+                "description": "Consultation 2 - The weather and climate modelling revolution",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/99",
+                  "SCIE10005/U/1/SM1/CS2/03",
+                  "SCIE10005/U/1/SM1/CS2/27",
+                  "SCIE10005/U/1/SM1/CS2/123",
+                  "SCIE10005/U/1/SM1/CS2/51",
+                  "SCIE10005/U/1/SM1/CS2/75"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 99
+              }
+            ],
+            "streamNumbers": [
+              99,
+              3,
+              27,
+              123,
+              51,
+              75
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Biofuels past and present",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/98",
+                  "SCIE10005/U/1/SM1/CS1/02",
+                  "SCIE10005/U/1/SM1/CS1/26",
+                  "SCIE10005/U/1/SM1/CS1/122",
+                  "SCIE10005/U/1/SM1/CS1/50",
+                  "SCIE10005/U/1/SM1/CS1/74"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 98
+              },
+              {
+                "description": "Consultation 2 - Getting to zero",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/98",
+                  "SCIE10005/U/1/SM1/CS2/02",
+                  "SCIE10005/U/1/SM1/CS2/26",
+                  "SCIE10005/U/1/SM1/CS2/122",
+                  "SCIE10005/U/1/SM1/CS2/50",
+                  "SCIE10005/U/1/SM1/CS2/74"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 98
+              }
+            ],
+            "streamNumbers": [
+              98,
+              2,
+              26,
+              122,
+              50,
+              74
+            ]
+          },
+          {
+            "type": "CS",
+            "classes": [
+              {
+                "description": "Consultation 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS1/97",
+                  "SCIE10005/U/1/SM1/CS1/01",
+                  "SCIE10005/U/1/SM1/CS1/25",
+                  "SCIE10005/U/1/SM1/CS1/121",
+                  "SCIE10005/U/1/SM1/CS1/49",
+                  "SCIE10005/U/1/SM1/CS1/73"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "CS"
+                },
+                "streamNumber": 97
+              },
+              {
+                "description": "Consultation 2 - Sustainable Agriculture and environment",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/CS2/97",
+                  "SCIE10005/U/1/SM1/CS2/01",
+                  "SCIE10005/U/1/SM1/CS2/25",
+                  "SCIE10005/U/1/SM1/CS2/121",
+                  "SCIE10005/U/1/SM1/CS2/49",
+                  "SCIE10005/U/1/SM1/CS2/73"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "CS"
+                },
+                "streamNumber": 97
+              }
+            ],
+            "streamNumbers": [
+              97,
+              1,
+              25,
+              121,
+              49,
+              73
+            ]
+          }
+        ],
+        "type": "CS",
+        "name": "ConsultationGettingtozero"
+      },
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change Activism and New Youth futures",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/120",
+                  "SCIE10005/U/1/SM1/W01/24",
+                  "SCIE10005/U/1/SM1/W01/48",
+                  "SCIE10005/U/1/SM1/W01/72",
+                  "SCIE10005/U/1/SM1/W01/96"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 120
+              },
+              {
+                "description": "Workshop 2 - Getting to zero",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/120",
+                  "SCIE10005/U/1/SM1/W02/24",
+                  "SCIE10005/U/1/SM1/W02/48",
+                  "SCIE10005/U/1/SM1/W02/72",
+                  "SCIE10005/U/1/SM1/W02/96"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 120
+              }
+            ],
+            "streamNumbers": [
+              120,
+              24,
+              48,
+              72,
+              96
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Biofuels past and present",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/119",
+                  "SCIE10005/U/1/SM1/W01/23",
+                  "SCIE10005/U/1/SM1/W01/47",
+                  "SCIE10005/U/1/SM1/W01/71",
+                  "SCIE10005/U/1/SM1/W01/95"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 119
+              },
+              {
+                "description": "Workshop 2 - Antarctica: natural history and future threats",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/119",
+                  "SCIE10005/U/1/SM1/W02/23",
+                  "SCIE10005/U/1/SM1/W02/47",
+                  "SCIE10005/U/1/SM1/W02/71",
+                  "SCIE10005/U/1/SM1/W02/95"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 119
+              }
+            ],
+            "streamNumbers": [
+              119,
+              23,
+              47,
+              71,
+              95
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Design of smart buildings",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/118",
+                  "SCIE10005/U/1/SM1/W01/22",
+                  "SCIE10005/U/1/SM1/W01/46",
+                  "SCIE10005/U/1/SM1/W01/70",
+                  "SCIE10005/U/1/SM1/W01/94"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 118
+              },
+              {
+                "description": "Workshop 2 - The weather and climate modelling revolution",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/118",
+                  "SCIE10005/U/1/SM1/W02/22",
+                  "SCIE10005/U/1/SM1/W02/46",
+                  "SCIE10005/U/1/SM1/W02/70",
+                  "SCIE10005/U/1/SM1/W02/94"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 118
+              }
+            ],
+            "streamNumbers": [
+              118,
+              22,
+              46,
+              70,
+              94
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate change, justice and security",
+                "day": 4,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/117",
+                  "SCIE10005/U/1/SM1/W01/21",
+                  "SCIE10005/U/1/SM1/W01/45",
+                  "SCIE10005/U/1/SM1/W01/69",
+                  "SCIE10005/U/1/SM1/W01/93"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 117
+              },
+              {
+                "description": "Workshop 2 - New Solutions for a polluted world",
+                "day": 4,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/117",
+                  "SCIE10005/U/1/SM1/W02/21",
+                  "SCIE10005/U/1/SM1/W02/45",
+                  "SCIE10005/U/1/SM1/W02/69",
+                  "SCIE10005/U/1/SM1/W02/93"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 117
+              }
+            ],
+            "streamNumbers": [
+              117,
+              21,
+              45,
+              69,
+              93
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/116",
+                  "SCIE10005/U/1/SM1/W01/20",
+                  "SCIE10005/U/1/SM1/W01/44",
+                  "SCIE10005/U/1/SM1/W01/68",
+                  "SCIE10005/U/1/SM1/W01/92"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 116
+              },
+              {
+                "description": "Workshop 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/116",
+                  "SCIE10005/U/1/SM1/W02/20",
+                  "SCIE10005/U/1/SM1/W02/44",
+                  "SCIE10005/U/1/SM1/W02/68",
+                  "SCIE10005/U/1/SM1/W02/92"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 116
+              }
+            ],
+            "streamNumbers": [
+              116,
+              20,
+              44,
+              68,
+              92
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/115",
+                  "SCIE10005/U/1/SM1/W01/19",
+                  "SCIE10005/U/1/SM1/W01/43",
+                  "SCIE10005/U/1/SM1/W01/67",
+                  "SCIE10005/U/1/SM1/W01/91"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 115
+              },
+              {
+                "description": "Workshop 2 - Antarctica: natural history and future threats",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/115",
+                  "SCIE10005/U/1/SM1/W02/19",
+                  "SCIE10005/U/1/SM1/W02/43",
+                  "SCIE10005/U/1/SM1/W02/67",
+                  "SCIE10005/U/1/SM1/W02/91"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 115
+              }
+            ],
+            "streamNumbers": [
+              115,
+              19,
+              43,
+              67,
+              91
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change Activism and New Youth futures",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/114",
+                  "SCIE10005/U/1/SM1/W01/18",
+                  "SCIE10005/U/1/SM1/W01/42",
+                  "SCIE10005/U/1/SM1/W01/66",
+                  "SCIE10005/U/1/SM1/W01/90"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 114
+              },
+              {
+                "description": "Workshop 2 - The weather and climate modelling revolution",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/114",
+                  "SCIE10005/U/1/SM1/W02/18",
+                  "SCIE10005/U/1/SM1/W02/42",
+                  "SCIE10005/U/1/SM1/W02/66",
+                  "SCIE10005/U/1/SM1/W02/90"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 114
+              }
+            ],
+            "streamNumbers": [
+              114,
+              18,
+              42,
+              66,
+              90
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Biofuels past and present",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/113",
+                  "SCIE10005/U/1/SM1/W01/17",
+                  "SCIE10005/U/1/SM1/W01/41",
+                  "SCIE10005/U/1/SM1/W01/65",
+                  "SCIE10005/U/1/SM1/W01/89"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 113
+              },
+              {
+                "description": "Workshop 2 - Getting to zero",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/113",
+                  "SCIE10005/U/1/SM1/W02/17",
+                  "SCIE10005/U/1/SM1/W02/41",
+                  "SCIE10005/U/1/SM1/W02/65",
+                  "SCIE10005/U/1/SM1/W02/89"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 113
+              }
+            ],
+            "streamNumbers": [
+              113,
+              17,
+              41,
+              65,
+              89
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 3,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/112",
+                  "SCIE10005/U/1/SM1/W01/16",
+                  "SCIE10005/U/1/SM1/W01/40",
+                  "SCIE10005/U/1/SM1/W01/64",
+                  "SCIE10005/U/1/SM1/W01/88"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 112
+              },
+              {
+                "description": "Workshop 2 - Sustainable Agriculture and environment",
+                "day": 3,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/112",
+                  "SCIE10005/U/1/SM1/W02/16",
+                  "SCIE10005/U/1/SM1/W02/40",
+                  "SCIE10005/U/1/SM1/W02/64",
+                  "SCIE10005/U/1/SM1/W02/88"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 112
+              }
+            ],
+            "streamNumbers": [
+              112,
+              16,
+              40,
+              64,
+              88
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/111",
+                  "SCIE10005/U/1/SM1/W01/15",
+                  "SCIE10005/U/1/SM1/W01/39",
+                  "SCIE10005/U/1/SM1/W01/63",
+                  "SCIE10005/U/1/SM1/W01/87"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 111
+              },
+              {
+                "description": "Workshop 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/111",
+                  "SCIE10005/U/1/SM1/W02/15",
+                  "SCIE10005/U/1/SM1/W02/39",
+                  "SCIE10005/U/1/SM1/W02/63",
+                  "SCIE10005/U/1/SM1/W02/87"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 111
+              }
+            ],
+            "streamNumbers": [
+              111,
+              15,
+              39,
+              63,
+              87
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/110",
+                  "SCIE10005/U/1/SM1/W01/14",
+                  "SCIE10005/U/1/SM1/W01/38",
+                  "SCIE10005/U/1/SM1/W01/62",
+                  "SCIE10005/U/1/SM1/W01/86"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 110
+              },
+              {
+                "description": "Workshop 2 - Antarctica: natural history and future threats",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/110",
+                  "SCIE10005/U/1/SM1/W02/14",
+                  "SCIE10005/U/1/SM1/W02/38",
+                  "SCIE10005/U/1/SM1/W02/62",
+                  "SCIE10005/U/1/SM1/W02/86"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 110
+              }
+            ],
+            "streamNumbers": [
+              110,
+              14,
+              38,
+              62,
+              86
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change Activism and New Youth futures",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/109",
+                  "SCIE10005/U/1/SM1/W01/13",
+                  "SCIE10005/U/1/SM1/W01/37",
+                  "SCIE10005/U/1/SM1/W01/61",
+                  "SCIE10005/U/1/SM1/W01/85"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 109
+              },
+              {
+                "description": "Workshop 2 - The weather and climate modelling revolution",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/109",
+                  "SCIE10005/U/1/SM1/W02/13",
+                  "SCIE10005/U/1/SM1/W02/37",
+                  "SCIE10005/U/1/SM1/W02/61",
+                  "SCIE10005/U/1/SM1/W02/85"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 109
+              }
+            ],
+            "streamNumbers": [
+              109,
+              13,
+              37,
+              61,
+              85
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Biofuels past and present",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/108",
+                  "SCIE10005/U/1/SM1/W01/12",
+                  "SCIE10005/U/1/SM1/W01/36",
+                  "SCIE10005/U/1/SM1/W01/60",
+                  "SCIE10005/U/1/SM1/W01/84"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 108
+              },
+              {
+                "description": "Workshop 2 - Getting to zero",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/108",
+                  "SCIE10005/U/1/SM1/W02/12",
+                  "SCIE10005/U/1/SM1/W02/36",
+                  "SCIE10005/U/1/SM1/W02/60",
+                  "SCIE10005/U/1/SM1/W02/84"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 108
+              }
+            ],
+            "streamNumbers": [
+              108,
+              12,
+              36,
+              60,
+              84
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 2,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/107",
+                  "SCIE10005/U/1/SM1/W01/11",
+                  "SCIE10005/U/1/SM1/W01/35",
+                  "SCIE10005/U/1/SM1/W01/59",
+                  "SCIE10005/U/1/SM1/W01/83"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 107
+              },
+              {
+                "description": "Workshop 2 - Sustainable Agriculture and environment",
+                "day": 2,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/107",
+                  "SCIE10005/U/1/SM1/W02/11",
+                  "SCIE10005/U/1/SM1/W02/35",
+                  "SCIE10005/U/1/SM1/W02/59",
+                  "SCIE10005/U/1/SM1/W02/83"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 107
+              }
+            ],
+            "streamNumbers": [
+              107,
+              11,
+              35,
+              59,
+              83
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/106",
+                  "SCIE10005/U/1/SM1/W01/10",
+                  "SCIE10005/U/1/SM1/W01/34",
+                  "SCIE10005/U/1/SM1/W01/58",
+                  "SCIE10005/U/1/SM1/W01/82"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 106
+              },
+              {
+                "description": "Workshop 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/106",
+                  "SCIE10005/U/1/SM1/W02/10",
+                  "SCIE10005/U/1/SM1/W02/34",
+                  "SCIE10005/U/1/SM1/W02/58",
+                  "SCIE10005/U/1/SM1/W02/82"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 106
+              }
+            ],
+            "streamNumbers": [
+              106,
+              10,
+              34,
+              58,
+              82
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/105",
+                  "SCIE10005/U/1/SM1/W01/09",
+                  "SCIE10005/U/1/SM1/W01/33",
+                  "SCIE10005/U/1/SM1/W01/57",
+                  "SCIE10005/U/1/SM1/W01/81"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 105
+              },
+              {
+                "description": "Workshop 2 - Antarctica: natural history and future threats",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/105",
+                  "SCIE10005/U/1/SM1/W02/09",
+                  "SCIE10005/U/1/SM1/W02/33",
+                  "SCIE10005/U/1/SM1/W02/57",
+                  "SCIE10005/U/1/SM1/W02/81"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 105
+              }
+            ],
+            "streamNumbers": [
+              105,
+              9,
+              33,
+              57,
+              81
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change Activism and New Youth futures",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/104",
+                  "SCIE10005/U/1/SM1/W01/08",
+                  "SCIE10005/U/1/SM1/W01/32",
+                  "SCIE10005/U/1/SM1/W01/128",
+                  "SCIE10005/U/1/SM1/W01/56",
+                  "SCIE10005/U/1/SM1/W01/80"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 104
+              },
+              {
+                "description": "Workshop 2 - The weather and climate modelling revolution",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/104",
+                  "SCIE10005/U/1/SM1/W02/08",
+                  "SCIE10005/U/1/SM1/W02/32",
+                  "SCIE10005/U/1/SM1/W02/128",
+                  "SCIE10005/U/1/SM1/W02/56",
+                  "SCIE10005/U/1/SM1/W02/80"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 104
+              }
+            ],
+            "streamNumbers": [
+              104,
+              8,
+              32,
+              128,
+              56,
+              80
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Biofuels past and present",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/103",
+                  "SCIE10005/U/1/SM1/W01/07",
+                  "SCIE10005/U/1/SM1/W01/31",
+                  "SCIE10005/U/1/SM1/W01/127",
+                  "SCIE10005/U/1/SM1/W01/55",
+                  "SCIE10005/U/1/SM1/W01/79"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 103
+              },
+              {
+                "description": "Workshop 2 - Getting to zero",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/103",
+                  "SCIE10005/U/1/SM1/W02/07",
+                  "SCIE10005/U/1/SM1/W02/31",
+                  "SCIE10005/U/1/SM1/W02/127",
+                  "SCIE10005/U/1/SM1/W02/55",
+                  "SCIE10005/U/1/SM1/W02/79"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 103
+              }
+            ],
+            "streamNumbers": [
+              103,
+              7,
+              31,
+              127,
+              55,
+              79
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 1,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/102",
+                  "SCIE10005/U/1/SM1/W01/06",
+                  "SCIE10005/U/1/SM1/W01/30",
+                  "SCIE10005/U/1/SM1/W01/126",
+                  "SCIE10005/U/1/SM1/W01/54",
+                  "SCIE10005/U/1/SM1/W01/78"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 102
+              },
+              {
+                "description": "Workshop 2 - Sustainable Agriculture and environment",
+                "day": 1,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/102",
+                  "SCIE10005/U/1/SM1/W02/06",
+                  "SCIE10005/U/1/SM1/W02/30",
+                  "SCIE10005/U/1/SM1/W02/126",
+                  "SCIE10005/U/1/SM1/W02/54",
+                  "SCIE10005/U/1/SM1/W02/78"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 102
+              }
+            ],
+            "streamNumbers": [
+              102,
+              6,
+              30,
+              126,
+              54,
+              78
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Unpacking our devices: minerals, society and sustainability",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/101",
+                  "SCIE10005/U/1/SM1/W01/05",
+                  "SCIE10005/U/1/SM1/W01/29",
+                  "SCIE10005/U/1/SM1/W01/125",
+                  "SCIE10005/U/1/SM1/W01/53",
+                  "SCIE10005/U/1/SM1/W01/77"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 101
+              },
+              {
+                "description": "Workshop 2 - Vaccines for everyone: The chemical engineering of making a vaccine",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/101",
+                  "SCIE10005/U/1/SM1/W02/05",
+                  "SCIE10005/U/1/SM1/W02/29",
+                  "SCIE10005/U/1/SM1/W02/125",
+                  "SCIE10005/U/1/SM1/W02/53",
+                  "SCIE10005/U/1/SM1/W02/77"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 101
+              }
+            ],
+            "streamNumbers": [
+              101,
+              5,
+              29,
+              125,
+              53,
+              77
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change: Co-designing solutions to the big health challenges of our time",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/100",
+                  "SCIE10005/U/1/SM1/W01/04",
+                  "SCIE10005/U/1/SM1/W01/28",
+                  "SCIE10005/U/1/SM1/W01/124",
+                  "SCIE10005/U/1/SM1/W01/52",
+                  "SCIE10005/U/1/SM1/W01/76"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 100
+              },
+              {
+                "description": "Workshop 2 - Antarctica: natural history and future threats",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/100",
+                  "SCIE10005/U/1/SM1/W02/04",
+                  "SCIE10005/U/1/SM1/W02/28",
+                  "SCIE10005/U/1/SM1/W02/124",
+                  "SCIE10005/U/1/SM1/W02/52",
+                  "SCIE10005/U/1/SM1/W02/76"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 100
+              }
+            ],
+            "streamNumbers": [
+              100,
+              4,
+              28,
+              124,
+              52,
+              76
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Climate Change Activism and New Youth futures",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/99",
+                  "SCIE10005/U/1/SM1/W01/03",
+                  "SCIE10005/U/1/SM1/W01/27",
+                  "SCIE10005/U/1/SM1/W01/123",
+                  "SCIE10005/U/1/SM1/W01/51",
+                  "SCIE10005/U/1/SM1/W01/75"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 99
+              },
+              {
+                "description": "Workshop 2 - The weather and climate modelling revolution",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/99",
+                  "SCIE10005/U/1/SM1/W02/03",
+                  "SCIE10005/U/1/SM1/W02/27",
+                  "SCIE10005/U/1/SM1/W02/123",
+                  "SCIE10005/U/1/SM1/W02/51",
+                  "SCIE10005/U/1/SM1/W02/75"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 99
+              }
+            ],
+            "streamNumbers": [
+              99,
+              3,
+              27,
+              123,
+              51,
+              75
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Biofuels past and present",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/98",
+                  "SCIE10005/U/1/SM1/W01/02",
+                  "SCIE10005/U/1/SM1/W01/26",
+                  "SCIE10005/U/1/SM1/W01/122",
+                  "SCIE10005/U/1/SM1/W01/50",
+                  "SCIE10005/U/1/SM1/W01/74"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 98
+              },
+              {
+                "description": "Workshop 2 - Getting to zero",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/98",
+                  "SCIE10005/U/1/SM1/W02/02",
+                  "SCIE10005/U/1/SM1/W02/26",
+                  "SCIE10005/U/1/SM1/W02/122",
+                  "SCIE10005/U/1/SM1/W02/50",
+                  "SCIE10005/U/1/SM1/W02/74"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 98
+              }
+            ],
+            "streamNumbers": [
+              98,
+              2,
+              26,
+              122,
+              50,
+              74
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - Sustainable Agriculture - Healthy Planet Healthy People",
+                "day": 0,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W01/97",
+                  "SCIE10005/U/1/SM1/W01/01",
+                  "SCIE10005/U/1/SM1/W01/25",
+                  "SCIE10005/U/1/SM1/W01/121",
+                  "SCIE10005/U/1/SM1/W01/49",
+                  "SCIE10005/U/1/SM1/W01/73"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 97
+              },
+              {
+                "description": "Workshop 2 - Sustainable Agriculture and environment",
+                "day": 0,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE10005",
+                "codes": [
+                  "SCIE10005/U/1/SM1/W02/97",
+                  "SCIE10005/U/1/SM1/W02/01",
+                  "SCIE10005/U/1/SM1/W02/25",
+                  "SCIE10005/U/1/SM1/W02/121",
+                  "SCIE10005/U/1/SM1/W02/49",
+                  "SCIE10005/U/1/SM1/W02/73"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 210",
+                  "PAR-David Caro-Podium 201",
+                  "PAR-David Caro-Podium 205",
+                  "PAR-David Caro-Podium 206",
+                  "PAR-David Caro-Podium 208",
+                  "PAR-David Caro-Podium 209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 97
+              }
+            ],
+            "streamNumbers": [
+              97,
+              1,
+              25,
+              121,
+              49,
+              73
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "WorkshopGettingtozero"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "LectureClimatechangeactivism",
+        "type": "L",
+        "okNumbers": 4,
+        "weirdNumbers": 16,
+        "maxCount": 3
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:44.519Z"
+}

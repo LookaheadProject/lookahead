@@ -1,0 +1,731 @@
+{
+  "subject": {
+    "code": "HIST30060",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/06",
+          "HIST30060/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253",
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          32,
+          33,
+          35,
+          37
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HIST30060",
+        "codes": [
+          "HIST30060/U/1/SM2/T01/06",
+          "HIST30060/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253",
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 2",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  30
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S02/01"
+                ],
+                "locations": [
+                  "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 3",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S03/01"
+                ],
+                "locations": [
+                  "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 1",
+                "day": 3,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  31,
+                  34,
+                  36,
+                  38
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S01/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-103"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  31,
+                  34,
+                  36,
+                  38
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S01/04"
+                ],
+                "locations": [
+                  "PAR-Babel-G03 (Lower Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 3,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  31,
+                  34,
+                  36,
+                  38
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S01/03"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-253"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 2",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  30
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 3",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 1",
+                "day": 3,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  31,
+                  34,
+                  36,
+                  38
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HIST30060",
+                "codes": [
+                  "HIST30060/U/1/SM2/S01/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-253"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Seminar",
+        "type": "S",
+        "okNumbers": 2,
+        "weirdNumbers": 2,
+        "maxCount": 3
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:03.185Z"
+}

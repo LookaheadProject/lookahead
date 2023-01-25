@@ -1,0 +1,173 @@
+{
+  "subject": {
+    "code": "SCIE40001",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9,
+                "finish": 9.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE40001",
+                "codes": [
+                  "SCIE40001/U/1/SM1/W01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "SCIE40001",
+                "codes": [
+                  "SCIE40001/U/1/SM1/W02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9,
+                "finish": 9.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE40001",
+                "codes": [
+                  "SCIE40001/U/1/SM1/W01/01"
+                ],
+                "locations": [
+                  "PAR-Food and Nutrition Building-122"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "SCIE40001",
+                "codes": [
+                  "SCIE40001/U/1/SM1/W02/01"
+                ],
+                "locations": [
+                  "PAR-Food and Nutrition Building-122"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:45.383Z"
+}

@@ -1,0 +1,182 @@
+{
+  "subject": {
+    "code": "NRMT90002",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NRMT90002",
+        "codes": [
+          "NRMT90002/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Biosciences 4-106PAR-Redmond Barry-412 (Biology)PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NRMT90002",
+        "codes": [
+          "NRMT90002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-127 (127 Dry Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NRMT90002",
+        "codes": [
+          "NRMT90002/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NRMT90002",
+        "codes": [
+          "NRMT90002/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-121 (Theatre 3)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NRMT90002",
+        "codes": [
+          "NRMT90002/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Biosciences 4-106PAR-Redmond Barry-412 (Biology)PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NRMT90002",
+        "codes": [
+          "NRMT90002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-127 (127 Dry Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:17.759Z"
+}

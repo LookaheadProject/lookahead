@@ -1,0 +1,152 @@
+{
+  "subject": {
+    "code": "PSYC90023",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12.75,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90023",
+        "codes": [
+          "PSYC90023/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Geoff Saw x46316",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90023",
+        "codes": [
+          "Alternate booking for PSYC90023/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12.75,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90023",
+        "codes": [
+          "PSYC90023/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Geoff Saw x46316",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90023",
+        "codes": [
+          "Alternate booking for PSYC90023/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:37.999Z"
+}

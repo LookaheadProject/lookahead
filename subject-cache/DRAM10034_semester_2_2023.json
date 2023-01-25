@@ -1,0 +1,156 @@
+{
+  "subject": {
+    "code": "DRAM10034",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM10034",
+        "codes": [
+          "DRAM10034/STH/1/SM2/L01/01"
+        ],
+        "locations": [
+          "STH-880-709 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM10034",
+        "codes": [
+          "DRAM10034/STH/1/SM2/T01/01",
+          "DRAM10034/STH/1/SM2/T01/02"
+        ],
+        "locations": [
+          "STH-880-709 (Teaching Studio)",
+          "STH-880-708 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM10034",
+        "codes": [
+          "DRAM10034/STH/1/SM2/L01/01"
+        ],
+        "locations": [
+          "STH-880-709 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM10034",
+        "codes": [
+          "DRAM10034/STH/1/SM2/T01/01",
+          "DRAM10034/STH/1/SM2/T01/02"
+        ],
+        "locations": [
+          "STH-880-709 (Teaching Studio)",
+          "STH-880-708 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:05.716Z"
+}

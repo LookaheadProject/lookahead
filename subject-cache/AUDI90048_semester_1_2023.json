@@ -1,0 +1,357 @@
+{
+  "subject": {
+    "code": "AUDI90048",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AUDI90048",
+        "codes": [
+          "AUDI90048/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-550 Swanston Street-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:33.400Z"
+}

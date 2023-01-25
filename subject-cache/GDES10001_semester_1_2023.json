@@ -1,0 +1,444 @@
+{
+  "subject": {
+    "code": "GDES10001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/08",
+          "GDES10001/STH/1/SM1/P01/08"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/01",
+          "GDES10001/STH/1/SM1/P01/01"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/03",
+          "GDES10001/STH/1/SM1/P01/03"
+        ],
+        "locations": [
+          "STH-860-202 (Tutorial Room 2)",
+          "STH-863-G09"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/02",
+          "GDES10001/STH/1/SM1/P01/02"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/04",
+          "GDES10001/STH/1/SM1/P01/04",
+          "GDES10001/STH/1/SM1/P01/05",
+          "GDES10001/STH/1/SM1/P01/05"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)",
+          "STH-874-210 (Utility Room)",
+          "STH-863-G12"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/07",
+          "GDES10001/STH/1/SM1/P01/07"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/06",
+          "GDES10001/STH/1/SM1/P01/06"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "STH-863-G12"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/08",
+          "GDES10001/STH/1/SM1/P01/08"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/01",
+          "GDES10001/STH/1/SM1/P01/01"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/02",
+          "GDES10001/STH/1/SM1/P01/02"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/03",
+          "GDES10001/STH/1/SM1/P01/03"
+        ],
+        "locations": [
+          "STH-860-202 (Tutorial Room 2)",
+          "STH-863-G09"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/04",
+          "GDES10001/STH/1/SM1/P01/04",
+          "GDES10001/STH/1/SM1/P01/05",
+          "GDES10001/STH/1/SM1/P01/05"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)",
+          "STH-874-210 (Utility Room)",
+          "STH-863-G12"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/07",
+          "GDES10001/STH/1/SM1/P01/07"
+        ],
+        "locations": [
+          "STH-863-G09",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GDES10001",
+        "codes": [
+          "GDES10001/STH/1/SM1/P01/06",
+          "GDES10001/STH/1/SM1/P01/06"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "STH-863-G12"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:52.050Z"
+}

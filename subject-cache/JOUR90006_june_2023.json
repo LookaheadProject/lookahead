@@ -1,0 +1,111 @@
+{
+  "subject": {
+    "code": "JOUR90006",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          24,
+          25
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JUN/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          24,
+          25
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JUN/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 5,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          24,
+          25
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JUN/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 5,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          24,
+          25
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JUN/S02/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:41:17.629Z"
+}

@@ -1,0 +1,221 @@
+{
+  "subject": {
+    "code": "GEOL20002",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-201 (Fritz Loewe Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-201 (Fritz Loewe Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 4,
+        "start": 8,
+        "finish": 16,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/FW1/01"
+        ],
+        "locations": [
+          "X-To Be Advised."
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 2",
+        "day": 5,
+        "start": 8,
+        "finish": 16,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/FW2/01"
+        ],
+        "locations": [
+          "X-To Be Advised."
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 3",
+        "day": 6,
+        "start": 8,
+        "finish": 16,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20002",
+        "codes": [
+          "GEOL20002/U/1/SM1/FW3/01"
+        ],
+        "locations": [
+          "X-To Be Advised"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:57.552Z"
+}

@@ -1,0 +1,184 @@
+{
+  "subject": {
+    "code": "MUSI90196",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          14,
+          18,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90196",
+        "codes": [
+          "MUSI90196/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-880-708 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          17,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90196",
+        "codes": [
+          "MUSI90196/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-880-708 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Breakout1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          14,
+          18,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90196",
+        "codes": [
+          "MUSI90196/STH/1/SM1/Breakout1/02",
+          "MUSI90196/STH/1/SM1/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-711 (Teaching Studio)",
+          "STH-880-709 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          14,
+          18,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90196",
+        "codes": [
+          "MUSI90196/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-880-708 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          17,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90196",
+        "codes": [
+          "MUSI90196/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-880-708 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Breakout1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          14,
+          18,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90196",
+        "codes": [
+          "MUSI90196/STH/1/SM1/Breakout1/02",
+          "MUSI90196/STH/1/SM1/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-711 (Teaching Studio)",
+          "STH-880-709 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:16.066Z"
+}

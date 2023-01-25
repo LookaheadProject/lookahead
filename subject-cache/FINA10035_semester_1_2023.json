@@ -1,0 +1,464 @@
+{
+  "subject": {
+    "code": "FINA10035",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 18,
+        "finish": 21,
+        "weeks": [
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA10035",
+        "codes": [
+          "FINA10035/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:38.809Z"
+}

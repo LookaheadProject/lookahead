@@ -1,0 +1,136 @@
+{
+  "subject": {
+    "code": "EDUC91156",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC91156",
+        "codes": [
+          "EDUC91156/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91156",
+        "codes": [
+          "EDUC91156/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-403"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC91156",
+        "codes": [
+          "EDUC91156/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91156",
+        "codes": [
+          "EDUC91156/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-403"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:26.675Z"
+}

@@ -1,0 +1,199 @@
+{
+  "subject": {
+    "code": "ANTH40012",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S03/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S04/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 7",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S07/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S05/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 6",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S06/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 8",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANTH40012",
+        "codes": [
+          "ANTH40012/U/1/FEB/S08/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:27.542Z"
+}

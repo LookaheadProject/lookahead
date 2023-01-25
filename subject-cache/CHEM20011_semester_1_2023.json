@@ -1,0 +1,479 @@
+{
+  "subject": {
+    "code": "CHEM20011",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-294 (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Chemistry-294b (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-Chemistry-294b (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Chemistry-294b (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G17 (Cussonia Court Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-189 (Masson Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-178 (Cuming Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/L03/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-189 (Masson Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-294 (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Chemistry-294b (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-Chemistry-294b (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G17 (Cussonia Court Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17.5,
+        "weeks": [
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Chemistry-294b (Level 2 Laboratory)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20011",
+        "codes": [
+          "CHEM20011/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:44.070Z"
+}

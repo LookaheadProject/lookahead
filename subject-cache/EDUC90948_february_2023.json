@@ -1,0 +1,136 @@
+{
+  "subject": {
+    "code": "EDUC90948",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "BSL Workshop 1 - Online",
+        "day": 1,
+        "start": 17.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90948",
+        "codes": [
+          "EDUC90948/U/1/FEB/W01/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Workshop 1 - On Campus",
+        "day": 1,
+        "start": 17.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90948",
+        "codes": [
+          "EDUC90948/U/1/FEB/W01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "BSL Workshop 1 - Online",
+        "day": 1,
+        "start": 17.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90948",
+        "codes": [
+          "EDUC90948/U/1/FEB/W01/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Workshop 1 - On Campus",
+        "day": 1,
+        "start": 17.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90948",
+        "codes": [
+          "EDUC90948/U/1/FEB/W01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:19.863Z"
+}

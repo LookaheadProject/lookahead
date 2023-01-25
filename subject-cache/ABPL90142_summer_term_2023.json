@@ -1,0 +1,697 @@
+{
+  "subject": {
+    "code": "ABPL90142",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "VERTICALISING (01)",
+                "day": 0,
+                "start": 13,
+                "finish": 16,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST6/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-238"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "AMALGAM (38)",
+                "day": 2,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST3/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DESERT (06)",
+                "day": 2,
+                "start": 9,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST2/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BASIN (32)",
+                "day": 2,
+                "start": 16,
+                "finish": 20,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST1/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "INFINITE (04) - ONLINE",
+                "day": 2,
+                "start": 14,
+                "finish": 19.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST5/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "CAPPRICCIO (22)",
+                "day": 3,
+                "start": 18,
+                "finish": 21,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST7/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BENEATH (7)",
+                "day": 5,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST4/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-241"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "VERTICALISING (01)",
+                "day": 3,
+                "start": 13,
+                "finish": 16,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST6/04"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-238"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "ST"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "CAPPRICCIO (22)",
+                "day": 5,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST7/04"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "ST"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "VERTICALISING (01)",
+                "day": 3,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST6/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-238"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "INFINITE (04) - ONLINE",
+                "day": 3,
+                "start": 17,
+                "finish": 22.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST5/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "AMALGAM (38)",
+                "day": 4,
+                "start": 17,
+                "finish": 20,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST3/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "DESERT (06)",
+                "day": 4,
+                "start": 9,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST2/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "BASIN (32)",
+                "day": 4,
+                "start": 16,
+                "finish": 20,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST1/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "CAPPRICCIO (22)",
+                "day": 5,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST7/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "AMALGAM (38)",
+                "day": 0,
+                "start": 17,
+                "finish": 20,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST3/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DESERT (06)",
+                "day": 0,
+                "start": 9,
+                "finish": 14.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST2/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BASIN (32)",
+                "day": 0,
+                "start": 16,
+                "finish": 20,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST1/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "VERTICALISING (01)",
+                "day": 0,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST6/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-238"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "INFINITE (04) - ONLINE",
+                "day": 0,
+                "start": 14,
+                "finish": 19.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST5/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "CAPPRICCIO (22)",
+                "day": 1,
+                "start": 18,
+                "finish": 21,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST7/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BENEATH (7)",
+                "day": 2,
+                "start": 12,
+                "finish": 18,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90142",
+                "codes": [
+                  "ABPL90142/U/1/SUM/ST4/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-241"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "BENEATH"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "BENEATH",
+        "type": "ST",
+        "okNumbers": 2,
+        "weirdNumbers": 2,
+        "maxCount": 7
+      }
+    ],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:39:11.503Z"
+}

@@ -1,0 +1,255 @@
+{
+  "subject": {
+    "code": "CHEM20026",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-178 (Cuming Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L105 (Hercus Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/L03/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-178 (Cuming Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM20026",
+        "codes": [
+          "CHEM20026/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:44.250Z"
+}

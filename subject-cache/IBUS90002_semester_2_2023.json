@@ -1,0 +1,152 @@
+{
+  "subject": {
+    "code": "IBUS90002",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "IBUS90002",
+        "codes": [
+          "IBUS90002/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-4014"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "IBUS90002",
+        "codes": [
+          "IBUS90002/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-5008"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "IBUS90002",
+        "codes": [
+          "IBUS90002/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-4014"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "IBUS90002",
+        "codes": [
+          "IBUS90002/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-5008"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:06.757Z"
+}

@@ -1,0 +1,745 @@
+{
+  "subject": {
+    "code": "MUSI20164",
+    "period": "january",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/12"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/12"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Practical 3",
+                "day": 5,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/12"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/14"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/14"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              },
+              {
+                "description": "Practical 3",
+                "day": 5,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/14"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              }
+            ],
+            "streamNumbers": [
+              14
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/10",
+                  "MUSI20164/STH/1/JAN/P01/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/10",
+                  "MUSI20164/STH/1/JAN/P02/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Practical 3",
+                "day": 5,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/10",
+                  "MUSI20164/STH/1/JAN/P03/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10,
+              11
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/09",
+                  "MUSI20164/STH/1/JAN/P01/13"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/09",
+                  "MUSI20164/STH/1/JAN/P02/13"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Practical 3",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/09",
+                  "MUSI20164/STH/1/JAN/P03/13"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9,
+              13
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 16.5,
+                "finish": 18.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/07",
+                  "MUSI20164/STH/1/JAN/P01/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 16.5,
+                "finish": 18.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/07",
+                  "MUSI20164/STH/1/JAN/P02/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Practical 3",
+                "day": 4,
+                "start": 16.5,
+                "finish": 18.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/07",
+                  "MUSI20164/STH/1/JAN/P03/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7,
+              8
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/05",
+                  "MUSI20164/STH/1/JAN/P01/17",
+                  "MUSI20164/STH/1/JAN/P01/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/05",
+                  "MUSI20164/STH/1/JAN/P02/17",
+                  "MUSI20164/STH/1/JAN/P02/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Practical 3",
+                "day": 4,
+                "start": 14.5,
+                "finish": 16.5,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/05",
+                  "MUSI20164/STH/1/JAN/P03/17",
+                  "MUSI20164/STH/1/JAN/P03/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5,
+              17,
+              6
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/03",
+                  "MUSI20164/STH/1/JAN/P01/16",
+                  "MUSI20164/STH/1/JAN/P01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/03",
+                  "MUSI20164/STH/1/JAN/P02/16",
+                  "MUSI20164/STH/1/JAN/P02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 3",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/03",
+                  "MUSI20164/STH/1/JAN/P03/16",
+                  "MUSI20164/STH/1/JAN/P03/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              16,
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P01/01",
+                  "MUSI20164/STH/1/JAN/P01/15",
+                  "MUSI20164/STH/1/JAN/P01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P02/01",
+                  "MUSI20164/STH/1/JAN/P02/15",
+                  "MUSI20164/STH/1/JAN/P02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  5,
+                  6,
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20164",
+                "codes": [
+                  "MUSI20164/STH/1/JAN/P03/01",
+                  "MUSI20164/STH/1/JAN/P03/15",
+                  "MUSI20164/STH/1/JAN/P03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              15,
+              2
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:42:05.893Z"
+}

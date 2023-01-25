@@ -1,0 +1,1275 @@
+{
+  "subject": {
+    "code": "COMP30027",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-200 Berkeley St-126"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/07"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/09",
+          "COMP30027/U/1/SM1/W01/05",
+          "COMP30027/U/1/SM1/W01/08"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G21",
+          "PAR-780 Elizabeth St-102 (CLS)",
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/16",
+          "COMP30027/U/1/SM1/W01/13"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62",
+          "PAR-Alan Gilbert-G21"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/14"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/19_OC"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/10"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-John Medley-WG03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 16.5,
+        "finish": 18.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/15"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/11"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/18"
+        ],
+        "locations": [
+          "PAR-200 Berkeley St-G51andG52"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/17"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/12"
+        ],
+        "locations": [
+          "PAR-John Medley-WG03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/16",
+          "COMP30027/U/1/SM1/W01/13"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62",
+          "PAR-Alan Gilbert-G21"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/07"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/14"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/09",
+          "COMP30027/U/1/SM1/W01/05",
+          "COMP30027/U/1/SM1/W01/08"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G21",
+          "PAR-780 Elizabeth St-102 (CLS)",
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-200 Berkeley St-126"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/19_OC"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/10"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-John Medley-WG03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 16.5,
+        "finish": 18.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/15"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/11"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/18"
+        ],
+        "locations": [
+          "PAR-200 Berkeley St-G51andG52"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/17"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "COMP30027",
+        "codes": [
+          "COMP30027/U/1/SM1/W01/12"
+        ],
+        "locations": [
+          "PAR-John Medley-WG03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 12
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP30027",
+                "codes": [
+                  "COMP30027/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "COMP30027",
+                "codes": [
+                  "COMP30027/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP30027",
+                "codes": [
+                  "COMP30027/U/1/SM1/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "COMP30027",
+                "codes": [
+                  "COMP30027/U/1/SM1/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:52.231Z"
+}

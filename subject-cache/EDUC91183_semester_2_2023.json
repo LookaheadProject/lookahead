@@ -1,0 +1,80 @@
+{
+  "subject": {
+    "code": "EDUC91183",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 15.5,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91183",
+        "codes": [
+          "EDUC91183/U/1/SM2/W01/01",
+          "EDUC91183/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-504 (Music Studio 2)PAR-Kwong Lee Dow-506 (Drama Theatre)PAR-Kwong Lee Dow-510 (Visual Arts Studio 2)",
+          "PAR-Kwong Lee Dow-503 (Music Studio 1)PAR-Kwong Lee Dow-505 (Drama Classroom)PAR-Kwong Lee Dow-511 (Visual Arts Studio 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 15.5,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91183",
+        "codes": [
+          "EDUC91183/U/1/SM2/W01/01",
+          "EDUC91183/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-504 (Music Studio 2)PAR-Kwong Lee Dow-506 (Drama Theatre)PAR-Kwong Lee Dow-510 (Visual Arts Studio 2)",
+          "PAR-Kwong Lee Dow-503 (Music Studio 1)PAR-Kwong Lee Dow-505 (Drama Classroom)PAR-Kwong Lee Dow-511 (Visual Arts Studio 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:27.892Z"
+}

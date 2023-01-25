@@ -1,0 +1,293 @@
+{
+  "subject": {
+    "code": "PROP20003",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12.25,
+        "finish": 14.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 208"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/T01/01",
+          "PROP20003/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448",
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12.25,
+        "finish": 14.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 208"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/T01/01",
+          "PROP20003/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448",
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PROP20003",
+        "codes": [
+          "PROP20003/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:34.868Z"
+}

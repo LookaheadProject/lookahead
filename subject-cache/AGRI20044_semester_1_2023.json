@@ -1,0 +1,348 @@
+{
+  "subject": {
+    "code": "AGRI20044",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "",
+        "day": 2,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AGRI20044",
+        "codes": [
+          "AGRI20044/U/1/SM1/P01/01_SetUp"
+        ],
+        "locations": [
+          "PAR-Building 125-104 (104 Wet Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AGRI20044",
+        "codes": [
+          "AGRI20044/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-104 (104 Wet Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          11,
+          14,
+          17,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI20044",
+        "codes": [
+          "AGRI20044/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          11,
+          14,
+          17,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI20044",
+        "codes": [
+          "AGRI20044/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "",
+        "day": 2,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AGRI20044",
+        "codes": [
+          "AGRI20044/U/1/SM1/P01/01_SetUp"
+        ],
+        "locations": [
+          "PAR-Building 125-104 (104 Wet Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AGRI20044",
+        "codes": [
+          "AGRI20044/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-104 (104 Wet Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "AGRI20044",
+                "codes": [
+                  "AGRI20044/U/1/SM1/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "AGRI20044",
+                "codes": [
+                  "AGRI20044/U/1/SM1/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20044",
+                "codes": [
+                  "AGRI20044/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Biosciences 2-124 (Turner Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20044",
+                "codes": [
+                  "AGRI20044/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Biosciences 2-124 (Turner Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:20.836Z"
+}

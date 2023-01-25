@@ -1,0 +1,199 @@
+{
+  "subject": {
+    "code": "EDUC90939",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 5",
+        "day": 5,
+        "start": 9.5,
+        "finish": 12,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W05/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 7",
+        "day": 5,
+        "start": 9.5,
+        "finish": 12,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W07/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 5,
+        "start": 9.5,
+        "finish": 12,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 5,
+        "start": 9.5,
+        "finish": 12,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W03/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 6",
+        "day": 5,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W06/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 8",
+        "day": 5,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W08/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 5,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W02/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-102"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 4",
+        "day": 5,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90939",
+        "codes": [
+          "EDUC90939/U/1/SM1/W04/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:19.363Z"
+}

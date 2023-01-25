@@ -1,0 +1,447 @@
+{
+  "subject": {
+    "code": "CVEN90024",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-Engineering B-313"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B132"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-Engineering B-313"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90024",
+        "codes": [
+          "CVEN90024/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B132"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CVEN90024",
+                "codes": [
+                  "CVEN90024/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-102 (Latham Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CVEN90024",
+                "codes": [
+                  "CVEN90024/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-102 (Latham Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CVEN90024",
+                "codes": [
+                  "CVEN90024/U/1/SM1/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CVEN90024",
+                "codes": [
+                  "CVEN90024/U/1/SM1/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:58.767Z"
+}

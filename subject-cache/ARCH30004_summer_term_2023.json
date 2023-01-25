@@ -1,0 +1,427 @@
+{
+  "subject": {
+    "code": "ARCH30004",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T01/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T02/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 4,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T03/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 4,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T03/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 4,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/T03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/L01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/L02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/L03/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1- Online option",
+                "day": 0,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2 - Online option",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3-Online option",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30004",
+                "codes": [
+                  "ARCH30004/U/1/SUM/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:29.210Z"
+}

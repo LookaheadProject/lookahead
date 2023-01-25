@@ -1,0 +1,216 @@
+{
+  "subject": {
+    "code": "EVSC90017",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90017",
+        "codes": [
+          "EVSC90017/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90017",
+        "codes": [
+          "EVSC90017/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          14,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90017",
+        "codes": [
+          "EVSC90017/U/1/SM1/T02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90017",
+        "codes": [
+          "EVSC90017/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90017",
+        "codes": [
+          "EVSC90017/U/1/SM1/L03/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 2,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90017",
+                "codes": [
+                  "EVSC90017/U/1/SM1/S01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 2,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90017",
+                "codes": [
+                  "EVSC90017/U/1/SM1/S02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:38.046Z"
+}

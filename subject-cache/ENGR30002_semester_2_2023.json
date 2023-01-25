@@ -1,0 +1,634 @@
+{
+  "subject": {
+    "code": "ENGR30002",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P01/03"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P02/03"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P01/02"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P02/02"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P01/05"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P02/05"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P01/01"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P02/01"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P01/04"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM2/P02/04"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:33.614Z"
+}

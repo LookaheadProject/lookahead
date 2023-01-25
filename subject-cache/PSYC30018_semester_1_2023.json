@@ -1,0 +1,1130 @@
+{
+  "subject": {
+    "code": "PSYC30018",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/09"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/10"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/11"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/12"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/13"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 14
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/09"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/10"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/11"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 14.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/12"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/13"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC30018",
+        "codes": [
+          "PSYC30018/U/1/SM1/P01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1123 (Alexander J. Wearing Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 14
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC30018",
+                "codes": [
+                  "PSYC30018/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-104 (Medley Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC30018",
+                "codes": [
+                  "PSYC30018/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-104 (Medley Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC30018",
+                "codes": [
+                  "PSYC30018/U/1/SM1/L01/02",
+                  "PSYC30018/U/1/SM1/L01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC30018",
+                "codes": [
+                  "PSYC30018/U/1/SM1/L02/02",
+                  "PSYC30018/U/1/SM1/L02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              3
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:36.401Z"
+}

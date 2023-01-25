@@ -1,0 +1,298 @@
+{
+  "subject": {
+    "code": "FINA20035",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W04/02"
+                ],
+                "locations": [
+                  "STH-874-211D (Loeffler)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W06/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 7",
+                "day": 0,
+                "start": 11,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W07/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 11,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W01/01"
+                ],
+                "locations": [
+                  "PAR-Medical-W312 (ESJ King Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 8",
+                "day": 1,
+                "start": 11,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W08/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 9.5,
+                "finish": 11,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W02/01"
+                ],
+                "locations": [
+                  "PAR-Medical-W312 (ESJ King Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W03/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W04/01"
+                ],
+                "locations": [
+                  "STH-874-159 (EB Myer Studio)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20035",
+                "codes": [
+                  "FINA20035/U/1/WIN/W05/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Workshop",
+        "type": "W",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 8
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:39.587Z"
+}

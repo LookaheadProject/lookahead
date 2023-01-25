@@ -1,0 +1,968 @@
+{
+  "subject": {
+    "code": "INFO90002",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B114"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B114"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/10"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "INFO90002",
+        "codes": [
+          "INFO90002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:09.995Z"
+}

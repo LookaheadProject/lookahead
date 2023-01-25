@@ -1,0 +1,405 @@
+{
+  "subject": {
+    "code": "MUSI20143",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T01/06"
+                ],
+                "locations": [
+                  "PAR-MCM-134 (Tallis Wing)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T02/06"
+                ],
+                "locations": [
+                  "PAR-MCM-117 (Melba Hall)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T01/05"
+                ],
+                "locations": [
+                  "PAR-MCM-134 (Tallis Wing)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T02/05"
+                ],
+                "locations": [
+                  "PAR-MCM-117 (Melba Hall)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T01/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T02/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T01/02"
+                ],
+                "locations": [
+                  "PAR-MCM-134 (Tallis Wing)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T02/02"
+                ],
+                "locations": [
+                  "PAR-MCM-134 (Tallis Wing)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20143",
+                "codes": [
+                  "MUSI20143/U/1/SUM/T02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:05.378Z"
+}

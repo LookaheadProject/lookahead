@@ -1,0 +1,1549 @@
+{
+  "subject": {
+    "code": "EDUC20076",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S01/01",
+                  "EDUC20076/U/1/JUN/S01/03",
+                  "EDUC20076/U/1/JUN/S01/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 10",
+                "day": 4,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S10/01",
+                  "EDUC20076/U/1/JUN/S10/03",
+                  "EDUC20076/U/1/JUN/S10/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 11",
+                "day": 4,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S11/01",
+                  "EDUC20076/U/1/JUN/S11/03",
+                  "EDUC20076/U/1/JUN/S11/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 12",
+                "day": 4,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S12/01",
+                  "EDUC20076/U/1/JUN/S12/03",
+                  "EDUC20076/U/1/JUN/S12/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 13",
+                "day": 0,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S13/01",
+                  "EDUC20076/U/1/JUN/S13/03",
+                  "EDUC20076/U/1/JUN/S13/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 14",
+                "day": 0,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S14/01",
+                  "EDUC20076/U/1/JUN/S14/03",
+                  "EDUC20076/U/1/JUN/S14/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 15",
+                "day": 0,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S15/01",
+                  "EDUC20076/U/1/JUN/S15/03",
+                  "EDUC20076/U/1/JUN/S15/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 16",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S16/01",
+                  "EDUC20076/U/1/JUN/S16/03",
+                  "EDUC20076/U/1/JUN/S16/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 17",
+                "day": 2,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S17/01",
+                  "EDUC20076/U/1/JUN/S17/03",
+                  "EDUC20076/U/1/JUN/S17/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 17,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 18",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S18/01",
+                  "EDUC20076/U/1/JUN/S18/03",
+                  "EDUC20076/U/1/JUN/S18/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 18,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 19",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S19/01",
+                  "EDUC20076/U/1/JUN/S19/03",
+                  "EDUC20076/U/1/JUN/S19/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 19,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 0,
+                "start": 13,
+                "finish": 13.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S02/01",
+                  "EDUC20076/U/1/JUN/S02/03",
+                  "EDUC20076/U/1/JUN/S02/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 20",
+                "day": 2,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S20/01",
+                  "EDUC20076/U/1/JUN/S20/03",
+                  "EDUC20076/U/1/JUN/S20/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 20,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 3",
+                "day": 0,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S03/01",
+                  "EDUC20076/U/1/JUN/S03/03",
+                  "EDUC20076/U/1/JUN/S03/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 4",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S04/01",
+                  "EDUC20076/U/1/JUN/S04/03",
+                  "EDUC20076/U/1/JUN/S04/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 5",
+                "day": 2,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S05/01",
+                  "EDUC20076/U/1/JUN/S05/03",
+                  "EDUC20076/U/1/JUN/S05/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 6",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S06/01",
+                  "EDUC20076/U/1/JUN/S06/03",
+                  "EDUC20076/U/1/JUN/S06/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 7",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S07/01",
+                  "EDUC20076/U/1/JUN/S07/03",
+                  "EDUC20076/U/1/JUN/S07/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 8",
+                "day": 2,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S08/01",
+                  "EDUC20076/U/1/JUN/S08/03",
+                  "EDUC20076/U/1/JUN/S08/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 9",
+                "day": 4,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S09/01",
+                  "EDUC20076/U/1/JUN/S09/03",
+                  "EDUC20076/U/1/JUN/S09/04"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-421 (Science Seminar Room)",
+                  "PAR-Kwong Lee Dow-416",
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S01/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 10",
+                "day": 4,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S10/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 11",
+                "day": 4,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S11/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 12",
+                "day": 4,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S12/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 13",
+                "day": 0,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S13/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 14",
+                "day": 0,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S14/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 15",
+                "day": 0,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S15/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 16",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S16/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 17",
+                "day": 2,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S17/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 17,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 18",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S18/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 18,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 19",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S19/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 19,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 2",
+                "day": 0,
+                "start": 13,
+                "finish": 13.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S02/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 20",
+                "day": 2,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S20/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 20,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 3",
+                "day": 0,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S03/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 4",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S04/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 5",
+                "day": 2,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S05/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 6",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S06/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 7",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S07/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 8",
+                "day": 2,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S08/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 9",
+                "day": 4,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S09/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S01/05",
+                  "EDUC20076/U/1/JUN/S01/07",
+                  "EDUC20076/U/1/JUN/S01/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 10",
+                "day": 4,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S10/05",
+                  "EDUC20076/U/1/JUN/S10/07",
+                  "EDUC20076/U/1/JUN/S10/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 11",
+                "day": 4,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S11/05",
+                  "EDUC20076/U/1/JUN/S11/07",
+                  "EDUC20076/U/1/JUN/S11/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 12",
+                "day": 4,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S12/05",
+                  "EDUC20076/U/1/JUN/S12/07",
+                  "EDUC20076/U/1/JUN/S12/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 13",
+                "day": 0,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S13/05",
+                  "EDUC20076/U/1/JUN/S13/07",
+                  "EDUC20076/U/1/JUN/S13/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 14",
+                "day": 0,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S14/05",
+                  "EDUC20076/U/1/JUN/S14/07",
+                  "EDUC20076/U/1/JUN/S14/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 15",
+                "day": 0,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S15/05",
+                  "EDUC20076/U/1/JUN/S15/07",
+                  "EDUC20076/U/1/JUN/S15/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 16",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S16/05",
+                  "EDUC20076/U/1/JUN/S16/07",
+                  "EDUC20076/U/1/JUN/S16/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 17",
+                "day": 2,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S17/05",
+                  "EDUC20076/U/1/JUN/S17/07",
+                  "EDUC20076/U/1/JUN/S17/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 17,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 18",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S18/05",
+                  "EDUC20076/U/1/JUN/S18/07",
+                  "EDUC20076/U/1/JUN/S18/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 18,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 19",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S19/05",
+                  "EDUC20076/U/1/JUN/S19/07",
+                  "EDUC20076/U/1/JUN/S19/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 19,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 2",
+                "day": 0,
+                "start": 13,
+                "finish": 13.5,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S02/05",
+                  "EDUC20076/U/1/JUN/S02/07",
+                  "EDUC20076/U/1/JUN/S02/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 20",
+                "day": 2,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S20/05",
+                  "EDUC20076/U/1/JUN/S20/07",
+                  "EDUC20076/U/1/JUN/S20/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 20,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 3",
+                "day": 0,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S03/05",
+                  "EDUC20076/U/1/JUN/S03/07",
+                  "EDUC20076/U/1/JUN/S03/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 4",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S04/05",
+                  "EDUC20076/U/1/JUN/S04/07",
+                  "EDUC20076/U/1/JUN/S04/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 5",
+                "day": 2,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S05/05",
+                  "EDUC20076/U/1/JUN/S05/07",
+                  "EDUC20076/U/1/JUN/S05/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 6",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.75,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S06/05",
+                  "EDUC20076/U/1/JUN/S06/07",
+                  "EDUC20076/U/1/JUN/S06/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 7",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S07/05",
+                  "EDUC20076/U/1/JUN/S07/07",
+                  "EDUC20076/U/1/JUN/S07/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 8",
+                "day": 2,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S08/05",
+                  "EDUC20076/U/1/JUN/S08/07",
+                  "EDUC20076/U/1/JUN/S08/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Seminar 9",
+                "day": 4,
+                "start": 10,
+                "finish": 11.25,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC20076",
+                "codes": [
+                  "EDUC20076/U/1/JUN/S09/05",
+                  "EDUC20076/U/1/JUN/S09/07",
+                  "EDUC20076/U/1/JUN/S09/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "S"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5,
+              7,
+              6
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:12.160Z"
+}

@@ -1,0 +1,76 @@
+{
+  "subject": {
+    "code": "POLS90051",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "POLS90051",
+        "codes": [
+          "POLS90051/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "POLS90051",
+        "codes": [
+          "POLS90051/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:29.810Z"
+}

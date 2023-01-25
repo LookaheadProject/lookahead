@@ -1,0 +1,319 @@
+{
+  "subject": {
+    "code": "HORT90035",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 17.5,
+        "weeks": [
+          32,
+          34
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/ST1/02"
+        ],
+        "locations": [
+          "X-Departmentally Organised Venue"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          34,
+          35,
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/T01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 0,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          38,
+          40,
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/T02/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 0,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/T03/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 17.5,
+        "weeks": [
+          32,
+          34
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/ST1/02"
+        ],
+        "locations": [
+          "X-Departmentally Organised Venue"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 5,
+        "start": 10,
+        "finish": 14,
+        "weeks": [
+          31
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/FW1/01"
+        ],
+        "locations": [
+          "X-Off SiteD"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 2",
+        "day": 5,
+        "start": 10,
+        "finish": 14,
+        "weeks": [
+          35
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90035",
+        "codes": [
+          "HORT90035/BUR/1/SM2/FW2/01"
+        ],
+        "locations": [
+          "X-Off SiteD"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  37
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HORT90035",
+                "codes": [
+                  "HORT90035/BUR/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  34,
+                  35,
+                  36
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HORT90035",
+                "codes": [
+                  "HORT90035/BUR/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HORT90035",
+                "codes": [
+                  "HORT90035/BUR/1/SM2/L03/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "HORT90035",
+                "codes": [
+                  "HORT90035/BUR/1/SM2/L04/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:41:04.856Z"
+}

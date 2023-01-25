@@ -1,0 +1,140 @@
+{
+  "subject": {
+    "code": "EDUC91120",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 4,
+        "start": 14,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91120",
+        "codes": [
+          "EDUC91120/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-510and511 (Visual Arts Studios)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15,
+        "finish": 17,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91120",
+        "codes": [
+          "EDUC91120/U/1/SM1/W01/02",
+          "EDUC91120/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-511 (Visual Arts Studio 1)",
+          "PAR-Kwong Lee Dow-510 (Visual Arts Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 4,
+        "start": 14,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91120",
+        "codes": [
+          "EDUC91120/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-510and511 (Visual Arts Studios)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15,
+        "finish": 17,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91120",
+        "codes": [
+          "EDUC91120/U/1/SM1/W01/02",
+          "EDUC91120/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-511 (Visual Arts Studio 1)",
+          "PAR-Kwong Lee Dow-510 (Visual Arts Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:24.993Z"
+}

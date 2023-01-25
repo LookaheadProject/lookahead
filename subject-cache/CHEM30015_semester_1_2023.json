@@ -1,0 +1,341 @@
+{
+  "subject": {
+    "code": "CHEM30015",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P01/02"
+                ],
+                "locations": [
+                  "PAR-Chemistry-294 (Level 2 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P02/02"
+                ],
+                "locations": [
+                  "PAR-Chemistry-383 (Level 3 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P01/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-294 (Level 2 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P02/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-294 (Level 2 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P01/03"
+                ],
+                "locations": [
+                  "PAR-Chemistry-383 (Level 3 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P02/03"
+                ],
+                "locations": [
+                  "PAR-Chemistry-294 (Level 2 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P01/04"
+                ],
+                "locations": [
+                  "PAR-Chemistry-383 (Level 3 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM30015",
+                "codes": [
+                  "CHEM30015/U/1/SM1/P01/05"
+                ],
+                "locations": [
+                  "PAR-Chemistry-294b (Level 2 Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Practical",
+        "type": "P",
+        "okNumbers": 3,
+        "weirdNumbers": 2,
+        "maxCount": 2
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:44.463Z"
+}

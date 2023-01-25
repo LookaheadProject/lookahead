@@ -1,0 +1,2072 @@
+{
+  "subject": {
+    "code": "PSYC20007",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/31",
+          "PSYC20007/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/32",
+          "PSYC20007/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/33",
+          "PSYC20007/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/34",
+          "PSYC20007/U/1/SM2/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/35",
+          "PSYC20007/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/36",
+          "PSYC20007/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/37",
+          "PSYC20007/U/1/SM2/P01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 37
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/38",
+          "PSYC20007/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/39",
+          "PSYC20007/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/40",
+          "PSYC20007/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 40
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/41",
+          "PSYC20007/U/1/SM2/P01/11"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 41
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/42",
+          "PSYC20007/U/1/SM2/P01/12"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 42
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/43",
+          "PSYC20007/U/1/SM2/P01/13"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 43
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/44",
+          "PSYC20007/U/1/SM2/P01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 44
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/45",
+          "PSYC20007/U/1/SM2/P01/15"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 45
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/46",
+          "PSYC20007/U/1/SM2/P01/16"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 46
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14.5,
+        "finish": 16,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/47",
+          "PSYC20007/U/1/SM2/P01/17"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16,
+        "finish": 17.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/48",
+          "PSYC20007/U/1/SM2/P01/18"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 48
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 19.75,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/49",
+          "PSYC20007/U/1/SM2/P01/19"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/L01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 18,
+        "finish": 19.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/25"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/50",
+          "PSYC20007/U/1/SM2/P01/20"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 50
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/51",
+          "PSYC20007/U/1/SM2/P01/21"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 51
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/52"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 52
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/53",
+          "PSYC20007/U/1/SM2/P01/22"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 53
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/54",
+          "PSYC20007/U/1/SM2/P01/23"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 54
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/55",
+          "PSYC20007/U/1/SM2/P01/24"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 55
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/56",
+          "PSYC20007/U/1/SM2/P01/26"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 56
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/57",
+          "PSYC20007/U/1/SM2/P01/27"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 57
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/58",
+          "PSYC20007/U/1/SM2/P01/28"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 58
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/59",
+          "PSYC20007/U/1/SM2/P01/29"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 59
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/60",
+          "PSYC20007/U/1/SM2/P01/30"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 60
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/31",
+          "PSYC20007/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/32",
+          "PSYC20007/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/33",
+          "PSYC20007/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/34",
+          "PSYC20007/U/1/SM2/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/35",
+          "PSYC20007/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/36",
+          "PSYC20007/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/37",
+          "PSYC20007/U/1/SM2/P01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 37
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/38",
+          "PSYC20007/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/39",
+          "PSYC20007/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/40",
+          "PSYC20007/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 40
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/41",
+          "PSYC20007/U/1/SM2/P01/11"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 41
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/42",
+          "PSYC20007/U/1/SM2/P01/12"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 42
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/43",
+          "PSYC20007/U/1/SM2/P01/13"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 43
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/44",
+          "PSYC20007/U/1/SM2/P01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 44
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/45",
+          "PSYC20007/U/1/SM2/P01/15"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 45
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/46",
+          "PSYC20007/U/1/SM2/P01/16"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 46
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14.5,
+        "finish": 16,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/47",
+          "PSYC20007/U/1/SM2/P01/17"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16,
+        "finish": 17.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/48",
+          "PSYC20007/U/1/SM2/P01/18"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 48
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 19.75,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/49",
+          "PSYC20007/U/1/SM2/P01/19"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/50",
+          "PSYC20007/U/1/SM2/P01/20"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 50
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/51",
+          "PSYC20007/U/1/SM2/P01/21"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 51
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/52"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 52
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/53",
+          "PSYC20007/U/1/SM2/P01/22"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 53
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/L01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/54",
+          "PSYC20007/U/1/SM2/P01/23"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 54
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/55",
+          "PSYC20007/U/1/SM2/P01/24"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 55
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 18,
+        "finish": 19.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/25"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/56",
+          "PSYC20007/U/1/SM2/P01/26"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 56
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/57",
+          "PSYC20007/U/1/SM2/P01/27"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 57
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/58",
+          "PSYC20007/U/1/SM2/P01/28"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 58
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/59",
+          "PSYC20007/U/1/SM2/P01/29"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 59
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 15,
+        "finish": 16.5,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC20007",
+        "codes": [
+          "PSYC20007/U/1/SM2/P01/60",
+          "PSYC20007/U/1/SM2/P01/30"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-616",
+          "PAR-Redmond Barry-615"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 60
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:35.677Z"
+}

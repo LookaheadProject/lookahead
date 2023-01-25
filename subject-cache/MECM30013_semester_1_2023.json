@@ -1,0 +1,1736 @@
+{
+  "subject": {
+    "code": "MECM30013",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/01",
+          "MECM30013/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-227 (Cecil Scutt Room)",
+          "PAR-Arts West North Wing-354"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/05"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-361"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/17"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-409"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/08"
+        ],
+        "locations": [
+          "PAR-Old Arts-143 (CLS3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/07",
+          "MECM30013/U/1/SM1/S01/04"
+        ],
+        "locations": [
+          "PAR-Old Arts-143 (CLS3)",
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/12"
+        ],
+        "locations": [
+          "PAR-Old Arts-143 (CLS3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/03"
+        ],
+        "locations": [
+          "PAR-Old Arts-257 (CLS2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/21",
+          "MECM30013/U/1/SM1/S01/06"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-115",
+          "PAR-Arts West North Wing-361"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/18_OC"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/19"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/22"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 13.75,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/23"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 23
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/24"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 24
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/09"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-261"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/10"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-261"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/11"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-455"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/15"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-114"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/18"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/26"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/13",
+          "MECM30013/U/1/SM1/S01/14"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354",
+          "PAR-Arts West North Wing-261"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/16"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/20",
+          "MECM30013/U/1/SM1/S01/27"
+        ],
+        "locations": [
+          "PAR-McCoy-211 (T&L Space 4 - Hills Room)",
+          "PAR-Arts West North Wing-156 (Lectorial Room I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/25"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G09 (Classroom D)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 25
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/01",
+          "MECM30013/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-227 (Cecil Scutt Room)",
+          "PAR-Arts West North Wing-354"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/17"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-409"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/08"
+        ],
+        "locations": [
+          "PAR-Old Arts-143 (CLS3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/03"
+        ],
+        "locations": [
+          "PAR-Old Arts-257 (CLS2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/07",
+          "MECM30013/U/1/SM1/S01/04"
+        ],
+        "locations": [
+          "PAR-Old Arts-143 (CLS3)",
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/05"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-361"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/12"
+        ],
+        "locations": [
+          "PAR-Old Arts-143 (CLS3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/21",
+          "MECM30013/U/1/SM1/S01/06"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-115",
+          "PAR-Arts West North Wing-361"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/19"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/09"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-261"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/10"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-261"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/22"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 13.75,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/23"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 23
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/24"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 24
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/18_OC"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/18"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/15"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-114"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/11"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-455"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/16"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/26"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/20",
+          "MECM30013/U/1/SM1/S01/27"
+        ],
+        "locations": [
+          "PAR-McCoy-211 (T&L Space 4 - Hills Room)",
+          "PAR-Arts West North Wing-156 (Lectorial Room I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/25"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G09 (Classroom D)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM30013",
+        "codes": [
+          "MECM30013/U/1/SM1/S01/13",
+          "MECM30013/U/1/SM1/S01/14"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354",
+          "PAR-Arts West North Wing-261"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 13
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:45.469Z"
+}

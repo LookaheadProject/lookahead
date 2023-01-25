@@ -1,0 +1,2311 @@
+{
+  "subject": {
+    "code": "PHYC10004",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/01"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/02"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/03"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 19.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/17"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/04"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/05"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/06",
+          "PHYC10004/U/1/SM2/PB1/18"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207",
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/04"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/13"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/08"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/11",
+          "PHYC10004/U/1/SM2/PB1/16"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207",
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/12",
+          "PHYC10004/U/1/SM2/PB1/20"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207",
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/07"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/14"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/13"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/21"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/15"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/19"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/09"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/10"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 10
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/01"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/02"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/03"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/04"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/05"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/06",
+          "PHYC10004/U/1/SM2/PB1/18"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207",
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 19.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/17"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/08"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/04"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/11",
+          "PHYC10004/U/1/SM2/PB1/16"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207",
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/12",
+          "PHYC10004/U/1/SM2/PB1/20"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207",
+          "PAR-David Caro-Podium 206"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/07"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/14"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/13"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/13"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-David Caro-P301 (Physics Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/21"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/15"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/19"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/09"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Problem-based 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PHYC10004",
+        "codes": [
+          "PHYC10004/U/1/SM2/PB1/10"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 207"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "PB"
+        },
+        "streamNumber": 10
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "PAR-Physics South-L108 (Laby Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "PAR-Physics South-L108 (Laby Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L03/01"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-101 (Lyle Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L01/03"
+                ],
+                "locations": [
+                  "PAR-Physics South-L108 (Laby Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L02/03"
+                ],
+                "locations": [
+                  "PAR-Physics South-L108 (Laby Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L03/03"
+                ],
+                "locations": [
+                  "PAR-Physics South-L108 (Laby Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L03/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PHYC10004",
+                "codes": [
+                  "PHYC10004/U/1/SM2/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:25.068Z"
+}

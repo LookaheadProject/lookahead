@@ -1,0 +1,78 @@
+{
+  "subject": {
+    "code": "DEVT90001",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DEVT90001",
+        "codes": [
+          "DEVT90001/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-107 (William Macmahon Ball Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DEVT90001",
+        "codes": [
+          "DEVT90001/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-107 (William Macmahon Ball Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:02.584Z"
+}

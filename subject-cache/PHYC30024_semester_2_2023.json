@@ -1,0 +1,224 @@
+{
+  "subject": {
+    "code": "PHYC30024",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Rm 260 in Physics David Caro",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          35
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30024",
+        "codes": [
+          "PHYC30024/U/1/SM2/W02/01"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueE"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rm 260 in Physics David Caro",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          37
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30024",
+        "codes": [
+          "PHYC30024/U/1/SM2/W03/01"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueE"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rm 260 in Physics David Caro",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30024",
+        "codes": [
+          "PHYC30024/U/1/SM2/W04/01"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueE"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rm 260 in Physics David Caro",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          33
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30024",
+        "codes": [
+          "PHYC30024/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueE"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 3",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC30024",
+                "codes": [
+                  "PHYC30024/U/1/SM2/L03/01"
+                ],
+                "locations": [
+                  "PAR-Physics South-L105 (Hercus Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC30024",
+                "codes": [
+                  "PHYC30024/U/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "PAR-Physics South-L105 (Hercus Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PHYC30024",
+                "codes": [
+                  "PHYC30024/U/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "PAR-Physics South-L105 (Hercus Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:26.079Z"
+}

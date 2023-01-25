@@ -1,0 +1,1389 @@
+{
+  "subject": {
+    "code": "KORE10001",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/12"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-114"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/12"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/11"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-114"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/11"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/10"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-114"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/10"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/09"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/09"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/17"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/17"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-718"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 17
+              }
+            ],
+            "streamNumbers": [
+              17
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/16"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/16"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-718"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/18"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-361"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 18
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/18"
+                ],
+                "locations": [
+                  "PAR-780 Elizabeth St-120"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 18
+              }
+            ],
+            "streamNumbers": [
+              18
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 11.5,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/14"
+                ],
+                "locations": [
+                  "PAR-Old Arts-254"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 14
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/14"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 14
+              }
+            ],
+            "streamNumbers": [
+              14
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/08"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-114"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/08"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/07"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-114"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/07"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 14.75,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/06"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/06"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/05"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/05"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/04"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/04"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13.25,
+                "finish": 14.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/03"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/03"
+                ],
+                "locations": [
+                  "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 11.5,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/02"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/02"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/01"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/01"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/15"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 13.75,
+                "finish": 15.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/15"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-113"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 15
+              }
+            ],
+            "streamNumbers": [
+              15
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T01/13"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-115"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.75,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "KORE10001",
+                "codes": [
+                  "KORE10001/U/1/SM1/T02/13"
+                ],
+                "locations": [
+                  "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 13
+              }
+            ],
+            "streamNumbers": [
+              13
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:18.232Z"
+}

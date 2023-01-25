@@ -1,0 +1,506 @@
+{
+  "subject": {
+    "code": "MULT10011",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT10011",
+        "codes": [
+          "MULT10011/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT10011",
+        "codes": [
+          "MULT10011/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT10011",
+        "codes": [
+          "MULT10011/U/1/SM1/L03/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/09"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/08"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/07"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/06"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/05"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/02"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P02/02"
+                ],
+                "locations": [
+                  "PAR-Biosciences 4-105PAR-Biosciences 4-106"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/01"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P02/01"
+                ],
+                "locations": [
+                  "PAR-Biosciences 4-105PAR-Biosciences 4-106"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/04"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MULT10011",
+                "codes": [
+                  "MULT10011/U/1/SM1/P01/03"
+                ],
+                "locations": [
+                  "PAR-David Caro-P407 (Multipurpose Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Practical",
+        "type": "P",
+        "okNumbers": 2,
+        "weirdNumbers": 7,
+        "maxCount": 2
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:58.036Z"
+}

@@ -1,0 +1,152 @@
+{
+  "subject": {
+    "code": "CWRI40009",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CWRI40009",
+        "codes": [
+          "CWRI40009/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CWRI40009",
+        "codes": [
+          "CWRI40009/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-227 (Cecil Scutt Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CWRI40009",
+        "codes": [
+          "CWRI40009/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CWRI40009",
+        "codes": [
+          "CWRI40009/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-227 (Cecil Scutt Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:00.542Z"
+}

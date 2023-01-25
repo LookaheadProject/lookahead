@@ -1,0 +1,199 @@
+{
+  "subject": {
+    "code": "JOUR90006",
+    "period": "january",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 0,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 0,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 2,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 2,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - Online",
+        "day": 3,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S03/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - On Campus",
+        "day": 3,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S04/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "JOUR90006",
+        "codes": [
+          "JOUR90006/U/1/JAN/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:17.611Z"
+}

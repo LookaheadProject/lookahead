@@ -1,0 +1,1062 @@
+{
+  "subject": {
+    "code": "MGMT30019",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8.5,
+        "finish": 10.5,
+        "weeks": [
+          4,
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT30019",
+        "codes": [
+          "MGMT30019/U/2/SUM/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 8.5,
+        "finish": 10.5,
+        "weeks": [
+          4,
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT30019",
+        "codes": [
+          "MGMT30019/U/2/SUM/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10.5,
+        "weeks": [
+          4,
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT30019",
+        "codes": [
+          "MGMT30019/U/2/SUM/L03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 8.5,
+        "finish": 10.5,
+        "weeks": [
+          4,
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT30019",
+        "codes": [
+          "MGMT30019/U/2/SUM/L04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 4,
+        "start": 8.5,
+        "finish": 10.5,
+        "weeks": [
+          4,
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT30019",
+        "codes": [
+          "MGMT30019/U/2/SUM/L05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-5018"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/09",
+                  "MGMT30019/U/2/SUM/T01/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/09",
+                  "MGMT30019/U/2/SUM/T02/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/09",
+                  "MGMT30019/U/2/SUM/T03/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/09",
+                  "MGMT30019/U/2/SUM/T04/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/09",
+                  "MGMT30019/U/2/SUM/T05/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9,
+              11
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/05",
+                  "MGMT30019/U/2/SUM/T01/08",
+                  "MGMT30019/U/2/SUM/T01/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/05",
+                  "MGMT30019/U/2/SUM/T02/08",
+                  "MGMT30019/U/2/SUM/T02/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/05",
+                  "MGMT30019/U/2/SUM/T03/08",
+                  "MGMT30019/U/2/SUM/T03/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/05",
+                  "MGMT30019/U/2/SUM/T04/08",
+                  "MGMT30019/U/2/SUM/T04/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/05",
+                  "MGMT30019/U/2/SUM/T05/08",
+                  "MGMT30019/U/2/SUM/T05/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5,
+              8,
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/02",
+                  "MGMT30019/U/2/SUM/T01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/02",
+                  "MGMT30019/U/2/SUM/T02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/02",
+                  "MGMT30019/U/2/SUM/T03/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/02",
+                  "MGMT30019/U/2/SUM/T04/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 12,
+                "finish": 13.5,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/02",
+                  "MGMT30019/U/2/SUM/T05/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T01/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T02/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T03/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T04/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 10.5,
+                "finish": 12,
+                "weeks": [
+                  4,
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT30019",
+                "codes": [
+                  "MGMT30019/U/2/SUM/T05/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:50.525Z"
+}

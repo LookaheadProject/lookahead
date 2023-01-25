@@ -1,0 +1,413 @@
+{
+  "subject": {
+    "code": "CLAS10007",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CLAS10007",
+        "codes": [
+          "CLAS10007/U/1/SUM/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-356"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CLAS10007",
+        "codes": [
+          "CLAS10007/U/1/SUM/T02/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-356"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CLAS10007",
+        "codes": [
+          "CLAS10007/U/1/SUM/T03/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-356"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 4",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CLAS10007",
+        "codes": [
+          "CLAS10007/U/1/SUM/T04/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-356"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 5",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CLAS10007",
+        "codes": [
+          "CLAS10007/U/1/SUM/T05/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-356"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L01/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-356"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L02/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-356"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L03/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-356"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L04/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-356"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L05/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-356"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CLAS10007",
+                "codes": [
+                  "CLAS10007/U/1/SUM/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:49.547Z"
+}

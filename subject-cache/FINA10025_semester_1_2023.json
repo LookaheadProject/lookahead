@@ -1,0 +1,1820 @@
+{
+  "subject": {
+    "code": "FINA10025",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Painting - Studio Practice",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W04/03"
+                ],
+                "locations": [
+                  "STH-874-211A (Painting Studios)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Painting - Materials and Techniques [Preparation Room]",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W01/03"
+                ],
+                "locations": [
+                  "STH-874-223 (Painting Preparation Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Painting - Group Critique (Group to be advised)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W06/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Painting - Group Critique (Group A)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/03"
+                ],
+                "locations": [
+                  "STH-874-211C (Maudsley)STH-874-211D (Loeffler)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Painting - Group Critique (Group to be advised)",
+                "day": 3,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W07/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Painting - Studio Practice",
+                "day": 4,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W05/03"
+                ],
+                "locations": [
+                  "STH-874-211A (Painting Studios)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Painting - Drawing Projects",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W03/03"
+                ],
+                "locations": [
+                  "STH-874-211C (Maudsley)STH-874-211D (Loeffler)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Photography - Film Scanning, Adobe Photoshop, Premiere (Group 1)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W10/08"
+                ],
+                "locations": [
+                  "STH-874-137C (Multimedia Lab)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Processing (Group 1)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  12,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W07/08"
+                ],
+                "locations": [
+                  "STH-874-145 (Process Room)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Processing (Group 1)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  12,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W17/08"
+                ],
+                "locations": [
+                  "STH-874-145 (Process Room)"
+                ],
+                "classCode": {
+                  "number": 17,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 1)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W03/08"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 1)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W04/08"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Whitewater Lecture",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  12,
+                  14,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W01/08"
+                ],
+                "locations": [
+                  "STH-874-157 (Tutorial Room A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Whitewater Lecture",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  12,
+                  14,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/08"
+                ],
+                "locations": [
+                  "STH-874-157 (Tutorial Room A)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Mini Tutorial (1A)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W16/08"
+                ],
+                "locations": [
+                  "STH-874-207 (Bracks Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Colour Darkroom Printing (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  16
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W08/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Film Scanning, Adobe Photoshop, Premiere (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W11/08"
+                ],
+                "locations": [
+                  "STH-874-137C (Multimedia Lab)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Lighting Studio and Use (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W13/08"
+                ],
+                "locations": [
+                  "STH-874-141 (Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Lighting Studio and Use (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W13/08"
+                ],
+                "locations": [
+                  "STH-874-141 (Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W05/08"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Colour Darkroom Printing (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  16
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W09/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Film Scanning, Adobe Photoshop, Premiere (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W12/08"
+                ],
+                "locations": [
+                  "STH-874-137C (Multimedia Lab)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - Lighting Studio and Use (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W14/08"
+                ],
+                "locations": [
+                  "STH-874-141 (Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Processing (Group 1)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  12,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W18/08"
+                ],
+                "locations": [
+                  "STH-874-145 (Process Room)"
+                ],
+                "classCode": {
+                  "number": 18,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W06/08"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Photography - On Photography Lecture",
+                "day": 4,
+                "start": 10,
+                "finish": 11.5,
+                "weeks": [
+                  10,
+                  12,
+                  16,
+                  18,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W15/08"
+                ],
+                "locations": [
+                  "STH-874-157 (Tutorial Room A)"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "W"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "DPM -  Drawing Workshop (Group 1 & 2)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W01/01"
+                ],
+                "locations": [
+                  "STH-874-208 (PG Tutorial Room)STH-875-180 (DP Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Drawing Workshop (Group 1 & 2)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/01"
+                ],
+                "locations": [
+                  "STH-874-208 (PG Tutorial Room)STH-875-180 (DP Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Print Workshop (Group 1 & 2)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  12,
+                  13,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W03/01"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)STH-875-194 (Screen Press Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Print Workshop (Group 1 & 2)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  11,
+                  12,
+                  13,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W04/01"
+                ],
+                "locations": [
+                  "STH-875-180 (DP Tutorial Room)STH-875-194 (Screen Press Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Life Drawing (Group 1)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W05/01"
+                ],
+                "locations": [
+                  "STH-874-209 (Jim Marks Life Drawing Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Studio Practice (Group 1 & 2)",
+                "day": 2,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W07/01"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Group Critique (Group 1)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W06/01"
+                ],
+                "locations": [
+                  "STH-874-208 (PG Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "DPM - Studio Practice (Group 1)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W08/01"
+                ],
+                "locations": [
+                  "X-To Be Advised;"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "DPM - Life Drawing (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  16,
+                  17,
+                  18,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W05/02"
+                ],
+                "locations": [
+                  "STH-874-209 (Jim Marks Life Drawing Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Group Critique (Group 2)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W06/02"
+                ],
+                "locations": [
+                  "STH-874-208 (PG Tutorial Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "DPM - Studio Practice (Group 2)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W08/02"
+                ],
+                "locations": [
+                  "STH-875-181 (D&PM Studios)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Painting - Group Critique (Group D)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/06"
+                ],
+                "locations": [
+                  "STH-874-211C (Maudsley)STH-874-211D (Loeffler)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Painting - Group Critique (Group C)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/05"
+                ],
+                "locations": [
+                  "STH-874-211C (Maudsley)STH-874-211D (Loeffler)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Sculpture - Workshop",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/07"
+                ],
+                "locations": [
+                  "STH-874-159 (EB Myer Studio)STH-874-170 (Teaching Workshop A)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Sculpture - Workshop",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W01/07"
+                ],
+                "locations": [
+                  "STH-874-170 (Teaching Workshop A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Sculpture - Casting Demonstration",
+                "day": 2,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W03/07"
+                ],
+                "locations": [
+                  "STH-874-170 (Teaching Workshop A)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Sculpture - Workshop",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W04/07"
+                ],
+                "locations": [
+                  "STH-874-158 (S&SP Tutorial Room)STH-874-159 (EB Myer Studio)STH-874-170 (Teaching Workshop A)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Sculpture - Workshop",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W05/07"
+                ],
+                "locations": [
+                  "STH-874-158 (S&SP Tutorial Room)STH-874-159 (EB Myer Studio)STH-874-170 (Teaching Workshop A)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Photography - Film Scanning, Adobe Photoshop, Premiere (Group 2)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W10/09"
+                ],
+                "locations": [
+                  "STH-874-137C (Multimedia Lab)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Processing (Group 2)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W07/09"
+                ],
+                "locations": [
+                  "STH-874-145 (Process Room)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Processing (Group 2)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W17/09"
+                ],
+                "locations": [
+                  "STH-874-145 (Process Room)"
+                ],
+                "classCode": {
+                  "number": 17,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 2)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W03/09"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 2)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W04/09"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Mini Tutorial (1B)",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W16/09"
+                ],
+                "locations": [
+                  "STH-874-207 (Bracks Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Colour Darkroom Printing (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  12,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W08/09"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Film Scanning, Adobe Photoshop, Premiere (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  16,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W11/09"
+                ],
+                "locations": [
+                  "STH-874-137C (Multimedia Lab)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Lighting Studio and Use (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W13/09"
+                ],
+                "locations": [
+                  "STH-874-141 (Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Lighting Studio and Use (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W13/09"
+                ],
+                "locations": [
+                  "STH-874-141 (Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 2)",
+                "day": 2,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W05/09"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Colour Darkroom Printing (Group 2)",
+                "day": 3,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  12,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W09/09"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Film Scanning, Adobe Photoshop, Premiere (Group 2)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  16,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W12/09"
+                ],
+                "locations": [
+                  "STH-874-137C (Multimedia Lab)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - Lighting Studio and Use (Group 2)",
+                "day": 3,
+                "start": 9,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W14/09"
+                ],
+                "locations": [
+                  "STH-874-141 (Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Processing (Group 2)",
+                "day": 3,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W18/09"
+                ],
+                "locations": [
+                  "STH-874-145 (Process Room)"
+                ],
+                "classCode": {
+                  "number": 18,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Photography - B&W Darkroom Printing (Group 2)",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W06/09"
+                ],
+                "locations": [
+                  "STH-874-148 (B&W Photo Darkrooms Bays 1-17)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Painting - Group Critique (Group B)",
+                "day": 2,
+                "start": 13.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W02/04"
+                ],
+                "locations": [
+                  "STH-874-211C (Maudsley)STH-874-211D (Loeffler)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Photography - Mini Tutorial (1C)",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W16/10",
+                  "FINA10025/STH/1/SM1/W16/12"
+                ],
+                "locations": [
+                  "STH-874-207 (Bracks Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "W"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Photography - Mini Tutorial (1D)",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA10025",
+                "codes": [
+                  "FINA10025/STH/1/SM1/W16/11"
+                ],
+                "locations": [
+                  "STH-874-207 (Bracks Photography Studio)"
+                ],
+                "classCode": {
+                  "number": 16,
+                  "type": "W"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "PaintingDrawingProjects"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "PaintingDrawingProjects",
+        "type": "W",
+        "okNumbers": 1,
+        "weirdNumbers": 10,
+        "maxCount": 19
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:38.445Z"
+}

@@ -1,0 +1,195 @@
+{
+  "subject": {
+    "code": "FLTV10014",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV10014",
+        "codes": [
+          "FLTV10014/STH/1/SM1/W01/01",
+          "FLTV10014/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)",
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          12,
+          17,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10014",
+        "codes": [
+          "FLTV10014/STH/1/SM1/T01/02",
+          "FLTV10014/STH/1/SM1/T01/05",
+          "FLTV10014/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-882-GM01 (Guild Design Studio 1)",
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          12,
+          17,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10014",
+        "codes": [
+          "FLTV10014/STH/1/SM1/T01/04",
+          "FLTV10014/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-882-GM01 (Guild Design Studio 1)",
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV10014",
+        "codes": [
+          "FLTV10014/STH/1/SM1/W01/01",
+          "FLTV10014/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)",
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          12,
+          17,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10014",
+        "codes": [
+          "FLTV10014/STH/1/SM1/T01/02",
+          "FLTV10014/STH/1/SM1/T01/05",
+          "FLTV10014/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-882-GM01 (Guild Design Studio 1)",
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          12,
+          17,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV10014",
+        "codes": [
+          "FLTV10014/STH/1/SM1/T01/04",
+          "FLTV10014/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-882-GM01 (Guild Design Studio 1)",
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:41.599Z"
+}

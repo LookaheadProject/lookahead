@@ -1,0 +1,140 @@
+{
+  "subject": {
+    "code": "EDUC91112",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91112",
+        "codes": [
+          "EDUC91112/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-503and504 (Music Studios)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91112",
+        "codes": [
+          "EDUC91112/U/1/SM1/S01/02",
+          "EDUC91112/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-504 (Music Studio 2)",
+          "PAR-Kwong Lee Dow-503 (Music Studio 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91112",
+        "codes": [
+          "EDUC91112/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-503and504 (Music Studios)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91112",
+        "codes": [
+          "EDUC91112/U/1/SM1/S01/02",
+          "EDUC91112/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-504 (Music Studio 2)",
+          "PAR-Kwong Lee Dow-503 (Music Studio 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:24.624Z"
+}

@@ -1,0 +1,261 @@
+{
+  "subject": {
+    "code": "ABPL90140",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.5,
+        "finish": 19,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM1/T01/09",
+          "ABPL90140/U/1/SM1/T01/04",
+          "ABPL90140/U/1/SM1/T01/03",
+          "ABPL90140/U/1/SM1/T01/02",
+          "ABPL90140/U/1/SM1/T01/01",
+          "ABPL90140/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-114",
+          "PAR-Elisabeth Murdoch-G04",
+          "PAR-Glyn Davis (MSD)-144 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-146 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-237",
+          "PAR-Redmond Barry-822"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 19,
+        "finish": 20.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM1/T01/12",
+          "ABPL90140/U/1/SM1/T01/10",
+          "ABPL90140/U/1/SM1/T01/06",
+          "ABPL90140/U/1/SM1/T01/05",
+          "ABPL90140/U/1/SM1/T01/07",
+          "ABPL90140/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-114",
+          "PAR-Elisabeth Murdoch-G04",
+          "PAR-Glyn Davis (MSD)-144 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-146 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-237",
+          "PAR-Redmond Barry-822"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Physics South-L108 (Laby Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.5,
+        "finish": 19,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM1/T01/09",
+          "ABPL90140/U/1/SM1/T01/04",
+          "ABPL90140/U/1/SM1/T01/03",
+          "ABPL90140/U/1/SM1/T01/02",
+          "ABPL90140/U/1/SM1/T01/01",
+          "ABPL90140/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-114",
+          "PAR-Elisabeth Murdoch-G04",
+          "PAR-Glyn Davis (MSD)-144 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-146 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-237",
+          "PAR-Redmond Barry-822"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 19,
+        "finish": 20.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM1/T01/12",
+          "ABPL90140/U/1/SM1/T01/10",
+          "ABPL90140/U/1/SM1/T01/06",
+          "ABPL90140/U/1/SM1/T01/05",
+          "ABPL90140/U/1/SM1/T01/07",
+          "ABPL90140/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-114",
+          "PAR-Elisabeth Murdoch-G04",
+          "PAR-Glyn Davis (MSD)-144 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-146 (Seminar Room)",
+          "PAR-Glyn Davis (MSD)-237",
+          "PAR-Redmond Barry-822"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:11.401Z"
+}

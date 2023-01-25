@@ -1,0 +1,83 @@
+{
+  "subject": {
+    "code": "ABPL90061",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Studio 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90061",
+        "codes": [
+          "ABPL90061/U/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 2",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90061",
+        "codes": [
+          "ABPL90061/U/1/SM1/ST2/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:09.950Z"
+}

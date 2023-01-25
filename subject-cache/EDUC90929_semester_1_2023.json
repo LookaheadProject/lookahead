@@ -1,0 +1,324 @@
+{
+  "subject": {
+    "code": "EDUC90929",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1 Online Class",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/04"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1 Online Class",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/07"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/06",
+          "EDUC90929/U/1/SM1/S01/03",
+          "EDUC90929/U/1/SM1/S01/05"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)",
+          "PAR-100 Leicester Street-105",
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1 Online Class",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/04"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/06",
+          "EDUC90929/U/1/SM1/S01/03",
+          "EDUC90929/U/1/SM1/S01/05"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)",
+          "PAR-100 Leicester Street-105",
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Seminar 1 Online Class",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          13,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90929",
+        "codes": [
+          "EDUC90929/U/1/SM1/S01/07"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:19.006Z"
+}

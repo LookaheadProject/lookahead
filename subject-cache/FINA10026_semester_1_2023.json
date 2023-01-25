@@ -1,0 +1,845 @@
+{
+  "subject": {
+    "code": "FINA10026",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1 (Recorded)",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1 (B-Des) HOLD",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/19"
+        ],
+        "locations": [
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART) (HOLD)",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/06"
+        ],
+        "locations": [
+          "STH-860-222 (Tutorial Room 4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART)",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/05",
+          "FINA10026/STH/1/SM1/T01/08"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART)",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/02",
+          "FINA10026/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-874-211B (Tutorial Room B)",
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART)",
+        "day": 0,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/04",
+          "FINA10026/STH/1/SM1/T01/07",
+          "FINA10026/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-874-211B (Tutorial Room B)",
+          "STH-860-202 (Tutorial Room 2)",
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 2,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/09",
+          "FINA10026/STH/1/SM1/T01/11"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "STH-874-157 (Tutorial Room A)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/10"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/13"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/14"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1 (B-Des) HOLD",
+        "day": 4,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/18",
+          "FINA10026/STH/1/SM1/T01/16"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "PAR-Biosciences 4-B81"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1 (B-Des) HOLD",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/15",
+          "FINA10026/STH/1/SM1/T01/17"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "PAR-Biosciences 4-B81"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1 (Recorded)",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Turorial 1 (B-FAVISART)",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/02",
+          "FINA10026/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-874-211B (Tutorial Room B)",
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART)",
+        "day": 0,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/04",
+          "FINA10026/STH/1/SM1/T01/07",
+          "FINA10026/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-874-211B (Tutorial Room B)",
+          "STH-860-202 (Tutorial Room 2)",
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART)",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/05",
+          "FINA10026/STH/1/SM1/T01/08"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Turorial 1 (B-FAVISART) (HOLD)",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/06"
+        ],
+        "locations": [
+          "STH-860-222 (Tutorial Room 4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1 (B-Des) HOLD",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/19"
+        ],
+        "locations": [
+          "STH-860-202 (Tutorial Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 2,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/09",
+          "FINA10026/STH/1/SM1/T01/11"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "STH-874-157 (Tutorial Room A)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/10"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/13"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1 (B-Des)",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/14"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1 (B-Des) HOLD",
+        "day": 4,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/18",
+          "FINA10026/STH/1/SM1/T01/16"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "PAR-Biosciences 4-B81"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1 (B-Des) HOLD",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA10026",
+        "codes": [
+          "FINA10026/STH/1/SM1/T01/15",
+          "FINA10026/STH/1/SM1/T01/17"
+        ],
+        "locations": [
+          "STH-874-210 (Utility Room)",
+          "PAR-Biosciences 4-B81"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:38.594Z"
+}

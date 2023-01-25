@@ -1,0 +1,289 @@
+{
+  "subject": {
+    "code": "ELEN90095",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "placeholder 1st hour",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/L01/01 placeholder 1st hour"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18andG20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Babel-106 (Middle Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Placeholder 2nd hour",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/L01/01 Placeholder 2nd hour"
+        ],
+        "locations": [
+          "PAR-Building 168-416 (Steve Howard Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18andG20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "placeholder 1st hour",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/L01/01 placeholder 1st hour"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Babel-106 (Middle Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Placeholder 2nd hour",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ELEN90095",
+        "codes": [
+          "ELEN90095/U/1/SM2/L01/01 Placeholder 2nd hour"
+        ],
+        "locations": [
+          "PAR-Building 168-416 (Steve Howard Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:30.524Z"
+}

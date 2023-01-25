@@ -1,0 +1,279 @@
+{
+  "subject": {
+    "code": "THTR20043",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T01/01",
+                  "THTR20043/STH/2/WIN/T01/04",
+                  "THTR20043/STH/2/WIN/T01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T02/01",
+                  "THTR20043/STH/2/WIN/T02/04",
+                  "THTR20043/STH/2/WIN/T02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T03/01",
+                  "THTR20043/STH/2/WIN/T03/04",
+                  "THTR20043/STH/2/WIN/T03/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T04/01",
+                  "THTR20043/STH/2/WIN/T04/04",
+                  "THTR20043/STH/2/WIN/T04/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T05/01",
+                  "THTR20043/STH/2/WIN/T05/04",
+                  "THTR20043/STH/2/WIN/T05/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              4,
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20043",
+                "codes": [
+                  "THTR20043/STH/2/WIN/T05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:51.975Z"
+}

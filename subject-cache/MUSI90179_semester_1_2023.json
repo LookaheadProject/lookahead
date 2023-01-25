@@ -1,0 +1,63 @@
+{
+  "subject": {
+    "code": "MUSI90179",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 5,
+        "start": 10,
+        "finish": 14,
+        "weeks": [
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90179",
+        "codes": [
+          "MUSI90179/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 6,
+        "start": 10,
+        "finish": 14,
+        "weeks": [
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90179",
+        "codes": [
+          "MUSI90179/U/1/SM1/S02/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:42:15.609Z"
+}

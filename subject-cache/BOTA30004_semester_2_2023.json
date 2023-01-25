@@ -1,0 +1,299 @@
+{
+  "subject": {
+    "code": "BOTA30004",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-202 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          38,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/04",
+          "BOTA30004/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)",
+          "PAR-Old Microbiology-214 (Prac Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          38,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          38,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-202 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          38,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/04",
+          "BOTA30004/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)",
+          "PAR-Old Microbiology-214 (Prac Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          38,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          38,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BOTA30004",
+        "codes": [
+          "BOTA30004/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "X-On Campus Location Creswick (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:38.782Z"
+}

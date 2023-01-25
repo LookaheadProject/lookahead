@@ -1,0 +1,383 @@
+{
+  "subject": {
+    "code": "EDUC90508",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 7",
+        "day": 5,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S07/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 7",
+        "day": 5,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S07/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 8",
+        "day": 5,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S08/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 8",
+        "day": 5,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S08/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 6,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S03/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 6,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          38
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S05/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 6,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          32
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 6,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          38
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 6,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          36
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 6,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          32
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 6,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S04/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 6,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          32
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 6",
+        "day": 6,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          38
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/1/SM2/S06/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 6",
+        "day": 6,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          38
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S06/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 6,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          36
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 6,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          32
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90508",
+        "codes": [
+          "EDUC90508/U/2/SM2/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:14.760Z"
+}

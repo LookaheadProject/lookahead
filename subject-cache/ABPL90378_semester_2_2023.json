@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "ABPL90378",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90378",
+        "codes": [
+          "ABPL90378/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-G02 (Andrew Lee King Fun Gallery)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90378",
+        "codes": [
+          "ABPL90378/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-G02 (Andrew Lee King Fun Gallery)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:14.757Z"
+}

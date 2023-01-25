@@ -1,0 +1,72 @@
+{
+  "subject": {
+    "code": "AIND20011",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          32,
+          35,
+          38,
+          40,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AIND20011",
+        "codes": [
+          "AIND20011/STH/1/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          32,
+          35,
+          38,
+          40,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AIND20011",
+        "codes": [
+          "AIND20011/STH/1/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:23.786Z"
+}

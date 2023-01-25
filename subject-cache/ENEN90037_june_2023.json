@@ -1,0 +1,130 @@
+{
+  "subject": {
+    "code": "ENEN90037",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 11,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90037",
+        "codes": [
+          "ENEN90037/U/1/JUN/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS1"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 1,
+        "start": 11,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90037",
+        "codes": [
+          "ENEN90037/U/1/JUN/W02/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS1"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 2,
+        "start": 11,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90037",
+        "codes": [
+          "ENEN90037/U/1/JUN/W03/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS1"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 4",
+        "day": 3,
+        "start": 11,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90037",
+        "codes": [
+          "ENEN90037/U/1/JUN/W04/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS1"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 5",
+        "day": 4,
+        "start": 11,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90037",
+        "codes": [
+          "ENEN90037/U/1/JUN/W05/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS1"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:31.289Z"
+}

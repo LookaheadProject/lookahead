@@ -1,0 +1,525 @@
+{
+  "subject": {
+    "code": "DNCE20036",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P01/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 2",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P02/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 3",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P03/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 4",
+        "day": 1,
+        "start": 8.5,
+        "finish": 9,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P04/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 5",
+        "day": 1,
+        "start": 9.25,
+        "finish": 10.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P05/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 6",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P06/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 7",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P07/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 8",
+        "day": 2,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P08/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 9",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P09/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 10",
+        "day": 3,
+        "start": 8.5,
+        "finish": 9,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P10/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 11",
+        "day": 3,
+        "start": 9.25,
+        "finish": 11.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P11/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 11,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 12",
+        "day": 3,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P12/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 12,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 13",
+        "day": 4,
+        "start": 9,
+        "finish": 9.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P13/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 13,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 14",
+        "day": 4,
+        "start": 9.75,
+        "finish": 11.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P14/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 14,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 15",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DNCE20036",
+        "codes": [
+          "DNCE20036/STH/1/SM2/P15/01"
+        ],
+        "locations": [
+          "STH-864-202"
+        ],
+        "classCode": {
+          "number": 15,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:04.185Z"
+}

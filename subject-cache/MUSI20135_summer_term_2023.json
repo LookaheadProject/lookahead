@@ -1,0 +1,278 @@
+{
+  "subject": {
+    "code": "MUSI20135",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Rehearsal 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20135",
+        "codes": [
+          "MUSI20135/U/2/SUM/R01/01"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 2",
+        "day": 2,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI20135",
+        "codes": [
+          "MUSI20135/U/2/SUM/R02/01"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "R"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "Breakout",
+            "classes": [
+              {
+                "description": "Breakout1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20135",
+                "codes": [
+                  "MUSI20135/U/2/SUM/Breakout1/02",
+                  "MUSI20135/U/2/SUM/Breakout1/01"
+                ],
+                "locations": [
+                  "PAR-MCM-219 (Ensemble Room)",
+                  "PAR-MCM-134 (Tallis Wing)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "Breakout"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Breakout2",
+                "day": 2,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20135",
+                "codes": [
+                  "MUSI20135/U/2/SUM/Breakout2/02",
+                  "MUSI20135/U/2/SUM/Breakout2/01"
+                ],
+                "locations": [
+                  "PAR-MCM-219 (Ensemble Room)",
+                  "PAR-MCM-134 (Tallis Wing)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "Breakout"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              1
+            ]
+          },
+          {
+            "type": "Breakout",
+            "classes": [
+              {
+                "description": "Breakout1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20135",
+                "codes": [
+                  "MUSI20135/U/2/SUM/Breakout1/03"
+                ],
+                "locations": [
+                  "PAR-MCM-208 (Ensemble Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "Breakout"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Breakout2",
+                "day": 2,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI20135",
+                "codes": [
+                  "MUSI20135/U/2/SUM/Breakout2/03"
+                ],
+                "locations": [
+                  "PAR-MCM-208 (Ensemble Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "Breakout"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "Breakout",
+            "classes": [
+              {
+                "description": "Breakout1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20135",
+                "codes": [
+                  "MUSI20135/U/2/SUM/Breakout1/05",
+                  "MUSI20135/U/2/SUM/Breakout1/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "Breakout"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Breakout2",
+                "day": 2,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MUSI20135",
+                "codes": [
+                  "MUSI20135/U/2/SUM/Breakout2/05",
+                  "MUSI20135/U/2/SUM/Breakout2/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "Breakout"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5,
+              4
+            ]
+          }
+        ],
+        "type": "Breakout",
+        "name": "Breakout"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:05.241Z"
+}

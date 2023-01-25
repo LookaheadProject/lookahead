@@ -1,0 +1,320 @@
+{
+  "subject": {
+    "code": "CVEN90058",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/W01/02",
+          "CVEN90058/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS2"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/W01/04",
+          "CVEN90058/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS2"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/W01/03",
+          "CVEN90058/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS2"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/W01/02",
+          "CVEN90058/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS2"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/W01/04",
+          "CVEN90058/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS2"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN90058",
+        "codes": [
+          "CVEN90058/U/1/SM2/W01/03",
+          "CVEN90058/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS2"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:59.401Z"
+}

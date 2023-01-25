@@ -1,0 +1,3438 @@
+{
+  "subject": {
+    "code": "MAST10007",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/28"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 28
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/28"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 28
+              }
+            ],
+            "streamNumbers": [
+              28
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/15"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/15"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 15
+              }
+            ],
+            "streamNumbers": [
+              15
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/40",
+                  "MAST10007/U/1/SM2/P01/57"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G14",
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 40
+              }
+            ],
+            "streamNumbers": [
+              40
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/44",
+                  "MAST10007/U/1/SM2/P01/47"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G09 (Classroom D)",
+                  "PAR-Chemistry-156"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 44
+              }
+            ],
+            "streamNumbers": [
+              44
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/26"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 26
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/26"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 26
+              }
+            ],
+            "streamNumbers": [
+              26
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/13"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/13"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 13
+              }
+            ],
+            "streamNumbers": [
+              13
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/50",
+                  "MAST10007/U/1/SM2/P01/30"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204",
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 50
+              }
+            ],
+            "streamNumbers": [
+              50
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/42",
+                  "MAST10007/U/1/SM2/P01/54"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203",
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 42
+              }
+            ],
+            "streamNumbers": [
+              42
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/51"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 51
+              }
+            ],
+            "streamNumbers": [
+              51
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/18"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 18
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/18"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 18
+              }
+            ],
+            "streamNumbers": [
+              18
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/09"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/09"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/01"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/12"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G09 (Classroom D)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/12"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/05"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/05"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/24"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 24
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/24"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 24
+              }
+            ],
+            "streamNumbers": [
+              24
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/11"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G10"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/11"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/20"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 20
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/20"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 20
+              }
+            ],
+            "streamNumbers": [
+              20
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/39"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 39
+              }
+            ],
+            "streamNumbers": [
+              39
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/04"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/04"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/45"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 45
+              }
+            ],
+            "streamNumbers": [
+              45
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/48"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 48
+              }
+            ],
+            "streamNumbers": [
+              48
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/14"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/14"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              }
+            ],
+            "streamNumbers": [
+              14
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/49"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 49
+              }
+            ],
+            "streamNumbers": [
+              49
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/22"
+                ],
+                "locations": [
+                  "PAR-Chemistry-156"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 22
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/22"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 22
+              }
+            ],
+            "streamNumbers": [
+              22
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/16"
+                ],
+                "locations": [
+                  "PAR-Chemistry-156"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/16"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G09 (Classroom D)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/02"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/06"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/06"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/34"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G09 (Classroom D)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 34
+              }
+            ],
+            "streamNumbers": [
+              34
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/07"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/07"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/08"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/08"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/32",
+                  "MAST10007/U/1/SM2/P01/33"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203",
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 32
+              }
+            ],
+            "streamNumbers": [
+              32
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/19"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G09 (Classroom D)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 19
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/19"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 19
+              }
+            ],
+            "streamNumbers": [
+              19
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/21"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 21
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/21"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 21
+              }
+            ],
+            "streamNumbers": [
+              21
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/56",
+                  "MAST10007/U/1/SM2/P01/36"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G10",
+                  "PAR-Peter Hall-G09 (Classroom D)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 56
+              }
+            ],
+            "streamNumbers": [
+              56
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/29"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 29
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/29"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 29
+              }
+            ],
+            "streamNumbers": [
+              29
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/27"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G14"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 27
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/27"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 27
+              }
+            ],
+            "streamNumbers": [
+              27
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/17"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/17"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-212 (Nanson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 17
+              }
+            ],
+            "streamNumbers": [
+              17
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/53"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 53
+              }
+            ],
+            "streamNumbers": [
+              53
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/10"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/10"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/41"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 41
+              }
+            ],
+            "streamNumbers": [
+              41
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/46"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 46
+              }
+            ],
+            "streamNumbers": [
+              46
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/31"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 31
+              }
+            ],
+            "streamNumbers": [
+              31
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/23"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 23
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/23"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 23
+              }
+            ],
+            "streamNumbers": [
+              23
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/43"
+                ],
+                "locations": [
+                  "PAR-Chemistry-156"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 43
+              }
+            ],
+            "streamNumbers": [
+              43
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/25"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 202"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 25
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P02/25"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 25
+              }
+            ],
+            "streamNumbers": [
+              25
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/35",
+                  "MAST10007/U/1/SM2/P01/52"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-G09 (Classroom D)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 35
+              }
+            ],
+            "streamNumbers": [
+              35
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/37"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 204"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 37
+              }
+            ],
+            "streamNumbers": [
+              37
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/38"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 38
+              }
+            ],
+            "streamNumbers": [
+              38
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/P01/55"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 203"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 55
+              }
+            ],
+            "streamNumbers": [
+              55
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L01/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L02/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L03/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L01/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L02/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L03/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10007",
+                "codes": [
+                  "MAST10007/U/1/SM2/L03/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Practical",
+        "type": "P",
+        "okNumbers": 29,
+        "weirdNumbers": 21,
+        "maxCount": 2
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:35.874Z"
+}

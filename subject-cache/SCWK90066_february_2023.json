@@ -1,0 +1,388 @@
+{
+  "subject": {
+    "code": "SCWK90066",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/02",
+          "SCWK90066/U/1/FEB/T01/01"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-102 (CLS)",
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/07"
+        ],
+        "locations": [
+          "PAR-John Medley-EG66"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 12.5,
+        "finish": 14,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/03",
+          "SCWK90066/U/1/FEB/T01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-W201",
+          "PAR-John Medley-EG66"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/06",
+          "SCWK90066/U/1/FEB/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-W201",
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/02",
+          "SCWK90066/U/1/FEB/T01/01"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-102 (CLS)",
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 12.5,
+        "finish": 14,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/03",
+          "SCWK90066/U/1/FEB/T01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-W201",
+          "PAR-John Medley-EG66"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/06",
+          "SCWK90066/U/1/FEB/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-W201",
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCWK90066",
+        "codes": [
+          "SCWK90066/U/1/FEB/T01/07"
+        ],
+        "locations": [
+          "PAR-John Medley-EG66"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:47.547Z"
+}

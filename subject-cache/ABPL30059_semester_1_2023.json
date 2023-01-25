@@ -1,0 +1,357 @@
+{
+  "subject": {
+    "code": "ABPL30059",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/02"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/03"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/04"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-129 (Theatre B)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/02"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/03"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Studio 1",
+        "day": 3,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30059",
+        "codes": [
+          "ABPL30059/U/1/SM1/ST1/04"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:08.583Z"
+}

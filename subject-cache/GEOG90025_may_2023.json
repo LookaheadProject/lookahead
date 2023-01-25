@@ -1,0 +1,283 @@
+{
+  "subject": {
+    "code": "GEOG90025",
+    "period": "may",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Fieldwork 2",
+        "day": 0,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW2/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 7",
+        "day": 0,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          29
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW7/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 3",
+        "day": 1,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW3/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 8",
+        "day": 1,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          29
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW8/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 4",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW4/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 5",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW5/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW1/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 6",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/MAY/FW6/01"
+        ],
+        "locations": [
+          "X-Off SiteB"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOG90025",
+                "codes": [
+                  "GEOG90025/U/1/MAY/S01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-420"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOG90025",
+                "codes": [
+                  "GEOG90025/U/1/MAY/S02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-420"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 3",
+                "day": 4,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  30
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOG90025",
+                "codes": [
+                  "GEOG90025/U/1/MAY/S03/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:57.147Z"
+}

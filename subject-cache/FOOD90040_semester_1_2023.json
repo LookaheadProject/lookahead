@@ -1,0 +1,152 @@
+{
+  "subject": {
+    "code": "FOOD90040",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FOOD90040",
+        "codes": [
+          "FOOD90040/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FOOD90040",
+        "codes": [
+          "FOOD90040/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FOOD90040",
+        "codes": [
+          "FOOD90040/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FOOD90040",
+        "codes": [
+          "FOOD90040/U/1/SM1/S01/02"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:49.474Z"
+}

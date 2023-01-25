@@ -1,0 +1,72 @@
+{
+  "subject": {
+    "code": "CREA90009",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.5,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CREA90009",
+        "codes": [
+          "CREA90009/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.5,
+        "finish": 16.5,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CREA90009",
+        "codes": [
+          "CREA90009/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:54.637Z"
+}

@@ -1,0 +1,596 @@
+{
+  "subject": {
+    "code": "ENGR20004",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR20004",
+        "codes": [
+          "ENGR20004/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR20004",
+        "codes": [
+          "ENGR20004/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR20004",
+        "codes": [
+          "ENGR20004/U/1/SM2/L03/01"
+        ],
+        "locations": [
+          "PAR-Medical-W312 (ESJ King Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/02"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5PAR-Old Engineering-G49A (EDS5A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T02/02"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/03"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5PAR-Old Engineering-G49A (EDS5A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T02/03"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/05"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5PAR-Old Engineering-G49A (EDS5A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 8,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T02/05"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/04"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5PAR-Old Engineering-G49A (EDS5A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T02/04"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/01"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5PAR-Old Engineering-G49A (EDS5A)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 0,
+                "start": 19.25,
+                "finish": 21.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T02/01"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/07"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR20004",
+                "codes": [
+                  "ENGR20004/U/1/SM2/T01/06"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Tutorial",
+        "type": "T",
+        "okNumbers": 5,
+        "weirdNumbers": 2,
+        "maxCount": 2
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:33.489Z"
+}

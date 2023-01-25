@@ -1,0 +1,352 @@
+{
+  "subject": {
+    "code": "ANSC90007",
+    "period": "may",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 3",
+        "day": 0,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/L03/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/L01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Student Presentations",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/S01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/L04/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/L02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Student Presentations",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/S02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Student Presentations",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/S03/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-120 (Theatre 4)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Student Presentations",
+        "day": 4,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/S04/01"
+        ],
+        "locations": [
+          "PAR-Babel-G03 (Lower Theatre)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Student Presentations",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90007",
+        "codes": [
+          "ANSC90007/U/1/MAY/S05/01"
+        ],
+        "locations": [
+          "PAR-Babel-G03 (Lower Theatre)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 3",
+                "day": 0,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90007",
+                "codes": [
+                  "ANSC90007/U/1/MAY/W03/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-420"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90007",
+                "codes": [
+                  "ANSC90007/U/1/MAY/W01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G03"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 1,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90007",
+                "codes": [
+                  "ANSC90007/U/1/MAY/W04/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G03"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90007",
+                "codes": [
+                  "ANSC90007/U/1/MAY/W05/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-417"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2 - Chicken Welfare @ Animal House",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90007",
+                "codes": [
+                  "ANSC90007/U/1/MAY/W02/01"
+                ],
+                "locations": [
+                  "X-Departmentally Organised Venue"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "WorkshopChickenWelfareAnimalHouse"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:26.622Z"
+}

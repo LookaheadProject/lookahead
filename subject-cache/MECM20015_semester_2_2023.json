@@ -1,0 +1,1321 @@
+{
+  "subject": {
+    "code": "MECM20015",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/05",
+          "MECM20015/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354",
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/18",
+          "MECM20015/U/1/SM2/T01/19"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-G06",
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/15"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12.5,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/16"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/10"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 14.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.75,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/20"
+        ],
+        "locations": [
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/21"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-561"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Babel-320"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12.5,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/14"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/17",
+          "MECM20015/U/1/SM2/T01/13"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 14.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/11"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.75,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/12"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/05",
+          "MECM20015/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354",
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/18",
+          "MECM20015/U/1/SM2/T01/19"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-G06",
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/15"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/10"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12.5,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/16"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 14.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.75,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/20"
+        ],
+        "locations": [
+          "PAR-Old Arts-209 (Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/21"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-561"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Babel-320"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/17",
+          "MECM20015/U/1/SM2/T01/13"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-124",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12.5,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/14"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 14.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/11"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.75,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/12"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-461"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20015",
+        "codes": [
+          "MECM20015/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Babel-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:45.194Z"
+}

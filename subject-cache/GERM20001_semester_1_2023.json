@@ -1,0 +1,249 @@
+{
+  "subject": {
+    "code": "GERM20001",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM20001",
+                "codes": [
+                  "GERM20001/U/1/SM1/S01/02"
+                ],
+                "locations": [
+                  "PAR-Old Quad-G17 (Cussonia Court Room 1)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 2",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM20001",
+                "codes": [
+                  "GERM20001/U/1/SM1/S02/02"
+                ],
+                "locations": [
+                  "PAR-Sidney Myer Asia Ctr-117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 3,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM20001",
+                "codes": [
+                  "GERM20001/U/1/SM1/S01/03"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-263"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM20001",
+                "codes": [
+                  "GERM20001/U/1/SM1/S02/03"
+                ],
+                "locations": [
+                  "PAR-Babel-G04"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 2,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM20001",
+                "codes": [
+                  "GERM20001/U/1/SM1/S01/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM20001",
+                "codes": [
+                  "GERM20001/U/1/SM1/S02/01"
+                ],
+                "locations": [
+                  "PAR-Babel-204"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:59.900Z"
+}

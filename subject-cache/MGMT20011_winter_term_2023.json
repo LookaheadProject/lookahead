@@ -1,0 +1,1709 @@
+{
+  "subject": {
+    "code": "MGMT20011",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          26,
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MGMT20011",
+        "codes": [
+          "MGMT20011/U/1/WIN/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          26,
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MGMT20011",
+        "codes": [
+          "MGMT20011/U/1/WIN/L02/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          26,
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MGMT20011",
+        "codes": [
+          "MGMT20011/U/1/WIN/L03/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          26,
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MGMT20011",
+        "codes": [
+          "MGMT20011/U/1/WIN/L04/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          26,
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MGMT20011",
+        "codes": [
+          "MGMT20011/U/1/WIN/L05/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 6",
+        "day": 4,
+        "start": 16.75,
+        "finish": 17.75,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MGMT20011",
+        "codes": [
+          "MGMT20011/U/1/WIN/L06/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/09"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/09"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/09"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/09"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/04"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/04"
+                ],
+                "locations": [
+                  "PAR-The Spot-5015"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/04"
+                ],
+                "locations": [
+                  "PAR-The Spot-5015"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/04"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/04"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/04"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/12"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/12"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/12"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/12"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-5015"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/03"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/03"
+                ],
+                "locations": [
+                  "PAR-FBE-219"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5015"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 12.5,
+                "finish": 14,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/02"
+                ],
+                "locations": [
+                  "PAR-FBE-219"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T01/01"
+                ],
+                "locations": [
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T02/01"
+                ],
+                "locations": [
+                  "PAR-The Spot-3013"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T03/01"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T04/01"
+                ],
+                "locations": [
+                  "PAR-The Spot-3012"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 11,
+                "finish": 12.5,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20011",
+                "codes": [
+                  "MGMT20011/U/1/WIN/T05/01"
+                ],
+                "locations": [
+                  "PAR-FBE-219"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Tutorial",
+        "type": "T",
+        "okNumbers": 2,
+        "weirdNumbers": 10,
+        "maxCount": 6
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:50.075Z"
+}

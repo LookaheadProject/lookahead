@@ -1,0 +1,377 @@
+{
+  "subject": {
+    "code": "MUSI10192",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Small Ensemble 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/SE1/06",
+          "MUSI10192/STH/1/SM1/SE1/01",
+          "MUSI10192/STH/1/SM1/SE1/02",
+          "MUSI10192/STH/1/SM1/SE1/03",
+          "MUSI10192/STH/1/SM1/SE1/07",
+          "MUSI10192/STH/1/SM1/SE1/04",
+          "MUSI10192/STH/1/SM1/SE1/05"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-102",
+          "STH-862-104",
+          "STH-862-109 (Joan Hammond Room)",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-122",
+          "STH-862-203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SE"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Large Ensemble 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/LE1/05",
+          "MUSI10192/STH/1/SM1/LE1/01",
+          "MUSI10192/STH/1/SM1/LE1/02",
+          "MUSI10192/STH/1/SM1/LE1/06",
+          "MUSI10192/STH/1/SM1/LE1/03",
+          "MUSI10192/STH/1/SM1/LE1/04"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-102",
+          "STH-862-109 (Joan Hammond Room)",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-122",
+          "STH-862-203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "LE"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Large Ensemble 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/LE1/11",
+          "MUSI10192/STH/1/SM1/LE1/07",
+          "MUSI10192/STH/1/SM1/LE1/08",
+          "MUSI10192/STH/1/SM1/LE1/12",
+          "MUSI10192/STH/1/SM1/LE1/09",
+          "MUSI10192/STH/1/SM1/LE1/10"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-102",
+          "STH-862-109 (Joan Hammond Room)",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-122",
+          "STH-862-203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "LE"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-513 (Prudence Myer Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-G12 (Kenneth Myer Auditorium)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Small Ensemble 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/SE1/06",
+          "MUSI10192/STH/1/SM1/SE1/01",
+          "MUSI10192/STH/1/SM1/SE1/02",
+          "MUSI10192/STH/1/SM1/SE1/03",
+          "MUSI10192/STH/1/SM1/SE1/07",
+          "MUSI10192/STH/1/SM1/SE1/04",
+          "MUSI10192/STH/1/SM1/SE1/05"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-102",
+          "STH-862-104",
+          "STH-862-109 (Joan Hammond Room)",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-122",
+          "STH-862-203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SE"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Large Ensemble 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/LE1/05",
+          "MUSI10192/STH/1/SM1/LE1/01",
+          "MUSI10192/STH/1/SM1/LE1/02",
+          "MUSI10192/STH/1/SM1/LE1/06",
+          "MUSI10192/STH/1/SM1/LE1/03",
+          "MUSI10192/STH/1/SM1/LE1/04"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-102",
+          "STH-862-109 (Joan Hammond Room)",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-122",
+          "STH-862-203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "LE"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Large Ensemble 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/LE1/11",
+          "MUSI10192/STH/1/SM1/LE1/07",
+          "MUSI10192/STH/1/SM1/LE1/08",
+          "MUSI10192/STH/1/SM1/LE1/12",
+          "MUSI10192/STH/1/SM1/LE1/09",
+          "MUSI10192/STH/1/SM1/LE1/10"
+        ],
+        "locations": [
+          "STH-862-303",
+          "STH-862-102",
+          "STH-862-109 (Joan Hammond Room)",
+          "STH-862-113 (John Hopkins Room)",
+          "STH-862-122",
+          "STH-862-203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "LE"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-513 (Prudence Myer Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10192",
+        "codes": [
+          "MUSI10192/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-G12 (Kenneth Myer Auditorium)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:01.294Z"
+}

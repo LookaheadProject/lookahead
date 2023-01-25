@@ -1,0 +1,659 @@
+{
+  "subject": {
+    "code": "ISLM20003",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 5 - Online",
+        "day": 0,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S05/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 5 - On Campus",
+        "day": 0,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S05/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 6 - Online",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S06/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 6 - On Campus",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S06/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 7 - Online",
+        "day": 1,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S07/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 7 - On Campus",
+        "day": 1,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S07/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 8 - Online",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S08/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 8 - On Campus",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S08/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 9 - Online",
+        "day": 2,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S09/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 9 - On Campus",
+        "day": 2,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S09/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 10 - Online",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S10/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 10 - On Campus",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S10/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 11 - Online",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S11/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 11,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 11 - On Campus",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S11/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 11,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 12 - Online",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S12/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 12,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S02/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 12 - On Campus",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S12/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 12,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 13 - Online",
+        "day": 4,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S13/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 13,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - Online",
+        "day": 4,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S03/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - On Campus",
+        "day": 4,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S03/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 13 - On Campus",
+        "day": 4,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S13/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 13,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - Online",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S04/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 14 - Online",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S14/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 14,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - On Campus",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S04/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 14 - On Campus",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM20003",
+        "codes": [
+          "ISLM20003/U/1/FEB/S14/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 14,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:10.759Z"
+}

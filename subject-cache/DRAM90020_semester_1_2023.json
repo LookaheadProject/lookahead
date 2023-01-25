@@ -1,0 +1,172 @@
+{
+  "subject": {
+    "code": "DRAM90020",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90020",
+        "codes": [
+          "DRAM90020/STH/1/SM1/P01/01"
+        ],
+        "locations": [
+          "STH-879-201 (Studio 7 Lindy Davies)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90020",
+        "codes": [
+          "DRAM90020/STH/1/SM1/P01/01"
+        ],
+        "locations": [
+          "STH-879-213 (Voice Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 2",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90020",
+        "codes": [
+          "DRAM90020/STH/1/SM1/P02/01"
+        ],
+        "locations": [
+          "STH-879-203 (Scene Study 5)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 3",
+        "day": 2,
+        "start": 10,
+        "finish": 14,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90020",
+        "codes": [
+          "DRAM90020/STH/1/SM1/P03/01"
+        ],
+        "locations": [
+          "STH-879-203 (Scene Study 5)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 4",
+        "day": 2,
+        "start": 14.25,
+        "finish": 18.25,
+        "weeks": [
+          11,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90020",
+        "codes": [
+          "DRAM90020/STH/1/SM1/P04/01"
+        ],
+        "locations": [
+          "STH-879-201 (Studio 7 Lindy Davies)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 4",
+        "day": 2,
+        "start": 14.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          12,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90020",
+        "codes": [
+          "DRAM90020/STH/1/SM1/P04/01"
+        ],
+        "locations": [
+          "STH-879-213 (Voice Studio)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:06.349Z"
+}

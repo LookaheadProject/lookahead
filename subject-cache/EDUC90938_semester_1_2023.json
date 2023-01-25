@@ -1,0 +1,76 @@
+{
+  "subject": {
+    "code": "EDUC90938",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 17.75,
+        "finish": 20,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          17,
+          18,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90938",
+        "codes": [
+          "EDUC90938/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 17.75,
+        "finish": 20,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          17,
+          18,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90938",
+        "codes": [
+          "EDUC90938/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:19.269Z"
+}

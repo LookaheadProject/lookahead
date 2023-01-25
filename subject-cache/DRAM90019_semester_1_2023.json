@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "DRAM90019",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90019",
+        "codes": [
+          "DRAM90019/STH/1/SM1/P01/01"
+        ],
+        "locations": [
+          "STH-860-101 (Dr Philip Law Rm)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DRAM90019",
+        "codes": [
+          "DRAM90019/STH/1/SM1/P01/01"
+        ],
+        "locations": [
+          "STH-860-101 (Dr Philip Law Rm)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:06.314Z"
+}

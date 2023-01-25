@@ -1,0 +1,285 @@
+{
+  "subject": {
+    "code": "EDUC91068",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 12.25,
+        "finish": 13.25,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/01",
+          "EDUC91068/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/02",
+          "EDUC91068/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/03",
+          "EDUC91068/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/04",
+          "EDUC91068/U/1/SM2/S01/04"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 12.25,
+        "finish": 13.25,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/01",
+          "EDUC91068/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-Kwong Lee Dow-419"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/02",
+          "EDUC91068/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/03",
+          "EDUC91068/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          34,
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91068",
+        "codes": [
+          "EDUC91068/U/1/SM2/S01/04",
+          "EDUC91068/U/1/SM2/S01/04"
+        ],
+        "locations": [
+          "PAR-Nona Lee Sports Centre",
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:22.685Z"
+}

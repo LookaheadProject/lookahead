@@ -1,0 +1,61 @@
+{
+  "subject": {
+    "code": "DEVT90060",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "DEVT90060",
+        "codes": [
+          "DEVT90060/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          37
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "DEVT90060",
+        "codes": [
+          "DEVT90060/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:03.208Z"
+}

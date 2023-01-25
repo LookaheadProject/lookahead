@@ -1,0 +1,452 @@
+{
+  "subject": {
+    "code": "EDUC90683",
+    "period": "april",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 3",
+        "day": 5,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90683",
+        "codes": [
+          "EDUC90683/U/1/APR/L03/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 5,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90683",
+        "codes": [
+          "EDUC90683/U/1/APR/L05/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90683",
+        "codes": [
+          "EDUC90683/U/1/APR/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 5,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90683",
+        "codes": [
+          "EDUC90683/U/1/APR/L04/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 6",
+        "day": 5,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90683",
+        "codes": [
+          "EDUC90683/U/1/APR/L06/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 5,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90683",
+        "codes": [
+          "EDUC90683/U/1/APR/L02/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 3",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W03/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-218"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W05/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-218"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 1",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W01/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-218"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 5,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W04/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-218"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 5,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W06/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-218"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 5,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W02/02"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-218"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 3",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W03/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-213"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W05/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-213"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-213"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 5,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W04/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-213"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 5,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W06/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-213"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 5,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90683",
+                "codes": [
+                  "EDUC90683/U/1/APR/W02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-213"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:16.067Z"
+}

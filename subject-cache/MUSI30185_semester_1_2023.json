@@ -1,0 +1,920 @@
+{
+  "subject": {
+    "code": "MUSI30185",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Philharmonic Orchestra | Lecture 1",
+        "day": 3,
+        "start": 16.5,
+        "finish": 19,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30185",
+        "codes": [
+          "MUSI30185/STH/1/SM1/L01/02",
+          "MUSI30185/STH/1/SM1/L01/01",
+          "MUSI30185/STH/1/SM1/L01/04"
+        ],
+        "locations": [
+          "STH-880-313 (Hanson Dyer Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Philharmonic Orchestra | Lecture 1",
+        "day": 3,
+        "start": 16.5,
+        "finish": 19,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30185",
+        "codes": [
+          "MUSI30185/STH/1/SM1/L01/02",
+          "MUSI30185/STH/1/SM1/L01/01",
+          "MUSI30185/STH/1/SM1/L01/04"
+        ],
+        "locations": [
+          "STH-880-313 (Hanson Dyer Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "PF",
+            "classes": [
+              {
+                "description": "Wind Symphony | Performance 1",
+                "day": 6,
+                "start": 17,
+                "finish": 19.5,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF1/03"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "PF"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Wind Symphony | Performance 2",
+                "day": 6,
+                "start": 17,
+                "finish": 19.5,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF2/03"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "PF"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "PF",
+            "classes": [
+              {
+                "description": "Symphony Orchestra | Performance 1",
+                "day": 5,
+                "start": 19.5,
+                "finish": 22,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF1/01"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "PF"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Performance 2",
+                "day": 4,
+                "start": 20,
+                "finish": 22.5,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF2/01"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "PF"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "PF",
+            "classes": [
+              {
+                "description": "Philharmonic Orchestra | Performance 1",
+                "day": 4,
+                "start": 19,
+                "finish": 21.5,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF1/02"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "PF"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "PF",
+            "classes": [
+              {
+                "description": "Concert Band | Performance 1",
+                "day": 2,
+                "start": 19,
+                "finish": 21.5,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF1/04"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "PF"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Concert Band | Performance 2",
+                "day": 2,
+                "start": 19,
+                "finish": 21.5,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/PF2/04"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "PF"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          }
+        ],
+        "type": "PF",
+        "name": "WindSymphonyPerformance"
+      },
+      {
+        "streams": [
+          {
+            "type": "R",
+            "classes": [
+              {
+                "description": "Wind Symphony | Rehearsal 1",
+                "day": 0,
+                "start": 13.25,
+                "finish": 15.75,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R01/03"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "R"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Wind Symphony | Rehearsal 2",
+                "day": 2,
+                "start": 13.25,
+                "finish": 15.75,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R02/03"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "R"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Wind Symphony | Rehearsal 3",
+                "day": 4,
+                "start": 16.5,
+                "finish": 19,
+                "weeks": [
+                  16,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R03/03"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "R"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Wind Symphony | Rehearsal 4",
+                "day": 5,
+                "start": 10,
+                "finish": 12.5,
+                "weeks": [
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R04/03"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "R"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Wind Symphony | Rehearsal 5",
+                "day": 6,
+                "start": 10,
+                "finish": 12.5,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R05/03"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "R"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "R",
+            "classes": [
+              {
+                "description": "Symphony Orchestra | Rehearsal 1",
+                "day": 1,
+                "start": 16.5,
+                "finish": 19.5,
+                "weeks": [
+                  11,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R01/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 1",
+                "day": 1,
+                "start": 16.5,
+                "finish": 19,
+                "weeks": [
+                  12,
+                  13,
+                  19,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R01/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 2",
+                "day": 3,
+                "start": 16.5,
+                "finish": 19.5,
+                "weeks": [
+                  11,
+                  12,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R02/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 2",
+                "day": 3,
+                "start": 16.5,
+                "finish": 19,
+                "weeks": [
+                  13,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R02/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 3",
+                "day": 4,
+                "start": 16.5,
+                "finish": 19.5,
+                "weeks": [
+                  11,
+                  12,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R03/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 3",
+                "day": 4,
+                "start": 16.5,
+                "finish": 19,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R03/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 3",
+                "day": 4,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R03/01"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 4",
+                "day": 5,
+                "start": 10,
+                "finish": 12.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R04/01"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Symphony Orchestra | Rehearsal 4",
+                "day": 5,
+                "start": 12.5,
+                "finish": 15,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R04/01"
+                ],
+                "locations": [
+                  "X-Off Site"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "R"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "R",
+            "classes": [
+              {
+                "description": "Philharmonic Orchestra | Violin & Celli Sectional 1",
+                "day": 1,
+                "start": 17,
+                "finish": 19,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R04/02"
+                ],
+                "locations": [
+                  "STH-880-513 (Prudence Myer Studio)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Philharmonic Orchestra | Rehearsal 1",
+                "day": 1,
+                "start": 16.5,
+                "finish": 19.5,
+                "weeks": [
+                  14,
+                  16
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R01/02"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Philharmonic Orchestra | Violin & Celli Sectional 1",
+                "day": 3,
+                "start": 17,
+                "finish": 19,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R04/02"
+                ],
+                "locations": [
+                  "STH-880-513 (Prudence Myer Studio)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Philharmonic Orchestra | Violin & Celli Sectional 2",
+                "day": 3,
+                "start": 17,
+                "finish": 19,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R05/02"
+                ],
+                "locations": [
+                  "STH-880-513 (Prudence Myer Studio)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Philharmonic Orchestra | Rehearsal 2",
+                "day": 3,
+                "start": 16.5,
+                "finish": 19.5,
+                "weeks": [
+                  14,
+                  16,
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R02/02"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Philharmonic Orchestra | Violin & Celli Sectional 2",
+                "day": 4,
+                "start": 17,
+                "finish": 19,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R05/02"
+                ],
+                "locations": [
+                  "STH-880-513 (Prudence Myer Studio)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Philharmonic Orchestra | Rehearsal 3",
+                "day": 4,
+                "start": 16.5,
+                "finish": 19,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R03/02"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "R"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "R",
+            "classes": [
+              {
+                "description": "Concert Band | Rehearsal 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R01/04"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "R"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Concert Band | Rehearsal 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R02/04"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "R"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Concert Band | Rehearsal 2",
+                "day": 2,
+                "start": 16.5,
+                "finish": 18.5,
+                "weeks": [
+                  17,
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MUSI30185",
+                "codes": [
+                  "MUSI30185/STH/1/SM1/R02/04"
+                ],
+                "locations": [
+                  "STH-880-G12 (Kenneth Myer Auditorium)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "R"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          }
+        ],
+        "type": "R",
+        "name": "WindSymphonyRehearsal"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "WindSymphonyPerformance",
+        "type": "PF",
+        "okNumbers": 3,
+        "weirdNumbers": 1,
+        "maxCount": 2
+      },
+      {
+        "name": "WindSymphonyRehearsal",
+        "type": "R",
+        "okNumbers": 1,
+        "weirdNumbers": 3,
+        "maxCount": 9
+      }
+    ],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:42:09.779Z"
+}

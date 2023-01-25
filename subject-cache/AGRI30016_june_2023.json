@@ -1,0 +1,260 @@
+{
+  "subject": {
+    "code": "AGRI30016",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI30016",
+        "codes": [
+          "AGRI30016/DOO/1/JUN/T01/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 1,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI30016",
+        "codes": [
+          "AGRI30016/DOO/1/JUN/T02/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 2,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI30016",
+        "codes": [
+          "AGRI30016/DOO/1/JUN/T03/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 4",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI30016",
+        "codes": [
+          "AGRI30016/DOO/1/JUN/T04/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 5",
+        "day": 4,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI30016",
+        "codes": [
+          "AGRI30016/DOO/1/JUN/T05/01"
+        ],
+        "locations": [
+          "DOO-Swinburne Hall-G11 (The Hall)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 8,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30016",
+                "codes": [
+                  "AGRI30016/DOO/1/JUN/L01/01"
+                ],
+                "locations": [
+                  "DOO-Swinburne Hall-G11 (The Hall)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 8,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30016",
+                "codes": [
+                  "AGRI30016/DOO/1/JUN/L02/01"
+                ],
+                "locations": [
+                  "DOO-Swinburne Hall-G11 (The Hall)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 8,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30016",
+                "codes": [
+                  "AGRI30016/DOO/1/JUN/L03/01"
+                ],
+                "locations": [
+                  "DOO-Swinburne Hall-G11 (The Hall)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 8,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30016",
+                "codes": [
+                  "AGRI30016/DOO/1/JUN/L04/01"
+                ],
+                "locations": [
+                  "DOO-Swinburne Hall-G11 (The Hall)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 8,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI30016",
+                "codes": [
+                  "AGRI30016/DOO/1/JUN/L05/01"
+                ],
+                "locations": [
+                  "DOO-Swinburne Hall-G11 (The Hall)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:21.129Z"
+}

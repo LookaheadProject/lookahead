@@ -1,0 +1,206 @@
+{
+  "subject": {
+    "code": "ENST90033",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1 - Prerecorded",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ENST90033",
+        "codes": [
+          "ENST90033/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2 - Prerecorded",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ENST90033",
+        "codes": [
+          "ENST90033/U/1/FEB/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENST90033",
+                "codes": [
+                  "ENST90033/U/1/FEB/T01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-120 (Theatre 4)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENST90033",
+                "codes": [
+                  "ENST90033/U/1/FEB/T02/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 15,
+                "finish": 17,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ENST90033",
+                "codes": [
+                  "ENST90033/U/1/FEB/T01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 16,
+                "finish": 18,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ENST90033",
+                "codes": [
+                  "ENST90033/U/1/FEB/T02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:35.280Z"
+}

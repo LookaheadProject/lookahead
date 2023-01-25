@@ -1,0 +1,132 @@
+{
+  "subject": {
+    "code": "LAWS90003",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          34,
+          35,
+          36,
+          37,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90003",
+        "codes": [
+          "LAWS90003/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Microbiology-121 (B-HIVE)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          34,
+          35,
+          36,
+          37,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90003",
+        "codes": [
+          "LAWS90003/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Chemical Engineering 1-G20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          34,
+          35,
+          36,
+          37,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90003",
+        "codes": [
+          "LAWS90003/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Chemical Engineering 1-G20"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          34,
+          35,
+          36,
+          37,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90003",
+        "codes": [
+          "LAWS90003/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Microbiology-121 (B-HIVE)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:27.964Z"
+}

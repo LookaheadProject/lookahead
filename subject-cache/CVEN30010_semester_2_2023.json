@@ -1,0 +1,933 @@
+{
+  "subject": {
+    "code": "CVEN30010",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B132"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/07",
+          "CVEN30010/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B116"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/03",
+          "CVEN30010/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/04",
+          "CVEN30010/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-214 (PC Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Engineering B-313"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/08",
+          "CVEN30010/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/05",
+          "CVEN30010/U/1/SM2/P01/11"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/06",
+          "CVEN30010/U/1/SM2/P01/12"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B113"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Engineering B-313"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-101 (Lyle Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-101 (Lyle Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B132"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/07",
+          "CVEN30010/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/03",
+          "CVEN30010/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B116"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/04",
+          "CVEN30010/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-214 (PC Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Engineering B-313"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/08",
+          "CVEN30010/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/05",
+          "CVEN30010/U/1/SM2/P01/11"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          35
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/P01/06",
+          "CVEN30010/U/1/SM2/P01/12"
+        ],
+        "locations": [
+          "PAR-Engineering D-BM09B (Undergrad Wet Lab 2 - Tables)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          32,
+          34,
+          35,
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B113"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CVEN30010",
+        "codes": [
+          "CVEN30010/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Engineering B-313"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:58.545Z"
+}

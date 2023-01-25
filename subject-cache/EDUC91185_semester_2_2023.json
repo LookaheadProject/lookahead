@@ -1,0 +1,196 @@
+{
+  "subject": {
+    "code": "EDUC91185",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91185",
+        "codes": [
+          "EDUC91185/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91185",
+        "codes": [
+          "EDUC91185/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-417"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91185",
+        "codes": [
+          "EDUC91185/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-420"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91185",
+        "codes": [
+          "EDUC91185/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91185",
+        "codes": [
+          "EDUC91185/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-417"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          34,
+          35,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91185",
+        "codes": [
+          "EDUC91185/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-420"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:27.975Z"
+}

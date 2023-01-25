@@ -1,0 +1,245 @@
+{
+  "subject": {
+    "code": "AMGT90029",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 4 - Online",
+        "day": 0,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S04/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 4 - On Campus",
+        "day": 0,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S04/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-256"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 5 - Online",
+        "day": 1,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S05/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 5 - On Campus",
+        "day": 1,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S05/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-256"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 2,
+        "start": 12,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S01/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 2,
+        "start": 12,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 3,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S02/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 3,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S02/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 3 - Online",
+        "day": 4,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S03/02_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "BSL Seminar 3 - On Campus",
+        "day": 4,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AMGT90029",
+        "codes": [
+          "AMGT90029/U/1/FEB/S03/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-253"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:24.364Z"
+}

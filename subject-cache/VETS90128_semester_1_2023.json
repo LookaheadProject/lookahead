@@ -1,0 +1,260 @@
+{
+  "subject": {
+    "code": "VETS90128",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Case Study 1 - Pancytopenia",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90128",
+        "codes": [
+          "VETS90128/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Case Study 5 - Burns Black Saturday",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90128",
+        "codes": [
+          "VETS90128/U/1/SM1/W05/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Case Study 2 - Pyometra - Bethany Bounces Back",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90128",
+        "codes": [
+          "VETS90128/U/1/SM1/W02/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Case Study 3 - Lymphoma Melting Chocolate",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90128",
+        "codes": [
+          "VETS90128/U/1/SM1/W03/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Case Study 4 - FAD Hopping with Fleas",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90128",
+        "codes": [
+          "VETS90128/U/1/SM1/W04/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 3 - Histology of Lymphoid Organs",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90128",
+                "codes": [
+                  "VETS90128/U/1/SM1/P03/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "All Groups - Pathology of Lymphoid Tissue",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "VETS90128",
+                "codes": [
+                  "VETS90128/U/1/SM1/P04/01"
+                ],
+                "locations": [
+                  "WER-Library and Teaching Building-330 (Wet Teaching Lab)WER-Library and Teaching Building-331 (Wet Teaching Lab)WER-Library and Teaching Building-410 (Dissection Lab)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "All Groups - Haematology & leukocytes",
+                "day": 2,
+                "start": 14,
+                "finish": 17,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "VETS90128",
+                "codes": [
+                  "VETS90128/U/1/SM1/P02/01"
+                ],
+                "locations": [
+                  "WER-Library and Teaching Building-330 (Wet Teaching Lab)WER-Library and Teaching Building-331 (Wet Teaching Lab)WER-Library and Teaching Building-410 (Dissection Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "All Groups - Skin pathology & biopsy",
+                "day": 2,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "VETS90128",
+                "codes": [
+                  "VETS90128/U/1/SM1/P05/01"
+                ],
+                "locations": [
+                  "WER-Library and Teaching Building-330 (Wet Teaching Lab)WER-Library and Teaching Building-331 (Wet Teaching Lab)WER-Library and Teaching Building-410 (Dissection Lab)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "All Groups - Blood & Bone Marrow",
+                "day": 2,
+                "start": 15,
+                "finish": 17,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "VETS90128",
+                "codes": [
+                  "VETS90128/U/1/SM1/P01/01"
+                ],
+                "locations": [
+                  "WER-Library and Teaching Building-330 (Wet Teaching Lab)WER-Library and Teaching Building-331 (Wet Teaching Lab)WER-Library and Teaching Building-410 (Dissection Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "AllGroupsBloodBoneMarrow"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:55.300Z"
+}

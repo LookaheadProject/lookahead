@@ -1,0 +1,313 @@
+{
+  "subject": {
+    "code": "IBUS90004",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W01/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5013"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  29
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W06/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5013"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W02/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5013"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W04/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5013"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W03/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5013"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W05/02"
+                ],
+                "locations": [
+                  "PAR-The Spot-5013"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  29
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W06/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W04/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W03/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 9,
+                "finish": 16,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "IBUS90004",
+                "codes": [
+                  "IBUS90004/U/1/JUN/W05/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G20"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:06.937Z"
+}

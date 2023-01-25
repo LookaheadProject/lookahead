@@ -1,0 +1,425 @@
+{
+  "subject": {
+    "code": "AHIS20011",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-107 (A1 Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/01",
+          "AHIS20011/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/02",
+          "AHIS20011/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/03",
+          "AHIS20011/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/04",
+          "AHIS20011/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-255 (OBL II)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/05",
+          "AHIS20011/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-107 (A1 Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/01",
+          "AHIS20011/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/02",
+          "AHIS20011/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/03",
+          "AHIS20011/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/04",
+          "AHIS20011/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-255 (OBL II)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "AHIS20011",
+        "codes": [
+          "AHIS20011/U/1/SM2/T01/05",
+          "AHIS20011/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355",
+          "PAR-Arts West North Wing-254 (OBL I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:22.701Z"
+}

@@ -1,0 +1,108 @@
+{
+  "subject": {
+    "code": "MUSI20228",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          10
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MUSI20228",
+        "codes": [
+          "MUSI20228/STH/1/SM1/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          10
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MUSI20228",
+        "codes": [
+          "MUSI20228/STH/1/SM1/S01/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          10
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MUSI20228",
+        "codes": [
+          "MUSI20228/STH/1/SM1/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          10
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MUSI20228",
+        "codes": [
+          "MUSI20228/STH/1/SM1/S01/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:08.167Z"
+}

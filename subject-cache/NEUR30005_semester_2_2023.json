@@ -1,0 +1,211 @@
+{
+  "subject": {
+    "code": "NEUR30005",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-FVAS-B151 (Lower Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-104 (Medley Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/L03/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "NEUR30005",
+        "codes": [
+          "NEUR30005/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:17.578Z"
+}

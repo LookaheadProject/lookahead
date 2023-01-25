@@ -1,0 +1,62 @@
+{
+  "subject": {
+    "code": "MUSI90040",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90040",
+        "codes": [
+          "MUSI90040/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-701 Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90040",
+        "codes": [
+          "MUSI90040/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-701 Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:14.464Z"
+}

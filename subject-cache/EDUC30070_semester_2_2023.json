@@ -1,0 +1,156 @@
+{
+  "subject": {
+    "code": "EDUC30070",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC30070",
+        "codes": [
+          "EDUC30070/U/1/SM2/W01/02",
+          "EDUC30070/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-107",
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC30070",
+        "codes": [
+          "EDUC30070/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC30070",
+        "codes": [
+          "EDUC30070/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC30070",
+        "codes": [
+          "EDUC30070/U/1/SM2/W01/02",
+          "EDUC30070/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-107",
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:12.621Z"
+}

@@ -1,0 +1,482 @@
+{
+  "subject": {
+    "code": "ECON20002",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-C403 (Wright Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "PAR-Medical-C403 (Wright Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T01/12",
+                  "ECON20002/U/1/SUM/T01/02",
+                  "ECON20002/U/1/SUM/T01/07"
+                ],
+                "locations": [
+                  "PAR-FBE-213",
+                  "PAR-FBE-209",
+                  "PAR-FBE-210"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 13.25,
+                "finish": 14.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T02/12",
+                  "ECON20002/U/1/SUM/T02/02",
+                  "ECON20002/U/1/SUM/T02/07"
+                ],
+                "locations": [
+                  "PAR-FBE-214",
+                  "PAR-FBE-209",
+                  "PAR-FBE-210"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12,
+              2,
+              7
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 18.25,
+                "finish": 19.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T01/09"
+                ],
+                "locations": [
+                  "PAR-FBE-210"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 18.25,
+                "finish": 19.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T02/09"
+                ],
+                "locations": [
+                  "PAR-FBE-210"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T01/08",
+                  "ECON20002/U/1/SUM/T01/03"
+                ],
+                "locations": [
+                  "PAR-FBE-210",
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T02/08",
+                  "ECON20002/U/1/SUM/T02/03"
+                ],
+                "locations": [
+                  "PAR-FBE-210",
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8,
+              3
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 12.25,
+                "finish": 13.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T01/06",
+                  "ECON20002/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "PAR-FBE-210",
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 12.25,
+                "finish": 13.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T02/06",
+                  "ECON20002/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "PAR-FBE-210",
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6,
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T01/05"
+                ],
+                "locations": [
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T02/05"
+                ],
+                "locations": [
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T01/04"
+                ],
+                "locations": [
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ECON20002",
+                "codes": [
+                  "ECON20002/U/1/SUM/T02/04"
+                ],
+                "locations": [
+                  "PAR-FBE-209"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:08.698Z"
+}

@@ -1,0 +1,128 @@
+{
+  "subject": {
+    "code": "EDUC90896",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90896",
+        "codes": [
+          "EDUC90896/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90896",
+        "codes": [
+          "EDUC90896/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90896",
+        "codes": [
+          "EDUC90896/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90896",
+        "codes": [
+          "EDUC90896/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:18.615Z"
+}
