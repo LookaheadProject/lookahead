@@ -10,7 +10,7 @@ const readFile = promisify(fs.readFile);
 
 const ENABLE_CACHING = true;
 const SUBJECT_CACHE_DIRECTORY = './subject-cache';
-const CACHE_EXPIRY_HOURS = 12;
+const CACHE_EXPIRY_HOURS = 1e9;
 
 const datePattern = /\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d\.\d+([+-][0-2]\d:[0-5]\d|Z)/;
 interface ISubjectCache {
@@ -88,14 +88,3 @@ export const cacheSubject = (year: number, period: SubjectPeriod, subject: Subje
 
 };
 
-var subjText = fs.readFileSync("subject-utils/subject_names.txt").toString('utf-8')
-var subjNames = subjText.split("\n")
-
-for (var subject of subjNames) {
-  console.log(`Scraping ${subject}...`);
-  subject = subject.replace(/[\n\r]+/g, ''); // Get rid of trailing carriage returns etc.
-  for (var period of Object.values(SubjectPeriod)) {
-    var subj = parseSubject(fs.readFileSync(`subject-utils/subject-htmls/${subject}.html`, 'utf-8'), subject, period)
-    cacheSubject(2023, period, subj)
-  }
-};
