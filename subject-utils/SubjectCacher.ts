@@ -95,7 +95,7 @@ for (var subject of subjNames) {
   console.log(`Scraping ${subject}...`);
   subject = subject.replace(/[\n\r]+/g, ''); // Get rid of trailing carriage returns etc.
   for (var period of Object.values(SubjectPeriod)) {
-    var subj = parseSubject(fs.readFileSync(`subject-utils/carrot/${subject}.html`, 'utf-8'), subject, period)
+    var subj = parseSubject(fs.readFileSync(`subject-utils/subject-htmls/${subject}.html`, 'utf-8'), subject, period)
     cacheSubject(2023, period, subj)
   }
 };
