@@ -2,6 +2,10 @@ import fs from 'fs';
 import {promisify} from 'util';
 import Subject from './Subject';
 import {SubjectPeriod} from './SubjectPeriods';
+
+import {parseSubject} from './SubjectClassScraper'
+import { open } from 'node:fs/promises';
+
 const readFile = promisify(fs.readFile);
 
 const ENABLE_CACHING = true;
@@ -81,4 +85,17 @@ export const cacheSubject = (year: number, period: SubjectPeriod, subject: Subje
     }
     console.error(`Could not cache to ${cachePath}\n${err.message}`);
   });
+
+};
+
+var subjText = fs.readFileSync("subject-utils/subject_names.txt").toString('utf-8')
+var subjNames = subjText.split("\n")
+
+for (var subject of subjNames) {
+  console.log(`Scraping ${subject}...`);
+  subject = subject.replace(/[\n\r]+/g, ''); // Get rid of trailing carriage returns etc.
+  for (var period of Object.values(SubjectPeriod)) {
+    var subj = parseSubject(fs.readFileSync(`subject-utils/carrot/${subject}.html`, 'utf-8'), subject, period)
+    cacheSubject(2023, period, subj)
+  }
 };
