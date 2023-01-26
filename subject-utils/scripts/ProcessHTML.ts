@@ -1,9 +1,9 @@
 import fs from 'fs';
-import Subject from './Subject';
-import {SubjectPeriod} from './SubjectPeriods';
+import Subject from '../Subject';
+import {SubjectPeriod} from '../SubjectPeriods';
 
-import {parseSubject} from './SubjectClassScraper'
-import { cacheSubject } from './SubjectCacher';
+import {parseSubject} from '../SubjectClassScraper'
+import { cacheSubject } from '../SubjectCacher';
 
 export const processHTML = (subjectListFilename: string) => {
     let subjText = fs.readFileSync(`subject-utils/${subjectListFilename}`).toString('utf-8')
@@ -18,8 +18,9 @@ export const processHTML = (subjectListFilename: string) => {
             cacheSubject(2023, period, subj)
         }
         catch (err) {
-            // console.log(`Could not parse ${subject} for ${period}`);
-            // console.log(err);
+          // it's spammin wayyy too much, let's ignore these errors xd
+          // console.log(`Could not parse ${subject} for ${period}`);
+          // console.log(err);
         }
       }
     };

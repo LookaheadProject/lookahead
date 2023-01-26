@@ -19,6 +19,6 @@
     "subject-utils/*.ts",
     "subject-utils/**/*.json",
     "test/**/*.*"
-  ],
+, "subject-utils/scripts/ProcessHTML.ts"  ],
   "exclude": ["node_modules", ".vscode"]
 }

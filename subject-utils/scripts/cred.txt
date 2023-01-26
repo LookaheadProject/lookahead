@@ -1,0 +1,4 @@
+Username=
+Password=
+GoogleAuthSecret=
+ChromeDriverPath=/home/quang/Desktop/informatics/lookahead/subject-utils/scripts/chromedriver
