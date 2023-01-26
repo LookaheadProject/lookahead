@@ -33,11 +33,19 @@ export default function Notifications() {
 
   // On component load, fetch notifications from Contentful space
   useEffect(() => {
+    console.log('Hello???');
     const client = contentful.createClient({
-      // This is the space ID. A space is like a project folder in Contentful terms
-      space: 'ijvt5o1mpw83',
-      // This is the access token for this space. Normally you get both ID and the token in the Contentful web app
-      accessToken: 'jQ6S8Bh5C1isiIlYOc3Q_AGq4Dz8RsTanTgP2_wS8ic',
+      // space is the space ID. A space is like a project folder in Contentful terms
+      // accesstoken is the access token for this space. Normally you get both ID and the token in the Contentful web app
+
+      // Here's the old contentful space
+      // space: 'ijvt5o1mpw83',
+      // accessToken: 'jQ6S8Bh5C1isiIlYOc3Q_AGq4Dz8RsTanTgP2_wS8ic',
+
+      // Here's the new contentful space Quang has created, as he doesn't have access to the old one.
+      // I'm actually not sure why we're just pushing this to the github repo, but I'm not going to question it.
+      space: 'yvpbqyn70dye',
+      accessToken: '5MwCJJKnHz7T8w8OoEACPUIxg00dO2T08CWjPP6yBZ8'
     });
     // This API call will request an entry with the specified ID from the space defined at the top, using a space-specific access token.
     client.getEntries('notifications').then(data => {
