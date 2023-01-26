@@ -105,7 +105,7 @@ This file scrapes all HTML files that contain timetable information, and chucks 
 python3 subject-utils/scripts/timetable.py
 ```
 
-If something goes wrong with the web scraping, consider commenting (what is currently) line 65 (containing `options.add_argument('--headless')`), which should let you see what is going on. Sometimes commenting and uncommenting this line just fixes things.
+If something goes wrong with the web scraping, consider commenting (what is currently) line 54 (containing `options.add_argument('--headless')`), which should let you see what is going on. Sometimes commenting and uncommenting this line just fixes things.
 
 ## Run ProcessHTML.ts
 This file takes all the cached HTML files, and refines them into some nice juicy json that the rest of the server can use. 

@@ -5,17 +5,6 @@ Created on Mon Jan 16 16:23:12 2023
 @author: stevenp115
 """
 
-""" How to use:
-1. Create a text file of the form (make sure there is no trailing newline):  
-    username
-    password
-    secret_to_unimelb_login_auth
-2. Call the program as follows:
-    python timetable.py [YEAR]
-    
-"""
-
-
 # Get subject data from json(s). We take the set union of all subjects.
 import time
 from selenium import webdriver
