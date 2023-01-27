@@ -18,6 +18,7 @@ export const processHTML = (subjectListFilename: string) => {
             cacheSubject(2023, period, subj)
         }
         catch (err) {
+          // Also TODO: Make this loop a bit smarter
           // it's spammin wayyy too much, let's ignore these errors xd
           // console.log(`Could not parse ${subject} for ${period}`);
           // console.log(err);

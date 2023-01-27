@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 16 16:23:12 2023
 
-@author: stevenp115
+@author: stevenp115 and TheEpicCowOfLife
 """
 
 # Get subject data from json(s). We take the set union of all subjects.
