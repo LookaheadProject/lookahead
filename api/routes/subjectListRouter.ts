@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import {getSubjectList} from '../controllers/subjectListController';
+import {getSubjectList} from '../controllers/subjectListController.js';
 
 const subjectListRouter = Router();
 

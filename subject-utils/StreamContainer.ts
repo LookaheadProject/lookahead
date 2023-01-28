@@ -1,5 +1,5 @@
-import Stream from './Stream';
-import SubjectClass from './SubjectClass';
+import Stream from './Stream.js';
+import SubjectClass from './SubjectClass.js';
 
 export default class StreamContainer {
   // Stream name, e.g. Workshop, Lecture, Tutorial

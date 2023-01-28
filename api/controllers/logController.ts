@@ -1,7 +1,9 @@
 import {Request, Response} from 'express';
 import fs from 'fs';
 import path from 'path';
-import {S3} from 'aws-sdk';
+
+import aws from 'aws-sdk';
+const {S3} = aws;
 
 const s3 = new S3();
 

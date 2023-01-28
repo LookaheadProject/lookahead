@@ -1,10 +1,10 @@
 import * as cheerio from 'cheerio';
-import moment = require('moment');
-import Subject from './Subject';
-import SubjectClass from './SubjectClass';
-import {SubjectPeriod} from './SubjectPeriods';
-import {getHTMLpastSSO} from './WebUtils';
-import WeirdNames from './WeirdNames';
+import moment from 'moment';
+import Subject from './Subject.js';
+import SubjectClass from './SubjectClass.js';
+import {SubjectPeriod} from './SubjectPeriods.js';
+import {getHTMLpastSSO} from './WebUtils.js';
+import WeirdNames from './WeirdNames.js';
 
 /**
  * Scrapes the SWS Timetabling System for Subject information.
@@ -19,13 +19,11 @@ export const scrapeSubject = async (
 ): Promise<Subject> => {
   // tslint:disable-next-line:max-line-length
   try {
-    const htmlSource = await getHTMLpastSSO(year,code);
+    const htmlSource = await getHTMLpastSSO(year, code);
     const subject: Subject = parseSubject(htmlSource, code, period);
     return subject;
   } catch (err) {
-    console.error(
-      `Error trying to parse timetable for ${year}-${period}-${code} -> ${err}`
-    );
+    console.error(`Error trying to parse timetable for ${year}-${period}-${code} -> ${err}`);
     throw err;
   }
 };
@@ -91,7 +89,7 @@ export const parseSubject = (html: string, code: string, period: SubjectPeriod):
       console.log(`Error parsing location data for ${classCode}\nError:${err}`);
     }
     // For an online subject tag it as online : true, and have the location as 'online' for visuals
-    const online = (location == 'online') ? true : false;
+    const online = location == 'online' ? true : false;
     // Try parse week format
     let weeks: number[];
     try {
@@ -116,7 +114,7 @@ export const parseSubject = (html: string, code: string, period: SubjectPeriod):
       finishMoment.diff(mmtMidnight, 'minutes') / 60,
       weeks,
       location,
-      online,
+      online
     );
     classList.push(parsedClass);
   });
@@ -167,12 +165,12 @@ const parseWeeks = (rawWeeks: string): number[] => {
  * and TODO: format classes that have multiple locations!
  * @param location: The raw location format from SWS
  */
-const parseLocation = (location: string) =>{
+const parseLocation = (location: string) => {
   // Because an empty string, whitespace, or a string that contains the word online indicates that
   // the subject is online
   const isOnline = location.toLowerCase().includes('online') || location == '' || !location.trim();
-  return isOnline ? 'online' :  location;
-}
+  return isOnline ? 'online' : location;
+};
 /**
  * Converts a SubjectPeriod to a short code format used by the SWS system
  * @param period The SubjectPeriod to convert

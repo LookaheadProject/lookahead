@@ -38,7 +38,9 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 exports.__esModule = true;
 exports.getHTMLpastSSO = void 0;
 var totp_generator_1 = require("totp-generator");
-var got_1 = require("got");
+var got_1 = require("got"); // solution for ESM
+//const fetch = (...args) => import('got').then({default: got} => got(...args));
+//const got = await import('got');
 var tough_cookie_1 = require("tough-cookie");
 var form_data_1 = require("form-data");
 var node_html_parser_1 = require("node-html-parser");

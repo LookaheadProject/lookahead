@@ -3,7 +3,7 @@
     "module": "esnext",
     "esModuleInterop": true,
     "target": "es2017",
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "moduleResolution": "nodenext",
     "sourceMap": true,
     "outDir": "dist",
@@ -12,6 +12,12 @@
     "paths": {
       "*": ["node_modules/*"]
     }
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "ts-node-dev": {
+    "esm": true
   },
   "include": [
     "*.ts",

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import {promisify} from 'util';
-import Subject from './Subject';
-import {SubjectPeriod} from './SubjectPeriods';
+import Subject from './Subject.js';
+import {SubjectPeriod} from './SubjectPeriods.js';
 const readFile = promisify(fs.readFile);
 
 const ENABLE_CACHING = true;

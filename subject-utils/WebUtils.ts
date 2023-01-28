@@ -1,4 +1,3 @@
-import {int} from 'aws-sdk/clients/datapipeline';
 import totp from 'totp-generator';
 import got from 'got'; // solution for ESM
 //const fetch = (...args) => import('got').then({default: got} => got(...args));
@@ -35,7 +34,7 @@ interface OKTA_MFA_API_SCHEMA {
 
 const OKTA_ENDPOINT = 'https://sso.unimelb.edu.au/api/v1/authn';
 
-export const getHTMLpastSSO = async (year: int, code: string): Promise<string> => {
+export const getHTMLpastSSO = async (year: number, code: string): Promise<string> => {
   const SWS_URL = `https://sws.unimelb.edu.au/${year}/Reports/List.aspx?objects=${code}&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list`;
 
   let html: string;

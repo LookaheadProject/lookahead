@@ -1,7 +1,7 @@
 import {Request, Response} from 'express';
-import {cacheSubject, getCachedSubject} from '../../subject-utils/SubjectCacher';
-import {scrapeSubject} from '../../subject-utils/SubjectClassScraper';
-import {SubjectPeriod} from '../../subject-utils/SubjectPeriods';
+import {cacheSubject, getCachedSubject} from '../../subject-utils/SubjectCacher.js';
+import {scrapeSubject} from '../../subject-utils/SubjectClassScraper.js';
+import {SubjectPeriod} from '../../subject-utils/SubjectPeriods.js';
 
 /**
  * Serves an appropriate subject list file given a year and study period.
