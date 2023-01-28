@@ -46,7 +46,7 @@ export const getHTMLpastSSO = async (year: number, code: string): Promise<string
     // see if a login page is brought up; if so, get SAML payload
     let root = parse(html);
     let endpointSAML = root.querySelector(`form[method="POST"]`)?.getAttribute('action');
-    let payloadSAML = root.querySelector(`input[name="SAMLResponse"]`)?.getAttribute('value');
+    let payloadSAML = root.querySelector(`input[name="SAMLRequest"]`)?.getAttribute('value');
 
     if (endpointSAML || payloadSAML) {
       // if one of endpointSAML or payloadSAML exists
@@ -98,7 +98,7 @@ const authenticateSAMLAndDownload = async (
 
   let stateToken = primaryAuthnData['stateToken'];
   let mfaVerifyURL = primaryAuthnData['_embedded']['factors'].find(e => {
-    e.factorType == 'token:software:totp';
+    return e.factorType == 'token:software:totp';
   })['_links']['verify']['href'];
 
   console.debug('Verifying MFA');
