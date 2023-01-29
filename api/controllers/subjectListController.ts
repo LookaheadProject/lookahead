@@ -2,7 +2,10 @@ import {Request, Response} from 'express';
 import * as fs from 'fs';
 import moment from 'moment';
 import path from 'path';
-import {SubjectPeriod} from '../../subject-utils/SubjectPeriods';
+import {SubjectPeriod} from '../../subject-utils/SubjectPeriods.js';
+
+import * as url from 'url';
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 /**
  * Serves an appropriate subject list file given a year and study period.

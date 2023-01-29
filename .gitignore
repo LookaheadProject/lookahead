@@ -39,3 +39,5 @@ subject-htmls/
 google-sheets/credentials\.json
 
 \.vscode/
+
+.DS_Store

@@ -1,5 +1,5 @@
 import {Request, Response} from 'express';
-import {getSponsorSheetData} from '../../google-sheets/sheets';
+import {getSponsorSheetData} from '../../google-sheets/sheets.js';
 
 /**
  * Specifies how a sponsor object should look like, mimics the Google Sheets

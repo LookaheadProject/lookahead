@@ -1,5 +1,5 @@
-import moment = require('moment');
-import Subject from './Subject';
+import moment from 'moment';
+import Subject from './Subject.js';
 
 interface IClassCode {
   type: string;
@@ -37,7 +37,7 @@ export default class SubjectClass {
   // The type of class 'Mandatory', 'Variable', 'Stream' or unknown ''
   public type: string = '';
   // online true if there is no in person location
-  public online: boolean = false
+  public online: boolean = false;
   // The time length of the class
   private readonly duration: number;
   /**
@@ -61,7 +61,7 @@ export default class SubjectClass {
     public readonly finish: number,
     public readonly weeks: number[],
     location: string,
-    online: boolean,
+    online: boolean
   ) {
     this.subjectCode = subject.code;
     this.codes = [code];

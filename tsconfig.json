@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "esnext",
     "esModuleInterop": true,
-    "target": "es6",
-    "noImplicitAny": true,
-    "moduleResolution": "node",
+    "target": "es2017",
+    "noImplicitAny": false,
+    "moduleResolution": "nodenext",
     "sourceMap": true,
     "outDir": "dist",
     "baseUrl": ".",
@@ -12,6 +12,12 @@
     "paths": {
       "*": ["node_modules/*"]
     }
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "ts-node-dev": {
+    "esm": true
   },
   "include": [
     "*.ts",

@@ -1,10 +1,10 @@
 import express from 'express';
 const router = express.Router();
-import logRouter from './routes/logRouter';
-import reportRouter from './routes/reportRouter';
-import sponsorListRouter from './routes/sponsorListRouter';
-import subjectListRouter from './routes/subjectListRouter';
-import subjectRouter from './routes/subjectRouter';
+import logRouter from './routes/logRouter.js';
+import reportRouter from './routes/reportRouter.js';
+import sponsorListRouter from './routes/sponsorListRouter.js';
+import subjectListRouter from './routes/subjectListRouter.js';
+import subjectRouter from './routes/subjectRouter.js';
 
 /** SETUP ROUTES */
 router.use('/subjectlist', subjectListRouter);

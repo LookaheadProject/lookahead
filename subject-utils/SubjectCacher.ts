@@ -1,9 +1,9 @@
 import fs from 'fs';
 import {promisify} from 'util';
-import Subject from './Subject';
-import {SubjectPeriod} from './SubjectPeriods';
+import Subject from './Subject.js';
+import {SubjectPeriod} from './SubjectPeriods.js';
 
-import {parseSubject} from './SubjectClassScraper'
+import {parseSubject} from './SubjectClassScraper.js'
 import { open } from 'node:fs/promises';
 
 const readFile = promisify(fs.readFile);

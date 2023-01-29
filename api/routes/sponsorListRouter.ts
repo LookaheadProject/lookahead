@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import {getSponsors, logSponsors} from '../controllers/sponsorListController';
+import {getSponsors, logSponsors} from '../controllers/sponsorListController.js';
 
 const sponsorListRouter = Router();
 

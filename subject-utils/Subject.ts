@@ -1,6 +1,6 @@
-import StreamContainer from './StreamContainer';
-import SubjectClass from './SubjectClass';
-import {SubjectPeriod} from './SubjectPeriods';
+import StreamContainer from './StreamContainer.js';
+import SubjectClass from './SubjectClass.js';
+import {SubjectPeriod} from './SubjectPeriods.js';
 
 interface IWeirdStreamContainer {
   name: string;

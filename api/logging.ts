@@ -2,7 +2,10 @@ import {Application, Request} from 'express';
 import moment from 'moment-timezone';
 import morgan from 'morgan';
 import winston from 'winston';
-const S3StreamLogger = require('s3-streamlogger').S3StreamLogger;
+//const S3StreamLogger = require('s3-streamlogger').S3StreamLogger;
+
+import S3Stream from 's3-streamlogger';
+const S3StreamLogger = S3Stream.S3StreamLogger;
 
 const s3_stream = new S3StreamLogger({
   bucket: 'lookahead-rohyl',

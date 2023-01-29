@@ -4,6 +4,9 @@ import * as path from 'path';
 import {SubjectPeriod} from '../SubjectPeriods';
 import {getHTML} from '../WebUtils';
 
+import * as url from 'url';
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+
 /**
  * Stores basic information about a subject
  */
