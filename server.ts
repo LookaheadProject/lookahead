@@ -10,6 +10,9 @@ import {initialise} from './google-sheets/sheets.js';
 import dotenv from 'dotenv';
 dotenv.config();
 
+import * as url from 'url';
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+
 Sentry.init({
   dsn: 'https://fb5c9266745c450e93696aaf15378c73@sentry.io/1836276',
 });
@@ -29,7 +32,7 @@ app.use(bodyParser.json());
 initialise();
 
 // Serves the React build
-app.get('/', (req: Request, res: Response) =>
+app.get('/', (_req: Request, res: Response) =>
   res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'))
 );
 

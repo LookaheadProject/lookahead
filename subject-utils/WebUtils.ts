@@ -3,7 +3,6 @@ import got from 'got'; // solution for ESM
 //const fetch = (...args) => import('got').then({default: got} => got(...args));
 //const got = await import('got');
 import {CookieJar} from 'tough-cookie';
-import FormData from 'form-data';
 import {parse} from 'node-html-parser';
 
 import * as dotenv from 'dotenv';
@@ -38,6 +37,8 @@ export const getHTMLpastSSO = async (year: number, code: string): Promise<string
   const SWS_URL = `https://sws.unimelb.edu.au/${year}/Reports/List.aspx?objects=${code}&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list`;
 
   let html: string;
+
+  // TODO: use hooks to manage retries and reauthentication
   for (let i = 1; i <= MAX_TRIES; i++) {
     console.debug('Load timetable attempt #1');
 
@@ -53,7 +54,7 @@ export const getHTMLpastSSO = async (year: number, code: string): Promise<string
       // then we need to reauthenticate
 
       let result = await authenticateSAMLAndDownload(endpointSAML, payloadSAML);
-      COOKIE_CACHE = result.cookies;
+      //COOKIE_CACHE = result.cookies;
 
       return result.html;
     }
@@ -69,7 +70,7 @@ const authenticateSAMLAndDownload = async (
   html: string;
   cookies: CookieJar;
 }> => {
-  let SESSION_COOKIES = new CookieJar();
+  //let COOKIE_CACHE = new CookieJar();
 
   console.debug('Authenticating username and password');
 
@@ -83,7 +84,7 @@ const authenticateSAMLAndDownload = async (
           warnBeforePasswordExpired: false,
         },
       },
-      cookieJar: SESSION_COOKIES,
+      cookieJar: COOKIE_CACHE,
     })
     .json();
 
@@ -111,7 +112,7 @@ const authenticateSAMLAndDownload = async (
         stateToken,
         passCode,
       },
-      cookieJar: SESSION_COOKIES,
+      cookieJar: COOKIE_CACHE,
     })
     .json();
 
@@ -128,14 +129,13 @@ const authenticateSAMLAndDownload = async (
 
   console.debug('Get ACS details');
 
-  let formSAML = new FormData();
-  formSAML.append('SAMLRequest', payload);
-
   let samlData = await got
     .post(endpoint, {
-      body: formSAML,
+      form: {
+        SAMLRequest: payload,
+      },
       searchParams: {sessionToken: sessionToken},
-      cookieJar: SESSION_COOKIES,
+      cookieJar: COOKIE_CACHE,
     })
     .text();
   let root = parse(samlData);
@@ -144,16 +144,31 @@ const authenticateSAMLAndDownload = async (
   let payloadACS = root.querySelector(`input[name="SAMLResponse"]`).getAttribute('value');
 
   console.debug('Downloading webpage through ACS redirect');
-  let formACS = new FormData();
-  formACS.append('SAMLResponse', payloadACS);
-  formACS.append('RelayState', '');
 
-  let webpageHTML = await got.post(endpointACS, {body: formACS, cookieJar: SESSION_COOKIES}).text();
+  let webpageHTML = await got
+    .post(endpointACS, {
+      //body: formACS,
+      form: {
+        SAMLResponse: payloadACS,
+        RelayState: '',
+      },
+      methodRewriting: true, // https://github.com/sindresorhus/got/issues/1502
+      cookieJar: COOKIE_CACHE,
+      headers: {
+        'user-agent':
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+      },
+    })
+    .text();
+  console.debug('Downloaded');
 
   return {
     html: webpageHTML,
-    cookies: SESSION_COOKIES,
+    cookies: COOKIE_CACHE,
   };
 };
 
-getHTMLpastSSO(2023, 'MAST20005').then(x => console.log(x));
+getHTMLpastSSO(2023, 'MAST20005').then(x => {
+  console.log('Done');
+  console.log(x);
+});
