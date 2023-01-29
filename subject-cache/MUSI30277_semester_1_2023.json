@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "MUSI30277",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30277",
+        "codes": [
+          "MUSI30277/STH/1/SM1/R01/01"
+        ],
+        "locations": [
+          "STH-880-G12 (Kenneth Myer Auditorium)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30277",
+        "codes": [
+          "MUSI30277/STH/1/SM1/R01/01"
+        ],
+        "locations": [
+          "STH-880-G12 (Kenneth Myer Auditorium)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:11.697Z"
+}

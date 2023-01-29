@@ -1,0 +1,463 @@
+{
+  "subject": {
+    "code": "MUSI30046",
+    "period": "summer_term",
+    "_classList": [
+      {
+        "description": "Tutor Consultation",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/TC1/02"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.5,
+        "finish": 17.5,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/03"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/04"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutor Consultation",
+        "day": 4,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/TC1/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/L01/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/L02/01_Recorded"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutor Consultation",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/TC1/02"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.5,
+        "finish": 17.5,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/03"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/T01/04"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutor Consultation",
+        "day": 4,
+        "start": 15,
+        "finish": 16,
+        "weeks": [
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI30046",
+        "codes": [
+          "MUSI30046/U/1/SUM/TC1/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "TC"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:08.743Z"
+}

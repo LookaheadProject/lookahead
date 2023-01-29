@@ -1,0 +1,109 @@
+{
+  "subject": {
+    "code": "GEOG90025",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          31
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          32,
+          33
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          34,
+          37
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          41
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOG90025",
+        "codes": [
+          "GEOG90025/U/1/SM2/S03/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-231"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:57.120Z"
+}

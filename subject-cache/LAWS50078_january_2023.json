@@ -1,0 +1,111 @@
+{
+  "subject": {
+    "code": "LAWS50078",
+    "period": "january",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 11,
+        "finish": 15,
+        "weeks": [
+          5,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50078",
+        "codes": [
+          "LAWS50078/U/2/JAN/S01/01"
+        ],
+        "locations": [
+          "PAR-Law-0317"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 11,
+        "finish": 15,
+        "weeks": [
+          5,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50078",
+        "codes": [
+          "LAWS50078/U/2/JAN/S02/01"
+        ],
+        "locations": [
+          "PAR-Law-0317"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 3,
+        "start": 11,
+        "finish": 15,
+        "weeks": [
+          5,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50078",
+        "codes": [
+          "LAWS50078/U/2/JAN/S03/01"
+        ],
+        "locations": [
+          "PAR-Law-0317"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 11,
+        "finish": 15,
+        "weeks": [
+          5,
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50078",
+        "codes": [
+          "LAWS50078/U/2/JAN/S04/01"
+        ],
+        "locations": [
+          "PAR-Law-0317"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:21.276Z"
+}

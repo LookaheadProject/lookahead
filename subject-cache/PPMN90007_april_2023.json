@@ -1,0 +1,291 @@
+{
+  "subject": {
+    "code": "PPMN90007",
+    "period": "april",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 4 Online",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          17
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S04/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 Online",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          15
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 6 Online",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S06/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          15
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 6 On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S06/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 5 Online",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S05/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 Online",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S03/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 Online",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 5 On Campus",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S05/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-204"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 On Campus",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-204"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 On Campus",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PPMN90007",
+        "codes": [
+          "PPMN90007/U/1/APR/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:42:34.019Z"
+}

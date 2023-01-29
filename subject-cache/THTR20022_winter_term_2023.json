@@ -1,0 +1,746 @@
+{
+  "subject": {
+    "code": "THTR20022",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P01/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 10",
+                "day": 4,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P10/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P02/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P03/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P04/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P05/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 6",
+                "day": 2,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P06/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 7",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P07/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 8",
+                "day": 3,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P08/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 9",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P09/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P01/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 10",
+                "day": 4,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P10/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P02/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 3",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P03/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P04/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P05/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 6",
+                "day": 2,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P06/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 7",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P07/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 8",
+                "day": 3,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P08/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 9",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P09/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1 (Online)",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P01/03",
+                  "THTR20022/STH/1/WIN/P01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 10 (Online)",
+                "day": 4,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P10/03",
+                  "THTR20022/STH/1/WIN/P10/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2 (Online)",
+                "day": 0,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P02/03",
+                  "THTR20022/STH/1/WIN/P02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 3 (Online)",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P03/03",
+                  "THTR20022/STH/1/WIN/P03/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 4 (Online)",
+                "day": 1,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P04/03",
+                  "THTR20022/STH/1/WIN/P04/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 5 (Online)",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P05/03",
+                  "THTR20022/STH/1/WIN/P05/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 6 (Online)",
+                "day": 2,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P06/03",
+                  "THTR20022/STH/1/WIN/P06/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 7 (Online)",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P07/03",
+                  "THTR20022/STH/1/WIN/P07/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 8 (Online)",
+                "day": 3,
+                "start": 13,
+                "finish": 15.5,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P08/03",
+                  "THTR20022/STH/1/WIN/P08/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 9 (Online)",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  28
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR20022",
+                "codes": [
+                  "THTR20022/STH/1/WIN/P09/03",
+                  "THTR20022/STH/1/WIN/P09/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              4
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:51.862Z"
+}

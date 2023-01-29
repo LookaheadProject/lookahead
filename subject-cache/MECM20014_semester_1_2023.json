@@ -1,0 +1,1316 @@
+{
+  "subject": {
+    "code": "MECM20014",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-John Medley-WG05"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Law-GM15 (David P. Derham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-119"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/19"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/18"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-113"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/16"
+        ],
+        "locations": [
+          "PAR-200 Berkeley St-G51andG52"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/08",
+          "MECM20014/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-FVAS-G51 (Kimpton Room)",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/17"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-231"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/10",
+          "MECM20014/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-718",
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-The Spot-2013"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Law-GM15 (David P. Derham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-John Medley-WG05"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-119"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/18"
+        ],
+        "locations": [
+          "PAR-Old Quad-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/19"
+        ],
+        "locations": [
+          "PAR-780 Elizabeth St-110"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10.5,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-EG62"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-113"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/16"
+        ],
+        "locations": [
+          "PAR-200 Berkeley St-G51andG52"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/08",
+          "MECM20014/U/1/SM1/T01/13"
+        ],
+        "locations": [
+          "PAR-FVAS-G51 (Kimpton Room)",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 8.5,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/17"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/12"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-231"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-The Spot-2013"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM20014",
+        "codes": [
+          "MECM20014/U/1/SM1/T01/10",
+          "MECM20014/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-718",
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:45.092Z"
+}

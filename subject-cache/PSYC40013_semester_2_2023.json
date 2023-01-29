@@ -1,0 +1,1728 @@
+{
+  "subject": {
+    "code": "PSYC40013",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/21",
+          "PSYC40013/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/22",
+          "PSYC40013/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/23",
+          "PSYC40013/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 23
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/24",
+          "PSYC40013/U/1/SM2/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 24
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/25",
+          "PSYC40013/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/26",
+          "PSYC40013/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/27",
+          "PSYC40013/U/1/SM2/P01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 27
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/28",
+          "PSYC40013/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 28
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/29",
+          "PSYC40013/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 29
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/30",
+          "PSYC40013/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 30
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 15.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/31",
+          "PSYC40013/U/1/SM2/P01/11"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/32",
+          "PSYC40013/U/1/SM2/P01/12"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/33",
+          "PSYC40013/U/1/SM2/P01/13"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/34",
+          "PSYC40013/U/1/SM2/P01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/35",
+          "PSYC40013/U/1/SM2/P01/15"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/36",
+          "PSYC40013/U/1/SM2/P01/16"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/37",
+          "PSYC40013/U/1/SM2/P01/17"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 37
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/38",
+          "PSYC40013/U/1/SM2/P01/18"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/39",
+          "PSYC40013/U/1/SM2/P01/19"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/40",
+          "PSYC40013/U/1/SM2/P01/20"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 40
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/21",
+          "PSYC40013/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/22",
+          "PSYC40013/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/23",
+          "PSYC40013/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 23
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/24",
+          "PSYC40013/U/1/SM2/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 24
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/25",
+          "PSYC40013/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/26",
+          "PSYC40013/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/27",
+          "PSYC40013/U/1/SM2/P01/07"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 27
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/28",
+          "PSYC40013/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 28
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/29",
+          "PSYC40013/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 29
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/30",
+          "PSYC40013/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 30
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 15.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/31",
+          "PSYC40013/U/1/SM2/P01/11"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/32",
+          "PSYC40013/U/1/SM2/P01/12"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/33",
+          "PSYC40013/U/1/SM2/P01/13"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/34",
+          "PSYC40013/U/1/SM2/P01/14"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/35",
+          "PSYC40013/U/1/SM2/P01/15"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/36",
+          "PSYC40013/U/1/SM2/P01/16"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/37",
+          "PSYC40013/U/1/SM2/P01/17"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 37
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/38",
+          "PSYC40013/U/1/SM2/P01/18"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/39",
+          "PSYC40013/U/1/SM2/P01/19"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC40013",
+        "codes": [
+          "PSYC40013/U/1/SM2/P01/40",
+          "PSYC40013/U/1/SM2/P01/20"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 40
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:37.344Z"
+}

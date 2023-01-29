@@ -1,0 +1,135 @@
+{
+  "subject": {
+    "code": "BLAW20003",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BLAW20003",
+        "codes": [
+          "BLAW20003/U/2/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 1,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BLAW20003",
+        "codes": [
+          "BLAW20003/U/2/SUM/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 2,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BLAW20003",
+        "codes": [
+          "BLAW20003/U/2/SUM/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BLAW20003",
+        "codes": [
+          "BLAW20003/U/2/SUM/S04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 4,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BLAW20003",
+        "codes": [
+          "BLAW20003/U/2/SUM/S05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:36.845Z"
+}

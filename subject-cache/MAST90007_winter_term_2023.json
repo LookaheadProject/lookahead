@@ -1,0 +1,648 @@
+{
+  "subject": {
+    "code": "MAST90007",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9.25,
+        "finish": 10.75,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L01/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 0,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L02/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 1,
+        "start": 9.25,
+        "finish": 10.75,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L03/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 1,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L04/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 3,
+        "start": 9.25,
+        "finish": 10.75,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L05/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 6",
+        "day": 3,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L06/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 7",
+        "day": 4,
+        "start": 9.25,
+        "finish": 10.75,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L07/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 8",
+        "day": 4,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          26,
+          28
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MAST90007",
+        "codes": [
+          "MAST90007/U/1/WIN/L08/01"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P01/04",
+                  "MAST90007/U/1/WIN/P01/03",
+                  "MAST90007/U/1/WIN/P01/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P02/04",
+                  "MAST90007/U/1/WIN/P02/03",
+                  "MAST90007/U/1/WIN/P02/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 3",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P03/04",
+                  "MAST90007/U/1/WIN/P03/03",
+                  "MAST90007/U/1/WIN/P03/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P04/04",
+                  "MAST90007/U/1/WIN/P04/03",
+                  "MAST90007/U/1/WIN/P04/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 5",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P05/04",
+                  "MAST90007/U/1/WIN/P05/03",
+                  "MAST90007/U/1/WIN/P05/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P06/04",
+                  "MAST90007/U/1/WIN/P06/03",
+                  "MAST90007/U/1/WIN/P06/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 7",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P07/04",
+                  "MAST90007/U/1/WIN/P07/03",
+                  "MAST90007/U/1/WIN/P07/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 8",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P08/04",
+                  "MAST90007/U/1/WIN/P08/03",
+                  "MAST90007/U/1/WIN/P08/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-M01 (Russell Love Theatre)",
+                  "PAR-Peter Hall-212 (Nanson Laboratory)",
+                  "PAR-Peter Hall-G69 (Thompson Lab)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4,
+              3,
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P01/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P02/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P03/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P04/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 5",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P05/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P06/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 7",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P07/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 8",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.75,
+                "weeks": [
+                  26,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST90007",
+                "codes": [
+                  "MAST90007/U/1/WIN/P08/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G70 (Wilson Laboratory)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:39.357Z"
+}

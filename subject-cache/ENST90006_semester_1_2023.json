@@ -1,0 +1,108 @@
+{
+  "subject": {
+    "code": "ENST90006",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1 - BSL Online",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          9
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ENST90006",
+        "codes": [
+          "ENST90006/U/1/SM1/W01/02_BSL Online"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          9
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENST90006",
+        "codes": [
+          "ENST90006/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1 - BSL Online",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          9
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ENST90006",
+        "codes": [
+          "ENST90006/U/1/SM1/W01/02_BSL Online"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          9
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENST90006",
+        "codes": [
+          "ENST90006/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:34.932Z"
+}

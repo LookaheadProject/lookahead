@@ -1,0 +1,2356 @@
+{
+  "subject": {
+    "code": "CMCE10001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/76",
+          "CMCE10001/U/1/SM1/T01/01",
+          "CMCE10001/U/1/SM1/T01/26",
+          "CMCE10001/U/1/SM1/T01/51"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 76
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/77",
+          "CMCE10001/U/1/SM1/T01/02",
+          "CMCE10001/U/1/SM1/T01/27",
+          "CMCE10001/U/1/SM1/T01/52"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 77
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/78",
+          "CMCE10001/U/1/SM1/T01/03",
+          "CMCE10001/U/1/SM1/T01/28",
+          "CMCE10001/U/1/SM1/T01/53"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 78
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/79",
+          "CMCE10001/U/1/SM1/T01/04",
+          "CMCE10001/U/1/SM1/T01/29",
+          "CMCE10001/U/1/SM1/T01/54"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 79
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/80",
+          "CMCE10001/U/1/SM1/T01/05",
+          "CMCE10001/U/1/SM1/T01/30",
+          "CMCE10001/U/1/SM1/T01/55"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 80
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/81",
+          "CMCE10001/U/1/SM1/T01/06",
+          "CMCE10001/U/1/SM1/T01/31",
+          "CMCE10001/U/1/SM1/T01/56"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 81
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/82",
+          "CMCE10001/U/1/SM1/T01/07",
+          "CMCE10001/U/1/SM1/T01/32",
+          "CMCE10001/U/1/SM1/T01/57"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 82
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/83",
+          "CMCE10001/U/1/SM1/T01/08",
+          "CMCE10001/U/1/SM1/T01/33",
+          "CMCE10001/U/1/SM1/T01/58"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 83
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/84",
+          "CMCE10001/U/1/SM1/T01/09",
+          "CMCE10001/U/1/SM1/T01/34",
+          "CMCE10001/U/1/SM1/T01/59"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 84
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/85",
+          "CMCE10001/U/1/SM1/T01/10",
+          "CMCE10001/U/1/SM1/T01/35",
+          "CMCE10001/U/1/SM1/T01/60"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 85
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/86",
+          "CMCE10001/U/1/SM1/T01/11",
+          "CMCE10001/U/1/SM1/T01/36",
+          "CMCE10001/U/1/SM1/T01/61"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 86
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/87",
+          "CMCE10001/U/1/SM1/T01/12",
+          "CMCE10001/U/1/SM1/T01/37",
+          "CMCE10001/U/1/SM1/T01/62"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 87
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/88",
+          "CMCE10001/U/1/SM1/T01/13",
+          "CMCE10001/U/1/SM1/T01/38",
+          "CMCE10001/U/1/SM1/T01/63"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 88
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/89",
+          "CMCE10001/U/1/SM1/T01/14",
+          "CMCE10001/U/1/SM1/T01/39",
+          "CMCE10001/U/1/SM1/T01/64"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 89
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/90",
+          "CMCE10001/U/1/SM1/T01/15",
+          "CMCE10001/U/1/SM1/T01/40",
+          "CMCE10001/U/1/SM1/T01/65"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 90
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/91",
+          "CMCE10001/U/1/SM1/T01/16",
+          "CMCE10001/U/1/SM1/T01/41",
+          "CMCE10001/U/1/SM1/T01/66"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 91
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/03"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/92",
+          "CMCE10001/U/1/SM1/T01/17",
+          "CMCE10001/U/1/SM1/T01/42",
+          "CMCE10001/U/1/SM1/T01/67"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 92
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/93",
+          "CMCE10001/U/1/SM1/T01/18",
+          "CMCE10001/U/1/SM1/T01/43",
+          "CMCE10001/U/1/SM1/T01/68"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 93
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/94",
+          "CMCE10001/U/1/SM1/T01/19",
+          "CMCE10001/U/1/SM1/T01/44",
+          "CMCE10001/U/1/SM1/T01/69"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 94
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/95",
+          "CMCE10001/U/1/SM1/T01/20",
+          "CMCE10001/U/1/SM1/T01/45",
+          "CMCE10001/U/1/SM1/T01/70"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 95
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/96",
+          "CMCE10001/U/1/SM1/T01/21",
+          "CMCE10001/U/1/SM1/T01/46",
+          "CMCE10001/U/1/SM1/T01/71"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 96
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/97",
+          "CMCE10001/U/1/SM1/T01/22",
+          "CMCE10001/U/1/SM1/T01/47",
+          "CMCE10001/U/1/SM1/T01/72"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 97
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/98",
+          "CMCE10001/U/1/SM1/T01/23",
+          "CMCE10001/U/1/SM1/T01/48",
+          "CMCE10001/U/1/SM1/T01/73"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 98
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/99",
+          "CMCE10001/U/1/SM1/T01/24",
+          "CMCE10001/U/1/SM1/T01/49",
+          "CMCE10001/U/1/SM1/T01/74"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 99
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/100",
+          "CMCE10001/U/1/SM1/T01/25",
+          "CMCE10001/U/1/SM1/T01/50",
+          "CMCE10001/U/1/SM1/T01/75"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 100
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/05"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 5
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/76",
+          "CMCE10001/U/1/SM1/T01/01",
+          "CMCE10001/U/1/SM1/T01/26",
+          "CMCE10001/U/1/SM1/T01/51"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 76
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/77",
+          "CMCE10001/U/1/SM1/T01/02",
+          "CMCE10001/U/1/SM1/T01/27",
+          "CMCE10001/U/1/SM1/T01/52"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 77
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/78",
+          "CMCE10001/U/1/SM1/T01/03",
+          "CMCE10001/U/1/SM1/T01/28",
+          "CMCE10001/U/1/SM1/T01/53"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 78
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/79",
+          "CMCE10001/U/1/SM1/T01/04",
+          "CMCE10001/U/1/SM1/T01/29",
+          "CMCE10001/U/1/SM1/T01/54"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 79
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/80",
+          "CMCE10001/U/1/SM1/T01/05",
+          "CMCE10001/U/1/SM1/T01/30",
+          "CMCE10001/U/1/SM1/T01/55"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 80
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/81",
+          "CMCE10001/U/1/SM1/T01/06",
+          "CMCE10001/U/1/SM1/T01/31",
+          "CMCE10001/U/1/SM1/T01/56"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 81
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/82",
+          "CMCE10001/U/1/SM1/T01/07",
+          "CMCE10001/U/1/SM1/T01/32",
+          "CMCE10001/U/1/SM1/T01/57"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 82
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/83",
+          "CMCE10001/U/1/SM1/T01/08",
+          "CMCE10001/U/1/SM1/T01/33",
+          "CMCE10001/U/1/SM1/T01/58"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 83
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/03"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/84",
+          "CMCE10001/U/1/SM1/T01/09",
+          "CMCE10001/U/1/SM1/T01/34",
+          "CMCE10001/U/1/SM1/T01/59"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 84
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/85",
+          "CMCE10001/U/1/SM1/T01/10",
+          "CMCE10001/U/1/SM1/T01/35",
+          "CMCE10001/U/1/SM1/T01/60"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 85
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/86",
+          "CMCE10001/U/1/SM1/T01/11",
+          "CMCE10001/U/1/SM1/T01/36",
+          "CMCE10001/U/1/SM1/T01/61"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 86
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/87",
+          "CMCE10001/U/1/SM1/T01/12",
+          "CMCE10001/U/1/SM1/T01/37",
+          "CMCE10001/U/1/SM1/T01/62"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 87
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/88",
+          "CMCE10001/U/1/SM1/T01/13",
+          "CMCE10001/U/1/SM1/T01/38",
+          "CMCE10001/U/1/SM1/T01/63"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 88
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/89",
+          "CMCE10001/U/1/SM1/T01/14",
+          "CMCE10001/U/1/SM1/T01/39",
+          "CMCE10001/U/1/SM1/T01/64"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 89
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/90",
+          "CMCE10001/U/1/SM1/T01/15",
+          "CMCE10001/U/1/SM1/T01/40",
+          "CMCE10001/U/1/SM1/T01/65"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 90
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/91",
+          "CMCE10001/U/1/SM1/T01/16",
+          "CMCE10001/U/1/SM1/T01/41",
+          "CMCE10001/U/1/SM1/T01/66"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 91
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/92",
+          "CMCE10001/U/1/SM1/T01/17",
+          "CMCE10001/U/1/SM1/T01/42",
+          "CMCE10001/U/1/SM1/T01/67"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 92
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/93",
+          "CMCE10001/U/1/SM1/T01/18",
+          "CMCE10001/U/1/SM1/T01/43",
+          "CMCE10001/U/1/SM1/T01/68"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 93
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/94",
+          "CMCE10001/U/1/SM1/T01/19",
+          "CMCE10001/U/1/SM1/T01/44",
+          "CMCE10001/U/1/SM1/T01/69"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 94
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/95",
+          "CMCE10001/U/1/SM1/T01/20",
+          "CMCE10001/U/1/SM1/T01/45",
+          "CMCE10001/U/1/SM1/T01/70"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 95
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/96",
+          "CMCE10001/U/1/SM1/T01/21",
+          "CMCE10001/U/1/SM1/T01/46",
+          "CMCE10001/U/1/SM1/T01/71"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 96
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/97",
+          "CMCE10001/U/1/SM1/T01/22",
+          "CMCE10001/U/1/SM1/T01/47",
+          "CMCE10001/U/1/SM1/T01/72"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 97
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/L01/05"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/98",
+          "CMCE10001/U/1/SM1/T01/23",
+          "CMCE10001/U/1/SM1/T01/48",
+          "CMCE10001/U/1/SM1/T01/73"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 98
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/99",
+          "CMCE10001/U/1/SM1/T01/24",
+          "CMCE10001/U/1/SM1/T01/49",
+          "CMCE10001/U/1/SM1/T01/74"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 99
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CMCE10001",
+        "codes": [
+          "CMCE10001/U/1/SM1/T01/100",
+          "CMCE10001/U/1/SM1/T01/25",
+          "CMCE10001/U/1/SM1/T01/50",
+          "CMCE10001/U/1/SM1/T01/75"
+        ],
+        "locations": [
+          "PAR-The Spot-2016",
+          "PAR-The Spot-2013",
+          "PAR-The Spot-2014",
+          "PAR-The Spot-2015"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 100
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:50.853Z"
+}

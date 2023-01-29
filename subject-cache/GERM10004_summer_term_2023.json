@@ -1,0 +1,706 @@
+{
+  "subject": {
+    "code": "GERM10004",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S01/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S02/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S02/01"
+                ],
+                "locations": [
+                  "PAR-John Medley-W201"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 1",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S01/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 3",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S03/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 4",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S04/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 4",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S04/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-263"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S03/01"
+                ],
+                "locations": [
+                  "PAR-John Medley-W201"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3,
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S05/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S06/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 5",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S05/01"
+                ],
+                "locations": [
+                  "PAR-John Medley-W201"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 6",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S06/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-152"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 7",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S07/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 8",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S08/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-227 (Cecil Scutt Room)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S01/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 2",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S02/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 1",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S01/03"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-256"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S02/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-103"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 3",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S03/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 4",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S04/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S03/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-103"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 4",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S04/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-103"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S05/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S06/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 5",
+                "day": 3,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S05/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-156"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 6",
+                "day": 3,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S06/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-156"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 7",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S07/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 8",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/SUM/S08/03"
+                ],
+                "locations": [
+                  "PAR-Old Arts-116 (CLS4)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:59.507Z"
+}

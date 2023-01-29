@@ -1,0 +1,396 @@
+{
+  "subject": {
+    "code": "THTR10007",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W01/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W02/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W03/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W04/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W05/01"
+                ],
+                "locations": [
+                  "STH-879-202 (Studio 6)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W01/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W02/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W03/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W04/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W05/02"
+                ],
+                "locations": [
+                  "STH-879-201 (Studio 7 Lindy Davies)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 (Online)",
+                "day": 0,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W01/03",
+                  "THTR10007/STH/1/WIN/W01/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 2 (Online)",
+                "day": 1,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W02/03",
+                  "THTR10007/STH/1/WIN/W02/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 3 (Online)",
+                "day": 2,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W03/03",
+                  "THTR10007/STH/1/WIN/W03/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 4 (Online)",
+                "day": 3,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W04/03",
+                  "THTR10007/STH/1/WIN/W04/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 5 (Online)",
+                "day": 4,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "THTR10007",
+                "codes": [
+                  "THTR10007/STH/1/WIN/W05/03",
+                  "THTR10007/STH/1/WIN/W05/04"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              4
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:51.719Z"
+}

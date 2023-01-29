@@ -1,0 +1,779 @@
+{
+  "subject": {
+    "code": "BIOL10002",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/05"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/L03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/05"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10002",
+        "codes": [
+          "BIOL10002/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:34.542Z"
+}

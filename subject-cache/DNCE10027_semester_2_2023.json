@@ -1,0 +1,288 @@
+{
+  "subject": {
+    "code": "DNCE10027",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/03"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/01"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/04"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/02"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/03"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/01"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/04"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "DNCE10027",
+        "codes": [
+          "DNCE10027/STH/1/SM2/P01/02"
+        ],
+        "locations": [
+          "STH-864-201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:03.717Z"
+}

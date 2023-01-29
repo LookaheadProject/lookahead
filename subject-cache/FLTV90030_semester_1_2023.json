@@ -1,0 +1,120 @@
+{
+  "subject": {
+    "code": "FLTV90030",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          13,
+          14,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV90030",
+        "codes": [
+          "FLTV90030/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV90030",
+        "codes": [
+          "FLTV90030/STH/1/SM1/L02/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV90030",
+        "codes": [
+          "FLTV90030/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-861-153 (FTV Studio 3 Tutorial Room)STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          13,
+          14,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV90030",
+        "codes": [
+          "FLTV90030/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:44.643Z"
+}

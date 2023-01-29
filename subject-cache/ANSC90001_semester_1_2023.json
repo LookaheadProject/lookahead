@@ -1,0 +1,191 @@
+{
+  "subject": {
+    "code": "ANSC90001",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Fieldwork 2",
+        "day": 1,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90001",
+        "codes": [
+          "ANSC90001/U/1/SM1/FW2/01"
+        ],
+        "locations": [
+          "X-Off Site."
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 1,
+        "start": 10,
+        "finish": 15,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90001",
+        "codes": [
+          "ANSC90001/U/1/SM1/FW1/01"
+        ],
+        "locations": [
+          "X-Off Site."
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 3",
+        "day": 1,
+        "start": 10,
+        "finish": 14,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90001",
+        "codes": [
+          "ANSC90001/U/1/SM1/FW3/01"
+        ],
+        "locations": [
+          "X-Off Site."
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 4",
+        "day": 1,
+        "start": 10,
+        "finish": 20.5,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90001",
+        "codes": [
+          "ANSC90001/U/1/SM1/FW4/01"
+        ],
+        "locations": [
+          "X-Off Site."
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 5",
+        "day": 1,
+        "start": 10,
+        "finish": 16,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANSC90001",
+        "codes": [
+          "ANSC90001/U/1/SM1/FW5/01"
+        ],
+        "locations": [
+          "X-Off Site."
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 10,
+                "finish": 17.25,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90001",
+                "codes": [
+                  "ANSC90001/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-120 (Theatre 4)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ANSC90001",
+                "codes": [
+                  "ANSC90001/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Building 125-128 (128 Dry Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:26.384Z"
+}

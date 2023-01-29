@@ -1,0 +1,2128 @@
+{
+  "subject": {
+    "code": "CUMC90029",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "BSL Seminar 1 - Online",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S01/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 2 - Online",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S02/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 3 - Online",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S03/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 4 - Online",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S04/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 1 - On Campus",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S01/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 2 - On Campus",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S02/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 3 - On Campus",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S03/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 4 - On Campus",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S04/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSLSeminar 8 - Online",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S08/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSLSeminar 9 - Online",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S09/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSLSeminar 10 - Online",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S10/01_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSLSeminar 8 - On Campus",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S08/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSLSeminar 9 - On Campus",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S09/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSLSeminar 10 - On Campus",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S10/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 5",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S05/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 6",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S06/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 7",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S07/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 5",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 6",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S06/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 7",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/S07/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      },
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P01/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 10",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P10/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 11",
+                "day": 2,
+                "start": 10.5,
+                "finish": 11.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P11/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 12",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P12/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 13",
+                "day": 2,
+                "start": 12.5,
+                "finish": 13.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P13/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 14",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P14/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 15",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P15/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P02/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P03/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 4",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P04/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 5",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P05/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P06/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 7",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P07/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 8",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P08/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 9",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P09/02"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 10",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P10/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 11",
+                "day": 2,
+                "start": 10.5,
+                "finish": 11.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P11/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 12",
+                "day": 2,
+                "start": 11.5,
+                "finish": 12.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P12/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 13",
+                "day": 2,
+                "start": 12.5,
+                "finish": 13.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P13/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 14",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P14/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 15",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P15/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 3",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P03/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 4",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P04/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 5",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P05/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 6",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P06/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 7",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P07/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 8",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P08/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 9",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P09/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P01/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 10",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P10/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 11",
+                "day": 1,
+                "start": 10.5,
+                "finish": 11.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P11/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 12",
+                "day": 1,
+                "start": 11.5,
+                "finish": 12.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P12/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 13",
+                "day": 1,
+                "start": 12.5,
+                "finish": 13.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P13/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 14",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P14/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 14,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 15",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P15/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 15,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P02/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 3",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P03/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 4",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P04/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 5",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P05/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 6",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P06/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 7",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P07/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 8",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P08/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 9",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/P09/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 3",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L03/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L01/01"
+                ],
+                "locations": [
+                  "PAR-Babel-G03 (Lower Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 10",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L10/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-239 (North Theatre)"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 11",
+                "day": 0,
+                "start": 10.5,
+                "finish": 11.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L11/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-239 (North Theatre)"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 12",
+                "day": 0,
+                "start": 11.5,
+                "finish": 12.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L12/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-239 (North Theatre)"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L02/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-239 (North Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 1,
+                "start": 8,
+                "finish": 9,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L04/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 6",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L06/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 7",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L07/01"
+                ],
+                "locations": [
+                  "PAR-Babel-G03 (Lower Theatre)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 8",
+                "day": 3,
+                "start": 10.5,
+                "finish": 11.5,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L08/01"
+                ],
+                "locations": [
+                  "PAR-Babel-G03 (Lower Theatre)"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 9",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L09/01"
+                ],
+                "locations": [
+                  "PAR-Babel-G03 (Lower Theatre)"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 13",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L13/01"
+                ],
+                "locations": [
+                  "PAR-Old Arts-155"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L05/01"
+                ],
+                "locations": [
+                  "PAR-Thomas Cherry-101 (GCCMC Laboratory)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 10",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L10/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 11",
+                "day": 0,
+                "start": 10.5,
+                "finish": 11.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L11/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 12",
+                "day": 0,
+                "start": 11.5,
+                "finish": 12.5,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L12/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 7",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L07/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 13",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  14
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L13/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 8",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L08/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 9",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "CUMC90029",
+                "codes": [
+                  "CUMC90029/U/1/MAR/L09/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Seminar",
+        "type": "S",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 17
+      },
+      {
+        "name": "Lecture",
+        "type": "L",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 13
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:57.938Z"
+}

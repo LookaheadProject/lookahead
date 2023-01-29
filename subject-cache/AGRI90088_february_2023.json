@@ -1,0 +1,122 @@
+{
+  "subject": {
+    "code": "AGRI90088",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI90088",
+        "codes": [
+          "AGRI90088/U/1/FEB/T01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI90088",
+        "codes": [
+          "AGRI90088/U/1/FEB/T02/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-121"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI90088",
+                "codes": [
+                  "AGRI90088/U/1/FEB/L01/01"
+                ],
+                "locations": [
+                  "PAR-Food and Nutrition Building-121"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI90088",
+                "codes": [
+                  "AGRI90088/U/1/FEB/L02/01"
+                ],
+                "locations": [
+                  "PAR-Food and Nutrition Building-121"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:22.185Z"
+}

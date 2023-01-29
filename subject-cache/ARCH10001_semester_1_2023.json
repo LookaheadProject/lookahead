@@ -1,0 +1,1683 @@
+{
+  "subject": {
+    "code": "ARCH10001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ARCH10001",
+        "codes": [
+          "ARCH10001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ARCH10001",
+        "codes": [
+          "ARCH10001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/20"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 20
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/20"
+                ],
+                "locations": [
+                  "PAR-McCoy-208 (T&L Space 1 - VIEPS Intensive Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 20
+              }
+            ],
+            "streamNumbers": [
+              20
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/19",
+                  "ARCH10001/U/1/SM1/ST1/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-448",
+                  "PAR-Glyn Davis (MSD)-137"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 19
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/19",
+                  "ARCH10001/U/1/SM1/ST2/05"
+                ],
+                "locations": [
+                  "PAR-McCoy-208 (T&L Space 1 - VIEPS Intensive Room)",
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 19
+              }
+            ],
+            "streamNumbers": [
+              19,
+              5
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/26"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-241"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 26
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/26"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 26
+              }
+            ],
+            "streamNumbers": [
+              26
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/22",
+                  "ARCH10001/U/1/SM1/ST1/23"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-449",
+                  "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 22
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/22",
+                  "ARCH10001/U/1/SM1/ST2/23"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 22
+              }
+            ],
+            "streamNumbers": [
+              22,
+              23
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/17",
+                  "ARCH10001/U/1/SM1/ST1/15"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-448",
+                  "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/17",
+                  "ARCH10001/U/1/SM1/ST2/15"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237",
+                  "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 17
+              }
+            ],
+            "streamNumbers": [
+              17,
+              15
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1   on hold",
+                "day": 1,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/12"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/12"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/27",
+                  "ARCH10001/U/1/SM1/ST1/28"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-449"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 27
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/27",
+                  "ARCH10001/U/1/SM1/ST2/28"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)",
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 27
+              }
+            ],
+            "streamNumbers": [
+              27,
+              28
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-137"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/01",
+                  "ARCH10001/U/1/SM1/ST1/03",
+                  "ARCH10001/U/1/SM1/ST1/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-448",
+                  "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/01",
+                  "ARCH10001/U/1/SM1/ST2/03",
+                  "ARCH10001/U/1/SM1/ST2/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)",
+                  "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)",
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              3,
+              2
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/24"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-449"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 24
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/24"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 24
+              }
+            ],
+            "streamNumbers": [
+              24
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/07",
+                  "ARCH10001/U/1/SM1/ST1/14"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-124",
+                  "PAR-Glyn Davis (MSD)-448"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/07",
+                  "ARCH10001/U/1/SM1/ST2/14"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+                  "PAR-Glyn Davis (MSD)-117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7,
+              14
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/25"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-118"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 25
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/25"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 25
+              }
+            ],
+            "streamNumbers": [
+              25
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/08"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/08"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/34",
+                  "ARCH10001/U/1/SM1/ST1/33"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)",
+                  "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 34
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/34",
+                  "ARCH10001/U/1/SM1/ST2/33"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-226 (Hansen Yuncken Studio 2)",
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 34
+              }
+            ],
+            "streamNumbers": [
+              34,
+              33
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/30",
+                  "ARCH10001/U/1/SM1/ST1/31"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-241",
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 30
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/30",
+                  "ARCH10001/U/1/SM1/ST2/31"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-216",
+                  "PAR-Glyn Davis (MSD)-215"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 30
+              }
+            ],
+            "streamNumbers": [
+              30,
+              31
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/29"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-216"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 29
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/29"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-216"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 29
+              }
+            ],
+            "streamNumbers": [
+              29
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/09"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-449"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/09"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-215"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/32"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 32
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/32"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 32
+              }
+            ],
+            "streamNumbers": [
+              32
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/21"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-118"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 21
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/21"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 21
+              }
+            ],
+            "streamNumbers": [
+              21
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/10"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/10"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-213"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/13"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/13"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 13
+              }
+            ],
+            "streamNumbers": [
+              13
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/18",
+                  "ARCH10001/U/1/SM1/ST1/16"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-448",
+                  "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 18
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/18",
+                  "ARCH10001/U/1/SM1/ST2/16"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-124",
+                  "PAR-Glyn Davis (MSD)-118"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 18
+              }
+            ],
+            "streamNumbers": [
+              18,
+              16
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 1,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST1/11"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-241"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  13,
+                  17,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH10001",
+                "codes": [
+                  "ARCH10001/U/1/SM1/ST2/11"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "Studio"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:28.365Z"
+}

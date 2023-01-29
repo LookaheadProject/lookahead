@@ -1,0 +1,136 @@
+{
+  "subject": {
+    "code": "MKTG90022",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MKTG90022",
+        "codes": [
+          "MKTG90022/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18andG20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MKTG90022",
+        "codes": [
+          "MKTG90022/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18andG20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MKTG90022",
+        "codes": [
+          "MKTG90022/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Engineering-107 (A1 Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MKTG90022",
+        "codes": [
+          "MKTG90022/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-FBE-205 (Theatre 3)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:57.206Z"
+}

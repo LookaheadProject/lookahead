@@ -1,0 +1,289 @@
+{
+  "subject": {
+    "code": "SCRN30004",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Screening 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/SC1/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-156 (Lectorial Room I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SC"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Screening 1",
+        "day": 0,
+        "start": 12,
+        "finish": 14.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/SC1/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-156 (Lectorial Room I)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "SC"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "SCRN30004",
+        "codes": [
+          "SCRN30004/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:46.340Z"
+}

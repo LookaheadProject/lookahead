@@ -1,0 +1,275 @@
+{
+  "subject": {
+    "code": "FREN20018",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T01/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 0,
+        "start": 13.5,
+        "finish": 16,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T02/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 1,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T03/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 4",
+        "day": 1,
+        "start": 13.5,
+        "finish": 16,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T04/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 5",
+        "day": 2,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T05/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 6",
+        "day": 2,
+        "start": 13.5,
+        "finish": 16,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T06/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 5",
+        "day": 3,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T05/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 6",
+        "day": 3,
+        "start": 13.5,
+        "finish": 16,
+        "weeks": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T06/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 7",
+        "day": 4,
+        "start": 10,
+        "finish": 12.5,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T07/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 8",
+        "day": 4,
+        "start": 13.5,
+        "finish": 16,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FREN20018",
+        "codes": [
+          "FREN20018/U/1/SUM/T08/03"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-555"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:50.508Z"
+}

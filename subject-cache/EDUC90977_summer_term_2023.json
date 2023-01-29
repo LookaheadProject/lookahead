@@ -1,0 +1,237 @@
+{
+  "subject": {
+    "code": "EDUC90977",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90977",
+        "codes": [
+          "EDUC90977/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90977",
+        "codes": [
+          "EDUC90977/U/1/SUM/S02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90977",
+        "codes": [
+          "EDUC90977/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90977",
+        "codes": [
+          "EDUC90977/U/1/SUM/L03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90977",
+        "codes": [
+          "EDUC90977/U/1/SUM/S03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          5
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90977",
+        "codes": [
+          "EDUC90977/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90977",
+                "codes": [
+                  "EDUC90977/U/1/SUM/T01/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90977",
+                "codes": [
+                  "EDUC90977/U/1/SUM/T02/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90977",
+                "codes": [
+                  "EDUC90977/U/1/SUM/T03/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:20.202Z"
+}

@@ -1,0 +1,245 @@
+{
+  "subject": {
+    "code": "FLTV20012",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1 [Staff Office]",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          13,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/T01/01",
+          "FLTV20012/STH/1/SM1/T01/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1 [Staff Office]",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          13,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/T01/02",
+          "FLTV20012/STH/1/SM1/T01/05"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1 [Staff Office]",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          13,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/T01/03",
+          "FLTV20012/STH/1/SM1/T01/06"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-861-228 (Rushes 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/W02/01"
+        ],
+        "locations": [
+          "STH-861-228 (Rushes 1)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/W03/01"
+        ],
+        "locations": [
+          "STH-861-228 (Rushes 1)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1 [Staff Office]",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          13,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/T01/01",
+          "FLTV20012/STH/1/SM1/T01/04"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1 [Staff Office]",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          13,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/T01/02",
+          "FLTV20012/STH/1/SM1/T01/05"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1 [Staff Office]",
+        "day": 4,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          13,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20012",
+        "codes": [
+          "FLTV20012/STH/1/SM1/T01/03",
+          "FLTV20012/STH/1/SM1/T01/06"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:42.377Z"
+}

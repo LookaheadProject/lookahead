@@ -1,0 +1,261 @@
+{
+  "subject": {
+    "code": "FLTV20018",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20018",
+        "codes": [
+          "FLTV20018/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20018",
+        "codes": [
+          "FLTV20018/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FLTV20018",
+                "codes": [
+                  "FLTV20018/STH/1/SM1/T01/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  17,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FLTV20018",
+                "codes": [
+                  "FLTV20018/STH/1/SM1/T02/05"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 15.75,
+                "finish": 17.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FLTV20018",
+                "codes": [
+                  "FLTV20018/STH/1/SM1/T01/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  17,
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FLTV20018",
+                "codes": [
+                  "FLTV20018/STH/1/SM1/T02/06"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.75,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FLTV20018",
+                "codes": [
+                  "FLTV20018/STH/1/SM1/T01/01",
+                  "FLTV20018/STH/1/SM1/T01/04",
+                  "FLTV20018/STH/1/SM1/T01/03",
+                  "FLTV20018/STH/1/SM1/T01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  14,
+                  18
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FLTV20018",
+                "codes": [
+                  "FLTV20018/STH/1/SM1/T02/01",
+                  "FLTV20018/STH/1/SM1/T02/04",
+                  "FLTV20018/STH/1/SM1/T02/03",
+                  "FLTV20018/STH/1/SM1/T02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              4,
+              3,
+              2
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:42.645Z"
+}

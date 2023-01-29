@@ -1,0 +1,313 @@
+{
+  "subject": {
+    "code": "POPH90200",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 9.5,
+                "finish": 13.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W03/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W04/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W05/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 4,
+                "start": 9.5,
+                "finish": 13.5,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W06/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-102"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - BSL Online",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W01/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2 - BSL Online",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W02/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3 - BSL Online",
+                "day": 2,
+                "start": 9.5,
+                "finish": 13.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W03/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4 - BSL Online",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W04/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5 - BSL Online",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W05/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6 - BSL Online",
+                "day": 4,
+                "start": 9.5,
+                "finish": 13.5,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90200",
+                "codes": [
+                  "POPH90200/U/1/FEB/W06/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:31.973Z"
+}

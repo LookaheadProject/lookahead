@@ -1,0 +1,582 @@
+{
+  "subject": {
+    "code": "ARCH30003",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L01/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L05/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L02/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L03/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L04/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 5",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  25,
+                  26
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/L04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      },
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1 - BSL ON-CAMPUS",
+                "day": 0,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T01/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2 - BSL ON-CAMPUS",
+                "day": 1,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T02/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-144 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3 - BSL ON-CAMPUS",
+                "day": 2,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T03/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4 - BSL ON-CAMPUS",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T04/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1 - BSL ONLINE",
+                "day": 0,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2 - BSL ONLINE",
+                "day": 1,
+                "start": 10,
+                "finish": 16.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 3 - BSL ONLINE",
+                "day": 2,
+                "start": 10,
+                "finish": 16.25,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 4 - BSL ONLINE",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  26,
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T03/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  27
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ARCH30003",
+                "codes": [
+                  "ARCH30003/U/1/JUN/T04/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "TutorialBSLONCAMPUS"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:29.182Z"
+}

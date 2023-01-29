@@ -1,0 +1,259 @@
+{
+  "subject": {
+    "code": "POPH90095",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 11,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/W01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 11,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/W02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1 - BSL Online",
+                "day": 0,
+                "start": 11,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/W01/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2 - BSL Online",
+                "day": 1,
+                "start": 11,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/W02/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/L01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/L02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1 - BSL Online",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/L01/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2 - BSL Online",
+                "day": 1,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  11,
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90095",
+                "codes": [
+                  "POPH90095/U/1/FEB/L02/02_BSL Online"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:30.932Z"
+}

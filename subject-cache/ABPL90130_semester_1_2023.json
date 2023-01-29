@@ -1,0 +1,245 @@
+{
+  "subject": {
+    "code": "ABPL90130",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90130",
+        "codes": [
+          "ABPL90130/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B121 (Malaysian Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 19.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90130",
+        "codes": [
+          "ABPL90130/U/1/SM1/T01/04",
+          "ABPL90130/U/1/SM1/T01/01",
+          "ABPL90130/U/1/SM1/T01/02",
+          "ABPL90130/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-118",
+          "PAR-Redmond Barry-1006",
+          "PAR-Redmond Barry-1007",
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 20.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90130",
+        "codes": [
+          "ABPL90130/U/1/SM1/T01/08",
+          "ABPL90130/U/1/SM1/T01/05",
+          "ABPL90130/U/1/SM1/T01/06",
+          "ABPL90130/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-118",
+          "PAR-Redmond Barry-1006",
+          "PAR-Redmond Barry-1007",
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90130",
+        "codes": [
+          "ABPL90130/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B121 (Malaysian Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 19.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90130",
+        "codes": [
+          "ABPL90130/U/1/SM1/T01/04",
+          "ABPL90130/U/1/SM1/T01/01",
+          "ABPL90130/U/1/SM1/T01/02",
+          "ABPL90130/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-118",
+          "PAR-Redmond Barry-1006",
+          "PAR-Redmond Barry-1007",
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 20.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90130",
+        "codes": [
+          "ABPL90130/U/1/SM1/T01/08",
+          "ABPL90130/U/1/SM1/T01/05",
+          "ABPL90130/U/1/SM1/T01/06",
+          "ABPL90130/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-118",
+          "PAR-Redmond Barry-1006",
+          "PAR-Redmond Barry-1007",
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:11.064Z"
+}

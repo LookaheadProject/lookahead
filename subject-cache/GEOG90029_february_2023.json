@@ -1,0 +1,181 @@
+{
+  "subject": {
+    "code": "GEOG90029",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOG90029",
+                "codes": [
+                  "GEOG90029/U/1/FEB/L01/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOG90029",
+                "codes": [
+                  "GEOG90029/U/1/FEB/L02/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOG90029",
+                "codes": [
+                  "GEOG90029/U/1/FEB/L03/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "GEOG90029",
+                "codes": [
+                  "GEOG90029/U/1/FEB/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "GEOG90029",
+                "codes": [
+                  "GEOG90029/U/1/FEB/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 10,
+                "finish": 16,
+                "weeks": [
+                  7,
+                  8
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "GEOG90029",
+                "codes": [
+                  "GEOG90029/U/1/FEB/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:57.328Z"
+}

@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "MUSI30167",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Brass Ensemble",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30167",
+        "codes": [
+          "MUSI30167/STH/1/SM1/R01/01"
+        ],
+        "locations": [
+          "STH-880-G12 (Kenneth Myer Auditorium)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Brass Ensemble",
+        "day": 4,
+        "start": 11.5,
+        "finish": 13.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30167",
+        "codes": [
+          "MUSI30167/STH/1/SM1/R01/01"
+        ],
+        "locations": [
+          "STH-880-G12 (Kenneth Myer Auditorium)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:09.295Z"
+}

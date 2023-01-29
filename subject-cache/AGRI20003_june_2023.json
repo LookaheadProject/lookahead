@@ -1,0 +1,237 @@
+{
+  "subject": {
+    "code": "AGRI20003",
+    "period": "june",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI20003",
+        "codes": [
+          "AGRI20003/DOO/1/JUN/P01/01"
+        ],
+        "locations": [
+          "DOO-Museum & Theatre C-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 2",
+        "day": 2,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI20003",
+        "codes": [
+          "AGRI20003/DOO/1/JUN/P02/01"
+        ],
+        "locations": [
+          "DOO-Museum & Theatre C-G01"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 3",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI20003",
+        "codes": [
+          "AGRI20003/DOO/1/JUN/P03/01"
+        ],
+        "locations": [
+          "DOO-Museum & Theatre C-G01"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 4",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          26
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AGRI20003",
+        "codes": [
+          "AGRI20003/DOO/1/JUN/P04/01"
+        ],
+        "locations": [
+          "DOO-Museum & Theatre C-G01"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20003",
+                "codes": [
+                  "AGRI20003/DOO/1/JUN/L01/01"
+                ],
+                "locations": [
+                  "DOO-Museum & Theatre C-G01"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20003",
+                "codes": [
+                  "AGRI20003/DOO/1/JUN/L02/01"
+                ],
+                "locations": [
+                  "DOO-Museum & Theatre C-G01"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20003",
+                "codes": [
+                  "AGRI20003/DOO/1/JUN/L03/01"
+                ],
+                "locations": [
+                  "DOO-Museum & Theatre C-G01"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20003",
+                "codes": [
+                  "AGRI20003/DOO/1/JUN/L04/01"
+                ],
+                "locations": [
+                  "DOO-Museum & Theatre C-G01"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  26
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "AGRI20003",
+                "codes": [
+                  "AGRI20003/DOO/1/JUN/L05/01"
+                ],
+                "locations": [
+                  "DOO-Museum & Theatre C-G01"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:20.301Z"
+}

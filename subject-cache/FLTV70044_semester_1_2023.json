@@ -1,0 +1,380 @@
+{
+  "subject": {
+    "code": "FLTV70044",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV70044",
+        "codes": [
+          "FLTV70044/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV70044",
+        "codes": [
+          "FLTV70044/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W01/05"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 14,
+                "finish": 16,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W01/05"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Workshop 2",
+                "day": 4,
+                "start": 10,
+                "finish": 17,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W02/05"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  12,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W01/04"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 10,
+                "finish": 17,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W02/04"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  12,
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W01/03"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Workshop 2",
+                "day": 2,
+                "start": 10,
+                "finish": 17,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W02/03"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  11,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W01/02"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 10,
+                "finish": 17,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W02/02"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  11,
+                  18
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W01/01"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 0,
+                "start": 10,
+                "finish": 17,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FLTV70044",
+                "codes": [
+                  "FLTV70044/STH/1/SM1/W02/01"
+                ],
+                "locations": [
+                  "STH-882-G01 (Guild Design Studio 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Workshop",
+        "type": "W",
+        "okNumbers": 1,
+        "weirdNumbers": 4,
+        "maxCount": 3
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:44.044Z"
+}

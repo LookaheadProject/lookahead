@@ -1,0 +1,3629 @@
+{
+  "subject": {
+    "code": "MAST10005",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/08"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/29",
+          "MAST10005/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 202",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 29
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/34",
+          "MAST10005/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/35",
+          "MAST10005/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/01",
+          "MAST10005/U/1/SM1/P01/33"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/36",
+          "MAST10005/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/07"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/39"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/10"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/30",
+          "MAST10005/U/1/SM1/P01/07"
+        ],
+        "locations": [
+          "PAR-Peter Hall-215",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 30
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/09"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/38",
+          "MAST10005/U/1/SM1/P01/08"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/40"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 40
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/14"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/05"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/42",
+          "MAST10005/U/1/SM1/P01/12"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 202",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 42
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/31",
+          "MAST10005/U/1/SM1/P01/13"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 202",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/41",
+          "MAST10005/U/1/SM1/P01/37"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 41
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/43",
+          "MAST10005/U/1/SM1/P01/14"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 43
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/11",
+          "MAST10005/U/1/SM1/P01/15"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/12"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/15"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/11"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/16"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/16"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/18"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/22"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/45",
+          "MAST10005/U/1/SM1/P01/19"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 45
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/20"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/47",
+          "MAST10005/U/1/SM1/P01/21"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/17",
+          "MAST10005/U/1/SM1/P01/44"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G09 (Classroom D)",
+          "PAR-David Caro-Podium 204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/48",
+          "MAST10005/U/1/SM1/P01/23"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 48
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/10"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/13"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/17"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/28"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 28
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/26",
+          "MAST10005/U/1/SM1/P01/32"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-David Caro-Podium 202"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/49",
+          "MAST10005/U/1/SM1/P01/24"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/50",
+          "MAST10005/U/1/SM1/P01/27"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 50
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/46",
+          "MAST10005/U/1/SM1/P01/25"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 46
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/09"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 9
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/01",
+          "MAST10005/U/1/SM1/P01/33"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/29",
+          "MAST10005/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 202",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 29
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/34",
+          "MAST10005/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/35",
+          "MAST10005/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/08"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/36",
+          "MAST10005/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/30",
+          "MAST10005/U/1/SM1/P01/07"
+        ],
+        "locations": [
+          "PAR-Peter Hall-215",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 30
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/38",
+          "MAST10005/U/1/SM1/P01/08"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/39"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/14"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/07"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/10"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/03"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/04"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/09"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G10"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/40"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 40
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/05"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/41",
+          "MAST10005/U/1/SM1/P01/37"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 41
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/42",
+          "MAST10005/U/1/SM1/P01/12"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 202",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 42
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/12"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/31",
+          "MAST10005/U/1/SM1/P01/13"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 202",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/43",
+          "MAST10005/U/1/SM1/P01/14"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 43
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/11",
+          "MAST10005/U/1/SM1/P01/15"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/16"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/10"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/15"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/17",
+          "MAST10005/U/1/SM1/P01/44"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G09 (Classroom D)",
+          "PAR-David Caro-Podium 204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/11"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/18"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/45",
+          "MAST10005/U/1/SM1/P01/19"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 45
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/20"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/16"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G18"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/47",
+          "MAST10005/U/1/SM1/P01/21"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/22"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/13"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/48",
+          "MAST10005/U/1/SM1/P01/23"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 48
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/17"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/49",
+          "MAST10005/U/1/SM1/P01/24"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/46",
+          "MAST10005/U/1/SM1/P01/25"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G50",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 46
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/26",
+          "MAST10005/U/1/SM1/P01/32"
+        ],
+        "locations": [
+          "PAR-David Caro-Podium 204",
+          "PAR-David Caro-Podium 202"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/50",
+          "MAST10005/U/1/SM1/P01/27"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G14",
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 50
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/P01/28"
+        ],
+        "locations": [
+          "PAR-Chemistry-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 28
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MAST10005",
+        "codes": [
+          "MAST10005/U/1/SM1/W01/09"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 9
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L01/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L02/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L03/03"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L01/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L02/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L03/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L01/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L02/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST10005",
+                "codes": [
+                  "MAST10005/U/1/SM1/L03/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:35.389Z"
+}

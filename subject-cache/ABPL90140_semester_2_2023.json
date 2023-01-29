@@ -1,0 +1,317 @@
+{
+  "subject": {
+    "code": "ABPL90140",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/T01/10",
+          "ABPL90140/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-118"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 19.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/T01/04",
+          "ABPL90140/U/1/SM2/T01/01",
+          "ABPL90140/U/1/SM2/T01/02",
+          "ABPL90140/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 19.75,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/T01/08",
+          "ABPL90140/U/1/SM2/T01/05",
+          "ABPL90140/U/1/SM2/T01/06",
+          "ABPL90140/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.5,
+        "finish": 18,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/T01/10",
+          "ABPL90140/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-118"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 19.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/T01/04",
+          "ABPL90140/U/1/SM2/T01/01",
+          "ABPL90140/U/1/SM2/T01/02",
+          "ABPL90140/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 19.75,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90140",
+        "codes": [
+          "ABPL90140/U/1/SM2/T01/08",
+          "ABPL90140/U/1/SM2/T01/05",
+          "ABPL90140/U/1/SM2/T01/06",
+          "ABPL90140/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-118",
+          "PAR-Glyn Davis (MSD)-124",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:11.414Z"
+}

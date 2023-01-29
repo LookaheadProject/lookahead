@@ -1,0 +1,74 @@
+{
+  "subject": {
+    "code": "ISYS90079",
+    "period": "summer_term",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISYS90079",
+        "codes": [
+          "ISYS90079/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.75,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ISYS90079",
+        "codes": [
+          "ISYS90079/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:12.337Z"
+}

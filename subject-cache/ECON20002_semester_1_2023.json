@@ -1,0 +1,2072 @@
+{
+  "subject": {
+    "code": "ECON20002",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/01",
+          "ECON20002/U/1/SM1/T01/31"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/03",
+          "ECON20002/U/1/SM1/T01/30"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/06",
+          "ECON20002/U/1/SM1/T01/29"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/32"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/27"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 27
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/26"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/25"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/22",
+          "ECON20002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-FBE-210",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/49",
+          "ECON20002/U/1/SM1/T01/24",
+          "ECON20002/U/1/SM1/T01/48"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-FBE-210",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/47",
+          "ECON20002/U/1/SM1/T01/23",
+          "ECON20002/U/1/SM1/T01/46"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-FBE-210",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/21",
+          "ECON20002/U/1/SM1/T01/20"
+        ],
+        "locations": [
+          "PAR-FBE-210",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/44",
+          "ECON20002/U/1/SM1/T01/45"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 44
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/42",
+          "ECON20002/U/1/SM1/T01/43"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 42
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/40",
+          "ECON20002/U/1/SM1/T01/41"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 40
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/19"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/18"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/17"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/16"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/39",
+          "ECON20002/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-The Spot-2001",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/38",
+          "ECON20002/U/1/SM1/T01/37",
+          "ECON20002/U/1/SM1/T01/13",
+          "ECON20002/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "PAR-The Spot-2001",
+          "PAR-Alan Gilbert-121 (Theatre 3)",
+          "PAR-FBE-209",
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/36",
+          "ECON20002/U/1/SM1/T01/12",
+          "ECON20002/U/1/SM1/T01/50"
+        ],
+        "locations": [
+          "PAR-The Spot-2001",
+          "PAR-FBE-209",
+          "PAR-FBE-214"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-FBE-219"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/33"
+        ],
+        "locations": [
+          "PAR-FBE-219"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/35"
+        ],
+        "locations": [
+          "PAR-FBE-219"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Lecture 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-The Spot-2014"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/01",
+          "ECON20002/U/1/SM1/T01/31"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/03",
+          "ECON20002/U/1/SM1/T01/30"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/06",
+          "ECON20002/U/1/SM1/T01/29"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/32"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/27"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 27
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/26"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/25"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/49",
+          "ECON20002/U/1/SM1/T01/24",
+          "ECON20002/U/1/SM1/T01/48"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-FBE-210",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/47",
+          "ECON20002/U/1/SM1/T01/23",
+          "ECON20002/U/1/SM1/T01/46"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-FBE-210",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/22",
+          "ECON20002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-FBE-210",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/21",
+          "ECON20002/U/1/SM1/T01/20"
+        ],
+        "locations": [
+          "PAR-FBE-210",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/44",
+          "ECON20002/U/1/SM1/T01/45"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 44
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/42",
+          "ECON20002/U/1/SM1/T01/43"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 42
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/40",
+          "ECON20002/U/1/SM1/T01/41"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2001"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 40
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/19"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/18"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/17"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/16"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/39",
+          "ECON20002/U/1/SM1/T01/15"
+        ],
+        "locations": [
+          "PAR-The Spot-2001",
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 39
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/38",
+          "ECON20002/U/1/SM1/T01/37",
+          "ECON20002/U/1/SM1/T01/13",
+          "ECON20002/U/1/SM1/T01/14"
+        ],
+        "locations": [
+          "PAR-The Spot-2001",
+          "PAR-Alan Gilbert-121 (Theatre 3)",
+          "PAR-FBE-209",
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 38
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/36",
+          "ECON20002/U/1/SM1/T01/12",
+          "ECON20002/U/1/SM1/T01/50"
+        ],
+        "locations": [
+          "PAR-The Spot-2001",
+          "PAR-FBE-209",
+          "PAR-FBE-214"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-B01 (Copland Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/11"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Lecture 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-B02 (Carrillo Gantner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-The Spot-2014"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-FBE-219"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-FBE-210"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/09"
+        ],
+        "locations": [
+          "PAR-FBE-209"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/33"
+        ],
+        "locations": [
+          "PAR-FBE-219"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ECON20002",
+        "codes": [
+          "ECON20002/U/1/SM1/T01/35"
+        ],
+        "locations": [
+          "PAR-FBE-219"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 35
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:08.683Z"
+}

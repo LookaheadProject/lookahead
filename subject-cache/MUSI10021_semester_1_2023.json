@@ -1,0 +1,152 @@
+{
+  "subject": {
+    "code": "MUSI10021",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10021",
+        "codes": [
+          "MUSI10021/U/1/SM1/R01/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10021",
+        "codes": [
+          "MUSI10021/U/1/SM1/R01/02"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10021",
+        "codes": [
+          "MUSI10021/U/1/SM1/R01/01"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10021",
+        "codes": [
+          "MUSI10021/U/1/SM1/R01/02"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:59.524Z"
+}

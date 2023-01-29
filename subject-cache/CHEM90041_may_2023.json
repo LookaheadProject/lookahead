@@ -1,0 +1,178 @@
+{
+  "subject": {
+    "code": "CHEM90041",
+    "period": "may",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          19,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM90041",
+        "codes": [
+          "CHEM90041/U/1/MAY/T01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 2",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM90041",
+        "codes": [
+          "CHEM90041/U/1/MAY/T02/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 3",
+        "day": 4,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM90041",
+        "codes": [
+          "CHEM90041/U/1/MAY/T03/01"
+        ],
+        "locations": [
+          "PAR-McCoy-210and211 (T&L Space 3and4)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM90041",
+                "codes": [
+                  "CHEM90041/U/1/MAY/L01/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-189 (Masson Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM90041",
+                "codes": [
+                  "CHEM90041/U/1/MAY/L02/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-189 (Masson Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM90041",
+                "codes": [
+                  "CHEM90041/U/1/MAY/L03/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-189 (Masson Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:44.920Z"
+}

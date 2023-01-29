@@ -1,0 +1,127 @@
+{
+  "subject": {
+    "code": "SOCI90004",
+    "period": "april",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "SOCI90004",
+        "codes": [
+          "SOCI90004/U/1/APR/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90004",
+        "codes": [
+          "SOCI90004/U/1/APR/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "SOCI90004",
+        "codes": [
+          "SOCI90004/U/1/APR/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90004",
+        "codes": [
+          "SOCI90004/U/1/APR/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:48.836Z"
+}

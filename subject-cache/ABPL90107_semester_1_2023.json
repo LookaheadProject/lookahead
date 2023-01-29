@@ -1,0 +1,243 @@
+{
+  "subject": {
+    "code": "ABPL90107",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90107",
+        "codes": [
+          "ABPL90107/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90107",
+        "codes": [
+          "ABPL90107/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90107",
+                "codes": [
+                  "ABPL90107/U/1/SM1/ST1/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-121 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Studio 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90107",
+                "codes": [
+                  "ABPL90107/U/1/SM1/ST2/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-121 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90107",
+                "codes": [
+                  "ABPL90107/U/1/SM1/ST1/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-120 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Studio 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 19.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90107",
+                "codes": [
+                  "ABPL90107/U/1/SM1/ST2/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-120 (CAD Teaching Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "Studio"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:10.663Z"
+}

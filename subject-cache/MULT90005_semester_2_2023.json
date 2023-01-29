@@ -1,0 +1,297 @@
+{
+  "subject": {
+    "code": "MULT90005",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.75,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/T01/01",
+          "MULT90005/U/1/SM2/T01/03",
+          "MULT90005/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-156",
+          "PAR-100 Leicester Street-107",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-EG63"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 16,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-EG63"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.75,
+        "finish": 19.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/T01/01",
+          "MULT90005/U/1/SM2/T01/03",
+          "MULT90005/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Old Arts-156",
+          "PAR-100 Leicester Street-107",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-EG63"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.5,
+        "finish": 16,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MULT90005",
+        "codes": [
+          "MULT90005/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-EG63"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:58.898Z"
+}

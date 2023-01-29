@@ -1,0 +1,601 @@
+{
+  "subject": {
+    "code": "ARCH20001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/07"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-142 (CAD Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/03",
+          "ARCH20001/U/1/SM1/ST1/02"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448",
+          "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/06",
+          "ARCH20001/U/1/SM1/ST1/01",
+          "ARCH20001/U/1/SM1/ST1/04",
+          "ARCH20001/U/1/SM1/ST1/17"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)",
+          "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)",
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/05",
+          "ARCH20001/U/1/SM1/ST1/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449",
+          "PAR-Glyn Davis (MSD)-237"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G01 (JH Michell Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 12,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/11",
+          "ARCH20001/U/1/SM1/ST1/18"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)",
+          "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/13",
+          "ARCH20001/U/1/SM1/ST1/09",
+          "ARCH20001/U/1/SM1/ST1/16",
+          "ARCH20001/U/1/SM1/ST1/10"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449",
+          "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)",
+          "PAR-Glyn Davis (MSD)-448"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/15",
+          "ARCH20001/U/1/SM1/ST1/12"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449",
+          "PAR-Glyn Davis (MSD)-448"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 15
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G01 (JH Michell Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/03",
+          "ARCH20001/U/1/SM1/ST1/02"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448",
+          "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/05",
+          "ARCH20001/U/1/SM1/ST1/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449",
+          "PAR-Glyn Davis (MSD)-237"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 20.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/06",
+          "ARCH20001/U/1/SM1/ST1/01",
+          "ARCH20001/U/1/SM1/ST1/04",
+          "ARCH20001/U/1/SM1/ST1/17"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-448",
+          "PAR-Glyn Davis (MSD)-125 (Douglas And Joaquina Lee Studio)",
+          "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)",
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/07"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-142 (CAD Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/13",
+          "ARCH20001/U/1/SM1/ST1/09",
+          "ARCH20001/U/1/SM1/ST1/16",
+          "ARCH20001/U/1/SM1/ST1/10"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449",
+          "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)",
+          "PAR-Glyn Davis (MSD)-448"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 12,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/11",
+          "ARCH20001/U/1/SM1/ST1/18"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-244 (CAD Teaching Studio)",
+          "PAR-Glyn Davis (MSD)-146 (Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Studio 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARCH20001",
+        "codes": [
+          "ARCH20001/U/1/SM1/ST1/15",
+          "ARCH20001/U/1/SM1/ST1/12"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-449",
+          "PAR-Glyn Davis (MSD)-448"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 15
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:28.673Z"
+}

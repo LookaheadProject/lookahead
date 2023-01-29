@@ -1,0 +1,1284 @@
+{
+  "subject": {
+    "code": "ENGR30002",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-W201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-200 (Rivett Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Medical-C216 (Sunderland Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/06"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-W201"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-117"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/07"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-217"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENGR30002",
+        "codes": [
+          "ENGR30002/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B131 (Collaborative Learning Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/12"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Pump Prac",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/12"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/11"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Pump Prac",
+                "day": 4,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/11"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 3,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/10"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              },
+              {
+                "description": "Pump Prac",
+                "day": 3,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/10"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 10
+              }
+            ],
+            "streamNumbers": [
+              10
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 3,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/09"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Pump Prac",
+                "day": 3,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/09"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/08"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Pump Prac",
+                "day": 3,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/08"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 3,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/07"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Pump Prac",
+                "day": 3,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/07"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 2,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/06"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Pump Prac",
+                "day": 2,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/06"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/05"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Pump Prac",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/05"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 0,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/04"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Pump Prac",
+                "day": 0,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/04"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 0,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/03"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Pump Prac",
+                "day": 0,
+                "start": 13.25,
+                "finish": 15.25,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/03"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/02"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Pump Prac",
+                "day": 0,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/02"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Pipe Prac",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P01/01"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Pump Prac",
+                "day": 0,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ENGR30002",
+                "codes": [
+                  "ENGR30002/U/1/SM1/P02/01"
+                ],
+                "locations": [
+                  "PAR-Engineering D-BM09C (Undergrad Wet Lab 2 - Fixed)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "PumpPrac"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:33.608Z"
+}

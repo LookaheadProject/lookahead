@@ -1,0 +1,696 @@
+{
+  "subject": {
+    "code": "MECM90009",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/07"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-C403 (Wright Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 13.75,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Babel-320"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-WG05"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-WG05"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1120 (Oscar Oeser Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/06"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-115"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Medical-C403 (Wright Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-355"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-354"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/07"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/05"
+        ],
+        "locations": [
+          "PAR-John Medley-WG05"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/04"
+        ],
+        "locations": [
+          "PAR-John Medley-WG05"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 13.75,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/03"
+        ],
+        "locations": [
+          "PAR-Babel-320"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/08"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-1120 (Oscar Oeser Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 16.75,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MECM90009",
+        "codes": [
+          "MECM90009/U/1/SM2/S01/06"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-115"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 6
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:46.402Z"
+}

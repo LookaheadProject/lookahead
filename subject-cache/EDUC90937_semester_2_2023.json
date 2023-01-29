@@ -1,0 +1,76 @@
+{
+  "subject": {
+    "code": "EDUC90937",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1 - Optional zoom drop-in",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          38,
+          40,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90937",
+        "codes": [
+          "EDUC90937/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1 - Optional zoom drop-in",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          38,
+          40,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90937",
+        "codes": [
+          "EDUC90937/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:19.218Z"
+}

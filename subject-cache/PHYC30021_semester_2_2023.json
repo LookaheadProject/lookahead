@@ -1,0 +1,117 @@
+{
+  "subject": {
+    "code": "PHYC30021",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30021",
+        "codes": [
+          "PHYC30021/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-David Caro-N115 (3rd Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30021",
+        "codes": [
+          "PHYC30021/U/1/SM2/W02/01"
+        ],
+        "locations": [
+          "PAR-David Caro-N115 (3rd Year Lab)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PHYC30021",
+        "codes": [
+          "PHYC30021/U/1/SM2/W03/01"
+        ],
+        "locations": [
+          "PAR-David Caro-N115 (3rd Year Lab)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:25.948Z"
+}

@@ -1,0 +1,607 @@
+{
+  "subject": {
+    "code": "CHEN90018",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/01",
+          "CHEN90018/U/1/SM2/P01/07"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 0,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/02",
+          "CHEN90018/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/03",
+          "CHEN90018/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/04",
+          "CHEN90018/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B121 (Malaysian Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-109 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/L03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-124 (Theatre C)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/01",
+          "CHEN90018/U/1/SM2/P01/07"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-102"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 0,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/02",
+          "CHEN90018/U/1/SM2/P01/08"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/03",
+          "CHEN90018/U/1/SM2/P01/09"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/04",
+          "CHEN90018/U/1/SM2/P01/10"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/05"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Hydrocyclone Prac",
+        "day": 3,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          34
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/P01/06"
+        ],
+        "locations": [
+          "PAR-Engineering D-B03 (Water Lab 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-McCoy-210 (T&L Space 3 - Gregory Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEN90018",
+        "codes": [
+          "CHEN90018/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-101"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:46.127Z"
+}

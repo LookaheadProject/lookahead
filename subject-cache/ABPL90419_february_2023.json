@@ -1,0 +1,658 @@
+{
+  "subject": {
+    "code": "ABPL90419",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 6",
+        "day": 1,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L06/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L02/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 7",
+        "day": 2,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L07/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 2,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L03/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L04/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 8",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L08/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-103 (Lowe Theatre)"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 4,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90419",
+        "codes": [
+          "ABPL90419/U/1/FEB/L05/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-G04 (Theatre 1)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T01/04",
+                  "ABPL90419/U/1/FEB/T01/01",
+                  "ABPL90419/U/1/FEB/T01/02",
+                  "ABPL90419/U/1/FEB/T01/03",
+                  "ABPL90419/U/1/FEB/T01/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T02/04",
+                  "ABPL90419/U/1/FEB/T02/01",
+                  "ABPL90419/U/1/FEB/T02/02",
+                  "ABPL90419/U/1/FEB/T02/03",
+                  "ABPL90419/U/1/FEB/T02/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T03/04",
+                  "ABPL90419/U/1/FEB/T03/01",
+                  "ABPL90419/U/1/FEB/T03/02",
+                  "ABPL90419/U/1/FEB/T03/03",
+                  "ABPL90419/U/1/FEB/T03/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T04/04",
+                  "ABPL90419/U/1/FEB/T04/01",
+                  "ABPL90419/U/1/FEB/T04/02",
+                  "ABPL90419/U/1/FEB/T04/03",
+                  "ABPL90419/U/1/FEB/T04/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T05/04",
+                  "ABPL90419/U/1/FEB/T05/01",
+                  "ABPL90419/U/1/FEB/T05/02",
+                  "ABPL90419/U/1/FEB/T05/03",
+                  "ABPL90419/U/1/FEB/T05/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 6",
+                "day": 1,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T06/04",
+                  "ABPL90419/U/1/FEB/T06/01",
+                  "ABPL90419/U/1/FEB/T06/02",
+                  "ABPL90419/U/1/FEB/T06/03",
+                  "ABPL90419/U/1/FEB/T06/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T07/04",
+                  "ABPL90419/U/1/FEB/T07/01",
+                  "ABPL90419/U/1/FEB/T07/02",
+                  "ABPL90419/U/1/FEB/T07/03",
+                  "ABPL90419/U/1/FEB/T07/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 3,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T08/04",
+                  "ABPL90419/U/1/FEB/T08/01",
+                  "ABPL90419/U/1/FEB/T08/02",
+                  "ABPL90419/U/1/FEB/T08/03",
+                  "ABPL90419/U/1/FEB/T08/05"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-239 (1970S Alumni Studio)",
+                  "PAR-Glyn Davis (MSD)-117",
+                  "PAR-Glyn Davis (MSD)-137",
+                  "PAR-Glyn Davis (MSD)-213",
+                  "PAR-Glyn Davis (MSD)-236"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4,
+              1,
+              2,
+              3,
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T01/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T02/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 6",
+                "day": 1,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T06/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T03/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 2,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T07/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 3,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  8
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T08/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 3,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T04/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90419",
+                "codes": [
+                  "ABPL90419/U/1/FEB/T05/06"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:15.604Z"
+}

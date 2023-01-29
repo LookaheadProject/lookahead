@@ -1,0 +1,136 @@
+{
+  "subject": {
+    "code": "MUSI30214",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Composition Seminar",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30214",
+        "codes": [
+          "MUSI30214/STH/1/SM2/S01/01"
+        ],
+        "locations": [
+          "STH-880-808 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Group Lesson 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          34,
+          37,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30214",
+        "codes": [
+          "MUSI30214/STH/1/SM2/G01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "G"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Composition Seminar",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI30214",
+        "codes": [
+          "MUSI30214/STH/1/SM2/S01/01"
+        ],
+        "locations": [
+          "STH-880-808 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Group Lesson 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          34,
+          37,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI30214",
+        "codes": [
+          "MUSI30214/STH/1/SM2/G01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "G"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:10.102Z"
+}

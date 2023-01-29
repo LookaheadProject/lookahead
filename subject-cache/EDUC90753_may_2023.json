@@ -1,0 +1,795 @@
+{
+  "subject": {
+    "code": "EDUC90753",
+    "period": "may",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "BSL Seminar 1 - On Campus",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 5 - On Campus",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S05/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 2 - On Campus",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 6 - On Campus",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S06/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 3 - On Campus",
+                "day": 5,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S03/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 7 - On Campus",
+                "day": 5,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S07/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 4 - On Campus",
+                "day": 5,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S04/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Seminar 8 - On Campus",
+                "day": 5,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S08/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "BSL Seminar 1 - Online",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S01/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 5 - Online",
+                "day": 4,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S05/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 2 - Online",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S02/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 6 - Online",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S06/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 3 - Online",
+                "day": 5,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S03/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 7 - Online",
+                "day": 5,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S07/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 4 - Online",
+                "day": 5,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S04/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Seminar 8 - Online",
+                "day": 5,
+                "start": 15.25,
+                "finish": 16.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/S08/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "BSLSeminarOnCampus"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "BSL Lecture 1 - On Campus",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 5 - On Campus",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L05/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 2 - On Campus",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 6 - On Campus",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L06/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 3 - On Campus",
+                "day": 5,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L03/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 7 - On Campus",
+                "day": 5,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L07/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 4 - On Campus",
+                "day": 5,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L04/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "BSL Lecture 8 - On Campus",
+                "day": 5,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L08/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-419"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "BSL Lecture 1 - Online",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L01/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 5 - Online",
+                "day": 4,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L05/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 2 - Online",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L02/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 6 - Online",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L06/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 3 - Online",
+                "day": 5,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L03/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 7 - Online",
+                "day": 5,
+                "start": 9,
+                "finish": 10.5,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L07/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 4 - Online",
+                "day": 5,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L04/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "BSL Lecture 8 - Online",
+                "day": 5,
+                "start": 13.5,
+                "finish": 15,
+                "weeks": [
+                  23
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "EDUC90753",
+                "codes": [
+                  "EDUC90753/U/1/MAY/L08/02_BSLOnline"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "BSLLectureOnCampus"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:16.682Z"
+}

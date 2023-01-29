@@ -1,0 +1,253 @@
+{
+  "subject": {
+    "code": "ENEN90038",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/L02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-156"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Arts West North Wing-456"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-122"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90038",
+        "codes": [
+          "ENEN90038/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-124"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:31.307Z"
+}

@@ -1,0 +1,441 @@
+{
+  "subject": {
+    "code": "FINA20033",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "FINA20033",
+        "codes": [
+          "FINA20033/STH/2/FEB/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "FINA20033",
+        "codes": [
+          "FINA20033/STH/2/FEB/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W06/02"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 7",
+                "day": 1,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W07/02"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 2,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W02/02"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 3,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W03/02"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 4,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W04/02"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 1",
+                "day": 5,
+                "start": 13.5,
+                "finish": 16.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  15
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/2/FEB/W01/02"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W06/01"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W01/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 7",
+                "day": 1,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W07/01"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 2,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W02/01"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 3,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W03/01"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 4,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W04/01"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 5,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/1/FEB/W05/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 5,
+                "start": 9.5,
+                "finish": 12.5,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  15
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "FINA20033",
+                "codes": [
+                  "FINA20033/STH/2/FEB/W01/01"
+                ],
+                "locations": [
+                  "STH-875-191 (Etching Press Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Workshop",
+        "type": "W",
+        "okNumbers": 1,
+        "weirdNumbers": 1,
+        "maxCount": 8
+      }
+    ],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:39.493Z"
+}

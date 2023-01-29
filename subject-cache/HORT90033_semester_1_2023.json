@@ -1,0 +1,439 @@
+{
+  "subject": {
+    "code": "HORT90033",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/L01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/P01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/T01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/P01/02"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/T01/02"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 1,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/FW1/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 1,
+        "start": 15,
+        "finish": 18,
+        "weeks": [
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/FW1/02"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/L01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Fieldwork 1",
+        "day": 1,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/FW1/01"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/P01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/T01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 1,
+        "start": 15,
+        "finish": 18,
+        "weeks": [
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/FW1/02"
+        ],
+        "locations": [
+          "X-Off Site"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/P01/02"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.75,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HORT90033",
+        "codes": [
+          "HORT90033/BUR/1/SM1/T01/02"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:04.735Z"
+}

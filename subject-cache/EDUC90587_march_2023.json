@@ -1,0 +1,255 @@
+{
+  "subject": {
+    "code": "EDUC90587",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90587",
+        "codes": [
+          "EDUC90587/U/1/MAR/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          10,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90587",
+        "codes": [
+          "EDUC90587/U/1/MAR/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 5,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          10,
+          13,
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90587",
+        "codes": [
+          "EDUC90587/U/1/MAR/L02/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90587",
+                "codes": [
+                  "EDUC90587/U/1/MAR/S01/02",
+                  "EDUC90587/U/1/MAR/S01/03"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-417",
+                  "PAR-Kwong Lee Dow-230"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 2",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90587",
+                "codes": [
+                  "EDUC90587/U/1/MAR/S02/02",
+                  "EDUC90587/U/1/MAR/S02/03"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-417",
+                  "PAR-Kwong Lee Dow-227"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 3",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90587",
+                "codes": [
+                  "EDUC90587/U/1/MAR/S03/02",
+                  "EDUC90587/U/1/MAR/S03/03"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-420",
+                  "PAR-Kwong Lee Dow-230"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 2",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90587",
+                "codes": [
+                  "EDUC90587/U/1/MAR/S02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-217"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 3",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90587",
+                "codes": [
+                  "EDUC90587/U/1/MAR/S03/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-217"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 1",
+                "day": 5,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  10
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC90587",
+                "codes": [
+                  "EDUC90587/U/1/MAR/S01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-416"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:15.193Z"
+}

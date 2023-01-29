@@ -1,0 +1,233 @@
+{
+  "subject": {
+    "code": "EDUC91184",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          31,
+          34,
+          35,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          31,
+          34,
+          35,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          31,
+          34,
+          35,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          31,
+          34,
+          35,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          31,
+          34,
+          35,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          31,
+          34,
+          35,
+          38,
+          40,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91184",
+        "codes": [
+          "EDUC91184/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-508 (Mac Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:27.937Z"
+}

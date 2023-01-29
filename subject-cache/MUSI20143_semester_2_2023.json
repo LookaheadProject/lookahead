@@ -1,0 +1,764 @@
+{
+  "subject": {
+    "code": "MUSI20143",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/01"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/02"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/03"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/04"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/05"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/06"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/07"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/08"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/09"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/10"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/11"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 11
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/01"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/02"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/03"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/04"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/05"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/06"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/07"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/08"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/09"
+        ],
+        "locations": [
+          "PAR-MCM-117 (Melba Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/10"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Rehearsal 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI20143",
+        "codes": [
+          "MUSI20143/U/1/SM2/R01/11"
+        ],
+        "locations": [
+          "PAR-MCM-134 (Tallis Wing)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "R"
+        },
+        "streamNumber": 11
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:05.372Z"
+}

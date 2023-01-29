@@ -1,0 +1,644 @@
+{
+  "subject": {
+    "code": "BIOM10002",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-Biosciences 2-124 (Turner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/05",
+          "BIOM10002/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)",
+          "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 12,
+        "finish": 15,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B121 (Malaysian Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-104 (Medley Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/05",
+          "BIOM10002/U/1/SM2/W01/05"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)",
+          "PAR-Glyn Davis (MSD)-B120 (Singapore Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-210 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/06"
+        ],
+        "locations": [
+          "PAR-Biosciences 2-124 (Turner Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 12,
+        "finish": 15,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/03"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-B121 (Malaysian Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/04"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          36
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOM10002",
+        "codes": [
+          "BIOM10002/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-104 (Medley Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:35.521Z"
+}

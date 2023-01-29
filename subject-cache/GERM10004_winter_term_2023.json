@@ -1,0 +1,570 @@
+{
+  "subject": {
+    "code": "GERM10004",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T05/04"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-263"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T06/04"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-263"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T07/04"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-263"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T08/04"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-263"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T01/03",
+                  "GERM10004/U/1/WIN/T01/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T02/03",
+                  "GERM10004/U/1/WIN/T02/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T03/03",
+                  "GERM10004/U/1/WIN/T03/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T04/03",
+                  "GERM10004/U/1/WIN/T04/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T05/03",
+                  "GERM10004/U/1/WIN/T05/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T06/03",
+                  "GERM10004/U/1/WIN/T06/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T07/03",
+                  "GERM10004/U/1/WIN/T07/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T08/03",
+                  "GERM10004/U/1/WIN/T08/02"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-261",
+                  "PAR-Arts West North Wing-155"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              2
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T01/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 0,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T02/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T03/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4",
+                "day": 1,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T04/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 5",
+                "day": 2,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T05/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 6",
+                "day": 2,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T06/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 7",
+                "day": 4,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T07/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 4,
+                "start": 13.5,
+                "finish": 15.5,
+                "weeks": [
+                  26,
+                  27,
+                  28
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GERM10004",
+                "codes": [
+                  "GERM10004/U/1/WIN/T08/01"
+                ],
+                "locations": [
+                  "PAR-Arts West North Wing-161"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Tutorial",
+        "type": "T",
+        "okNumbers": 2,
+        "weirdNumbers": 1,
+        "maxCount": 8
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:59.515Z"
+}

@@ -1,0 +1,176 @@
+{
+  "subject": {
+    "code": "LAWS50128",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 4",
+        "day": 0,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S04/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 7",
+        "day": 0,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          8
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S07/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 2,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S02/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 5",
+        "day": 2,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S05/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 4,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S03/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 6",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          7
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS50128",
+        "codes": [
+          "LAWS50128/U/1/SUM/S06/01"
+        ],
+        "locations": [
+          "PAR-Law-0202and0203"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:21.901Z"
+}

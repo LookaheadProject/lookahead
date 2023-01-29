@@ -1,0 +1,243 @@
+{
+  "subject": {
+    "code": "ABPL90284",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17,
+        "finish": 18,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90284",
+        "codes": [
+          "ABPL90284/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-144 (Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 17,
+        "finish": 18,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90284",
+        "codes": [
+          "ABPL90284/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-144 (Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 18.25,
+                "finish": 21.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90284",
+                "codes": [
+                  "ABPL90284/U/1/SM1/ST1/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-144 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Studio 2",
+                "day": 3,
+                "start": 18.25,
+                "finish": 21.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90284",
+                "codes": [
+                  "ABPL90284/U/1/SM1/ST2/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-144 (Seminar Room)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 18.25,
+                "finish": 21.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90284",
+                "codes": [
+                  "ABPL90284/U/1/SM1/ST1/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-142 (CAD Studio)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Studio 2",
+                "day": 3,
+                "start": 18.25,
+                "finish": 21.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90284",
+                "codes": [
+                  "ABPL90284/U/1/SM1/ST2/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-142 (CAD Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "Studio"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:12.640Z"
+}

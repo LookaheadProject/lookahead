@@ -1,0 +1,407 @@
+{
+  "subject": {
+    "code": "ABPL90263",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          12,
+          14,
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-B25 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Geology-B25 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          12,
+          14,
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/02"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/03"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90263",
+        "codes": [
+          "ABPL90263/U/1/SM1/T01/04"
+        ],
+        "locations": [
+          "PAR-Baldwin Spencer-109 (English Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:12.104Z"
+}

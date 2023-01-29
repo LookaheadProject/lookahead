@@ -1,0 +1,238 @@
+{
+  "subject": {
+    "code": "EVSC90025",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Fieldwork 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90025",
+        "codes": [
+          "EVSC90025/BUR/2/FEB/FW1/01"
+        ],
+        "locations": [
+          "X-On Campus Location Werribee (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Fieldwork 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90025",
+        "codes": [
+          "EVSC90025/BUR/2/FEB/FW1/01"
+        ],
+        "locations": [
+          "X-On Campus Location Werribee (To Be Confirmed)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90025",
+        "codes": [
+          "EVSC90025/BUR/2/FEB/W02/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 5,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          6
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EVSC90025",
+        "codes": [
+          "EVSC90025/BUR/2/FEB/W01/01"
+        ],
+        "locations": [
+          "BUR-Main Building-MB6 (Main Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90025",
+                "codes": [
+                  "EVSC90025/BUR/2/FEB/L01/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90025",
+                "codes": [
+                  "EVSC90025/BUR/2/FEB/L02/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 1,
+                "start": 13,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90025",
+                "codes": [
+                  "EVSC90025/BUR/2/FEB/L04/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 3,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90025",
+                "codes": [
+                  "EVSC90025/BUR/2/FEB/L05/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EVSC90025",
+                "codes": [
+                  "EVSC90025/BUR/2/FEB/L03/01"
+                ],
+                "locations": [
+                  "BUR-Main Building-MB6 (Main Hall)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:38.366Z"
+}

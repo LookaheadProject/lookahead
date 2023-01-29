@@ -1,0 +1,793 @@
+{
+  "subject": {
+    "code": "LAWS50023",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S01/13",
+                  "LAWS50023/U/1/SUM/S01/11",
+                  "LAWS50023/U/1/SUM/S01/14",
+                  "LAWS50023/U/1/SUM/S01/10",
+                  "LAWS50023/U/1/SUM/S01/09",
+                  "LAWS50023/U/1/SUM/S01/12"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0109",
+                  "PAR-Law-0221",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0610"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S02/13",
+                  "LAWS50023/U/1/SUM/S02/11",
+                  "LAWS50023/U/1/SUM/S02/14",
+                  "LAWS50023/U/1/SUM/S02/10",
+                  "LAWS50023/U/1/SUM/S02/09",
+                  "LAWS50023/U/1/SUM/S02/12"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0109",
+                  "PAR-Law-0221",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0610"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S03/13",
+                  "LAWS50023/U/1/SUM/S03/11",
+                  "LAWS50023/U/1/SUM/S03/14",
+                  "LAWS50023/U/1/SUM/S03/10",
+                  "LAWS50023/U/1/SUM/S03/09",
+                  "LAWS50023/U/1/SUM/S03/12"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0109",
+                  "PAR-Law-0221",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0610"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Seminar 4",
+                "day": 3,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S04/13",
+                  "LAWS50023/U/1/SUM/S04/11",
+                  "LAWS50023/U/1/SUM/S04/14",
+                  "LAWS50023/U/1/SUM/S04/10",
+                  "LAWS50023/U/1/SUM/S04/09",
+                  "LAWS50023/U/1/SUM/S04/12"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0109",
+                  "PAR-Law-0221",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0610"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 13
+              },
+              {
+                "description": "Seminar 5",
+                "day": 4,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S05/13",
+                  "LAWS50023/U/1/SUM/S05/11",
+                  "LAWS50023/U/1/SUM/S05/14",
+                  "LAWS50023/U/1/SUM/S05/10",
+                  "LAWS50023/U/1/SUM/S05/09",
+                  "LAWS50023/U/1/SUM/S05/12"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0109",
+                  "PAR-Law-0221",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0610"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 13
+              }
+            ],
+            "streamNumbers": [
+              13,
+              11,
+              14,
+              10,
+              9,
+              12
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 13,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S01/07",
+                  "LAWS50023/U/1/SUM/S01/03",
+                  "LAWS50023/U/1/SUM/S01/02",
+                  "LAWS50023/U/1/SUM/S01/06",
+                  "LAWS50023/U/1/SUM/S01/04",
+                  "LAWS50023/U/1/SUM/S01/08",
+                  "LAWS50023/U/1/SUM/S01/05"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0221",
+                  "PAR-Law-0224",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0629",
+                  "PAR-Law-G27"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 9.5,
+                "finish": 13,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S02/07",
+                  "LAWS50023/U/1/SUM/S02/03",
+                  "LAWS50023/U/1/SUM/S02/02",
+                  "LAWS50023/U/1/SUM/S02/06",
+                  "LAWS50023/U/1/SUM/S02/04",
+                  "LAWS50023/U/1/SUM/S02/08",
+                  "LAWS50023/U/1/SUM/S02/05"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0221",
+                  "PAR-Law-0224",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0629",
+                  "PAR-Law-G27"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 9.5,
+                "finish": 13,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S03/07",
+                  "LAWS50023/U/1/SUM/S03/03",
+                  "LAWS50023/U/1/SUM/S03/02",
+                  "LAWS50023/U/1/SUM/S03/06",
+                  "LAWS50023/U/1/SUM/S03/04",
+                  "LAWS50023/U/1/SUM/S03/08",
+                  "LAWS50023/U/1/SUM/S03/05"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0221",
+                  "PAR-Law-0224",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0629",
+                  "PAR-Law-G27"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Seminar 4",
+                "day": 3,
+                "start": 9.5,
+                "finish": 13,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S04/07",
+                  "LAWS50023/U/1/SUM/S04/03",
+                  "LAWS50023/U/1/SUM/S04/02",
+                  "LAWS50023/U/1/SUM/S04/06",
+                  "LAWS50023/U/1/SUM/S04/04",
+                  "LAWS50023/U/1/SUM/S04/08",
+                  "LAWS50023/U/1/SUM/S04/05"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0221",
+                  "PAR-Law-0224",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0629",
+                  "PAR-Law-G27"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Seminar 5",
+                "day": 4,
+                "start": 9.5,
+                "finish": 13,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S05/07",
+                  "LAWS50023/U/1/SUM/S05/03",
+                  "LAWS50023/U/1/SUM/S05/02",
+                  "LAWS50023/U/1/SUM/S05/06",
+                  "LAWS50023/U/1/SUM/S05/04",
+                  "LAWS50023/U/1/SUM/S05/08",
+                  "LAWS50023/U/1/SUM/S05/05"
+                ],
+                "locations": [
+                  "PAR-Law-G29",
+                  "PAR-Law-0221",
+                  "PAR-Law-0224",
+                  "PAR-Law-0608",
+                  "PAR-Law-0609",
+                  "PAR-Law-0629",
+                  "PAR-Law-G27"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7,
+              3,
+              2,
+              6,
+              4,
+              8,
+              5
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S01/17",
+                  "LAWS50023/U/1/SUM/S01/01"
+                ],
+                "locations": [
+                  "PAR-Law-0610",
+                  "PAR-Law-0109"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S02/17",
+                  "LAWS50023/U/1/SUM/S02/01"
+                ],
+                "locations": [
+                  "PAR-Law-0610",
+                  "PAR-Law-0109"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S03/17",
+                  "LAWS50023/U/1/SUM/S03/01"
+                ],
+                "locations": [
+                  "PAR-Law-0610",
+                  "PAR-Law-0109"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Seminar 4",
+                "day": 3,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S04/17",
+                  "LAWS50023/U/1/SUM/S04/01"
+                ],
+                "locations": [
+                  "PAR-Law-0610",
+                  "PAR-Law-0109"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Seminar 5",
+                "day": 4,
+                "start": 10,
+                "finish": 13.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S05/17",
+                  "LAWS50023/U/1/SUM/S05/01"
+                ],
+                "locations": [
+                  "PAR-Law-0610",
+                  "PAR-Law-0109"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 17
+              }
+            ],
+            "streamNumbers": [
+              17,
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 19.75,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S01/15"
+                ],
+                "locations": [
+                  "PAR-Law-0224"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 16.25,
+                "finish": 19.75,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S02/15"
+                ],
+                "locations": [
+                  "PAR-Law-0224"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 16.25,
+                "finish": 19.75,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S03/15"
+                ],
+                "locations": [
+                  "PAR-Law-0224"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Seminar 4",
+                "day": 3,
+                "start": 16.25,
+                "finish": 19.75,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S04/15"
+                ],
+                "locations": [
+                  "PAR-Law-0224"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Seminar 5",
+                "day": 4,
+                "start": 16.25,
+                "finish": 19.75,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S05/15"
+                ],
+                "locations": [
+                  "PAR-Law-0224"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 15
+              }
+            ],
+            "streamNumbers": [
+              15
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1",
+                "day": 0,
+                "start": 12,
+                "finish": 15.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S01/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Seminar 2",
+                "day": 1,
+                "start": 12,
+                "finish": 15.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S02/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Seminar 3",
+                "day": 2,
+                "start": 12,
+                "finish": 15.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S03/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "S"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Seminar 4",
+                "day": 3,
+                "start": 12,
+                "finish": 15.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S04/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "S"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Seminar 5",
+                "day": 4,
+                "start": 12,
+                "finish": 15.5,
+                "weeks": [
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "LAWS50023",
+                "codes": [
+                  "LAWS50023/U/1/SUM/S05/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "S"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "Seminar"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:19.825Z"
+}

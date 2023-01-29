@@ -1,0 +1,72 @@
+{
+  "subject": {
+    "code": "DPSS90009",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90009",
+        "codes": [
+          "DPSS90009/STH/1/SM2/W01/01",
+          "DPSS90009/STH/1/SM2/W01/01"
+        ],
+        "locations": [
+          "STH-879-101 (Costume Workshop)",
+          "STH-874-171 (Teaching Workshop B)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90009",
+        "codes": [
+          "DPSS90009/STH/1/SM2/W01/01",
+          "DPSS90009/STH/1/SM2/W01/01"
+        ],
+        "locations": [
+          "STH-879-101 (Costume Workshop)",
+          "STH-874-171 (Teaching Workshop B)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:05.551Z"
+}

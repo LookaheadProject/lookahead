@@ -1,0 +1,401 @@
+{
+  "subject": {
+    "code": "BIOL10009",
+    "period": "summer_term",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/W01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/P01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/W01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-307 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/L03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 4",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/L04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 5",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/L05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 6",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/L06/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/W01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/W01/01"
+        ],
+        "locations": [
+          "PAR-Food and Nutrition Building-G01 (Mendel/Teaching Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/P01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BIOL10009",
+        "codes": [
+          "BIOL10009/U/1/SUM/P01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-307 (Biology Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:34.744Z"
+}

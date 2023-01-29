@@ -1,0 +1,454 @@
+{
+  "subject": {
+    "code": "PSYC90097",
+    "period": "summer_term",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "PSYC90097",
+        "codes": [
+          "PSYC90097/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90097",
+        "codes": [
+          "PSYC90097/U/1/SUM/S01/02"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PSYC90097",
+        "codes": [
+          "PSYC90097/U/1/SUM/P01/03",
+          "PSYC90097/U/1/SUM/P01/04",
+          "PSYC90097/U/1/SUM/P01/05",
+          "PSYC90097/U/1/SUM/P01/01",
+          "PSYC90097/U/1/SUM/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Old Arts-254",
+          "PAR-Redmond Barry-1005",
+          "PAR-Redmond Barry-516",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "PSYC90097",
+        "codes": [
+          "PSYC90097/U/1/SUM/P01/03",
+          "PSYC90097/U/1/SUM/P01/04",
+          "PSYC90097/U/1/SUM/P01/05",
+          "PSYC90097/U/1/SUM/P01/01",
+          "PSYC90097/U/1/SUM/P01/02"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-719",
+          "PAR-Old Arts-254",
+          "PAR-Redmond Barry-1005",
+          "PAR-Redmond Barry-516",
+          "PAR-Redmond Barry-718"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "PSYC90097",
+        "codes": [
+          "PSYC90097/U/1/SUM/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "PSYC90097",
+        "codes": [
+          "PSYC90097/U/1/SUM/S01/02"
+        ],
+        "locations": [
+          "PAR-Elisabeth Murdoch-G06"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L01/02"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G06"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L02/02"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G06"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L03/02"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G06"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L04/02"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G06"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L05/02"
+                ],
+                "locations": [
+                  "PAR-Elisabeth Murdoch-G06"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L01/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L02/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L03/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L04/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "PSYC90097",
+                "codes": [
+                  "PSYC90097/U/1/SUM/L05/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:38.600Z"
+}

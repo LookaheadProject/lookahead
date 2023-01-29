@@ -1,0 +1,520 @@
+{
+  "subject": {
+    "code": "FINA20043",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/04"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/05"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/06"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/07"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/04"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 20.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/05"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/06"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 18.25,
+        "weeks": [
+          10,
+          12,
+          14,
+          17,
+          19,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FINA20043",
+        "codes": [
+          "FINA20043/STH/1/SM1/W01/07"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 7
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:39.801Z"
+}

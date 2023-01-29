@@ -1,0 +1,209 @@
+{
+  "subject": {
+    "code": "EDUC90759",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 21.25,
+        "weeks": [
+          16
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          16
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 17.25,
+        "weeks": [
+          16
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/S01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 19.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 21.25,
+        "weeks": [
+          16
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 13,
+        "weeks": [
+          16
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 13.25,
+        "finish": 17.25,
+        "weeks": [
+          16
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC90759",
+        "codes": [
+          "EDUC90759/U/1/FEB/S01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:16.807Z"
+}

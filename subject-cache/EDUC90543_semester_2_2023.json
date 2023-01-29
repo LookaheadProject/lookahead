@@ -1,0 +1,76 @@
+{
+  "subject": {
+    "code": "EDUC90543",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 18,
+        "finish": 20,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          40
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90543",
+        "codes": [
+          "EDUC90543/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 3,
+        "start": 18,
+        "finish": 20,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          40
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90543",
+        "codes": [
+          "EDUC90543/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:14.908Z"
+}

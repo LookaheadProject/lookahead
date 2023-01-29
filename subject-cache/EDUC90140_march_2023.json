@@ -1,0 +1,521 @@
+{
+  "subject": {
+    "code": "EDUC90140",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 5 - Online",
+        "day": 4,
+        "start": 17,
+        "finish": 20,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S05/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 17,
+        "finish": 20,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 17,
+        "finish": 20,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 5 - On Campus",
+        "day": 4,
+        "start": 17,
+        "finish": 20,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S05/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 6 - Online",
+        "day": 5,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S06/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 9 - Online",
+        "day": 5,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S09/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 5,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 5,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S02/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 6 - On Campus",
+        "day": 5,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S06/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 9 - On Campus",
+        "day": 5,
+        "start": 9,
+        "finish": 10.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S09/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 7 - Online",
+        "day": 5,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S07/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 10 - Online",
+        "day": 5,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S10/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - Online",
+        "day": 5,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S03/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - On Campus",
+        "day": 5,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S03/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 7 - On Campus",
+        "day": 5,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S07/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 10 - On Campus",
+        "day": 5,
+        "start": 11,
+        "finish": 12.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S10/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 8 - Online",
+        "day": 5,
+        "start": 13.5,
+        "finish": 16.5,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S08/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 11 - Online",
+        "day": 5,
+        "start": 13.5,
+        "finish": 16.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S11/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 11,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - Online",
+        "day": 5,
+        "start": 13.5,
+        "finish": 16.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S04/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - On Campus",
+        "day": 5,
+        "start": 13.5,
+        "finish": 16.5,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S04/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 8 - On Campus",
+        "day": 5,
+        "start": 13.5,
+        "finish": 16.5,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S08/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 11 - On Campus",
+        "day": 5,
+        "start": 13.5,
+        "finish": 16.5,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90140",
+        "codes": [
+          "EDUC90140/U/1/MAR/S11/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 11,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:13.484Z"
+}

@@ -1,0 +1,129 @@
+{
+  "subject": {
+    "code": "MUSI90034",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Intensive 1 - Blended Learning",
+        "day": 2,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90034",
+        "codes": [
+          "MUSI90034/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-701 Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Tutorial - On Campus",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90034",
+        "codes": [
+          "MUSI90034/STH/1/SM1/T01/01"
+        ],
+        "locations": [
+          "STH-880-701 Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial - Blended Learning",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.75,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI90034",
+        "codes": [
+          "MUSI90034/STH/1/SM1/T02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Intensive 1 - Blended Learning",
+        "day": 2,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI90034",
+        "codes": [
+          "MUSI90034/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-880-701 Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:14.293Z"
+}

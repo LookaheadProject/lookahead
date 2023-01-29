@@ -1,0 +1,67 @@
+{
+  "subject": {
+    "code": "EDUC90228",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90228",
+        "codes": [
+          "EDUC90228/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 5,
+        "start": 9,
+        "finish": 16,
+        "weeks": [
+          34,
+          36
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC90228",
+        "codes": [
+          "EDUC90228/U/1/SM2/S02/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:13.953Z"
+}

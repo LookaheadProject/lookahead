@@ -1,0 +1,267 @@
+{
+  "subject": {
+    "code": "ABPL90394",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L01/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-101"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L02/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-101"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 2,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L03/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-101"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 3,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L04/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-101"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L05/01"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-101"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1 - BSL",
+                "day": 0,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2 - BSL",
+                "day": 1,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3 - BSL",
+                "day": 2,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 4 - BSL",
+                "day": 3,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5 - BSL",
+                "day": 4,
+                "start": 9,
+                "finish": 17,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "ABPL90394",
+                "codes": [
+                  "ABPL90394/U/1/FEB/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:15.112Z"
+}

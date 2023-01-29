@@ -1,0 +1,128 @@
+{
+  "subject": {
+    "code": "ARTS90003",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARTS90003",
+        "codes": [
+          "ARTS90003/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ARTS90003",
+        "codes": [
+          "ARTS90003/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ARTS90003",
+        "codes": [
+          "ARTS90003/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ARTS90003",
+        "codes": [
+          "ARTS90003/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:29.769Z"
+}

@@ -1,0 +1,667 @@
+{
+  "subject": {
+    "code": "FINA20026",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 1",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W01/01",
+                  "FINA20026/STH/1/SUM/W01/08",
+                  "FINA20026/STH/1/SUM/W01/07",
+                  "FINA20026/STH/1/SUM/W01/06",
+                  "FINA20026/STH/1/SUM/W01/05",
+                  "FINA20026/STH/1/SUM/W01/04",
+                  "FINA20026/STH/1/SUM/W01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W01/01",
+                  "FINA20026/STH/2/SUM/W01/08",
+                  "FINA20026/STH/2/SUM/W01/07",
+                  "FINA20026/STH/2/SUM/W01/06",
+                  "FINA20026/STH/2/SUM/W01/05",
+                  "FINA20026/STH/2/SUM/W01/04",
+                  "FINA20026/STH/2/SUM/W01/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W02/01",
+                  "FINA20026/STH/1/SUM/W02/08",
+                  "FINA20026/STH/1/SUM/W02/07",
+                  "FINA20026/STH/1/SUM/W02/06",
+                  "FINA20026/STH/1/SUM/W02/05",
+                  "FINA20026/STH/1/SUM/W02/04",
+                  "FINA20026/STH/1/SUM/W02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W02/01",
+                  "FINA20026/STH/2/SUM/W02/08",
+                  "FINA20026/STH/2/SUM/W02/07",
+                  "FINA20026/STH/2/SUM/W02/06",
+                  "FINA20026/STH/2/SUM/W02/05",
+                  "FINA20026/STH/2/SUM/W02/04",
+                  "FINA20026/STH/2/SUM/W02/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W03/01",
+                  "FINA20026/STH/1/SUM/W03/08",
+                  "FINA20026/STH/1/SUM/W03/07",
+                  "FINA20026/STH/1/SUM/W03/06",
+                  "FINA20026/STH/1/SUM/W03/05",
+                  "FINA20026/STH/1/SUM/W03/04",
+                  "FINA20026/STH/1/SUM/W03/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W03/01",
+                  "FINA20026/STH/2/SUM/W03/08",
+                  "FINA20026/STH/2/SUM/W03/07",
+                  "FINA20026/STH/2/SUM/W03/06",
+                  "FINA20026/STH/2/SUM/W03/05",
+                  "FINA20026/STH/2/SUM/W03/04",
+                  "FINA20026/STH/2/SUM/W03/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W04/01",
+                  "FINA20026/STH/1/SUM/W04/08",
+                  "FINA20026/STH/1/SUM/W04/07",
+                  "FINA20026/STH/1/SUM/W04/06",
+                  "FINA20026/STH/1/SUM/W04/05",
+                  "FINA20026/STH/1/SUM/W04/04",
+                  "FINA20026/STH/1/SUM/W04/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W04/01",
+                  "FINA20026/STH/2/SUM/W04/08",
+                  "FINA20026/STH/2/SUM/W04/07",
+                  "FINA20026/STH/2/SUM/W04/06",
+                  "FINA20026/STH/2/SUM/W04/05",
+                  "FINA20026/STH/2/SUM/W04/04",
+                  "FINA20026/STH/2/SUM/W04/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W05/01",
+                  "FINA20026/STH/1/SUM/W05/08",
+                  "FINA20026/STH/1/SUM/W05/07",
+                  "FINA20026/STH/1/SUM/W05/06",
+                  "FINA20026/STH/1/SUM/W05/05",
+                  "FINA20026/STH/1/SUM/W05/04",
+                  "FINA20026/STH/1/SUM/W05/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W05/01",
+                  "FINA20026/STH/2/SUM/W05/08",
+                  "FINA20026/STH/2/SUM/W05/07",
+                  "FINA20026/STH/2/SUM/W05/06",
+                  "FINA20026/STH/2/SUM/W05/05",
+                  "FINA20026/STH/2/SUM/W05/04",
+                  "FINA20026/STH/2/SUM/W05/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W06/01",
+                  "FINA20026/STH/1/SUM/W06/08",
+                  "FINA20026/STH/1/SUM/W06/07",
+                  "FINA20026/STH/1/SUM/W06/06",
+                  "FINA20026/STH/1/SUM/W06/05",
+                  "FINA20026/STH/1/SUM/W06/04",
+                  "FINA20026/STH/1/SUM/W06/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W06/01",
+                  "FINA20026/STH/2/SUM/W06/08",
+                  "FINA20026/STH/2/SUM/W06/07",
+                  "FINA20026/STH/2/SUM/W06/06",
+                  "FINA20026/STH/2/SUM/W06/05",
+                  "FINA20026/STH/2/SUM/W06/04",
+                  "FINA20026/STH/2/SUM/W06/03"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              8,
+              7,
+              6,
+              5,
+              4,
+              3
+            ]
+          },
+          {
+            "type": "W",
+            "classes": [
+              {
+                "description": "Workshop 4",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 1",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  4
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W06/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 4,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  3
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/1/SUM/W03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 1",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 6",
+                "day": 0,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W06/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 2",
+                "day": 1,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 3",
+                "day": 2,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 4",
+                "day": 3,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Workshop 5",
+                "day": 4,
+                "start": 9.5,
+                "finish": 16.5,
+                "weeks": [
+                  5
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "FINA20026",
+                "codes": [
+                  "FINA20026/STH/2/SUM/W05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "W"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "W",
+        "name": "Workshop"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:39.003Z"
+}

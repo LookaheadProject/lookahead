@@ -1,0 +1,352 @@
+{
+  "subject": {
+    "code": "CREA40001",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Film and Television",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Design and Production",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "STH-860-101 (Dr Philip Law Rm)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)STH-860-319 (Tutorial Room 5)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-319 (Tutorial Room 5)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-873-G01 (The Octagon)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Film and Television",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/02"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Design and Production",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/03"
+        ],
+        "locations": [
+          "STH-860-101 (Dr Philip Law Rm)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)STH-860-319 (Tutorial Room 5)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-102 (Founders Gallery)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          9
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-873-G01 (The Octagon)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Visual Art -",
+        "day": 3,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CREA40001",
+        "codes": [
+          "CREA40001/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-860-319 (Tutorial Room 5)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:54.520Z"
+}

@@ -1,0 +1,253 @@
+{
+  "subject": {
+    "code": "ABPL30041",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM2/T01/09",
+          "ABPL30041/U/1/SM2/T01/01",
+          "ABPL30041/U/1/SM2/T01/03",
+          "ABPL30041/U/1/SM2/T01/05",
+          "ABPL30041/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-139 (George Tibbits Studio)",
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM2/T01/10",
+          "ABPL30041/U/1/SM2/T01/02",
+          "ABPL30041/U/1/SM2/T01/04",
+          "ABPL30041/U/1/SM2/T01/06",
+          "ABPL30041/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-139 (George Tibbits Studio)",
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM2/T01/09",
+          "ABPL30041/U/1/SM2/T01/01",
+          "ABPL30041/U/1/SM2/T01/03",
+          "ABPL30041/U/1/SM2/T01/05",
+          "ABPL30041/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-139 (George Tibbits Studio)",
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30041",
+        "codes": [
+          "ABPL30041/U/1/SM2/T01/10",
+          "ABPL30041/U/1/SM2/T01/02",
+          "ABPL30041/U/1/SM2/T01/04",
+          "ABPL30041/U/1/SM2/T01/06",
+          "ABPL30041/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-227 (Hong Kong Studio)",
+          "PAR-Glyn Davis (MSD)-117",
+          "PAR-Glyn Davis (MSD)-137",
+          "PAR-Glyn Davis (MSD)-139 (George Tibbits Studio)",
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:08.109Z"
+}

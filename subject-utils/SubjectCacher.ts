@@ -2,11 +2,15 @@ import fs from 'fs';
 import {promisify} from 'util';
 import Subject from './Subject.js';
 import {SubjectPeriod} from './SubjectPeriods.js';
+
+import {parseSubject} from './SubjectClassScraper.js'
+import { open } from 'node:fs/promises';
+
 const readFile = promisify(fs.readFile);
 
 const ENABLE_CACHING = true;
 const SUBJECT_CACHE_DIRECTORY = './subject-cache';
-const CACHE_EXPIRY_HOURS = 12;
+const CACHE_EXPIRY_HOURS = 1e9;
 
 const datePattern = /\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d\.\d+([+-][0-2]\d:[0-5]\d|Z)/;
 interface ISubjectCache {
@@ -81,4 +85,6 @@ export const cacheSubject = (year: number, period: SubjectPeriod, subject: Subje
     }
     console.error(`Could not cache to ${cachePath}\n${err.message}`);
   });
+
 };
+

@@ -1,0 +1,659 @@
+{
+  "subject": {
+    "code": "ENEN90005",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "BSL Tutorial 1 - on campus",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/L01/01",
+          "ENEN90005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-103 (Room 1)",
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Tutorial 1 - on campus",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-103 (Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13.5,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/FW1/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueD"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueG"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/07"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/08"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueB"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/L01/01",
+          "ENEN90005/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-103 (Room 1)",
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 1",
+        "day": 3,
+        "start": 10,
+        "finish": 13.5,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/FW1/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 3,
+        "start": 11,
+        "finish": 13,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/W02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "BSL Tutorial 1 - on campus",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          18
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Tutorial 1 - on campus",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-103 (Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueG"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/02"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueD"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/03"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/04"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/05"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueB"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/06"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/07"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          11
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ENEN90005",
+        "codes": [
+          "ENEN90005/U/1/SM1/P01/08"
+        ],
+        "locations": [
+          "X-Departmentally Organised VenueA"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:30.793Z"
+}

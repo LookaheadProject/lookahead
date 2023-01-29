@@ -1,0 +1,373 @@
+{
+  "subject": {
+    "code": "GEOL20003",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 8,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Fieldwork 1",
+        "day": 2,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          39
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/FW1/01"
+        ],
+        "locations": [
+          "X-Off SiteD"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 2",
+        "day": 3,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          39
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/FW2/01"
+        ],
+        "locations": [
+          "X-Off SiteD"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Fieldwork 3",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          39
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/FW3/01"
+        ],
+        "locations": [
+          "X-Off SiteD"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "FW"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Practical 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/P01/01"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 1,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/P01/02"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 8,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "GEOL20003",
+        "codes": [
+          "GEOL20003/U/1/SM2/P01/03"
+        ],
+        "locations": [
+          "PAR-McCoy-202 (T&L Space 5 - Baragwanath Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOL20003",
+                "codes": [
+                  "GEOL20003/U/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 3,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "GEOL20003",
+                "codes": [
+                  "GEOL20003/U/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "PAR-McCoy-201 (Fritz Loewe Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:57.625Z"
+}

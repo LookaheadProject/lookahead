@@ -1,0 +1,66 @@
+{
+  "subject": {
+    "code": "ANCW40014",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          9,
+          11,
+          13,
+          16,
+          18,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANCW40014",
+        "codes": [
+          "ANCW40014/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-103"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 4,
+        "start": 11,
+        "finish": 17,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ANCW40014",
+        "codes": [
+          "ANCW40014/U/1/SM1/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-239 (North Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:25.502Z"
+}

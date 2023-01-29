@@ -1,0 +1,581 @@
+{
+  "subject": {
+    "code": "EDUC10051",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/12",
+          "EDUC10051/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108",
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B120 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/03",
+          "EDUC10051/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-107",
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/04",
+          "EDUC10051/U/1/SM1/W01/11"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-420",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/05"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/09",
+          "EDUC10051/U/1/SM1/W01/07"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/08",
+          "EDUC10051/U/1/SM1/W01/10"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-106",
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B120 (Theatre 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/12",
+          "EDUC10051/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108",
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/03",
+          "EDUC10051/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-107",
+          "PAR-100 Leicester Street-106"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/04",
+          "EDUC10051/U/1/SM1/W01/11"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-420",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/05"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-421 (Science Seminar Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/06"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/09",
+          "EDUC10051/U/1/SM1/W01/07"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-108",
+          "PAR-100 Leicester Street-107"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC10051",
+        "codes": [
+          "EDUC10051/U/1/SM1/W01/08",
+          "EDUC10051/U/1/SM1/W01/10"
+        ],
+        "locations": [
+          "PAR-100 Leicester Street-106",
+          "PAR-100 Leicester Street-105"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 8
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:11.137Z"
+}

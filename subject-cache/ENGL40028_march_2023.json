@@ -1,0 +1,170 @@
+{
+  "subject": {
+    "code": "ENGL40028",
+    "period": "march",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGL40028",
+        "codes": [
+          "ENGL40028/U/1/MAR/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGL40028",
+        "codes": [
+          "ENGL40028/U/1/MAR/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 1,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGL40028",
+        "codes": [
+          "ENGL40028/U/1/MAR/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGL40028",
+        "codes": [
+          "ENGL40028/U/1/MAR/W01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGL40028",
+        "codes": [
+          "ENGL40028/U/1/MAR/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ENGL40028",
+        "codes": [
+          "ENGL40028/U/1/MAR/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-116 (CLS4)"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:32.805Z"
+}

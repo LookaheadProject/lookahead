@@ -1,0 +1,130 @@
+{
+  "subject": {
+    "code": "THTR30042",
+    "period": "winter_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "THTR30042",
+        "codes": [
+          "THTR30042/STH/1/WIN/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 1,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "THTR30042",
+        "codes": [
+          "THTR30042/STH/1/WIN/W02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 2,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "THTR30042",
+        "codes": [
+          "THTR30042/STH/1/WIN/W03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 4",
+        "day": 3,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "THTR30042",
+        "codes": [
+          "THTR30042/STH/1/WIN/W04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 5",
+        "day": 4,
+        "start": 13,
+        "finish": 17,
+        "weeks": [
+          27
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "THTR30042",
+        "codes": [
+          "THTR30042/STH/1/WIN/W05/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:52.042Z"
+}

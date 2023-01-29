@@ -1,0 +1,72 @@
+{
+  "subject": {
+    "code": "SOCI90011",
+    "period": "february",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 17.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90011",
+        "codes": [
+          "SOCI90011/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 13.5,
+        "finish": 17.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90011",
+        "codes": [
+          "SOCI90011/U/1/FEB/S01/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:48.940Z"
+}

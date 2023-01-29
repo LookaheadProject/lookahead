@@ -1,0 +1,235 @@
+{
+  "subject": {
+    "code": "MUSI10232",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Breakout1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-513 (Prudence Myer Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Composition Seminar",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/S01/01"
+        ],
+        "locations": [
+          "STH-880-808 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Group Lesson 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          34,
+          37,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/G01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "G"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Breakout1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          34,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-410 (Electronic Music Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Composition Seminar",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/S01/01"
+        ],
+        "locations": [
+          "STH-880-808 (Teaching Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Group Lesson 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          34,
+          37,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/G01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "G"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Breakout1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          40
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-513 (Prudence Myer Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Breakout1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          34,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MUSI10232",
+        "codes": [
+          "MUSI10232/STH/1/SM2/Breakout1/01"
+        ],
+        "locations": [
+          "STH-880-410 (Electronic Music Studio)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:02.735Z"
+}

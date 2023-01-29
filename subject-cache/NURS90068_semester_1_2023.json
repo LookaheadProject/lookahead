@@ -1,0 +1,120 @@
+{
+  "subject": {
+    "code": "NURS90068",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 12.5,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "NURS90068",
+        "codes": [
+          "NURS90068/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 12.5,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "NURS90068",
+        "codes": [
+          "NURS90068/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-103 (Lowe Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 12.5,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "NURS90068",
+        "codes": [
+          "NURS90068/U/1/SM1/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 12.5,
+        "finish": 16,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "NURS90068",
+        "codes": [
+          "NURS90068/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-103 (Lowe Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:18.286Z"
+}

@@ -1,0 +1,88 @@
+{
+  "subject": {
+    "code": "ISLM30020",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM30020",
+        "codes": [
+          "ISLM30020/U/1/SM2/S01/01",
+          "ISLM30020/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-G07",
+          "PAR-Sidney Myer Asia Ctr-119"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 16.75,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ISLM30020",
+        "codes": [
+          "ISLM30020/U/1/SM2/S01/01",
+          "ISLM30020/U/1/SM2/S01/02"
+        ],
+        "locations": [
+          "PAR-Sidney Myer Asia Ctr-G07",
+          "PAR-Sidney Myer Asia Ctr-119"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:11.084Z"
+}

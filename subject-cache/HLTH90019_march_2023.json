@@ -1,0 +1,128 @@
+{
+  "subject": {
+    "code": "HLTH90019",
+    "period": "march",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8,
+        "finish": 11,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "HLTH90019",
+        "codes": [
+          "HLTH90019/U/1/MAR/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8,
+        "finish": 11,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HLTH90019",
+        "codes": [
+          "HLTH90019/U/1/MAR/L01/01"
+        ],
+        "locations": [
+          "PAR-Chemical Engineering 1-G20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8,
+        "finish": 11,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "HLTH90019",
+        "codes": [
+          "HLTH90019/U/1/MAR/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 8,
+        "finish": 11,
+        "weeks": [
+          11,
+          12,
+          13,
+          14,
+          16,
+          17
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "HLTH90019",
+        "codes": [
+          "HLTH90019/U/1/MAR/L01/01"
+        ],
+        "locations": [
+          "PAR-Chemical Engineering 1-G20"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:04.385Z"
+}

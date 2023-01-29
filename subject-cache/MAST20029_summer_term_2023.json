@@ -1,0 +1,1047 @@
+{
+  "subject": {
+    "code": "MAST20029",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/15"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/15"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 15
+              }
+            ],
+            "streamNumbers": [
+              15
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/12",
+                  "MAST20029/U/1/SUM/P01/13"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/12",
+                  "MAST20029/U/1/SUM/P02/13"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 12
+              }
+            ],
+            "streamNumbers": [
+              12,
+              13
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/09",
+                  "MAST20029/U/1/SUM/P01/10"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/09",
+                  "MAST20029/U/1/SUM/P02/10"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 9
+              }
+            ],
+            "streamNumbers": [
+              9,
+              10
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/06"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/06"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/04",
+                  "MAST20029/U/1/SUM/P01/05"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/04",
+                  "MAST20029/U/1/SUM/P02/05"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4,
+              5
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/01",
+                  "MAST20029/U/1/SUM/P01/03",
+                  "MAST20029/U/1/SUM/P01/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Chemistry-156",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/01",
+                  "MAST20029/U/1/SUM/P02/03",
+                  "MAST20029/U/1/SUM/P02/02"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G50",
+                  "PAR-Chemistry-156",
+                  "PAR-Peter Hall-215"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              3,
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/16"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/14",
+                  "MAST20029/U/1/SUM/P01/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/14",
+                  "MAST20029/U/1/SUM/P02/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 14
+              }
+            ],
+            "streamNumbers": [
+              14,
+              7
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 11
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/11"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 11
+              }
+            ],
+            "streamNumbers": [
+              11
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P01/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/P02/08"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 8
+              }
+            ],
+            "streamNumbers": [
+              8
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L01/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L02/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L03/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 4",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L04/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L05/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 6",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L06/01"
+                ],
+                "locations": [
+                  "PAR-Peter Hall-G01 (JH Michell Theatre)"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 4",
+                "day": 2,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L04/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5",
+                "day": 2,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 6",
+                "day": 2,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MAST20029",
+                "codes": [
+                  "MAST20029/U/1/SUM/L06/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:37.917Z"
+}

@@ -1,0 +1,2823 @@
+{
+  "subject": {
+    "code": "CHEM10004",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Practical-Group1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/1001",
+          "CHEM10004/U/1/SM2/P01/1008",
+          "CHEM10004/U/1/SM2/P01/1007",
+          "CHEM10004/U/1/SM2/P01/1006",
+          "CHEM10004/U/1/SM2/P01/1005",
+          "CHEM10004/U/1/SM2/P01/1004",
+          "CHEM10004/U/1/SM2/P01/1003",
+          "CHEM10004/U/1/SM2/P01/1002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/2001",
+          "CHEM10004/U/1/SM2/P01/2008",
+          "CHEM10004/U/1/SM2/P01/2007",
+          "CHEM10004/U/1/SM2/P01/2006",
+          "CHEM10004/U/1/SM2/P01/2005",
+          "CHEM10004/U/1/SM2/P01/2004",
+          "CHEM10004/U/1/SM2/P01/2003",
+          "CHEM10004/U/1/SM2/P01/2002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/11001",
+          "CHEM10004/U/1/SM2/P01/11008",
+          "CHEM10004/U/1/SM2/P01/11007",
+          "CHEM10004/U/1/SM2/P01/11006",
+          "CHEM10004/U/1/SM2/P01/11005",
+          "CHEM10004/U/1/SM2/P01/11004",
+          "CHEM10004/U/1/SM2/P01/11003",
+          "CHEM10004/U/1/SM2/P01/11002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 11001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/19"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/3001",
+          "CHEM10004/U/1/SM2/P01/3008",
+          "CHEM10004/U/1/SM2/P01/3007",
+          "CHEM10004/U/1/SM2/P01/3006",
+          "CHEM10004/U/1/SM2/P01/3005",
+          "CHEM10004/U/1/SM2/P01/3004",
+          "CHEM10004/U/1/SM2/P01/3003",
+          "CHEM10004/U/1/SM2/P01/3002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/4001",
+          "CHEM10004/U/1/SM2/P01/4008",
+          "CHEM10004/U/1/SM2/P01/4007",
+          "CHEM10004/U/1/SM2/P01/4006",
+          "CHEM10004/U/1/SM2/P01/4005",
+          "CHEM10004/U/1/SM2/P01/4004",
+          "CHEM10004/U/1/SM2/P01/4003",
+          "CHEM10004/U/1/SM2/P01/4002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/12001",
+          "CHEM10004/U/1/SM2/P01/12008",
+          "CHEM10004/U/1/SM2/P01/12007",
+          "CHEM10004/U/1/SM2/P01/12006",
+          "CHEM10004/U/1/SM2/P01/12005",
+          "CHEM10004/U/1/SM2/P01/12004",
+          "CHEM10004/U/1/SM2/P01/12003",
+          "CHEM10004/U/1/SM2/P01/12002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 12001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/18"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/11"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/14"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/17"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/13",
+          "CHEM10004/U/1/SM2/T01/15"
+        ],
+        "locations": [
+          "PAR-Chemistry-169",
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/5001",
+          "CHEM10004/U/1/SM2/P01/5008",
+          "CHEM10004/U/1/SM2/P01/5007",
+          "CHEM10004/U/1/SM2/P01/5006",
+          "CHEM10004/U/1/SM2/P01/5005",
+          "CHEM10004/U/1/SM2/P01/5004",
+          "CHEM10004/U/1/SM2/P01/5003",
+          "CHEM10004/U/1/SM2/P01/5002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/6001",
+          "CHEM10004/U/1/SM2/P01/6008",
+          "CHEM10004/U/1/SM2/P01/6007",
+          "CHEM10004/U/1/SM2/P01/6006",
+          "CHEM10004/U/1/SM2/P01/6005",
+          "CHEM10004/U/1/SM2/P01/6004",
+          "CHEM10004/U/1/SM2/P01/6003",
+          "CHEM10004/U/1/SM2/P01/6002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6001
+      },
+      {
+        "description": "Practical-Group8",
+        "day": 2,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/13008",
+          "CHEM10004/U/1/SM2/P01/13007",
+          "CHEM10004/U/1/SM2/P01/13006",
+          "CHEM10004/U/1/SM2/P01/13005",
+          "CHEM10004/U/1/SM2/P01/13004",
+          "CHEM10004/U/1/SM2/P01/13003",
+          "CHEM10004/U/1/SM2/P01/13002",
+          "CHEM10004/U/1/SM2/P01/13001"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 13008
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/12"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/10"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/16"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/21"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/7001",
+          "CHEM10004/U/1/SM2/P01/7008",
+          "CHEM10004/U/1/SM2/P01/7007",
+          "CHEM10004/U/1/SM2/P01/7006",
+          "CHEM10004/U/1/SM2/P01/7005",
+          "CHEM10004/U/1/SM2/P01/7004",
+          "CHEM10004/U/1/SM2/P01/7003",
+          "CHEM10004/U/1/SM2/P01/7002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/8001",
+          "CHEM10004/U/1/SM2/P01/8008",
+          "CHEM10004/U/1/SM2/P01/8007",
+          "CHEM10004/U/1/SM2/P01/8006",
+          "CHEM10004/U/1/SM2/P01/8005",
+          "CHEM10004/U/1/SM2/P01/8004",
+          "CHEM10004/U/1/SM2/P01/8003",
+          "CHEM10004/U/1/SM2/P01/8002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 3,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/14001",
+          "CHEM10004/U/1/SM2/P01/14008",
+          "CHEM10004/U/1/SM2/P01/14007",
+          "CHEM10004/U/1/SM2/P01/14006",
+          "CHEM10004/U/1/SM2/P01/14005",
+          "CHEM10004/U/1/SM2/P01/14004",
+          "CHEM10004/U/1/SM2/P01/14003",
+          "CHEM10004/U/1/SM2/P01/14002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 14001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/22"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/20"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/9001",
+          "CHEM10004/U/1/SM2/P01/9008",
+          "CHEM10004/U/1/SM2/P01/9007",
+          "CHEM10004/U/1/SM2/P01/9006",
+          "CHEM10004/U/1/SM2/P01/9005",
+          "CHEM10004/U/1/SM2/P01/9004",
+          "CHEM10004/U/1/SM2/P01/9003",
+          "CHEM10004/U/1/SM2/P01/9002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/10001",
+          "CHEM10004/U/1/SM2/P01/10008",
+          "CHEM10004/U/1/SM2/P01/10007",
+          "CHEM10004/U/1/SM2/P01/10006",
+          "CHEM10004/U/1/SM2/P01/10005",
+          "CHEM10004/U/1/SM2/P01/10004",
+          "CHEM10004/U/1/SM2/P01/10003",
+          "CHEM10004/U/1/SM2/P01/10002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10001
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Practical-Group1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/1001",
+          "CHEM10004/U/1/SM2/P01/1008",
+          "CHEM10004/U/1/SM2/P01/1007",
+          "CHEM10004/U/1/SM2/P01/1006",
+          "CHEM10004/U/1/SM2/P01/1005",
+          "CHEM10004/U/1/SM2/P01/1004",
+          "CHEM10004/U/1/SM2/P01/1003",
+          "CHEM10004/U/1/SM2/P01/1002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 0,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/2001",
+          "CHEM10004/U/1/SM2/P01/2008",
+          "CHEM10004/U/1/SM2/P01/2007",
+          "CHEM10004/U/1/SM2/P01/2006",
+          "CHEM10004/U/1/SM2/P01/2005",
+          "CHEM10004/U/1/SM2/P01/2004",
+          "CHEM10004/U/1/SM2/P01/2003",
+          "CHEM10004/U/1/SM2/P01/2002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 2001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 0,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/11001",
+          "CHEM10004/U/1/SM2/P01/11008",
+          "CHEM10004/U/1/SM2/P01/11007",
+          "CHEM10004/U/1/SM2/P01/11006",
+          "CHEM10004/U/1/SM2/P01/11005",
+          "CHEM10004/U/1/SM2/P01/11004",
+          "CHEM10004/U/1/SM2/P01/11003",
+          "CHEM10004/U/1/SM2/P01/11002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 11001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/19"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/06"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 1,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/3001",
+          "CHEM10004/U/1/SM2/P01/3008",
+          "CHEM10004/U/1/SM2/P01/3007",
+          "CHEM10004/U/1/SM2/P01/3006",
+          "CHEM10004/U/1/SM2/P01/3005",
+          "CHEM10004/U/1/SM2/P01/3004",
+          "CHEM10004/U/1/SM2/P01/3003",
+          "CHEM10004/U/1/SM2/P01/3002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 3001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 1,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/4001",
+          "CHEM10004/U/1/SM2/P01/4008",
+          "CHEM10004/U/1/SM2/P01/4007",
+          "CHEM10004/U/1/SM2/P01/4006",
+          "CHEM10004/U/1/SM2/P01/4005",
+          "CHEM10004/U/1/SM2/P01/4004",
+          "CHEM10004/U/1/SM2/P01/4003",
+          "CHEM10004/U/1/SM2/P01/4002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 4001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 1,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/12001",
+          "CHEM10004/U/1/SM2/P01/12008",
+          "CHEM10004/U/1/SM2/P01/12007",
+          "CHEM10004/U/1/SM2/P01/12006",
+          "CHEM10004/U/1/SM2/P01/12005",
+          "CHEM10004/U/1/SM2/P01/12004",
+          "CHEM10004/U/1/SM2/P01/12003",
+          "CHEM10004/U/1/SM2/P01/12002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 12001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/11"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 2,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/5001",
+          "CHEM10004/U/1/SM2/P01/5008",
+          "CHEM10004/U/1/SM2/P01/5007",
+          "CHEM10004/U/1/SM2/P01/5006",
+          "CHEM10004/U/1/SM2/P01/5005",
+          "CHEM10004/U/1/SM2/P01/5004",
+          "CHEM10004/U/1/SM2/P01/5003",
+          "CHEM10004/U/1/SM2/P01/5002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 5001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 8
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/14"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/03"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 2,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/6001",
+          "CHEM10004/U/1/SM2/P01/6008",
+          "CHEM10004/U/1/SM2/P01/6007",
+          "CHEM10004/U/1/SM2/P01/6006",
+          "CHEM10004/U/1/SM2/P01/6005",
+          "CHEM10004/U/1/SM2/P01/6004",
+          "CHEM10004/U/1/SM2/P01/6003",
+          "CHEM10004/U/1/SM2/P01/6002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 6001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/17"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/18"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/13",
+          "CHEM10004/U/1/SM2/T01/15"
+        ],
+        "locations": [
+          "PAR-Chemistry-169",
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Practical-Group8",
+        "day": 2,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/13008",
+          "CHEM10004/U/1/SM2/P01/13007",
+          "CHEM10004/U/1/SM2/P01/13006",
+          "CHEM10004/U/1/SM2/P01/13005",
+          "CHEM10004/U/1/SM2/P01/13004",
+          "CHEM10004/U/1/SM2/P01/13003",
+          "CHEM10004/U/1/SM2/P01/13002",
+          "CHEM10004/U/1/SM2/P01/13001"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 13008
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-169"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 3,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/7001",
+          "CHEM10004/U/1/SM2/P01/7008",
+          "CHEM10004/U/1/SM2/P01/7007",
+          "CHEM10004/U/1/SM2/P01/7006",
+          "CHEM10004/U/1/SM2/P01/7005",
+          "CHEM10004/U/1/SM2/P01/7004",
+          "CHEM10004/U/1/SM2/P01/7003",
+          "CHEM10004/U/1/SM2/P01/7002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 7001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/12"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 3,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/8001",
+          "CHEM10004/U/1/SM2/P01/8008",
+          "CHEM10004/U/1/SM2/P01/8007",
+          "CHEM10004/U/1/SM2/P01/8006",
+          "CHEM10004/U/1/SM2/P01/8005",
+          "CHEM10004/U/1/SM2/P01/8004",
+          "CHEM10004/U/1/SM2/P01/8003",
+          "CHEM10004/U/1/SM2/P01/8002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 8001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/10"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 10
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/16"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/21"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 3,
+        "start": 18.25,
+        "finish": 21.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/14001",
+          "CHEM10004/U/1/SM2/P01/14008",
+          "CHEM10004/U/1/SM2/P01/14007",
+          "CHEM10004/U/1/SM2/P01/14006",
+          "CHEM10004/U/1/SM2/P01/14005",
+          "CHEM10004/U/1/SM2/P01/14004",
+          "CHEM10004/U/1/SM2/P01/14003",
+          "CHEM10004/U/1/SM2/P01/14002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 14001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-Chemistry-158"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 7
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/9001",
+          "CHEM10004/U/1/SM2/P01/9008",
+          "CHEM10004/U/1/SM2/P01/9007",
+          "CHEM10004/U/1/SM2/P01/9006",
+          "CHEM10004/U/1/SM2/P01/9005",
+          "CHEM10004/U/1/SM2/P01/9004",
+          "CHEM10004/U/1/SM2/P01/9003",
+          "CHEM10004/U/1/SM2/P01/9002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 9001
+      },
+      {
+        "description": "Practical-Group1",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/P01/10001",
+          "CHEM10004/U/1/SM2/P01/10008",
+          "CHEM10004/U/1/SM2/P01/10007",
+          "CHEM10004/U/1/SM2/P01/10006",
+          "CHEM10004/U/1/SM2/P01/10005",
+          "CHEM10004/U/1/SM2/P01/10004",
+          "CHEM10004/U/1/SM2/P01/10003",
+          "CHEM10004/U/1/SM2/P01/10002"
+        ],
+        "locations": [
+          "PAR-Chemistry-188 (1st Year Lab)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 10001
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/22"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/20"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "CHEM10004",
+        "codes": [
+          "CHEM10004/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM10004",
+                "codes": [
+                  "CHEM10004/U/1/SM2/L01/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM10004",
+                "codes": [
+                  "CHEM10004/U/1/SM2/L02/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM10004",
+                "codes": [
+                  "CHEM10004/U/1/SM2/L03/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM10004",
+                "codes": [
+                  "CHEM10004/U/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM10004",
+                "codes": [
+                  "CHEM10004/U/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM10004",
+                "codes": [
+                  "CHEM10004/U/1/SM2/L03/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-B117"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:43.614Z"
+}

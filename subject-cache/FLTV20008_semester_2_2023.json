@@ -1,0 +1,285 @@
+{
+  "subject": {
+    "code": "FLTV20008",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/L01/01"
+        ],
+        "locations": [
+          "STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/02"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/04"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/L01/01"
+        ],
+        "locations": [
+          "STH-861-205 (Federation Hall)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/02"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/03"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          33,
+          37,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FLTV20008",
+        "codes": [
+          "FLTV20008/STH/1/SM2/T01/04"
+        ],
+        "locations": [
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:42.172Z"
+}

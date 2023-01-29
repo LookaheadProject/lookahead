@@ -1,0 +1,178 @@
+{
+  "subject": {
+    "code": "CHEM90047",
+    "period": "february",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM90047",
+        "codes": [
+          "CHEM90047/U/1/FEB/L01/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-189 (Masson Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM90047",
+        "codes": [
+          "CHEM90047/U/1/FEB/L02/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-178 (Cuming Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 3",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CHEM90047",
+        "codes": [
+          "CHEM90047/U/1/FEB/L03/01"
+        ],
+        "locations": [
+          "PAR-Chemistry-189 (Masson Theatre)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 0,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM90047",
+                "codes": [
+                  "CHEM90047/U/1/FEB/T01/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-169"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 1,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM90047",
+                "codes": [
+                  "CHEM90047/U/1/FEB/T02/01"
+                ],
+                "locations": [
+                  "PAR-Chemistry-169"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 3",
+                "day": 4,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "CHEM90047",
+                "codes": [
+                  "CHEM90047/U/1/FEB/T03/01"
+                ],
+                "locations": [
+                  "PAR-Babel-G03 (Lower Theatre)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:45.031Z"
+}

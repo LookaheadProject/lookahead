@@ -1,0 +1,1081 @@
+{
+  "subject": {
+    "code": "MGMT20001",
+    "period": "summer_term",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 1,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT20001",
+        "codes": [
+          "MGMT20001/U/1/SUM/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT20001",
+        "codes": [
+          "MGMT20001/U/1/SUM/L01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 3,
+        "start": 8,
+        "finish": 9,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT20001",
+        "codes": [
+          "MGMT20001/U/1/SUM/W02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MGMT20001",
+        "codes": [
+          "MGMT20001/U/1/SUM/L02/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/18",
+                  "MGMT20001/U/1/SUM/T01/25"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 18
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/18",
+                  "MGMT20001/U/1/SUM/T02/25"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 18
+              }
+            ],
+            "streamNumbers": [
+              18,
+              25
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/17",
+                  "MGMT20001/U/1/SUM/T01/24"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 17
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/17",
+                  "MGMT20001/U/1/SUM/T02/24"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 17
+              }
+            ],
+            "streamNumbers": [
+              17,
+              24
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/16",
+                  "MGMT20001/U/1/SUM/T01/23"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 16
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/16",
+                  "MGMT20001/U/1/SUM/T02/23"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16,
+              23
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/15",
+                  "MGMT20001/U/1/SUM/T01/22"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 15
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/15",
+                  "MGMT20001/U/1/SUM/T02/22"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 15
+              }
+            ],
+            "streamNumbers": [
+              15,
+              22
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/21",
+                  "MGMT20001/U/1/SUM/T01/14",
+                  "MGMT20001/U/1/SUM/T01/28"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 21
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/21",
+                  "MGMT20001/U/1/SUM/T02/14",
+                  "MGMT20001/U/1/SUM/T02/28"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 21
+              }
+            ],
+            "streamNumbers": [
+              21,
+              14,
+              28
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/19",
+                  "MGMT20001/U/1/SUM/T01/12",
+                  "MGMT20001/U/1/SUM/T01/26"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 19
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/19",
+                  "MGMT20001/U/1/SUM/T02/12",
+                  "MGMT20001/U/1/SUM/T02/26"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 19
+              }
+            ],
+            "streamNumbers": [
+              19,
+              12,
+              26
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/07"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 7
+              }
+            ],
+            "streamNumbers": [
+              7
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/06"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 14.25,
+                "finish": 15.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/05"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/04",
+                  "MGMT20001/U/1/SUM/T01/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/04",
+                  "MGMT20001/U/1/SUM/T02/11"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4,
+              11
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/03",
+                  "MGMT20001/U/1/SUM/T01/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 12,
+                "finish": 13,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/03",
+                  "MGMT20001/U/1/SUM/T02/10"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              10
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/02",
+                  "MGMT20001/U/1/SUM/T01/09"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/02",
+                  "MGMT20001/U/1/SUM/T02/09"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2,
+              9
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/01",
+                  "MGMT20001/U/1/SUM/T01/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/01",
+                  "MGMT20001/U/1/SUM/T02/08"
+                ],
+                "locations": [
+                  "PAR-The Spot-3033",
+                  "PAR-The Spot-3032"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1,
+              8
+            ]
+          },
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 1",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T01/27",
+                  "MGMT20001/U/1/SUM/T01/13",
+                  "MGMT20001/U/1/SUM/T01/20"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 27
+              },
+              {
+                "description": "Tutorial 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "MGMT20001",
+                "codes": [
+                  "MGMT20001/U/1/SUM/T02/27",
+                  "MGMT20001/U/1/SUM/T02/13",
+                  "MGMT20001/U/1/SUM/T02/20"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "T"
+                },
+                "streamNumber": 27
+              }
+            ],
+            "streamNumbers": [
+              27,
+              13,
+              20
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorial"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:49.656Z"
+}

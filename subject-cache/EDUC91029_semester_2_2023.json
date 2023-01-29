@@ -1,0 +1,238 @@
+{
+  "subject": {
+    "code": "EDUC91029",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 5,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/T01/06",
+          "EDUC91029/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 5,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/T01/03",
+          "EDUC91029/U/1/SM2/T01/04",
+          "EDUC91029/U/1/SM2/T01/01",
+          "EDUC91029/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416",
+          "PAR-100 Leicester Street-109",
+          "PAR-Kwong Lee Dow-213",
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 5,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-230"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 5,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/T01/06",
+          "EDUC91029/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 6
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 5,
+        "start": 13,
+        "finish": 16,
+        "weeks": [
+          30,
+          34,
+          38,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "EDUC91029",
+        "codes": [
+          "EDUC91029/U/1/SM2/T01/03",
+          "EDUC91029/U/1/SM2/T01/04",
+          "EDUC91029/U/1/SM2/T01/01",
+          "EDUC91029/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-416",
+          "PAR-100 Leicester Street-109",
+          "PAR-Kwong Lee Dow-213",
+          "PAR-Kwong Lee Dow-218"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": true
+  },
+  "timestamp": "2023-01-25T09:40:21.076Z"
+}

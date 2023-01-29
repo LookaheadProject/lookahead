@@ -1,0 +1,141 @@
+{
+  "subject": {
+    "code": "FLTV20010",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20010",
+        "codes": [
+          "FLTV20010/STH/1/SM1/T01/02",
+          "FLTV20010/STH/1/SM1/T01/01",
+          "FLTV20010/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-204 (Rushes 3)",
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20010",
+        "codes": [
+          "FLTV20010/STH/1/SM1/L01/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 2",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.5,
+        "weeks": [
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20010",
+        "codes": [
+          "FLTV20010/STH/1/SM1/L02/01"
+        ],
+        "locations": [
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV20010",
+        "codes": [
+          "FLTV20010/STH/1/SM1/T01/02",
+          "FLTV20010/STH/1/SM1/T01/01",
+          "FLTV20010/STH/1/SM1/T01/03"
+        ],
+        "locations": [
+          "STH-861-230 (Rushes 2)",
+          "STH-861-204 (Rushes 3)",
+          "STH-861-211 (Cinema 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:42.267Z"
+}

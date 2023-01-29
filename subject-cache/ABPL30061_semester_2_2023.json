@@ -1,0 +1,463 @@
+{
+  "subject": {
+    "code": "ABPL30061",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ABPL30061",
+        "codes": [
+          "ABPL30061/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30061",
+        "codes": [
+          "ABPL30061/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": true,
+        "subjectCode": "ABPL30061",
+        "codes": [
+          "ABPL30061/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Lecture 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL30061",
+        "codes": [
+          "ABPL30061/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Babel-305 (Chisholm Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 19.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST1/04"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-448"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Studio 2",
+                "day": 3,
+                "start": 17.25,
+                "finish": 20.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST2/04"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-449"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 13,
+                "finish": 16,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST1/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-449"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Studio 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST2/02"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-241"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 16.25,
+                "finish": 19.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST1/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-449"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Studio 2",
+                "day": 3,
+                "start": 15.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST2/03"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-237"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 0,
+                "start": 13,
+                "finish": 16,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST1/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-448"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Studio 2",
+                "day": 3,
+                "start": 13,
+                "finish": 16,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "ABPL30061",
+                "codes": [
+                  "ABPL30061/U/1/SM2/ST2/01"
+                ],
+                "locations": [
+                  "PAR-Glyn Davis (MSD)-228 (Sarawak Studio)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "Studio"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:08.650Z"
+}

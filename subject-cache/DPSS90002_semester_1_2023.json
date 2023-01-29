@@ -1,0 +1,162 @@
+{
+  "subject": {
+    "code": "DPSS90002",
+    "period": "semester_1",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Studio 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90002",
+        "codes": [
+          "DPSS90002/STH/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Studio 2",
+        "day": 4,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "DPSS90002",
+        "codes": [
+          "DPSS90002/STH/1/SM1/ST2/01"
+        ],
+        "locations": [
+          "STH-860-321 (Tutorial Room 3)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "Breakout",
+            "classes": [
+              {
+                "description": "Studio 1 - Breakout",
+                "day": 1,
+                "start": 14.25,
+                "finish": 17.25,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DPSS90002",
+                "codes": [
+                  "DPSS90002/STH/1/SM1/Breakout1/01"
+                ],
+                "locations": [
+                  "STH-860-219 (Graduate Design Studio 1)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "Breakout"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Studio 2 - Breakout",
+                "day": 4,
+                "start": 10,
+                "finish": 13,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "DPSS90002",
+                "codes": [
+                  "DPSS90002/STH/1/SM1/Breakout2/01"
+                ],
+                "locations": [
+                  "STH-860-219 (Graduate Design Studio 1)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "Breakout"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "Breakout",
+        "name": "StudioBreakout"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:05.358Z"
+}

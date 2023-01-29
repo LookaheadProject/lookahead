@@ -1,0 +1,128 @@
+{
+  "subject": {
+    "code": "FLTV70043",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV70043",
+        "codes": [
+          "FLTV70043/STH/1/SM1/W01/01",
+          "FLTV70043/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)",
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Room Access",
+        "day": 2,
+        "start": 17,
+        "finish": 18,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV70043",
+        "codes": [
+          "FLTV70043/STH/1/SM1/Breakout1/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 2,
+        "start": 10,
+        "finish": 17,
+        "weeks": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV70043",
+        "codes": [
+          "FLTV70043/STH/1/SM1/W01/01",
+          "FLTV70043/STH/1/SM1/W01/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)",
+          "STH-861-110 (Producers Room)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Room Access",
+        "day": 2,
+        "start": 17,
+        "finish": 18,
+        "weeks": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "FLTV70043",
+        "codes": [
+          "FLTV70043/STH/1/SM1/Breakout1/01"
+        ],
+        "locations": [
+          "STH-882-G01 (Guild Design Studio 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "Breakout"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:43.982Z"
+}

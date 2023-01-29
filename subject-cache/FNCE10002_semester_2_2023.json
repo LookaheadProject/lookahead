@@ -1,0 +1,3310 @@
+{
+  "subject": {
+    "code": "FNCE10002",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/83",
+          "FNCE10002/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-FBE-213",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 83
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/89",
+          "FNCE10002/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-FBE-213",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 89
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/73",
+          "FNCE10002/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-FBE-213",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 73
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/47",
+          "FNCE10002/U/1/SM2/T01/06",
+          "FNCE10002/U/1/SM2/T01/87"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-Alan Gilbert-123",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/03",
+          "FNCE10002/U/1/SM2/T01/82",
+          "FNCE10002/U/1/SM2/T01/44"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213",
+          "PAR-The Spot-2002"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/85",
+          "FNCE10002/U/1/SM2/T01/74",
+          "FNCE10002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-3014",
+          "PAR-FBE-213",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 85
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/86",
+          "FNCE10002/U/1/SM2/T01/75",
+          "FNCE10002/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-3014",
+          "PAR-FBE-213",
+          "PAR-The Spot-3013"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 86
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/88",
+          "FNCE10002/U/1/SM2/T01/45",
+          "FNCE10002/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-3014",
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 88
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/05",
+          "FNCE10002/U/1/SM2/T01/46"
+        ],
+        "locations": [
+          "PAR-The Spot-3033",
+          "PAR-The Spot-2002"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/11",
+          "FNCE10002/U/1/SM2/T01/77"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/12",
+          "FNCE10002/U/1/SM2/T01/78"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/13",
+          "FNCE10002/U/1/SM2/T01/79"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/14",
+          "FNCE10002/U/1/SM2/T01/54"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/15",
+          "FNCE10002/U/1/SM2/T01/55"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/16",
+          "FNCE10002/U/1/SM2/T01/56"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/76",
+          "FNCE10002/U/1/SM2/T01/10"
+        ],
+        "locations": [
+          "PAR-The Spot-2020",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 76
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/17",
+          "FNCE10002/U/1/SM2/T01/80"
+        ],
+        "locations": [
+          "PAR-The Spot-2015",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/18",
+          "FNCE10002/U/1/SM2/T01/57"
+        ],
+        "locations": [
+          "PAR-The Spot-2015",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/19",
+          "FNCE10002/U/1/SM2/T01/81"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/20",
+          "FNCE10002/U/1/SM2/T01/58"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/21",
+          "FNCE10002/U/1/SM2/T01/59"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/22",
+          "FNCE10002/U/1/SM2/T01/84"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/23",
+          "FNCE10002/U/1/SM2/T01/60"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 23
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/24",
+          "FNCE10002/U/1/SM2/T01/61"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 24
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/25"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/03"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/04"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G01 (JH Michell Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/26",
+          "FNCE10002/U/1/SM2/T01/62"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/27",
+          "FNCE10002/U/1/SM2/T01/63"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 27
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/28",
+          "FNCE10002/U/1/SM2/T01/64"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 28
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/29",
+          "FNCE10002/U/1/SM2/T01/65"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 29
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/30",
+          "FNCE10002/U/1/SM2/T01/66"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 30
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/31",
+          "FNCE10002/U/1/SM2/T01/67"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/32",
+          "FNCE10002/U/1/SM2/T01/68"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/33"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/34"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/35",
+          "FNCE10002/U/1/SM2/T01/69"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/36",
+          "FNCE10002/U/1/SM2/T01/70"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/43"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 43
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/52",
+          "FNCE10002/U/1/SM2/T01/71",
+          "FNCE10002/U/1/SM2/T01/37"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-FBE-213",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 52
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/49",
+          "FNCE10002/U/1/SM2/T01/72",
+          "FNCE10002/U/1/SM2/T01/38"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-FBE-213",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/51",
+          "FNCE10002/U/1/SM2/T01/39"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 51
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/48",
+          "FNCE10002/U/1/SM2/T01/40"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 48
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/50",
+          "FNCE10002/U/1/SM2/T01/41"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 50
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/53",
+          "FNCE10002/U/1/SM2/T01/42"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 53
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/85",
+          "FNCE10002/U/1/SM2/T01/74",
+          "FNCE10002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-3014",
+          "PAR-FBE-213",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 85
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/86",
+          "FNCE10002/U/1/SM2/T01/75",
+          "FNCE10002/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-The Spot-3014",
+          "PAR-FBE-213",
+          "PAR-The Spot-3013"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 86
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/03",
+          "FNCE10002/U/1/SM2/T01/82",
+          "FNCE10002/U/1/SM2/T01/44"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213",
+          "PAR-The Spot-2002"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/88",
+          "FNCE10002/U/1/SM2/T01/45",
+          "FNCE10002/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-The Spot-3014",
+          "PAR-The Spot-2002",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 88
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/05",
+          "FNCE10002/U/1/SM2/T01/46"
+        ],
+        "locations": [
+          "PAR-The Spot-3033",
+          "PAR-The Spot-2002"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 5
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/47",
+          "FNCE10002/U/1/SM2/T01/06",
+          "FNCE10002/U/1/SM2/T01/87"
+        ],
+        "locations": [
+          "PAR-The Spot-2002",
+          "PAR-Alan Gilbert-123",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 47
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/83",
+          "FNCE10002/U/1/SM2/T01/07"
+        ],
+        "locations": [
+          "PAR-FBE-213",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 83
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/89",
+          "FNCE10002/U/1/SM2/T01/08"
+        ],
+        "locations": [
+          "PAR-FBE-213",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 89
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 0,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/73",
+          "FNCE10002/U/1/SM2/T01/09"
+        ],
+        "locations": [
+          "PAR-FBE-213",
+          "PAR-Alan Gilbert-123"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 73
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/76",
+          "FNCE10002/U/1/SM2/T01/10"
+        ],
+        "locations": [
+          "PAR-The Spot-2020",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 76
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/11",
+          "FNCE10002/U/1/SM2/T01/77"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 11
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/12",
+          "FNCE10002/U/1/SM2/T01/78"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 12
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/13",
+          "FNCE10002/U/1/SM2/T01/79"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 13
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/14",
+          "FNCE10002/U/1/SM2/T01/54"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 14
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/15",
+          "FNCE10002/U/1/SM2/T01/55"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 15
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/16",
+          "FNCE10002/U/1/SM2/T01/56"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 16
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/17",
+          "FNCE10002/U/1/SM2/T01/80"
+        ],
+        "locations": [
+          "PAR-The Spot-2015",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 17
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/18",
+          "FNCE10002/U/1/SM2/T01/57"
+        ],
+        "locations": [
+          "PAR-The Spot-2015",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 18
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/19",
+          "FNCE10002/U/1/SM2/T01/81"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 19
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/20",
+          "FNCE10002/U/1/SM2/T01/58"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 20
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/21",
+          "FNCE10002/U/1/SM2/T01/59"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 21
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/02"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/22",
+          "FNCE10002/U/1/SM2/T01/84"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 22
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/23",
+          "FNCE10002/U/1/SM2/T01/60"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 23
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/24",
+          "FNCE10002/U/1/SM2/T01/61"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 24
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/25"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 25
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/26",
+          "FNCE10002/U/1/SM2/T01/62"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 26
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/27",
+          "FNCE10002/U/1/SM2/T01/63"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 27
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/28",
+          "FNCE10002/U/1/SM2/T01/64"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 28
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 12,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/04"
+        ],
+        "locations": [
+          "PAR-Peter Hall-G01 (JH Michell Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/29",
+          "FNCE10002/U/1/SM2/T01/65"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 29
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/30",
+          "FNCE10002/U/1/SM2/T01/66"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 30
+      },
+      {
+        "description": "Lecture 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/L01/03"
+        ],
+        "locations": [
+          "PAR-Arts West West Wing-B101 (Kathleen Fitzpatrick Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/31",
+          "FNCE10002/U/1/SM2/T01/67"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 31
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/32",
+          "FNCE10002/U/1/SM2/T01/68"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 32
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/33"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 33
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/34"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 34
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/35",
+          "FNCE10002/U/1/SM2/T01/69"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 35
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/36",
+          "FNCE10002/U/1/SM2/T01/70"
+        ],
+        "locations": [
+          "PAR-The Spot-2019",
+          "PAR-FBE-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 36
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/52",
+          "FNCE10002/U/1/SM2/T01/71",
+          "FNCE10002/U/1/SM2/T01/37"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-FBE-213",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 52
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 12,
+        "finish": 13,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/49",
+          "FNCE10002/U/1/SM2/T01/72",
+          "FNCE10002/U/1/SM2/T01/38"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-FBE-213",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 49
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/51",
+          "FNCE10002/U/1/SM2/T01/39"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 51
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/48",
+          "FNCE10002/U/1/SM2/T01/40"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 48
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/50",
+          "FNCE10002/U/1/SM2/T01/41"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 50
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 16.25,
+        "finish": 17.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/53",
+          "FNCE10002/U/1/SM2/T01/42"
+        ],
+        "locations": [
+          "PAR-The Spot-5015",
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 53
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 4,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "FNCE10002",
+        "codes": [
+          "FNCE10002/U/1/SM2/T01/43"
+        ],
+        "locations": [
+          "PAR-The Spot-2019"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 43
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:44.949Z"
+}

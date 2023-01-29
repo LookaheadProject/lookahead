@@ -1,0 +1,253 @@
+{
+  "subject": {
+    "code": "ABPL90424",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90424",
+        "codes": [
+          "ABPL90424/U/1/SM1/T01/04",
+          "ABPL90424/U/1/SM1/T01/01",
+          "ABPL90424/U/1/SM1/T01/03",
+          "ABPL90424/U/1/SM1/T01/02",
+          "ABPL90424/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)",
+          "PAR-Glyn Davis (MSD)-141 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-142 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90424",
+        "codes": [
+          "ABPL90424/U/1/SM1/T01/09",
+          "ABPL90424/U/1/SM1/T01/06",
+          "ABPL90424/U/1/SM1/T01/10",
+          "ABPL90424/U/1/SM1/T01/07",
+          "ABPL90424/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)",
+          "PAR-Glyn Davis (MSD)-142 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-213",
+          "PAR-Glyn Davis (MSD)-236",
+          "PAR-Glyn Davis (MSD)-241"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90424",
+        "codes": [
+          "ABPL90424/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 10,
+        "finish": 11.5,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "ABPL90424",
+        "codes": [
+          "ABPL90424/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Redmond Barry-102 (Latham Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90424",
+        "codes": [
+          "ABPL90424/U/1/SM1/T01/04",
+          "ABPL90424/U/1/SM1/T01/01",
+          "ABPL90424/U/1/SM1/T01/03",
+          "ABPL90424/U/1/SM1/T01/02",
+          "ABPL90424/U/1/SM1/T01/05"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)",
+          "PAR-Glyn Davis (MSD)-140 (Ellison Harvey Studio)",
+          "PAR-Glyn Davis (MSD)-141 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-142 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-213"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 15.25,
+        "finish": 17.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "ABPL90424",
+        "codes": [
+          "ABPL90424/U/1/SM1/T01/09",
+          "ABPL90424/U/1/SM1/T01/06",
+          "ABPL90424/U/1/SM1/T01/10",
+          "ABPL90424/U/1/SM1/T01/07",
+          "ABPL90424/U/1/SM1/T01/08"
+        ],
+        "locations": [
+          "PAR-Glyn Davis (MSD)-314 (Hansen Yuncken Studio 3)",
+          "PAR-Glyn Davis (MSD)-142 (CAD Studio)",
+          "PAR-Glyn Davis (MSD)-213",
+          "PAR-Glyn Davis (MSD)-236",
+          "PAR-Glyn Davis (MSD)-241"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 9
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:15.748Z"
+}

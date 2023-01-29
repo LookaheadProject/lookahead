@@ -1,0 +1,510 @@
+{
+  "subject": {
+    "code": "POPH90218",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 3,
+                "start": 15.5,
+                "finish": 17,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST1/03",
+                  "POPH90218/U/1/MAR/ST1/05",
+                  "POPH90218/U/1/MAR/ST1/01",
+                  "POPH90218/U/1/MAR/ST1/04"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103",
+                  "PAR-Alan Gilbert-G03",
+                  "PAR-207to221 Bouverie St-302 (MDHS SPH South Seminar Room)PAR-207to221 Bouverie St-303 (MDHS SPH North Seminar Room)",
+                  "PAR-Old Quad-G17 (Cussonia Court Room 1)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  10,
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST2/03",
+                  "POPH90218/U/1/MAR/ST2/05",
+                  "POPH90218/U/1/MAR/ST2/01",
+                  "POPH90218/U/1/MAR/ST2/04"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-G03",
+                  "PAR-207to221 Bouverie St-302 (MDHS SPH South Seminar Room)PAR-207to221 Bouverie St-303 (MDHS SPH North Seminar Room)",
+                  "PAR-Alan Gilbert-103",
+                  "PAR-207to221 Bouverie St-410"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Studio 3",
+                "day": 4,
+                "start": 12,
+                "finish": 16,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST3/03",
+                  "POPH90218/U/1/MAR/ST3/05",
+                  "POPH90218/U/1/MAR/ST3/01",
+                  "POPH90218/U/1/MAR/ST3/04"
+                ],
+                "locations": [
+                  "PAR-McCoy-208 (T&L Space 1 - VIEPS Intensive Room)",
+                  "PAR-207to221 Bouverie St-410",
+                  "PAR-207to221 Bouverie St-302 (MDHS SPH South Seminar Room)PAR-207to221 Bouverie St-303 (MDHS SPH North Seminar Room)",
+                  "PAR-David Caro-Podium 211"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "ST"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3,
+              5,
+              1,
+              4
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 3,
+                "start": 15.5,
+                "finish": 17,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST1/02"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 211"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  10,
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST2/02"
+                ],
+                "locations": [
+                  "PAR-David Caro-Podium 211"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Studio 3",
+                "day": 4,
+                "start": 12,
+                "finish": 16,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST3/02"
+                ],
+                "locations": [
+                  "PAR-Alan Gilbert-103"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "ST"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "ST",
+            "classes": [
+              {
+                "description": "Studio 1",
+                "day": 3,
+                "start": 15.5,
+                "finish": 17,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST1/06",
+                  "POPH90218/U/1/MAR/ST1/10",
+                  "POPH90218/U/1/MAR/ST1/09",
+                  "POPH90218/U/1/MAR/ST1/08",
+                  "POPH90218/U/1/MAR/ST1/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "ST"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Studio 2",
+                "day": 4,
+                "start": 13.5,
+                "finish": 17,
+                "weeks": [
+                  10,
+                  11
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST2/06",
+                  "POPH90218/U/1/MAR/ST2/10",
+                  "POPH90218/U/1/MAR/ST2/09",
+                  "POPH90218/U/1/MAR/ST2/08",
+                  "POPH90218/U/1/MAR/ST2/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "ST"
+                },
+                "streamNumber": 6
+              },
+              {
+                "description": "Studio 3",
+                "day": 4,
+                "start": 12,
+                "finish": 16,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/ST3/06",
+                  "POPH90218/U/1/MAR/ST3/10",
+                  "POPH90218/U/1/MAR/ST3/09",
+                  "POPH90218/U/1/MAR/ST3/08",
+                  "POPH90218/U/1/MAR/ST3/07"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "ST"
+                },
+                "streamNumber": 6
+              }
+            ],
+            "streamNumbers": [
+              6,
+              10,
+              9,
+              8,
+              7
+            ]
+          }
+        ],
+        "type": "ST",
+        "name": "Studio"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 3,
+                "start": 9,
+                "finish": 15,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L01/01"
+                ],
+                "locations": [
+                  "PAR-Redmond Barry-103 (Lowe Theatre)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L03/01"
+                ],
+                "locations": [
+                  "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L02/01"
+                ],
+                "locations": [
+                  "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 16,
+                "finish": 17,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L05/01"
+                ],
+                "locations": [
+                  "PAR-207to221 Bouverie St-B103 (Theatre 1)"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 3,
+                "start": 9,
+                "finish": 15,
+                "weeks": [
+                  10,
+                  11,
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L01/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 4,
+                "start": 9,
+                "finish": 13,
+                "weeks": [
+                  10,
+                  11
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L02/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 9,
+                "finish": 12,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L03/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 5",
+                "day": 4,
+                "start": 16,
+                "finish": 17,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "POPH90218",
+                "codes": [
+                  "POPH90218/U/1/MAR/L05/02"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 5,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:32.283Z"
+}

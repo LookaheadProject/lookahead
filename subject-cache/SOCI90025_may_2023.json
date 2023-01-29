@@ -1,0 +1,107 @@
+{
+  "subject": {
+    "code": "SOCI90025",
+    "period": "may",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90025",
+        "codes": [
+          "SOCI90025/U/1/MAY/S01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 2",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90025",
+        "codes": [
+          "SOCI90025/U/1/MAY/S02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 3",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90025",
+        "codes": [
+          "SOCI90025/U/1/MAY/S03/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 4",
+        "day": 4,
+        "start": 9,
+        "finish": 17,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "SOCI90025",
+        "codes": [
+          "SOCI90025/U/1/MAY/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-155"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:49.341Z"
+}

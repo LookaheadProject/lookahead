@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "AIND20013",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AIND20013",
+        "codes": [
+          "AIND20013/STH/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Studio 1",
+        "day": 2,
+        "start": 13.25,
+        "finish": 16.25,
+        "weeks": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "AIND20013",
+        "codes": [
+          "AIND20013/STH/1/SM1/ST1/01"
+        ],
+        "locations": [
+          "STH-860-201 (Tutorial Room 1)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "ST"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:23.872Z"
+}

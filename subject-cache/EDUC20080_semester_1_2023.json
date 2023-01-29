@@ -1,0 +1,249 @@
+{
+  "subject": {
+    "code": "EDUC20080",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC20080",
+        "codes": [
+          "EDUC20080/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "EDUC20080",
+        "codes": [
+          "EDUC20080/U/1/SM1/L01/01"
+        ],
+        "locations": [
+          "PAR-Kwong Lee Dow-227"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1 HASS Class",
+                "day": 1,
+                "start": 16.25,
+                "finish": 17.25,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20080",
+                "codes": [
+                  "EDUC20080/U/1/SM1/S01/03"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-508 (Mac Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Seminar 2 HASS Class",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20080",
+                "codes": [
+                  "EDUC20080/U/1/SM1/S02/03"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-508 (Mac Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1 HASS Class",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20080",
+                "codes": [
+                  "EDUC20080/U/1/SM1/S01/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-508 (Mac Lab)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Seminar 2 HASS CLass",
+                "day": 1,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20080",
+                "codes": [
+                  "EDUC20080/U/1/SM1/S02/01"
+                ],
+                "locations": [
+                  "PAR-Kwong Lee Dow-508 (Mac Lab)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "S",
+            "classes": [
+              {
+                "description": "Seminar 1 STEM Class",
+                "day": 1,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20080",
+                "codes": [
+                  "EDUC20080/U/1/SM1/S01/02"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-105"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Seminar 2 STEM Class",
+                "day": 1,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  10,
+                  11,
+                  12,
+                  13,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "EDUC20080",
+                "codes": [
+                  "EDUC20080/U/1/SM1/S02/02"
+                ],
+                "locations": [
+                  "PAR-100 Leicester Street-105"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "S"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          }
+        ],
+        "type": "S",
+        "name": "SeminarHASSClass"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:40:12.248Z"
+}

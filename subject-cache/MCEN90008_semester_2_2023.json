@@ -1,0 +1,1216 @@
+{
+  "subject": {
+    "code": "MCEN90008",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/03",
+          "MCEN90008/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS4",
+          "PAR-Old Engineering-EDS3"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-209 (Masters EDS Room 9)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-209 (Masters EDS Room 9)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-209 (Masters EDS Room 9)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/03",
+          "MCEN90008/U/1/SM2/T01/05"
+        ],
+        "locations": [
+          "PAR-Old Engineering-EDS4",
+          "PAR-Old Engineering-EDS3"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 3
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 17.25,
+        "finish": 18.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-209 (Masters EDS Room 9)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-209 (Masters EDS Room 9)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 3,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "MCEN90008",
+        "codes": [
+          "MCEN90008/U/1/SM2/T01/04"
+        ],
+        "locations": [
+          "PAR-Old Metallurgy-209 (Masters EDS Room 9)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 4
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/30",
+                  "MCEN90008/U/1/SM2/P02/10",
+                  "MCEN90008/U/1/SM2/P02/20"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 30
+              }
+            ],
+            "streamNumbers": [
+              30
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/29",
+                  "MCEN90008/U/1/SM2/P02/09",
+                  "MCEN90008/U/1/SM2/P02/19"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 29
+              }
+            ],
+            "streamNumbers": [
+              29
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P01/01"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/01"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 4,
+                "start": 12,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P01/05"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              },
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/05"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 5
+              }
+            ],
+            "streamNumbers": [
+              5
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/28",
+                  "MCEN90008/U/1/SM2/P02/08",
+                  "MCEN90008/U/1/SM2/P02/18"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 28
+              }
+            ],
+            "streamNumbers": [
+              28
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 3,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/27",
+                  "MCEN90008/U/1/SM2/P02/07",
+                  "MCEN90008/U/1/SM2/P02/17"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 27
+              }
+            ],
+            "streamNumbers": [
+              27
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 14.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P01/04"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/04"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 4
+              }
+            ],
+            "streamNumbers": [
+              4
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 3,
+                "start": 12.25,
+                "finish": 14.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P01/03"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              },
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/03"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 3
+              }
+            ],
+            "streamNumbers": [
+              3
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 11,
+                "finish": 13,
+                "weeks": [
+                  34
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/16",
+                  "MCEN90008/U/1/SM2/P02/26",
+                  "MCEN90008/U/1/SM2/P02/06"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA",
+                  "X-Departmentally Organised Venue"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 16
+              }
+            ],
+            "streamNumbers": [
+              16
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 2,
+                "start": 9,
+                "finish": 11,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/25",
+                  "MCEN90008/U/1/SM2/P02/15"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 25
+              }
+            ],
+            "streamNumbers": [
+              25
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 1",
+                "day": 2,
+                "start": 17.25,
+                "finish": 19.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P01/02"
+                ],
+                "locations": [
+                  "PAR-Old Engineering-EDS5"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  33
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/02"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 16.25,
+                "finish": 18.25,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/24",
+                  "MCEN90008/U/1/SM2/P02/14"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 24
+              }
+            ],
+            "streamNumbers": [
+              24
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 1,
+                "start": 10,
+                "finish": 12,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/23",
+                  "MCEN90008/U/1/SM2/P02/13"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 23
+              }
+            ],
+            "streamNumbers": [
+              23
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 17.25,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/22",
+                  "MCEN90008/U/1/SM2/P02/12"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 22
+              }
+            ],
+            "streamNumbers": [
+              22
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 13,
+                "finish": 15,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/21",
+                  "MCEN90008/U/1/SM2/P02/11"
+                ],
+                "locations": [
+                  "X-Departmentally Organised VenueA"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 21
+              }
+            ],
+            "streamNumbers": [
+              21
+            ]
+          },
+          {
+            "type": "P",
+            "classes": [
+              {
+                "description": "Practical 2",
+                "day": 0,
+                "start": 18.25,
+                "finish": 20.25,
+                "weeks": [
+                  35
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/P02/32",
+                  "MCEN90008/U/1/SM2/P02/31"
+                ],
+                "locations": [
+                  "X-Departmentally Organised Venue"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "P"
+                },
+                "streamNumber": 32
+              }
+            ],
+            "streamNumbers": [
+              32
+            ]
+          }
+        ],
+        "type": "P",
+        "name": "Practical"
+      },
+      {
+        "streams": [
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 1",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/L01/02"
+                ],
+                "locations": [
+                  "PAR-Old Geology-B25 (Theatre 2)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 13,
+                "finish": 14,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/L02/02"
+                ],
+                "locations": [
+                  "PAR-Old Geology-B25 (Theatre 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/L03/02"
+                ],
+                "locations": [
+                  "PAR-Old Geology-G04 (Theatre 1)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 2
+              }
+            ],
+            "streamNumbers": [
+              2
+            ]
+          },
+          {
+            "type": "L",
+            "classes": [
+              {
+                "description": "Lecture 2",
+                "day": 0,
+                "start": 15.25,
+                "finish": 16.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/L02/01"
+                ],
+                "locations": [
+                  "PAR-Old Geology-B25 (Theatre 2)"
+                ],
+                "classCode": {
+                  "number": 2,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 1",
+                "day": 1,
+                "start": 17.25,
+                "finish": 18.25,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/L01/01"
+                ],
+                "locations": [
+                  "PAR-Engineering C-428 (Collaborative Learning Space)"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Lecture 3",
+                "day": 4,
+                "start": 9,
+                "finish": 10,
+                "weeks": [
+                  30,
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  40,
+                  41,
+                  42
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "MCEN90008",
+                "codes": [
+                  "MCEN90008/U/1/SM2/L03/01"
+                ],
+                "locations": [
+                  "PAR-Old Geology-B25 (Theatre 2)"
+                ],
+                "classCode": {
+                  "number": 3,
+                  "type": "L"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "L",
+        "name": "Lecture"
+      }
+    ],
+    "_weirdStreamContainers": [
+      {
+        "name": "Practical",
+        "type": "P",
+        "okNumbers": 5,
+        "weirdNumbers": 11,
+        "maxCount": 2
+      }
+    ],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:42.310Z"
+}

@@ -1,0 +1,596 @@
+{
+  "subject": {
+    "code": "VETS90133",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Group A - VOCE Session",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Group B - VOCE Session",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Practical 4",
+        "day": 0,
+        "start": 10,
+        "finish": 13,
+        "weeks": [
+          14
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P04/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 5",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          16
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P05/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 6",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          17
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P06/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 6,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 10",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P10/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 10,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 2",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P02/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 7",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          18
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P07/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 7,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 9",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          20
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P09/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 9,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 8",
+        "day": 4,
+        "start": 13,
+        "finish": 15,
+        "weeks": [
+          19
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P08/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 8,
+          "type": "P"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 3",
+        "day": 4,
+        "start": 14,
+        "finish": 17,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/P03/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Group A - VOCE Session",
+        "day": 0,
+        "start": 9,
+        "finish": 10,
+        "weeks": [
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/W01/01"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Group B - VOCE Session",
+        "day": 0,
+        "start": 10,
+        "finish": 11,
+        "weeks": [
+          21
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "VETS90133",
+        "codes": [
+          "VETS90133/U/1/SM1/W01/02"
+        ],
+        "locations": [
+          "PAR-Building 125-G04 (Collaborative Learning Centre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [
+      {
+        "streams": [
+          {
+            "type": "T",
+            "classes": [
+              {
+                "description": "Tutorial 7",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  13
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T07/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 7,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 9",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  17
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T09/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 9,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 11",
+                "day": 0,
+                "start": 10,
+                "finish": 11,
+                "weeks": [
+                  19
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T11/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 11,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 12",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  20
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T12/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 12,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 6",
+                "day": 0,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  12
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T06/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 6,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 10",
+                "day": 0,
+                "start": 15,
+                "finish": 16,
+                "weeks": [
+                  18
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T10/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 10,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 4 - 5",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  10,
+                  11
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T04/01"
+                ],
+                "locations": [
+                  "PAR-Building 125-127and128 (Dry Lab)"
+                ],
+                "classCode": {
+                  "number": 4,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 13",
+                "day": 0,
+                "start": 11,
+                "finish": 12,
+                "weeks": [
+                  21
+                ],
+                "type": "Stream",
+                "online": false,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T13/01"
+                ],
+                "locations": [
+                  "PAR-Building 125-127and128 (Dry Lab)"
+                ],
+                "classCode": {
+                  "number": 13,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorial 8",
+                "day": 3,
+                "start": 14,
+                "finish": 15,
+                "weeks": [
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T08/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 8,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              },
+              {
+                "description": "Tutorials 1 - 3",
+                "day": 4,
+                "start": 13,
+                "finish": 16,
+                "weeks": [
+                  9
+                ],
+                "type": "Stream",
+                "online": true,
+                "subjectCode": "VETS90133",
+                "codes": [
+                  "VETS90133/U/1/SM1/T01/01"
+                ],
+                "locations": [
+                  "online"
+                ],
+                "classCode": {
+                  "number": 1,
+                  "type": "T"
+                },
+                "streamNumber": 1
+              }
+            ],
+            "streamNumbers": [
+              1
+            ]
+          }
+        ],
+        "type": "T",
+        "name": "Tutorials"
+      }
+    ],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:55.663Z"
+}

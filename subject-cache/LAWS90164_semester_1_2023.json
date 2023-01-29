@@ -1,0 +1,144 @@
+{
+  "subject": {
+    "code": "LAWS90164",
+    "period": "semester_1",
+    "_classList": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90164",
+        "codes": [
+          "LAWS90164/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Law-GM01 (MLS Tax Clinic Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 15.5,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90164",
+        "codes": [
+          "LAWS90164/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Law-GM01 (MLS Tax Clinic Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Seminar 1",
+        "day": 2,
+        "start": 9.5,
+        "finish": 12.5,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90164",
+        "codes": [
+          "LAWS90164/U/1/SM1/S01/01"
+        ],
+        "locations": [
+          "PAR-Law-GM01 (MLS Tax Clinic Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Practical 1",
+        "day": 2,
+        "start": 11.5,
+        "finish": 15.5,
+        "weeks": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "LAWS90164",
+        "codes": [
+          "LAWS90164/U/1/SM1/P01/01"
+        ],
+        "locations": [
+          "PAR-Law-GM01 (MLS Tax Clinic Space)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "P"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:30.406Z"
+}

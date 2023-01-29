@@ -1,0 +1,128 @@
+{
+  "subject": {
+    "code": "MULT90064",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MULT90064",
+        "codes": [
+          "MULT90064/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MULT90064",
+        "codes": [
+          "MULT90064/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          31,
+          33,
+          35,
+          37,
+          40,
+          42
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MULT90064",
+        "codes": [
+          "MULT90064/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Seminar 1",
+        "day": 0,
+        "start": 14.25,
+        "finish": 16.25,
+        "weeks": [
+          30,
+          32,
+          34,
+          36,
+          38,
+          41
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "MULT90064",
+        "codes": [
+          "MULT90064/U/1/SM2/S01/01"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:41:59.344Z"
+}

@@ -1,0 +1,245 @@
+{
+  "subject": {
+    "code": "CRIM90011",
+    "period": "march",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "BSL Seminar 4 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S04/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S03/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          10
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S02/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 5 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S05/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - Online",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": true,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S01/01_BSLOnline"
+        ],
+        "locations": [
+          "online"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 1 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          9
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 4 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          12
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S04/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 4,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 3 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          11
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S03/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 2 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          10
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S02/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "S"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "BSL Seminar 5 - On Campus",
+        "day": 4,
+        "start": 9,
+        "finish": 15,
+        "weeks": [
+          13
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "CRIM90011",
+        "codes": [
+          "CRIM90011/U/1/MAR/S05/01"
+        ],
+        "locations": [
+          "PAR-Old Arts-103"
+        ],
+        "classCode": {
+          "number": 5,
+          "type": "S"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:56.117Z"
+}

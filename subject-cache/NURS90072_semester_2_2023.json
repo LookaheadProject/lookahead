@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "code": "NURS90072",
+    "period": "semester_2",
+    "_classList": [],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 8.5,
+        "finish": 14,
+        "weeks": [
+          30
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NURS90072",
+        "codes": [
+          "NURS90072/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 2",
+        "day": 3,
+        "start": 8.5,
+        "finish": 16,
+        "weeks": [
+          32
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NURS90072",
+        "codes": [
+          "NURS90072/U/1/SM2/W02/01"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G03"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 3",
+        "day": 3,
+        "start": 8.5,
+        "finish": 14,
+        "weeks": [
+          40
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "NURS90072",
+        "codes": [
+          "NURS90072/U/1/SM2/W03/01"
+        ],
+        "locations": [
+          "PAR-McCoy-209 (T&L Space 2 - Skeats Room)"
+        ],
+        "classCode": {
+          "number": 3,
+          "type": "W"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:42:18.460Z"
+}

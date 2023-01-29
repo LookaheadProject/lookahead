@@ -1,0 +1,325 @@
+{
+  "subject": {
+    "code": "BMEN90002",
+    "period": "semester_2",
+    "_classList": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          33,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          33,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B113"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_irregularClasses": [],
+    "_mandatoryClasses": [
+      {
+        "description": "Lecture 2",
+        "day": 0,
+        "start": 13,
+        "finish": 14,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/L02/01"
+        ],
+        "locations": [
+          "PAR-Peter Hall-M01 (Russell Love Theatre)"
+        ],
+        "classCode": {
+          "number": 2,
+          "type": "L"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Lecture 1",
+        "day": 2,
+        "start": 9,
+        "finish": 11,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Mandatory",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/L01/01"
+        ],
+        "locations": [
+          "PAR-The Spot-1022 (Level 1 Theatre)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "L"
+        },
+        "streamNumber": 1
+      }
+    ],
+    "_regularClasses": [
+      {
+        "description": "Tutorial 1",
+        "day": 1,
+        "start": 14.25,
+        "finish": 15.25,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/T01/01"
+        ],
+        "locations": [
+          "PAR-Old Quad-G18 (Cussonia Court Room 2)"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Tutorial 1",
+        "day": 2,
+        "start": 11,
+        "finish": 12,
+        "weeks": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/T01/02"
+        ],
+        "locations": [
+          "PAR-Alan Gilbert-G01"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "T"
+        },
+        "streamNumber": 2
+      },
+      {
+        "description": "Workshop 1",
+        "day": 3,
+        "start": 9,
+        "finish": 12,
+        "weeks": [
+          33,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/W01/01"
+        ],
+        "locations": [
+          "PAR-Elec. Engineering-121"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 1
+      },
+      {
+        "description": "Workshop 1",
+        "day": 4,
+        "start": 15.25,
+        "finish": 18.25,
+        "weeks": [
+          33,
+          36,
+          38,
+          41
+        ],
+        "type": "Variable",
+        "online": false,
+        "subjectCode": "BMEN90002",
+        "codes": [
+          "BMEN90002/U/1/SM2/W01/02"
+        ],
+        "locations": [
+          "PAR-207to221 Bouverie St-B113"
+        ],
+        "classCode": {
+          "number": 1,
+          "type": "W"
+        },
+        "streamNumber": 2
+      }
+    ],
+    "_streamContainers": [],
+    "_weirdStreamContainers": [],
+    "_weekendClasses": false
+  },
+  "timestamp": "2023-01-25T09:39:37.282Z"
+}
