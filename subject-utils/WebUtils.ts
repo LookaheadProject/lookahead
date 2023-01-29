@@ -167,8 +167,3 @@ const authenticateSAMLAndDownload = async (
     cookies: COOKIE_CACHE,
   };
 };
-
-getHTMLpastSSO(2023, 'MAST20005').then(x => {
-  console.log('Done');
-  console.log(x);
-});
