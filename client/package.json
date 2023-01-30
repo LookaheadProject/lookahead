@@ -1,12 +1,13 @@
 {
-  "name": "client",
+  "name": "lookahead-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "test-client-old": "jest --rootDir ."
   },
   "dependencies": {
     "@babel/plugin-syntax-flow": "^7.14.5",

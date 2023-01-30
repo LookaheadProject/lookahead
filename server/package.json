@@ -1,5 +1,5 @@
 {
-  "name": "lookahead",
+  "name": "lookahead-server",
   "version": "1.0.0",
   "description": "UoM Timetable Optimiser",
   "main": "server.ts",
@@ -8,17 +8,12 @@
     "node": "^14.18.2"
   },
   "scripts": {
-    "build-ts": "tsc",
+    "build": "tsc",
     "start": "node --loader ts-node/esm --tls-min-v1.0 server.ts",
     "express-debug": "node --inspect=5000 -r ts-node/register server.ts",
     "express-debug:watch": "nodemon",
-    "server": "nodemon --exec node --loader ts-node/esm server.ts",
-    "test-client": "jest --rootDir client",
-    "test": "yarn run build-ts && mocha dist/test --recursive && yarn run test-client",
-    "client": "yarn start --prefix client",
-    "dev": "concurrently \"yarn run server\" \"yarn run client\"",
-    "dev-install": "yarn install && yarn install --cwd client",
-    "heroku-postbuild": "yarn install --cwd client && yarn --cwd client run build"
+    "dev": "nodemon --exec node --loader ts-node/esm server.ts",
+    "test": "yarn run build && mocha dist/test --recursive"
   },
   "dependencies": {
     "@sentry/node": "^6.16.1",
