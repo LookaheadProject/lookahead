@@ -1,0 +1,202 @@
+import * as cheerio from 'cheerio';
+import moment from 'moment';
+import Subject from './Subject.js';
+import SubjectClass from './SubjectClass.js';
+import {SubjectPeriod} from './SubjectPeriods.js';
+import {getHTMLpastSSO} from './WebUtils.js';
+import WeirdNames from './WeirdNames.js';
+
+/**
+ * Scrapes the SWS Timetabling System for Subject information.
+ * @param year The year
+ * @param period The subject period (i.e. Semester 1/2, Winter, Summer)
+ * @param code The subject code
+ */
+export const scrapeSubject = async (
+  year: number,
+  period: SubjectPeriod,
+  code: string
+): Promise<Subject> => {
+  // tslint:disable-next-line:max-line-length
+  try {
+    const htmlSource = await getHTMLpastSSO(year, code);
+    const subject: Subject = parseSubject(htmlSource, code, period);
+    return subject;
+  } catch (err) {
+    console.error(`Error trying to parse timetable for ${year}-${period}-${code} -> ${err}`);
+    throw err;
+  }
+};
+
+/**
+ * Parses the SWS HTML source to extract classes for a specific study period
+ * @param html The source code to parse
+ * @param code The subject code we are parsing for
+ * @param period The study period of interest
+ */
+export const parseSubject = (html: string, code: string, period: SubjectPeriod): Subject => {
+  // Load HTML into cheerio, ready for parsing
+  const $ = cheerio.load(html);
+  // Subject period short code, e.g. SubjectPeriod.Semester_1 -> "SM1"
+  const subjectPeriodShortCode = subjectPeriodToShortCode(period);
+  const subject = new Subject(code, period);
+  const classList: SubjectClass[] = [];
+  // Loop through each class (even outside specified study period) and parse
+  $('.cyon_table > tbody > tr').each((_, element) => {
+    const children = $(element).children();
+    // Helper method to parse table cell text
+    const getChild = (index: number) => children.eq(index).text().trim();
+    const classCode = getChild(0);
+    const isWellFormedCode = SubjectClass.isWellFormedCode(classCode);
+    if (!isWellFormedCode) {
+      console.warn(`Class Code: ${classCode} is not well formed!`);
+      return;
+    }
+    // Don't parse if this class isn't for the relevant study period
+    if (!classCode.includes(subjectPeriodShortCode)) {
+      return;
+    }
+
+    const description = getChild(1);
+    if (
+      WeirdNames.includes(classCode.toLowerCase().trim()) ||
+      WeirdNames.includes(description.toLowerCase().trim())
+    ) {
+      return;
+    }
+    const dayRaw = getChild(2);
+    const start = getChild(3);
+    const finish = getChild(4);
+    const rawWeeks = getChild(6);
+    const rawLocation = getChild(7);
+    let day: number;
+    // Convert day to int representation based on weekdays array in SubjectClass
+    if (!SubjectClass.daysOfWeek.includes(dayRaw)) {
+      console.error(`Day unknown for ${classCode}: ${day}`);
+      day = -1;
+    } else {
+      day = SubjectClass.daysOfWeek.indexOf(dayRaw);
+      if (day > 4) {
+        subject.hasWeekendClasses();
+      }
+    }
+    // Try parse location
+    let location: string;
+    try {
+      location = parseLocation(rawLocation);
+    } catch (err) {
+      location = 'Unknown';
+      console.log(`Error parsing location data for ${classCode}\nError:${err}`);
+    }
+    // For an online subject tag it as online : true, and have the location as 'online' for visuals
+    const online = location == 'online' ? true : false;
+    // Try parse week format
+    let weeks: number[];
+    try {
+      weeks = parseWeeks(rawWeeks);
+    } catch (err) {
+      weeks = [];
+      console.log(`Error parsing week data for ${classCode}\nError:${err}`);
+    }
+    // Parse start/finish as Moment objects
+    const timeFormat = SubjectClass.timeFormat;
+    const startMoment = moment(start, timeFormat);
+    const finishMoment = moment(finish, timeFormat);
+
+    const mmtMidnight = startMoment.clone().startOf('day');
+
+    const parsedClass = new SubjectClass(
+      subject,
+      classCode,
+      description,
+      day,
+      startMoment.diff(mmtMidnight, 'minutes') / 60,
+      finishMoment.diff(mmtMidnight, 'minutes') / 60,
+      weeks,
+      location,
+      online
+    );
+    classList.push(parsedClass);
+  });
+  subject.addClassList(classList);
+  // At this point, subject contains all parsed classes
+  return subject;
+};
+
+/**
+ * Parses the weeks representation on the SWS system to a list of weeks
+ * @param rawWeeks The raw week format from SWS
+ */
+const parseWeeks = (rawWeeks: string): number[] => {
+  // ["10‑16","18‑22"]
+  const weekParts = rawWeeks.split(',');
+  const parsedWeeks: number[] = [];
+  weekParts.forEach(part => {
+    // Note: This is a non-breaking hypen, not a regular hypen!
+    const nonBreakingHypen = '‑';
+    // If the part ("10-16") contains a hyphen
+    if (part.includes(nonBreakingHypen)) {
+      const weekRanges = part.split(nonBreakingHypen);
+      const startWeek = parseInt(weekRanges[0], 10);
+      const endWeek = parseInt(weekRanges[1], 10);
+      if (isNaN(startWeek) || isNaN(endWeek)) {
+        throw new Error(
+          `Hypenated weeks are not numbers startWeek: ${startWeek}, endWeek: ${endWeek}`
+        );
+      }
+      for (let weekNumber = startWeek; weekNumber < endWeek; weekNumber++) {
+        parsedWeeks.push(weekNumber);
+      }
+      parsedWeeks.push(endWeek);
+    } else {
+      // Else if the part is something like "15"
+      const weekNumber = parseInt(part, 10);
+      if (Number.isNaN(weekNumber)) {
+        throw new Error(`Single week is not a number, specified weekNumber: ${weekNumber}`);
+      }
+      parsedWeeks.push(weekNumber);
+    }
+  });
+  return parsedWeeks;
+};
+
+/**
+ * Parses the location given on the SWS system, in order to seperate online and in person classes,
+ * and TODO: format classes that have multiple locations!
+ * @param location: The raw location format from SWS
+ */
+const parseLocation = (location: string) => {
+  // Because an empty string, whitespace, or a string that contains the word online indicates that
+  // the subject is online
+  const isOnline = location.toLowerCase().includes('online') || location == '' || !location.trim();
+  return isOnline ? 'online' : location;
+};
+/**
+ * Converts a SubjectPeriod to a short code format used by the SWS system
+ * @param period The SubjectPeriod to convert
+ */
+export const subjectPeriodToShortCode = (period: SubjectPeriod) => {
+  switch (period) {
+    case SubjectPeriod.Semester_1:
+      return 'SM1';
+    case SubjectPeriod.Semester_2:
+      return 'SM2';
+    case SubjectPeriod.Summer_Term:
+      return 'SUM';
+    case SubjectPeriod.Winter_Term:
+      return 'WIN';
+    case SubjectPeriod.January:
+      return 'JAN';
+    case SubjectPeriod.February:
+      return 'FEB';
+    case SubjectPeriod.March:
+      return 'MAR';
+    case SubjectPeriod.April:
+      return 'APR';
+    case SubjectPeriod.May:
+      return 'MAY';
+    case SubjectPeriod.June:
+      return 'JUN';
+  }
+  throw new Error('No short code mapping for period:' + period);
+};

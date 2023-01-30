@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "esModuleInterop": true,
+    "target": "es2017",
+    "noImplicitAny": false,
+    "moduleResolution": "nodenext",
+    "sourceMap": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "resolveJsonModule": true,
+    "paths": {
+      "*": ["node_modules/*"]
+    }
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "ts-node-dev": {
+    "esm": true
+  },
+  "include": [
+    "*.ts",
+    "api/**/*.*",
+    "subject-utils/*.ts",
+    "subject-utils/**/*.json",
+    "test/**/*.*"
+, "subject-utils/scripts/ProcessHTML.ts"  ],
+  "exclude": ["node_modules", ".vscode"]
+}
