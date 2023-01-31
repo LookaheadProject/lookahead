@@ -13,7 +13,7 @@
     "express-debug": "node --inspect=5000 -r ts-node/register server.ts",
     "express-debug:watch": "nodemon",
     "dev": "nodemon --exec node --loader ts-node/esm server.ts",
-    "prod": "yarn build && node dist/server.js",
+    "prod": "node dist/server.js",
     "test": "yarn run build && mocha dist/test --recursive"
   },
   "dependencies": {
