@@ -7,6 +7,7 @@
   "scripts": {
     "build": "yarn --cwd server build && yarn --cwd client build",
     "start": "yarn --cwd server start",
-    "dev": "yarn --cwd server dev"
+    "dev": "yarn --cwd server dev",
+    "prod": "NODE_ENV=production yarn --cwd client build && yarn --cwd server prod"
   }
 }
