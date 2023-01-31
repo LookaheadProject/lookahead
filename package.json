@@ -2,12 +2,11 @@
   "name": "Lookahead",
   "description": "A University of Melbourne semester planner",
   "license": "MIT",
-  "private": true,
-  "workspaces": ["server", "client"],
   "scripts": {
     "build": "yarn --cwd server build && yarn --cwd client build",
     "start": "yarn --cwd server start",
     "dev": "yarn --cwd server dev",
-    "prod": "NODE_ENV=production yarn --cwd server prod"
+    "prod": "NODE_ENV=production yarn --cwd server prod",
+    "postinstall": "yarn --cwd server install && yarn --cwd client install"
   }
 }
