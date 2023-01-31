@@ -7,9 +7,11 @@ EXPOSE 5000
 ENV GENERATE_SOURCEMAP false
 
 WORKDIR /usr/src/lookahead
-COPY package.json server/package.json client/package.json ./
+COPY package.json ./
+COPY server/package.json server/
+COPY client/package.json client/
 # https://stackoverflow.com/questions/65913706/how-do-i-make-yarn-cache-modules-when-building-containers
-RUN --mount=type=cache,target=/root/.yarn YARN_CACHE_FOLDER=/root/.yarn yarn --cwd server install && yarn --cwd client install
+RUN --mount=type=cache,target=/root/.yarn YARN_CACHE_FOLDER=/root/.yarn yarn install
 
 COPY . .
 # https://github.com/wojtekmaj/react-pdf/issues/496#issuecomment-566200248
