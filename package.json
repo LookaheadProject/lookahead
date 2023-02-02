@@ -7,6 +7,7 @@
     "start": "yarn --cwd server start",
     "dev": "yarn --cwd server dev",
     "prod": "NODE_ENV=production yarn --cwd server prod",
-    "postinstall": "yarn --cwd server install && yarn --cwd client install"
+    "postinstall": "yarn --cwd server install && yarn --cwd client install",
+    "ci": "yarn --cwd server install --frozen-lockfile && yarn --cwd client install --frozen-lockfile"
   }
 }
