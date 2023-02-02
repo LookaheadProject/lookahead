@@ -10,7 +10,7 @@ const readFile = promisify(fs.readFile);
 
 const ENABLE_CACHING = true;
 const SUBJECT_CACHE_DIRECTORY = './subject-cache';
-const CACHE_EXPIRY_HOURS = 1e9;
+const CACHE_EXPIRY_HOURS = 12;
 
 const datePattern = /\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d\.\d+([+-][0-2]\d:[0-5]\d|Z)/;
 interface ISubjectCache {
