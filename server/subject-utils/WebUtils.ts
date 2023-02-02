@@ -4,6 +4,7 @@ import got from 'got'; // solution for ESM
 //const got = await import('got');
 import {CookieJar} from 'tough-cookie';
 import {parse} from 'node-html-parser';
+import AsyncLock from 'async-lock'
 
 import * as dotenv from 'dotenv';
 dotenv.config();
@@ -33,6 +34,8 @@ interface OKTA_MFA_API_SCHEMA {
 
 const OKTA_ENDPOINT = 'https://sso.unimelb.edu.au/api/v1/authn';
 
+var lock = new AsyncLock();
+
 export const getHTMLpastSSO = async (year: number, code: string): Promise<string> => {
   const SWS_URL = `https://sws.unimelb.edu.au/${year}/Reports/List.aspx?objects=${code}&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list`;
 
@@ -42,24 +45,29 @@ export const getHTMLpastSSO = async (year: number, code: string): Promise<string
   for (let i = 1; i <= MAX_TRIES; i++) {
     console.debug('Load timetable attempt #1');
 
-    html = await got(SWS_URL, {cookieJar: COOKIE_CACHE}).text();
+    return lock.acquire('lock', async function(){
+      html = await got(SWS_URL, {cookieJar: COOKIE_CACHE}).text();
 
-    // see if a login page is brought up; if so, get SAML payload
-    let root = parse(html);
-    let endpointSAML = root.querySelector(`form[method="POST"]`)?.getAttribute('action');
-    let payloadSAML = root.querySelector(`input[name="SAMLRequest"]`)?.getAttribute('value');
+      // see if a login page is brought up; if so, get SAML payload
+      let root = parse(html);
+      let endpointSAML = root.querySelector(`form[method="POST"]`)?.getAttribute('action');
+      let payloadSAML = root.querySelector(`input[name="SAMLRequest"]`)?.getAttribute('value');
+  
+      if (endpointSAML || payloadSAML) {
+        // if one of endpointSAML or payloadSAML exists
+        // then we need to reauthenticate
+  
+        let result = await authenticateSAMLAndDownload(endpointSAML, payloadSAML);
+        //COOKIE_CACHE = result.cookies;
+  
+        return result.html;
+      }
+  
+      return html;
+    }).then(function(html){
+      return html;
+    });
 
-    if (endpointSAML || payloadSAML) {
-      // if one of endpointSAML or payloadSAML exists
-      // then we need to reauthenticate
-
-      let result = await authenticateSAMLAndDownload(endpointSAML, payloadSAML);
-      //COOKIE_CACHE = result.cookies;
-
-      return result.html;
-    }
-
-    return html;
   }
 };
 
