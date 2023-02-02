@@ -45,7 +45,7 @@ export const getHTMLpastSSO = async (year: number, code: string): Promise<string
   for (let i = 1; i <= MAX_TRIES; i++) {
     console.debug('Load timetable attempt #1');
 
-    return lock.acquire('lock', async function(){
+    return await lock.acquire('lock', async function(){
       html = await got(SWS_URL, {cookieJar: COOKIE_CACHE}).text();
 
       // see if a login page is brought up; if so, get SAML payload
@@ -63,8 +63,6 @@ export const getHTMLpastSSO = async (year: number, code: string): Promise<string
         return result.html;
       }
   
-      return html;
-    }).then(function(html){
       return html;
     });
 
