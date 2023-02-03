@@ -14,8 +14,7 @@ COPY server/package.json server/yarn.lock server/
 COPY client/package.json client/yarn.lock client/
 
 # https://stackoverflow.com/questions/65913706/how-do-i-make-yarn-cache-modules-when-building-containers
-# RUN --mount=type=cache,target=/root/.yarn YARN_CACHE_FOLDER=/root/.yarn yarn ci
-RUN yarn ci
+RUN --mount=type=cache,target=/root/.yarn YARN_CACHE_FOLDER=/root/.yarn yarn ci
 
 COPY . .
 
