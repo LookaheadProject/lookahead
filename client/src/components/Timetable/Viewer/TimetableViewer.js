@@ -3,7 +3,7 @@ import {useSelector, useDispatch} from 'react-redux';
 import FullCalendar from '@fullcalendar/react';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import interactionPlugin from '@fullcalendar/interaction';
-import './TimetableViewer.scss';
+//import './TimetableViewer.scss';
 import handleClassRender from '../../../utility/ClassRender';
 import {
   classToEvent,

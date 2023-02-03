@@ -1,8 +1,8 @@
-node_modules
-server/.env
-yarn.lock
+**/node_modules
+**/.env
 
-dist/
-client/build/
+**/dist
 server/test
+
+client/.parcel-cache
 client/tests

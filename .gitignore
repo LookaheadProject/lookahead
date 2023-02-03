@@ -41,3 +41,6 @@ google-sheets/credentials\.json
 \.vscode/
 
 .DS_Store
+
+# Parcel cache
+.parcel-cache/

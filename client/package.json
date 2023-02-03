@@ -3,11 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "test-client-old": "jest --rootDir ."
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
   },
   "dependencies": {
     "@babel/plugin-syntax-flow": "^7.14.5",
@@ -24,6 +21,10 @@
     "logrocket-react": "^4.0.1",
     "markdown-to-jsx": "^6.11.4",
     "moment": "^2.29.4",
+    "parcel": "^2.8.3",
+    "@parcel/packager-raw-url": "2.8.3",
+    "@parcel/transformer-sass": "2.8.3",
+    "@parcel/transformer-webmanifest": "2.8.3",
     "rc-time-picker": "^3.7.3",
     "react": "^16.13.1",
     "react-color": "^2.18.1",
@@ -34,29 +35,31 @@
     "react-modal": "^3.11.2",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.1",
     "react-select": "^3.1.0",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "smoothscroll-polyfill": "^0.4.4",
     "styled-components": "^5.1.1",
-    "uuid": "^8.2.0"
+    "uuid": "^8.2.0",
+    "process": "^0.11.10",
+    "sass": "^1.57.1"
   },
   "devDependencies": {
     "eslint": "^8.33.0",
-    "eslint-config-react-app": "^7.0.1",
-    "sass": "^1.57.1"
+    "eslint-config-react-app": "^7.0.1"
   },
   "proxy": "http://localhost:5000",
   "eslintConfig": {
     "extends": "react-app",
     "rules": {
-      "import/no-anonymous-default-export": ["error", {
-        "allowArray": true,
-        "allowArrowFunction": true,
-        "allowAnonymousFunction": true,
-        "allowObject": true
+      "import/no-anonymous-default-export": [
+        "error",
+        {
+          "allowArray": true,
+          "allowArrowFunction": true,
+          "allowAnonymousFunction": true,
+          "allowObject": true
         }
       ]
     }

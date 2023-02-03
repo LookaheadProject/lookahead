@@ -4,8 +4,7 @@ import moment from 'moment';
 import path from 'path';
 import {SubjectPeriod} from '../../subject-utils/SubjectPeriods.js';
 
-import * as url from 'url';
-const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+import appRoot from 'app-root-path';
 
 /**
  * Serves an appropriate subject list file given a year and study period.
@@ -31,7 +30,9 @@ export const getSubjectList = (req: Request, res: Response) => {
   // the subject list file should be stored in such a format
   const filename = `subjects_${year}_${period}.json`;
   // the path to the subject list file (assuming it exists)
-  const subjectPath = path.resolve(__dirname, '../../subject-utils/subject-lists', filename);
+  //const subjectPath = path.resolve(__dirname, '../../subject-utils/subject-lists', filename);
+  const subjectPath = path.resolve(appRoot + '/subject-utils/subject-lists', filename);
+  console.log(subjectPath);
   // check if the file exists, if so - send it back or return ENOENT
   fs.stat(subjectPath, err => {
     if (err) {

@@ -10,9 +10,6 @@ import {initialise} from './google-sheets/sheets.js';
 import dotenv from 'dotenv';
 dotenv.config();
 
-import * as url from 'url';
-const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
-
 Sentry.init({
   dsn: 'https://fb5c9266745c450e93696aaf15378c73@sentry.io/1836276',
 });
@@ -25,7 +22,7 @@ const port = process.env.PORT || 5000;
 // Sentry request handler
 app.use(Sentry.Handlers.requestHandler());
 // Set up to serve static files
-app.use(express.static('../client/build'));
+app.use(express.static('../client/dist'));
 // Parse application/json
 app.use(bodyParser.json());
 // Initialise Google Sheets API (to access sponsor list)
@@ -33,7 +30,7 @@ initialise();
 
 // Serves the React build
 app.get('/', (_req: Request, res: Response) =>
-  res.sendFile(path.resolve(__dirname, '../client', 'build', 'index.html'))
+  res.sendFile('client/dist/index.html', {root: '../'})
 );
 
 // Set up logging
