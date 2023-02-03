@@ -7,8 +7,6 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "@babel/plugin-syntax-flow": "^7.14.5",
-    "@babel/plugin-transform-react-jsx": "^7.14.9",
     "@fullcalendar/core": "^4.4.2",
     "@fullcalendar/interaction": "^4.4.2",
     "@fullcalendar/react": "^4.4.2",
