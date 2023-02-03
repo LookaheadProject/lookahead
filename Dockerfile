@@ -1,7 +1,6 @@
 # syntax=docker/dockerfile:1
-FROM node:18-slim
+FROM node:18-slim AS build
 ENV NODE_ENV production
-EXPOSE 5000
 
 # https://github.com/wojtekmaj/react-pdf/issues/496#issuecomment-566200248
 ENV GENERATE_SOURCEMAP false
@@ -19,6 +18,19 @@ RUN --mount=type=cache,target=/root/.yarn YARN_CACHE_FOLDER=/root/.yarn yarn ci
 COPY . .
 
 # https://github.com/wojtekmaj/react-pdf/issues/496#issuecomment-566200248
-RUN NODE_OPTIONS="--max-old-space-size=4096" yarn build
+RUN yarn build
 
-CMD yarn run prod
+# CMD yarn run prod
+
+FROM node:18-alpine
+ENV NODE_ENV production
+EXPOSE 5000
+
+WORKDIR /usr/src/lookahead
+
+COPY --from=build /usr/src/lookahead/server/dist/ server/dist/
+COPY --from=build /usr/src/lookahead/client/dist/ client/dist/
+COPY --from=build /usr/src/lookahead/package.json ./
+
+WORKDIR /usr/src/lookahead/server
+CMD [ "node", "dist/server.cjs" ]
