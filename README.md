@@ -10,9 +10,14 @@ Lookahead is an online application that allows students at the University of Mel
 semester. A variety of customisations and optimisations are provided to help students make the most
 out of their semester.
 
-This project is maintained by students and is unaffiliated with the University. This is a major fork of the [old version](https://github.com/Trontor/lookahead), written by Rohyl J., which is no longer maintained.
+This project is maintained by students and is unaffiliated with the University. This is a major fork of the [old version](https://github.com/Trontor/lookahead), written by Rohyl J., which is no longer maintained. If you work with the University and would like to get in touch, please get in touch privately by [emailing us](mailto:ollie@oyc.id.au).
 
 **Currently, this fork is a work in progress and is not in a usable state.** A public-facing website will be made available when the fork is updated. If you're interested in joining the team, contact Ollie at [ollie@oyc.id.au](mailto:ollie@oyc.id.au).
+
+## Screenshot
+<div align="center">
+	<img src="client/public/lookahead_screenshot.png" width="700">
+</div>
 
 
 ## Features
