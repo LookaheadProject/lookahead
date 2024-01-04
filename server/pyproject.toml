@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lookahead-server"
+version = "0.1.0"
+description = ""
+authors = ["LookaheadProject <ollie@oyc.id.au>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
