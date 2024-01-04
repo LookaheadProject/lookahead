@@ -1,4 +1,6 @@
-from datetime import time
+from dataclasses import dataclass
+from typing import List
+from datetime import time, date
 
 
 @dataclass
@@ -28,7 +30,8 @@ class Stream:
     """Stores the Activity's that make up a lecture/tute stream"""
 
     code: int
-    activity_list: list(Activity)
+    weeks: List[int]  # e.g. 1, etc. converted using `weeks-config.json`
+    activity_list: List[Activity]
 
 
 @dataclass
@@ -36,5 +39,5 @@ class Subject:
     """Stores the lecture/tute streams of a subject"""
 
     code: str
-    offering: str  # e.g. "Semester 1", "Summer Term", etc. as lsited in CSV
-    stream_list: list(Subject)
+    offering: str  # e.g. "Semester 1", "Summer Term", etc. as listed in CSV
+    stream_list: List[Stream]
