@@ -1,0 +1,24 @@
+{
+    "holidays": {
+        "Christmas holiday": {
+            "start": "25-12-2024",
+            "end": "01-01-2025"
+        },
+        "Australia Day holiday": {
+            "date": "26-01-2024"
+        },
+        "Easter holiday": {
+            "start": "29-03-2024",
+            "end": "02-04-2024"
+        },
+        "ANZAC Day holiday": {
+            "date": "25-04-2024"
+        },
+        "King's Birthday holiday": {
+            "date": "10-06-2024"
+        },
+        "AFL Grand Final Eve holiday": {
+            "date": "27-09-2024"
+        }
+    }
+}
