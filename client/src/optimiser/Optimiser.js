@@ -28,6 +28,9 @@ class Optimiser {
     const subjectCodes = Object.keys(this.subjects);
     for (const subjectCode of subjectCodes) {
       const subject = this.subjects[subjectCode].data;
+
+      console.log('logging', subject);
+
       const streamContainers = subject._streamContainers;
       // and each stream container
       for (const container of streamContainers) {
@@ -181,12 +184,12 @@ class Optimiser {
     // This is the function that governs whether a class is violating in terms of
     // both time restrictions and delivery mode restrictions
     const classViolation = cls => {
-      const timeViolation = cls.start < earliestStart || cls.finish > latestFinish
+      const timeViolation = cls.start < earliestStart || cls.finish > latestFinish;
       const isOnline = cls.online;
-      switch(deliveryPreference) {
-        case "inPerson":
+      switch (deliveryPreference) {
+        case 'inPerson':
           return timeViolation || isOnline;
-        case "online":
+        case 'online':
           return timeViolation || !isOnline;
         default: //no preference
           return timeViolation;
@@ -210,7 +213,9 @@ class Optimiser {
       const beforeTypes = this.getClassTypes(subject);
       const beforeTypeCount = Object.keys(this.getClassTypes(subject)).length;
       console.log('\tRegular Classes');
-      console.log(`\t\tBefore (${subjectName}):`,  beforeTypes, beforeTypeCount, [...subject._regularClasses]);
+      console.log(`\t\tBefore (${subjectName}):`, beforeTypes, beforeTypeCount, [
+        ...subject._regularClasses,
+      ]);
       // (2) Now begin pruning
       const regClasses = subject._regularClasses;
       let lastDeletedClass;
@@ -229,7 +234,7 @@ class Optimiser {
       if (afterTypeCount !== beforeTypeCount) {
         console.error('😠 [Class Pruning] Invalid Restrictions');
         //Here we add back some violating subject to ensure that a timetable can still be made
-        regClasses.push(lastDeletedClass)
+        regClasses.push(lastDeletedClass);
       }
       const containers = subject._streamContainers;
       console.log('\tStream Containers');

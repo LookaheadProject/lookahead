@@ -48,6 +48,10 @@ function Optimisations() {
 
   console.log(Object.entries(subjects));
 
+  Object.entries(subjects).forEach(([_, {data}]) => {
+    data._weirdStreamContainers = [];
+  });
+
   const isWeird = Object.entries(subjects).some(
     ([_, {data}]) => data && data._weirdStreamContainers.length > 0
   );
@@ -99,7 +103,7 @@ function Optimisations() {
         <Optimisation center>
           <Subheader>If possible, prefer classes that are:</Subheader>
           <ButtonGroup>
-            <DeliveryButton/>
+            <DeliveryButton />
           </ButtonGroup>
         </Optimisation>
         <Optimisation center style={{marginBottom: '50px'}}>

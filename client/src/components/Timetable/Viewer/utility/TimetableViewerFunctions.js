@@ -36,13 +36,8 @@ const getCurrentTimetable = () => {
 };
 
 export const getCurrentCustomTimetable = () => {
-  const {
-    customTimetables,
-    currentCustomIndex,
-    currentView,
-    timetables,
-    currentIndex,
-  } = store.getState().optimiser;
+  const {customTimetables, currentCustomIndex, currentView, timetables, currentIndex} =
+    store.getState().optimiser;
   const timetable = customTimetables[currentCustomIndex];
   if (!timetable || currentView !== 'custom') {
     console.log('The current custom timetable does not exist... create a new one!');
@@ -80,6 +75,9 @@ export const classToEvent = cls => {
   const startDate = calculateEventDate(day, start).toDate();
   const finishDate = calculateEventDate(day, finish).toDate();
   const locked = type === 'Mandatory' ? false : true;
+
+  console.log('subjectCode', subjectCode, subjects);
+
   return {
     title: description,
     backgroundColor: subjects[subjectCode].color,
@@ -254,8 +252,9 @@ export const handleEventDrop = ({event, oldEvent}) => {
     cls.start === startHoursFractional &&
     cls.day === dayIndex;
   if (type === 'Stream') {
-    const relevantStreams = streamContainers.find(container => container.type === classCode.type)
-      .streams;
+    const relevantStreams = streamContainers.find(
+      container => container.type === classCode.type
+    ).streams;
     const fromStreamNumber = oldEvent.extendedProps.streamNumber;
     const destinationStream = relevantStreams.find(stream => stream.classes.some(destinationMatch));
     const destinationStreamNumber = destinationStream.streamNumbers[0];

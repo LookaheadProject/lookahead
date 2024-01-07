@@ -23,6 +23,13 @@ export const fetchSubjectList = (year, studyPeriod) => {
   return dispatch => {
     dispatch(fetchSubjectListBegin());
     const listURL = `/subjectlist?year=${year}&period=${studyPeriod}`;
+
+    return dispatch(
+      fetchSubjectListSuccess(studyPeriod, [
+        {code: 'MAST20004', name: 'Probability', offered: ['semester_1']},
+      ])
+    );
+
     return axios
       .get(listURL)
       .then(res => dispatch(fetchSubjectListSuccess(studyPeriod, res.data)))
