@@ -7,6 +7,7 @@ import {
   sortByLongestRun,
   sortByDaySpanExcludingLectures,
 } from './comparators';
+
 import optimisationTypes from './optimisationTypes';
 
 export const PERMUTATION_THRESHOLD = 175000;
@@ -20,61 +21,28 @@ class Optimiser {
   constructor(subjects, removeWeirdStreams) {
     // Copy subjects, to allow for internal modifications
     this.subjects = JSON.parse(JSON.stringify(subjects));
+
     if (removeWeirdStreams) {
       this.removeWeirdStreams();
     }
   }
+
   removeWeirdStreams() {
-    const subjectCodes = Object.keys(this.subjects);
-    for (const subjectCode of subjectCodes) {
-      const subject = this.subjects[subjectCode].data;
-
-      console.log('logging', subject);
-
-      const streamContainers = subject._streamContainers;
-      // and each stream container
-      for (const container of streamContainers) {
-        // then multiply the number of permutations by the number of streams
-        const matchingWeirdContainers = subject._weirdStreamContainers.filter(
-          w => w.name === container.name
-        );
-        if (matchingWeirdContainers.length === 0) {
-          continue;
-        }
-        const weirdContainer = matchingWeirdContainers[0];
-        const newStreams = container.streams.filter(
-          s => s.classes.length === weirdContainer.maxCount
-        );
-        container.streams = newStreams;
-      }
-    }
+    // TODO: not a priority at the moment
+    return;
   }
 
   // Calculates the number of unique timetables that can be generated
   possiblePermutations() {
-    const subjectCodes = Object.keys(this.subjects);
-    // If no subjects, no permutations
-    if (subjectCodes.length === 0) {
-      return 0;
-    }
     let permutations = 1;
-    // Go through each subject
-    for (const subjectCode of subjectCodes) {
-      const subject = this.subjects[subjectCode].data;
-      const streamContainers = subject._streamContainers;
-      // and each stream container
-      for (const container of streamContainers) {
-        const streamCount = container.streams.length;
-        // then multiply the number of permutations by the number of streams
-        if (streamCount > 0) permutations *= streamCount;
-      }
-      // now, go through each class type, e.g. {'W1': 16} means 16 Workshop 1's
-      const classCodeTypes = this.getClassTypes(subject);
-      for (const type of Object.keys(classCodeTypes)) {
-        // then multiply by the number of classes to choose from of this type/
-        permutations *= classCodeTypes[type];
-      }
+
+    // loop through all subjects
+    for (let [_, data] of Object.entries(subjectCodes)) {
+      permutations *= data.activity_list
+        .map(x => x.stream_list.length) // map to number of streams
+        .reduce((a, b) => a * b, 1); // get product;
     }
+
     return permutations;
   }
 
