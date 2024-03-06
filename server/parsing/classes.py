@@ -21,9 +21,7 @@ class Stream:
 
     day: str  # e.g. "Mon", etc. using .strftime("%A"); thanks StackOverflow
     times: Times
-
     location: str
-    online: bool
 
 
 @dataclass
@@ -43,7 +41,6 @@ class ActivityGroup:
     activity_list: List[Activity]
 
 
-@dataclass
 class Subject:
     """
     Stores a subject's details and ActivityGroups.
@@ -51,8 +48,47 @@ class Subject:
     e.g. 2024 Summer Statistics.
     """
 
-    code: str  # e.g. "MAST20005"
-    name: str  # e.g. "Statistics"
-    year: int  # e.g. 2024
-    offering: str  # e.g. "Semester 1", "Summer Term", etc. as seen in raw data
-    activity_group_list: List[ActivityGroup]
+    def __init__(self, raw: dict):
+        # don't matter which one we take, so pick [0]
+        raw_keys = sorted(raw.keys())
+        first = raw_keys[0]
+
+        # code, e.g. "MAST10008"
+        self.code: str = first.split("_")[0]
+
+        # name, e.g. "Accelerated Mathematics 1"
+        self.name: str = raw[first]["subject_description"]
+
+        # year, e.g. 2024
+        # uses the last 4 characters of the start date,
+        # assuming that's always the correct year.
+        self.year: int = raw[first]["start_date"][-4:]
+
+        # offering: str, e.g. "Semester 1", "Summer Term", etc.
+        self.offering: str = self.__find_offering(first)
+
+    def __find_offering(self, first):
+        """
+        Takes in the key to the first object in the dictionary from the JSON and
+        returns which period the subject is offered in. Is a helper method.
+        """
+        # hardcoded based on current values
+        offering_str = first.split("|")[0].split("_")[-1]
+
+        match offering_str:
+            case "SM1":
+                return "Semester 1"
+            case "SM2":
+                return "Semester 2"
+            case "SUM":
+                return "Summer Term"
+            case "WIN":
+                return "Winter Term"
+            case _:
+                # not found one that is not in the list
+                raise Exception("Invalid offering / unimplemented")
+
+    def __str__(self):
+        return self.code + " " + self.name + ", " + self.year + " " + self.offering
+
+    # activity_group_list: List[ActivityGroup]
