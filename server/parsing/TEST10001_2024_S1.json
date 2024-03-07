@@ -1,18 +1,20 @@
 {
-  "code": "TEST10001",
+  "stream_id": "TEST10001",
   "name": "Principles of Testing",
   "year": 2024,
   "offering": "Semester 1",
   "activity_group_list": [
     {
       "name": "Lecture",
+      "group_id": 1,
       "activity_list": [
         {
-          "atype": "Lecture Recording",
+          "activity_type": "Lecture Recording",
           "name": "Lecture 1",
+          "activity_id": 1,
           "stream_list": [
             {
-              "code": 1,
+              "stream_id": 1,
               "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Tue",
               "times": {"start": "09:00:00", "end": "10:00:00"},
@@ -21,11 +23,12 @@
           ]
         },
         {
-          "atype": "Lecture Recording",
+          "activity_type": "Lecture Recording",
           "name": "Lecture 2",
+          "activity_id": 2,
           "stream_list": [
             {
-              "code": 1,
+              "stream_id": 1,
               "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Wed",
               "times": {"start": "11:00:00", "end": "12:00:00"},
@@ -34,11 +37,12 @@
           ]
         },
         {
-          "atype": "Lecture Recording",
+          "activity_type": "Lecture Recording",
           "name": "Lecture 3",
+          "activity_id": 3,
           "stream_list": [
             {
-              "code": 1,
+              "stream_id": 1,
               "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Fri",
               "times": {"start": "14:00:00", "end": "15:00:00"},
@@ -50,20 +54,22 @@
     },
     {
       "name": "Practical",
+      "group_id": 2,
       "activity_list": [
         {
-          "atype": "Practical",
+          "activity_type": "Practical",
           "name": "Practical 1",
+          "activity_id": 1,
           "stream_list": [
             {
-              "code": 1,
+              "stream_id": 1,
               "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Tue",
               "times": {"start": "10:00:00", "end": "11:00:00"},
               "location": "PAR-160-G-G11-Interactive Teaching Space (24)"
             },
             {
-              "code": 2,
+              "stream_id": 2,
               "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Thu",
               "times": {"start": "12:00:00", "end": "13:00:00"},
@@ -72,18 +78,19 @@
           ]
         },
         {
-          "atype": "Practical",
+          "activity_type": "Practical",
           "name": "Practical 2",
+          "activity_id": 2,
           "stream_list": [
             {
-              "code": 1,
+              "stream_id": 1,
               "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Tue",
               "times": {"start": "11:00:00", "end": "12:00:00"},
               "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
             },
             {
-              "code": 2,
+              "stream_id": 2,
               "weeks": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
               "day": "Thu",
               "times": {"start": "13:00:00", "end": "14:00:00"},
