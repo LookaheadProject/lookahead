@@ -1,0 +1,886 @@
+{
+  "code": "MAST10007",
+  "name": "Linear Algebra",
+  "year": 2024,
+  "offering": "Summer Term",
+  "activity_group_list": [
+    {
+      "name": "ComputerLab",
+      "group_id": 1,
+      "activity_list": [
+        {
+          "activity_type": "Practical",
+          "name": "Practical 2",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 2,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 3,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 4,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 5,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 6,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 7,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 8,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 9,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 10,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 11,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 12,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            }
+          ]
+        },
+        {
+          "activity_type": "Practical",
+          "name": "Practical 4",
+          "activity_id": 2,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 2,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 3,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 4,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 5,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 6,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 7,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 8,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 9,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 10,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            },
+            {
+              "stream_id": 11,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G69-Thompson Lab (46)"
+            },
+            {
+              "stream_id": 12,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G70-Wilson Computer Lab (52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture1",
+      "group_id": 2,
+      "activity_list": [
+        {
+          "activity_type": "Lecture Recording",
+          "name": "Lecture 1",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-158-B1-B02-Carrillo Gantner Theatre & Event Venue (492) (8/1-5/2), PAR-193-L1-106-Brown Room: Digital Presentation Environment (204) (12/2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture2",
+      "group_id": 3,
+      "activity_list": [
+        {
+          "activity_type": "Lecture Recording",
+          "name": "Lecture 2",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-158-B1-B02-Carrillo Gantner Theatre & Event Venue (492) (8/1-5/2), PAR-193-L1-106-Brown Room: Digital Presentation Environment (204) (12/2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture3",
+      "group_id": 4,
+      "activity_list": [
+        {
+          "activity_type": "Lecture Recording",
+          "name": "Lecture 3",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-158-B1-B02-Carrillo Gantner Theatre & Event Venue (492) (8/1-5/2), PAR-193-L1-106-Brown Room: Digital Presentation Environment (204) (12/2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture4",
+      "group_id": 5,
+      "activity_list": [
+        {
+          "activity_type": "Lecture Recording",
+          "name": "Lecture 4",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-158-B1-B02-Carrillo Gantner Theatre & Event Venue (492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture5",
+      "group_id": 6,
+      "activity_list": [
+        {
+          "activity_type": "Lecture Recording",
+          "name": "Lecture 5",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-158-B1-B02-Carrillo Gantner Theatre & Event Venue (492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture6",
+      "group_id": 7,
+      "activity_list": [
+        {
+          "activity_type": "Lecture Recording",
+          "name": "Lecture 6",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-158-B1-B02-Carrillo Gantner Theatre & Event Venue (492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Practical",
+      "group_id": 8,
+      "activity_list": [
+        {
+          "activity_type": "Practical",
+          "name": "Practical 1",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 2,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 3,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 4,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 5,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 6,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 7,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 8,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 9,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 10,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 11,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 12,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 13,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 14,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 15,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 16,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 17,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 18,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 19,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 20,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 21,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 22,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 23,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            }
+          ]
+        },
+        {
+          "activity_type": "Practical",
+          "name": "Practical 3",
+          "activity_id": 2,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 2,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 3,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 4,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 5,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 6,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 7,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 8,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 9,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 10,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 11,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 12,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 13,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 14,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 15,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 16,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 17,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 18,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 19,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            },
+            {
+              "stream_id": 20,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G14-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 21,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G09-Stand-Up Learning Space (20)"
+            },
+            {
+              "stream_id": 22,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G10-Flexible Learning Space (20)"
+            },
+            {
+              "stream_id": 23,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-160-G-G11-Stand-Up Learning Space (24)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
