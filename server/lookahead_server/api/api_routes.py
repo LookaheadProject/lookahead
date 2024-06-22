@@ -3,6 +3,8 @@ from aiohttp import web
 import logging
 import os
 
+from lookahead_server import parsing
+
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -11,6 +13,10 @@ log = logging.getLogger(__name__)
 
 routes = web.RouteTableDef()
 
-@routes.get("/api")
-async def api_hello(req):
-    return web.Response(text="Hello world, from the api!")
+@routes.post("/api/upload")
+async def post(self):
+    return web.Response(text="Successfully uploaded")
+
+@routes.get("/api/getSubject")
+async def api_getSubject(req):
+    return web.Response(text="OK")
