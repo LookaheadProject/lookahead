@@ -32,9 +32,7 @@ class Stream:
         # e.g.s
         # - weeks: [1, 2, ...] converted from parsing data
         # - day: "Mon", etc.
-        self.__stream_id: int = int(
-            raw[stream_key]["activity_code"].split("-")[0]
-        )
+        self.__stream_id: int = int(raw[stream_key]["activity_code"].split("-")[0])
         self.__weeks: List[int] = self.__find_weeks()
         self.__day: str = raw[stream_key]["day_of_week"]
         self.__times: Times = self.__find_times()
@@ -72,9 +70,7 @@ class Activity:
     __default_id = 1
     __id = __default_id  # counter across one ActivityGroup object
 
-    def __init__(
-        self, raw: dict, raw_keys: List[str], activity_name_type: (str, str)
-    ):
+    def __init__(self, raw: dict, raw_keys: List[str], activity_name_type: (str, str)):
         """
         Takes in raw data, keys, and the activity name and type and adds
         appropriate streams
@@ -86,9 +82,7 @@ class Activity:
         self.__activity_name: str = activity_name_type[0]
         self.__activity_type: str = activity_name_type[1]
         self.__activity_id: int = self.__use_id()
-        self.__stream_list: List[Stream] = self.__find_stream_list(
-            raw, raw_keys
-        )
+        self.__stream_list: List[Stream] = self.__find_stream_list(raw, raw_keys)
 
     def __find_stream_list(self, raw: dict, raw_keys: List[str]):
         """
@@ -142,9 +136,7 @@ class ActivityGroup:
     __default_id = 1
     __id = __default_id  # counter across one Subject object
 
-    def __init__(
-        self, raw: dict, raw_keys: List[str], activity_group_name: str
-    ):
+    def __init__(self, raw: dict, raw_keys: List[str], activity_group_name: str):
         """
         Takes in raw data, keys, and the group name and adds appropriate
         activities
@@ -154,9 +146,7 @@ class ActivityGroup:
         # - group_id: Unique within one Subject object
         self.__group_name: str = activity_group_name
         self.__group_id: int = self.__use_id()
-        self.__activity_list: List[Activity] = self.__find_activity_list(
-            raw, raw_keys
-        )
+        self.__activity_list: List[Activity] = self.__find_activity_list(raw, raw_keys)
 
     def __use_id(self):
         curr_id = ActivityGroup.__id
@@ -194,9 +184,7 @@ class ActivityGroup:
         """
         Returns dictionary version of itself for JSON serialization
         """
-        activity_list = [
-            activity.to_dict() for activity in self.__activity_list
-        ]
+        activity_list = [activity.to_dict() for activity in self.__activity_list]
         return {
             "name": self.__group_name,
             "group_id": self.__group_id,
@@ -290,8 +278,7 @@ class Subject:
         """
         # Convert each element in activity group for serialization
         activity_group_list = [
-            activity_group.to_dict()
-            for activity_group in self.__activity_group_list
+            activity_group.to_dict() for activity_group in self.__activity_group_list
         ]
         return {
             "code": self.__code,
