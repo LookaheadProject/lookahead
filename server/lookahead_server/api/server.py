@@ -1,4 +1,6 @@
 from aiohttp import web
+import aiohttp
+import aiohttp_cors
 import logging
 import os
 

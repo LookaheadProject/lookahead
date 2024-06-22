@@ -1,4 +1,5 @@
 from aiohttp import web
+import aiohttp_cors
 import asyncio
 
 import logging
@@ -29,6 +30,8 @@ async def upload_and_mutate(req):
 
 @routes.get("/getSubject")
 async def api_getSubject(req):
+    log.info("Hello!")
+
     if "code" not in req.query:
         return web.HTTPBadRequest(
             text="Missing `code` query parameter (i.e. `MAST10009`)."
@@ -62,9 +65,28 @@ async def api_searchSubject(req):
     )
 
 
+def enable_CORS(app):
+    # Configure default CORS settings.
+    cors = aiohttp_cors.setup(
+        app,
+        defaults={
+            "https://mytimetable.students.unimelb.edu.au": aiohttp_cors.ResourceOptions()
+        },
+    )
+
+    # Configure CORS on all routes.
+    for route in list(app.router.routes()):
+        cors.add(
+            route,
+        )
+
+
 def load(base_app, subdir):
     app = web.Application()
     app.add_routes(routes)
+
+    enable_CORS(app)
+
     base_app.add_subapp(subdir, app)
 
     log.info(f"API route loaded on path {subdir}")
