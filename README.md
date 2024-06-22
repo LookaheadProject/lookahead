@@ -20,6 +20,21 @@ This project is maintained by students and is unaffiliated with the University. 
 </div>
 
 
+## Execution
+To build and serve both the client and server-side, run:
+```sh
+$ make install && make dev
+```
+To only build the static client side, run:
+```sh
+$ make build
+```
+To serve the API and static client, run (noting that this does not contain hot-reloading):
+```sh
+$ make serve
+```
+
+
 ## Features
 
 - Subject class list viewer
