@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from typing import List, Dict, Set
-from datetime import time, date
+from datetime import datetime, time, date
+from json import load
 
 
 @dataclass
@@ -33,18 +34,43 @@ class Stream:
         # - weeks: [1, 2, ...] converted from parsing data
         # - day: "Mon", etc.
         self.__stream_id: int = int(raw[stream_key]["activity_code"].split("-")[0])
-        self.__weeks: List[int] = self.__find_weeks()
         self.__day: str = raw[stream_key]["day_of_week"]
         self.__times: Times = self.__find_times()
         self.__location: str = raw[stream_key]["location"]
+        # run week parsing with output from DayTypeClassify.py
+        with open("DayTypes.json", "r") as f:
+            day_types = load(f)
+            self.__weeks: List[int] = self.__find_weeks(raw, raw_keys, stream_key, day_types)
 
-    def __find_weeks(self):
-        # TO-DO
-        return []
+    def __find_weeks(self, raw:dict, raw_keys: List[str], stream_key: str, day_types: dict):
+        weeks = []
+        for activity_date in raw[stream_key]["activitiesDays"]:
+            # reformatting
+            formatted_date = datetime.strftime(datetime.strptime(activity_date, "%d/%m/%Y"), "%d-%m-%Y")
+            # check activity_date is not a holiday or midsemester break
+            # if not, it must be teaching week, so add it
+            if ("holiday" not in day_types[formatted_date].lower()) and ("break" not in day_types[formatted_date].lower()):
+                weeks.append(day_types[formatted_date])
+        return weeks
 
-    def __find_times(self):
-        # TO-DO
-        return Times(time(), time())
+    def __find_times(self, raw:dict, raw_keys: List[str], stream_key: str):
+        # duration always stored as minutes - convert into list of form [hours, mins]
+        duration = [
+            int(raw[stream_key]["duration"]) // 60, # hours
+            int(raw[stream_key]["duration"]) % 60   # minutes
+        ]
+        # start time of type string, e.g.: "13:00"
+        raw_start = raw[stream_key]["start_time"]
+        start_time = time(
+            # stupid hard coding
+            int(raw_start[0:2]), # hours
+            int(raw_start[3:5])  # minutes
+        )
+        end_time = time(
+            int(raw_start[0:2]) + duration[0], # hours
+            int(raw_start[3:5]) + duration[1]  # minutes
+        )
+        return Times(start_time, end_time)
 
     def to_dict(self):
         """
