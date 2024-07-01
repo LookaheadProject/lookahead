@@ -21,55 +21,81 @@ class Times:
         }
 
 
-class Stream:
+class Activity:
     """Stores one instance of a lecture/tute"""
 
-    def __init__(self, raw: dict, raw_keys: List[str], stream_key: str):
+    __default_id = 0
+    __id = __default_id  # counter across one Stream object
+
+    def __init__(self, raw: dict, raw_keys: List[str], activity_key: str):
         """
         Takes in raw data, keys, and the key to the stream and populates it
         with appropriate details
         """
-        # Note: stream_id is unique within each activity; remember that a stream of an activity with the same id is paired with another stream of another activity with the same id if it is within an activity group.
         # e.g.s
+        # - activity_type: Lecture recording" or "Tutorial"
+        # - name: "Lecture 1" or "Practical 3"
         # - weeks: [1, 2, ...] converted from parsing data
         # - day: "Mon", etc.
-        self.__stream_id: int = int(raw[stream_key]["activity_code"].split("-")[0])
-        self.__day: str = raw[stream_key]["day_of_week"]
-        self.__times: Times = self.__find_times()
-        self.__location: str = raw[stream_key]["location"]
+        self.__activity_type: str = raw[activity_key]["activityType"]
+        self.__name: str = raw[activity_key]["description"]
+        self.__activity_id: int = self.__use_id()
         # run week parsing with output from DayTypeClassify.py
         with open("DayTypes.json", "r") as f:
             day_types = load(f)
-            self.__weeks: List[int] = self.__find_weeks(raw, raw_keys, stream_key, day_types)
+            self.__weeks: List[int] = self.__find_weeks(
+                raw, raw_keys, activity_key, day_types
+            )
+        self.__day: str = raw[activity_key]["day_of_week"]
+        self.__times: Times = self.__find_times(raw, raw_keys, activity_key)
+        self.__location: str = raw[activity_key]["location"]
 
-    def __find_weeks(self, raw:dict, raw_keys: List[str], stream_key: str, day_types: dict):
+    def __find_weeks(
+        self,
+        raw: dict,
+        raw_keys: List[str],
+        activity_key: str,
+        day_types: dict,
+    ):
         weeks = []
-        for activity_date in raw[stream_key]["activitiesDays"]:
+        for activity_date in raw[activity_key]["activitiesDays"]:
             # reformatting
-            formatted_date = datetime.strftime(datetime.strptime(activity_date, "%d/%m/%Y"), "%d-%m-%Y")
+            formatted_date = datetime.strftime(
+                datetime.strptime(activity_date, "%d/%m/%Y"), "%d-%m-%Y"
+            )
             # check activity_date is not a holiday or midsemester break
             # if not, it must be teaching week, so add it
-            if ("holiday" not in day_types[formatted_date].lower()) and ("break" not in day_types[formatted_date].lower()):
+            if ("holiday" not in day_types[formatted_date].lower()) and (
+                "break" not in day_types[formatted_date].lower()
+            ):
                 weeks.append(day_types[formatted_date])
         return weeks
 
-    def __find_times(self, raw:dict, raw_keys: List[str], stream_key: str):
+    def __find_times(self, raw: dict, raw_keys: List[str], activity_key: str):
         # duration always stored as minutes - convert into list of form [hours, mins]
         duration = [
-            int(raw[stream_key]["duration"]) // 60, # hours
-            int(raw[stream_key]["duration"]) % 60   # minutes
+            int(raw[activity_key]["duration"]) // 60,  # hours
+            int(raw[activity_key]["duration"]) % 60,  # minutes
         ]
         # start time of type string, e.g.: "13:00"
-        raw_start = raw[stream_key]["start_time"]
+        raw_start = raw[activity_key]["start_time"]
         start_time = time(
             # stupid hard coding
-            int(raw_start[0:2]), # hours
-            int(raw_start[3:5])  # minutes
+            int(raw_start[0:2]),  # hours
+            int(raw_start[3:5]),  # minutes
         )
-        end_time = time(
-            int(raw_start[0:2]) + duration[0], # hours
-            int(raw_start[3:5]) + duration[1]  # minutes
-        )
+        # if the minutes exceeds 60, then must add 1 to the hour. Otherwise business as usual.
+        if int(raw_start[3:5]) + duration[1] >= 60:
+            end_time = time(
+                int(raw_start[0:2]) + duration[0] + 1,  # hours
+                (int(raw_start[3:5]) + duration[1]) % 60,  # minutes
+            )
+        else:
+            end_time = time(
+                int(raw_start[0:2]) + duration[0],  # hours
+                int(raw_start[3:5]) + duration[1],  # minutes
+            )
+
         return Times(start_time, end_time)
 
     def to_dict(self):
@@ -77,62 +103,14 @@ class Stream:
         Returns dictionary version of itself for JSON serialization
         """
         return {
-            "stream_id": self.__stream_id,
+            "activity_type": self.__activity_type,
+            "name": self.__name,
+            "activity_id": self.__activity_id,
             "weeks": self.__weeks,
             "day": self.__day,
             "times": self.__times.to_dict(),
             "location": self.__location,
         }
-
-    # A getter method
-    @property
-    def stream_id(self):
-        return self.__stream_id
-
-
-class Activity:
-    """Stores the different Stream's of an Activity"""
-
-    __default_id = 1
-    __id = __default_id  # counter across one ActivityGroup object
-
-    def __init__(self, raw: dict, raw_keys: List[str], activity_name_type: (str, str)):
-        """
-        Takes in raw data, keys, and the activity name and type and adds
-        appropriate streams
-        """
-        # e.g.s
-        # - activity_type: Lecture recording" or "Tutorial"
-        # - name: "Lecture 1" or "Practical 3"
-        # - activity_id: Unique for one entire Subject object
-        self.__activity_name: str = activity_name_type[0]
-        self.__activity_type: str = activity_name_type[1]
-        self.__activity_id: int = self.__use_id()
-        self.__stream_list: List[Stream] = self.__find_stream_list(raw, raw_keys)
-
-    def __find_stream_list(self, raw: dict, raw_keys: List[str]):
-        """
-        Takes in the keys to the dictionary and the dictionary from the JSON
-        which represents the various activities, and generates the
-        stream_list defined above.
-        """
-        # Get all streams in the activity,
-        # and generate all Stream objects;
-        # populating it is handled by Stream
-        # Assumes each stream is unique, so no sets here
-        stream_keys: List[(str, str)] = [
-            stream_key
-            for stream_key in raw_keys
-            if raw[stream_key]["description"] == self.__activity_name
-        ]
-        stream_list: List[Stream] = [
-            Stream(raw, raw_keys, stream_key) for stream_key in stream_keys
-        ]
-        # No resetting id's here since id is taken from raw data
-        # instead of manually generated
-        stream_list.sort(key=lambda Stream: Stream.stream_id)
-
-        return stream_list
 
     def __use_id(self):
         curr_id = Activity.__id
@@ -143,36 +121,94 @@ class Activity:
     def reset_id(self):
         Activity.__id = Activity.__default_id
 
+
+class Stream:
+    """Stores the different Activity's of an Stream"""
+
+    __default_id = 0
+    __id = __default_id  # counter across one ActivityGroup object
+
+    def __init__(
+        self, raw: dict, raw_keys: List[str], stream_ID: int, group_name: str
+    ):
+        """
+        Takes in raw data, keys, stream ID, and activity group name and adds
+        appropriate activities
+        """
+        # e.g.s
+        # - stream_id: 0 (NOT the same as the one passed in; that is the one used in the raw data)
+        self.__stream_id: int = self.__use_id()
+        self.__activity_list: List[Activity] = self.__find_activity_list(
+            raw, raw_keys, stream_ID, group_name
+        )
+
+    def __find_activity_list(
+        self, raw: dict, raw_keys: List[str], stream_ID: id, group_name: str
+    ):
+        """
+        Takes in the keys to the dictionary and the dictionary from the JSON
+        which represents the various activities, and generates the
+        activity_list defined above.
+        """
+        # Get all activities in the stream,
+        # and generate all Activity objects;
+        # populating it is handled by Activity
+        # Assumes each activity within a stream is unique, so not a set but a list
+        activity_keys: List[str] = [
+            activity_key
+            for activity_key in raw_keys
+            if raw[activity_key]["activity_code"].split("-")[0]
+            == str(stream_ID)
+            and raw[activity_key]["activity_group_code"] == group_name
+        ]
+        activity_list: List[Activity] = [
+            Activity(raw, raw_keys, activity_key)
+            for activity_key in activity_keys
+        ]
+        Activity.reset_id()
+
+        return activity_list
+
+    def __use_id(self):
+        curr_id = Stream.__id
+        Stream.__id += 1
+        return curr_id
+
+    @classmethod
+    def reset_id(self):
+        Stream.__id = Stream.__default_id
+
     def to_dict(self):
         """
         Returns dictionary version of itself for JSON serialization
         """
-        stream_list = [stream.to_dict() for stream in self.__stream_list]
-        return {
-            "activity_type": self.__activity_type,
-            "name": self.__activity_name,
-            "activity_id": self.__activity_id,
-            "stream_list": stream_list,
-        }
+        activity_list = [
+            activity.to_dict() for activity in self.__activity_list
+        ]
+        return {"stream_id": self.__stream_id, "activity_list": activity_list}
 
 
 class ActivityGroup:
-    """Stores the activities whose streams must be picked at the same time"""
+    """Stores different Stream's of an ActivityGroup"""
 
-    __default_id = 1
+    __default_id = 0
     __id = __default_id  # counter across one Subject object
 
-    def __init__(self, raw: dict, raw_keys: List[str], activity_group_name: str):
+    def __init__(
+        self, raw: dict, raw_keys: List[str], activity_group_name: str
+    ):
         """
         Takes in raw data, keys, and the group name and adds appropriate
-        activities
+        streams
         """
         # e.g.s
         # - name: "Lecture" or "Tutorial" or "Practical" or "ComputerLab"
         # - group_id: Unique within one Subject object
         self.__group_name: str = activity_group_name
         self.__group_id: int = self.__use_id()
-        self.__activity_list: List[Activity] = self.__find_activity_list(raw, raw_keys)
+        self.__stream_list: List[Stream] = self.__find_stream_list(
+            raw, raw_keys
+        )
 
     def __use_id(self):
         curr_id = ActivityGroup.__id
@@ -183,38 +219,39 @@ class ActivityGroup:
     def reset_id(self):
         ActivityGroup.__id = ActivityGroup.__default_id
 
-    def __find_activity_list(self, raw: dict, raw_keys: List[str]):
+    def __find_stream_list(self, raw: dict, raw_keys: List[str]):
         """
         Takes in the keys to the dictionary and the dictionary from the JSON
         which represents the various activities, and generates the
-        activity_list defined above.
+        stream_list defined above.
         """
-        # Get all activities in the activity group,
-        # and generate all Activity objects;
-        # populating it is handled by Activity
-        activity_names_types: Set[(str, str)] = {
-            (raw[key]["description"], raw[key]["activityType"])
+        # Get all stream ID's (called the "activity_code" in raw data) in the ActivityGroup,
+        # and generate all Stream objects;
+        # populating it is handled by Stream.
+
+        stream_IDs: Set[int] = {
+            int(raw[key]["activity_code"].split("-")[0])
             for key in raw_keys
             if raw[key]["activity_group_code"] == self.__group_name
         }
-        activity_names_types: List[(str, str)] = sorted(activity_names_types)
-        activity_list: List[Activity] = [
-            Activity(raw, raw_keys, activity_name_type)
-            for activity_name_type in activity_names_types
+        stream_IDs: List[int] = sorted(stream_IDs)
+        stream_list: List[Stream] = [
+            Stream(raw, raw_keys, stream_ID, self.__group_name)
+            for stream_ID in stream_IDs
         ]
-        Activity.reset_id()
+        Stream.reset_id()
 
-        return activity_list
+        return stream_list
 
     def to_dict(self):
         """
         Returns dictionary version of itself for JSON serialization
         """
-        activity_list = [activity.to_dict() for activity in self.__activity_list]
+        stream_list = [stream.to_dict() for stream in self.__stream_list]
         return {
             "name": self.__group_name,
             "group_id": self.__group_id,
-            "activity_list": activity_list,
+            "stream_list": stream_list,
         }
 
 
@@ -304,7 +341,8 @@ class Subject:
         """
         # Convert each element in activity group for serialization
         activity_group_list = [
-            activity_group.to_dict() for activity_group in self.__activity_group_list
+            activity_group.to_dict()
+            for activity_group in self.__activity_group_list
         ]
         return {
             "code": self.__code,
