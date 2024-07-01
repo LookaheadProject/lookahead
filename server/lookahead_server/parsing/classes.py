@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import List, Dict, Set
-from datetime import datetime, time, date
-from json import load
+from datetime import datetime, time, date, timedelta
+import json
 
 
 @dataclass
@@ -42,7 +42,7 @@ class Activity:
         self.__activity_id: int = self.__use_id()
         # run week parsing with output from DayTypeClassify.py
         with open("DayTypes.json", "r") as f:
-            day_types = load(f)
+            day_types = json.load(f)
             self.__weeks: List[int] = self.__find_weeks(
                 raw, raw_keys, activity_key, day_types
             )
@@ -72,31 +72,12 @@ class Activity:
         return weeks
 
     def __find_times(self, raw: dict, raw_keys: List[str], activity_key: str):
-        # duration always stored as minutes - convert into list of form [hours, mins]
-        duration = [
-            int(raw[activity_key]["duration"]) // 60,  # hours
-            int(raw[activity_key]["duration"]) % 60,  # minutes
-        ]
-        # start time of type string, e.g.: "13:00"
-        raw_start = raw[activity_key]["start_time"]
-        start_time = time(
-            # stupid hard coding
-            int(raw_start[0:2]),  # hours
-            int(raw_start[3:5]),  # minutes
-        )
-        # if the minutes exceeds 60, then must add 1 to the hour. Otherwise business as usual.
-        if int(raw_start[3:5]) + duration[1] >= 60:
-            end_time = time(
-                int(raw_start[0:2]) + duration[0] + 1,  # hours
-                (int(raw_start[3:5]) + duration[1]) % 60,  # minutes
-            )
-        else:
-            end_time = time(
-                int(raw_start[0:2]) + duration[0],  # hours
-                int(raw_start[3:5]) + duration[1],  # minutes
-            )
-
-        return Times(start_time, end_time)
+        # use datetime - negates issues with abnormal times
+        start_time = datetime.strptime(raw[activity_key]["start_time"], "%H:%M")
+        duration = int(raw[activity_key]["duration"])
+        end_time = (start_time + timedelta(minutes=duration))
+        # typecase Date/Time into just Time
+        return Times(start_time.time(), end_time.time())
 
     def to_dict(self):
         """
