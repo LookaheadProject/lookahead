@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
-import requests 
+from datetime import datetime
 import re
 import json
 from DateCrawlerHelpers import getHTMLdocument, GetText, ContainsSubstring, GetWeeks, GenerateDayDict

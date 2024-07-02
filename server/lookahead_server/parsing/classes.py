@@ -1,7 +1,8 @@
 from dataclasses import dataclass
-from typing import List, Dict, Set
-from datetime import datetime, time, date, timedelta
+from typing import List, Set
+from datetime import datetime, time, timedelta
 import json
+import os
 
 
 @dataclass
@@ -75,7 +76,7 @@ class Activity:
         # use datetime - negates issues with abnormal times
         start_time = datetime.strptime(raw[activity_key]["start_time"], "%H:%M")
         duration = int(raw[activity_key]["duration"])
-        end_time = (start_time + timedelta(minutes=duration))
+        end_time = start_time + timedelta(minutes=duration)
         # typecase Date/Time into just Time
         return Times(start_time.time(), end_time.time())
 
@@ -109,9 +110,7 @@ class Stream:
     __default_id = 0
     __id = __default_id  # counter across one ActivityGroup object
 
-    def __init__(
-        self, raw: dict, raw_keys: List[str], stream_ID: int, group_name: str
-    ):
+    def __init__(self, raw: dict, raw_keys: List[str], stream_ID: int, group_name: str):
         """
         Takes in raw data, keys, stream ID, and activity group name and adds
         appropriate activities
@@ -138,13 +137,11 @@ class Stream:
         activity_keys: List[str] = [
             activity_key
             for activity_key in raw_keys
-            if raw[activity_key]["activity_code"].split("-")[0]
-            == str(stream_ID)
+            if raw[activity_key]["activity_code"].split("-")[0] == str(stream_ID)
             and raw[activity_key]["activity_group_code"] == group_name
         ]
         activity_list: List[Activity] = [
-            Activity(raw, raw_keys, activity_key)
-            for activity_key in activity_keys
+            Activity(raw, raw_keys, activity_key) for activity_key in activity_keys
         ]
         Activity.reset_id()
 
@@ -163,9 +160,7 @@ class Stream:
         """
         Returns dictionary version of itself for JSON serialization
         """
-        activity_list = [
-            activity.to_dict() for activity in self.__activity_list
-        ]
+        activity_list = [activity.to_dict() for activity in self.__activity_list]
         return {"stream_id": self.__stream_id, "activity_list": activity_list}
 
 
@@ -175,9 +170,7 @@ class ActivityGroup:
     __default_id = 0
     __id = __default_id  # counter across one Subject object
 
-    def __init__(
-        self, raw: dict, raw_keys: List[str], activity_group_name: str
-    ):
+    def __init__(self, raw: dict, raw_keys: List[str], activity_group_name: str):
         """
         Takes in raw data, keys, and the group name and adds appropriate
         streams
@@ -187,9 +180,7 @@ class ActivityGroup:
         # - group_id: Unique within one Subject object
         self.__group_name: str = activity_group_name
         self.__group_id: int = self.__use_id()
-        self.__stream_list: List[Stream] = self.__find_stream_list(
-            raw, raw_keys
-        )
+        self.__stream_list: List[Stream] = self.__find_stream_list(raw, raw_keys)
 
     def __use_id(self):
         curr_id = ActivityGroup.__id
@@ -322,8 +313,7 @@ class Subject:
         """
         # Convert each element in activity group for serialization
         activity_group_list = [
-            activity_group.to_dict()
-            for activity_group in self.__activity_group_list
+            activity_group.to_dict() for activity_group in self.__activity_group_list
         ]
         return {
             "code": self.__code,

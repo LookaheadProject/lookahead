@@ -1,8 +1,5 @@
-from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import requests 
-import re
-import json
 
 NUM_WEEKS = 12
 CURRENT_YEAR = 2024
