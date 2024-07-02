@@ -1,0 +1,213 @@
+{
+  "code": "PHYC10001",
+  "name": "Physics 1: Advanced",
+  "year": 2024,
+  "offering": "Semester 1",
+  "activity_group_list": [
+    {
+      "name": "Lecture1",
+      "group_id": 1,
+      "activity_list": [
+        {
+          "activity_type": "Lecture",
+          "name": "Lecture 1",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Tue",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-L105-Hercus Theatre (125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture2",
+      "group_id": 2,
+      "activity_list": [
+        {
+          "activity_type": "Lecture",
+          "name": "Lecture 2",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Thu",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-L108-Laby Theatre (210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lecture3",
+      "group_id": 3,
+      "activity_list": [
+        {
+          "activity_type": "Lecture",
+          "name": "Lecture 3",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Fri",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-L108-Laby Theatre (210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Practical1",
+      "group_id": 4,
+      "activity_list": [
+        {
+          "activity_type": "Practical",
+          "name": "Practical 1",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Tue",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L4-P405-First Year Physics Lab (32)"
+            },
+            {
+              "stream_id": 2,
+              "weeks": [],
+              "day": "Tue",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L4-P405-First Year Physics Lab (32)"
+            },
+            {
+              "stream_id": 3,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L4-P405-First Year Physics Lab (32)"
+            },
+            {
+              "stream_id": 4,
+              "weeks": [],
+              "day": "Wed",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L4-P405-First Year Physics Lab (32)"
+            },
+            {
+              "stream_id": 5,
+              "weeks": [],
+              "day": "Thu",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L4-P405-First Year Physics Lab (32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Problem-based1",
+      "group_id": 5,
+      "activity_list": [
+        {
+          "activity_type": "Problem-based",
+          "name": "Problem-based 1",
+          "activity_id": 1,
+          "stream_list": [
+            {
+              "stream_id": 1,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-207-Flexible Learning Space (25)"
+            },
+            {
+              "stream_id": 2,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-207-Flexible Learning Space (25)"
+            },
+            {
+              "stream_id": 3,
+              "weeks": [],
+              "day": "Mon",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-207-Flexible Learning Space (25)"
+            },
+            {
+              "stream_id": 4,
+              "weeks": [],
+              "day": "Thu",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-207-Flexible Learning Space (25)"
+            },
+            {
+              "stream_id": 6,
+              "weeks": [],
+              "day": "Fri",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-207-Flexible Learning Space (25)"
+            },
+            {
+              "stream_id": 7,
+              "weeks": [],
+              "day": "Fri",
+              "times": {
+                "start": "00:00:00",
+                "end": "00:00:00"
+              },
+              "location": "PAR-192-L2-207-Flexible Learning Space (25)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

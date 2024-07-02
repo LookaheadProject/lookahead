@@ -1,0 +1,912 @@
+{
+    "FNCE10002_U_1_SUM|Lecture|1-P1": {
+        "activityType": "Lecture",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Lecture",
+        "activity_code": "1-P1",
+        "day_of_week": "Mon",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-181-L4-C403-Wright Theatre (283) (8\/1-15\/1, 5\/2), PAR-184-L1-127-Harold Woodruff Theatre (215) (29\/1)",
+        "duration": "120",
+        "availability": 189,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Lecture 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "8\/1\/2024",
+            "15\/1\/2024",
+            "29\/1\/2024",
+            "5\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "184-127",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "29\/1\/2024"
+                ]
+            },
+            {
+                "id": "181-C403",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "8\/1\/2024",
+                    "15\/1\/2024",
+                    "5\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Lecture|1-P2": {
+        "activityType": "Lecture",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Lecture",
+        "activity_code": "1-P2",
+        "day_of_week": "Mon",
+        "start_time": "13:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-181-L4-C403-Wright Theatre (283)",
+        "duration": "60",
+        "availability": 189,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Lecture 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "8\/1\/2024",
+            "15\/1\/2024",
+            "29\/1\/2024",
+            "5\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "181-C403",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "8\/1\/2024",
+                    "15\/1\/2024",
+                    "29\/1\/2024",
+                    "5\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Lecture|1-P3": {
+        "activityType": "Lecture",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Lecture",
+        "activity_code": "1-P3",
+        "day_of_week": "Wed",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-181-L4-C403-Wright Theatre (283)",
+        "duration": "120",
+        "availability": 189,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Lecture 3",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "10\/1\/2024",
+            "17\/1\/2024",
+            "31\/1\/2024",
+            "7\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "181-C403",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "10\/1\/2024",
+                    "17\/1\/2024",
+                    "31\/1\/2024",
+                    "7\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Lecture|1-P4": {
+        "activityType": "Lecture",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Lecture",
+        "activity_code": "1-P4",
+        "day_of_week": "Wed",
+        "start_time": "13:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-181-L4-C403-Wright Theatre (283)",
+        "duration": "60",
+        "availability": 189,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Lecture 4",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "10\/1\/2024",
+            "17\/1\/2024",
+            "31\/1\/2024",
+            "7\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "181-C403",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "10\/1\/2024",
+                    "17\/1\/2024",
+                    "31\/1\/2024",
+                    "7\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|1-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "1-P1",
+        "day_of_week": "Tue",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-212-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 15,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-212",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|1-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "1-P2",
+        "day_of_week": "Thu",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-212-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 15,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-212",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|2-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "2-P1",
+        "day_of_week": "Tue",
+        "start_time": "11:30",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-212-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-212",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|2-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "2-P2",
+        "day_of_week": "Thu",
+        "start_time": "11:30",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-212-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-212",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|3-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "3-P1",
+        "day_of_week": "Tue",
+        "start_time": "14:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-212-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 18,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-212",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|3-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "3-P2",
+        "day_of_week": "Thu",
+        "start_time": "14:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-212-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 18,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-212",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|4-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "4-P1",
+        "day_of_week": "Tue",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-213-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-213",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|4-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "4-P2",
+        "day_of_week": "Thu",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-213-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-213",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|5-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "5-P1",
+        "day_of_week": "Tue",
+        "start_time": "11:30",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-213-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 18,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-213",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|5-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "5-P2",
+        "day_of_week": "Thu",
+        "start_time": "11:30",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-213-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 18,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-213",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|6-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "6-P1",
+        "day_of_week": "Tue",
+        "start_time": "14:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-213-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-213",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|6-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "6-P2",
+        "day_of_week": "Thu",
+        "start_time": "14:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-105-L2-213-Collaborative Learning Space (18)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "105-213",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|7-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "7-P1",
+        "day_of_week": "Tue",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-149-L1-103-Flexible Learning Space (54)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "149-103",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|7-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "7-P2",
+        "day_of_week": "Thu",
+        "start_time": "10:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-149-L1-103-Flexible Learning Space (54)",
+        "duration": "90",
+        "availability": 17,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "149-103",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|8-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "8-P1",
+        "day_of_week": "Tue",
+        "start_time": "11:30",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-149-L1-103-Flexible Learning Space (54)",
+        "duration": "90",
+        "availability": 18,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "149-103",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|8-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "8-P2",
+        "day_of_week": "Thu",
+        "start_time": "11:30",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-149-L1-103-Flexible Learning Space (54)",
+        "duration": "90",
+        "availability": 18,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "149-103",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|9-P1": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "9-P1",
+        "day_of_week": "Tue",
+        "start_time": "14:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-104-G-G21-Flexible Learning Space (30)",
+        "duration": "90",
+        "availability": 16,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 1",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "9\/1\/2024",
+            "16\/1\/2024",
+            "30\/1\/2024",
+            "6\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "104-G21",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "9\/1\/2024",
+                    "16\/1\/2024",
+                    "30\/1\/2024",
+                    "6\/2\/2024"
+                ]
+            }
+        ]
+    },
+    "FNCE10002_U_1_SUM|Tutorial|9-P2": {
+        "activityType": "Tutorial",
+        "subject_code": "FNCE10002_U_1_SUM",
+        "activity_group_code": "Tutorial",
+        "activity_code": "9-P2",
+        "day_of_week": "Thu",
+        "start_time": "14:00",
+        "campus": "Parkville",
+        "campus_description": "Parkville",
+        "semester": "SUM",
+        "semester_description": "Summer Term",
+        "location": "PAR-104-G-G21-Flexible Learning Space (30)",
+        "duration": "90",
+        "availability": 16,
+        "week_pattern": "0110110000000000000000000000000000000000000000000000",
+        "description": "Tutorial 2",
+        "subject_description": "Principles of Finance",
+        "start_date": "01\/01\/2024",
+        "activitiesDays": [
+            "11\/1\/2024",
+            "18\/1\/2024",
+            "1\/2\/2024",
+            "8\/2\/2024"
+        ],
+        "lat": "",
+        "lng": "",
+        "locations": [
+            {
+                "id": "104-G21",
+                "description": "",
+                "lat": "",
+                "lng": "",
+                "activityDays": [
+                    "11\/1\/2024",
+                    "18\/1\/2024",
+                    "1\/2\/2024",
+                    "8\/2\/2024"
+                ]
+            }
+        ]
+    }
+}
