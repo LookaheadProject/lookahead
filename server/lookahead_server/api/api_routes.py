@@ -32,7 +32,11 @@ async def upload(req):
 
 
 async def upload_and_mutate(req):
-    data = await req.json()
+    subj = parsing.Subject(await req.json())
+    return web.Response(
+        text=json.dumps(subj.to_dict()), content_type="application/json"
+    )
+
     try:
         with open(f"cache/{req.query['code']}.json", "w") as f:
             json.dump(data, f)
