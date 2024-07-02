@@ -41,7 +41,7 @@ class Activity:
         self.__name: str = raw[activity_key]["description"]
         self.__activity_id: int = self.__use_id()
         # run week parsing with output from DayTypeClassify.py
-        with open("DayTypes.json", "r") as f:
+        with open(os.path.join(os.path.dirname(__file__), "DayTypes.json"), "r") as f:
             day_types = json.load(f)
             self.__weeks: List[int] = self.__find_weeks(
                 raw, raw_keys, activity_key, day_types
