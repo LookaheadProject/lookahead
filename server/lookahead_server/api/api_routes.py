@@ -32,18 +32,20 @@ async def upload(req):
 
 
 async def upload_and_mutate(req):
-    subj = parsing.Subject(await req.json())
-    return web.Response(
-        text=json.dumps(subj.to_dict()), content_type="application/json"
-    )
-
     try:
-        with open(f"cache/{req.query['code']}.json", "w") as f:
-            json.dump(data, f)
+        subj = parsing.Subject(await req.json())
+        parsed = json.dumps(subj.to_dict())
 
-        return web.Response(text="Successfully uploaded")
-    except:
-        return web.HTTPBadRequest(text="Malformed body data.")
+        # todo: upload to database
+    except Exception as e:
+        import traceback
+
+        error = traceback.format_exc()
+        return web.HTTPServerError(
+            text=f"Error {e}:\n{error}\nContact the development team and report this error."
+        )
+
+    return web.Response(text=parsed, content_type="application/json")
 
 
 @routes.get("/getSubject")
