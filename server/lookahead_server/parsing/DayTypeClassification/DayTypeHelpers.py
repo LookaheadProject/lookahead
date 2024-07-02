@@ -1,16 +1,14 @@
-from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-import requests 
-import re
-import json
+import requests
 
 NUM_WEEKS = 12
 CURRENT_YEAR = 2024
 
+
 def getHTMLdocument(url: str):
     """
-        Sends a request to a desired url, returning 
-        the html code as text/string
+    Sends a request to a desired url, returning
+    the html code as text/string
     """
 
     # Send an HTTP request to desired url
@@ -18,35 +16,39 @@ def getHTMLdocument(url: str):
     # Return HTML content as string
     return response.text
 
+
 def GetText(parent: str):
     """
-        Returns only the string contained within a parent tag from HTML code
-        DOES NOT return any text contained within possible children
+    Returns only the string contained within a parent tag from HTML code
+    DOES NOT return any text contained within possible children
     """
-    return ''.join(parent.find_all(string=True, recursive=False)).strip()
+    return "".join(parent.find_all(string=True, recursive=False)).strip()
+
 
 def ContainsSubstring(string: str, substrings: list):
     """
-        Checks if a target string is contained anywhere within a list of strings
-        e.g.: "hello",   ["hello, bye-bye", "1234"] will return True
+    Checks if a target string is contained anywhere within a list of strings
+    e.g.: "hello",   ["hello, bye-bye", "1234"] will return True
     """
     return any(sub in string for sub in substrings)
+
 
 def GenerateDayDict(year):
     """
     Generates a dictionary where the keys are all the days in the given year (input)
     All values are "holiday" - but this is a dummy variable to be changed in DayTypeClassify.py
     """
-    StartDate = datetime(year, 1, 1)   # first day
-    EndDate = datetime(year + 1, 1, 1) # final day
+    StartDate = datetime(year, 1, 1)  # first day
+    EndDate = datetime(year + 1, 1, 1)  # final day
     DayDict = {}
     CurrentDate = StartDate
     while CurrentDate < EndDate:
         # initialise all values as holiday - to be altered later
         DayDict[CurrentDate.strftime("%d-%m-%Y")] = "holiday"
-        CurrentDate += timedelta(days = 1)
+        CurrentDate += timedelta(days=1)
 
     return DayDict
+
 
 def GetWeeks(SemesterDates: list, MidsemBreak: list):
     """
@@ -83,15 +85,7 @@ def GetWeeks(SemesterDates: list, MidsemBreak: list):
 
         # append week number and start/end dates to the list
         # note that we keep dates as datetime objects
-        Weeks.append(
-            (
-            f"Week {WeekCount + 1}", 
-            [
-                WeekStart,
-                WeekEnd
-            ]
-            )
-        )
+        Weeks.append((f"Week {WeekCount + 1}", [WeekStart, WeekEnd]))
         # iterate date & week no. to continue
         CurrentDate = WeekEnd + timedelta(days=1)
         WeekCount += 1

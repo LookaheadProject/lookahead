@@ -1,7 +1,8 @@
 from dataclasses import dataclass
-from typing import List, Dict, Set
-from datetime import datetime, time, date, timedelta
+from typing import List, Set
+from datetime import datetime, time, timedelta
 import json
+import os
 
 
 @dataclass
@@ -41,7 +42,9 @@ class Activity:
         self.__name: str = raw[activity_key]["description"]
         self.__activity_id: int = self.__use_id()
         # run week parsing with output from DayTypeClassify.py
-        with open(os.path.join(os.path.dirname(__file__), "DayTypes.json"), "r") as f:
+        with open(
+            os.path.join(os.path.dirname(__file__), "DayTypes.json"), "r"
+        ) as f:
             day_types = json.load(f)
             self.__weeks: List[int] = self.__find_weeks(
                 raw, raw_keys, activity_key, day_types
@@ -73,9 +76,11 @@ class Activity:
 
     def __find_times(self, raw: dict, raw_keys: List[str], activity_key: str):
         # use datetime - negates issues with abnormal times
-        start_time = datetime.strptime(raw[activity_key]["start_time"], "%H:%M")
+        start_time = datetime.strptime(
+            raw[activity_key]["start_time"], "%H:%M"
+        )
         duration = int(raw[activity_key]["duration"])
-        end_time = (start_time + timedelta(minutes=duration))
+        end_time = start_time + timedelta(minutes=duration)
         # typecase Date/Time into just Time
         return Times(start_time.time(), end_time.time())
 
@@ -261,9 +266,9 @@ class Subject:
         self.__name: str = raw[first]["subject_description"]
         self.__year: int = int(raw[first]["start_date"][-4:])
         self.__offering: str = self.__find_offering(raw, first)
-        self.__activity_group_list: List[ActivityGroup] = (
-            self.__find_activity_group_list(raw, raw_keys)
-        )
+        self.__activity_group_list: List[
+            ActivityGroup
+        ] = self.__find_activity_group_list(raw, raw_keys)
 
     def __find_offering(self, raw, first):
         """
