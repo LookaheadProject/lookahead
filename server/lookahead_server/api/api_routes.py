@@ -7,10 +7,7 @@ import os
 import json
 
 from lookahead_server import parsing
-
-from dotenv import load_dotenv
-
-load_dotenv()
+from lookahead_server import database
 
 logging.basicConfig(level=os.getenv("VERBOSE", logging.INFO))
 log = logging.getLogger(__name__)
@@ -58,13 +55,22 @@ async def api_getSubject(req):
         )
 
     if "year" not in req.query:
-        return web.HTTPBadRequest(text="Missing `year` query parameter (i.e. `2024`).")
+        return web.HTTPBadRequest(
+            text="Missing `year` query parameter (i.e. `2024`)."
+        )
 
     if "period" not in req.query:
-        return web.HTTPBadRequest(text="Missing `period` query parameter (i.e. `SM2`).")
+        return web.HTTPBadRequest(
+            text="Missing `period` query parameter (i.e. `SM2`)."
+        )
 
-    print(req.query.get("subj"))
-    return web.Response(text="OK")
+    log.info(f"Request for {req.query.get('code')}")
+
+    result = await req.app["state"]["db"].retrieve(
+        req.query["code"], req.query["year"], req.query["period"]
+    )
+
+    return web.Response(text=result, content_type="application/json")
 
 
 @routes.get("/searchSubject")
@@ -75,10 +81,14 @@ async def api_searchSubject(req):
         )
 
     if "year" not in req.query:
-        return web.HTTPBadRequest(text="Missing `year` query parameter (i.e. `2024`).")
+        return web.HTTPBadRequest(
+            text="Missing `year` query parameter (i.e. `2024`)."
+        )
 
     if "period" not in req.query:
-        return web.HTTPBadRequest(text="Missing `period` query parameter (i.e. `SM2`).")
+        return web.HTTPBadRequest(
+            text="Missing `period` query parameter (i.e. `SM2`)."
+        )
 
     return web.json_response(
         {"results": [{"code": "MAST20005", "title": "Statistics"}]}
@@ -102,7 +112,15 @@ def enable_CORS(app):
 
 
 def load(base_app, subdir):
+    db = database.SubjectTimetableModel(
+        os.getenv("DATABASE_URL", "store.sqlite3")
+    )
+    asyncio.run(db.test_connect())
+    # not needed
+    # asyncio.run(db.upload("TEST10001", "2024", "SM2", {"test": 1}))
+
     app = web.Application()
+    app["state"] = {"db": db}
     app.add_routes(routes)
 
     enable_CORS(app)
