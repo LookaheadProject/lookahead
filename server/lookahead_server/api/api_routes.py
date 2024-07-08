@@ -9,6 +9,10 @@ import json
 from lookahead_server import parsing
 from lookahead_server import database
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 logging.basicConfig(level=os.getenv("VERBOSE", logging.INFO))
 log = logging.getLogger(__name__)
 
@@ -47,8 +51,6 @@ async def upload_and_mutate(req):
 
 @routes.get("/getSubject")
 async def api_getSubject(req):
-    log.info("Hello!")
-
     if "code" not in req.query:
         return web.HTTPBadRequest(
             text="Missing `code` query parameter (i.e. `MAST10009`)."
@@ -66,11 +68,20 @@ async def api_getSubject(req):
 
     log.info(f"Request for {req.query.get('code')}")
 
-    result = await req.app["state"]["db"].retrieve(
+    db = req.app["state"]["db"]
+    result = await db.retrieve(
         req.query["code"], req.query["year"], req.query["period"]
     )
 
     return web.Response(text=result, content_type="application/json")
+
+
+@routes.get("/availablePeriods")
+async def api_availablePeriods(req):
+    log.info(f"Request for available periods")
+    db = req.app["state"]["db"]
+
+    return web.json_response(await db.available_periods())
 
 
 @routes.get("/searchSubject")
@@ -91,7 +102,9 @@ async def api_searchSubject(req):
         )
 
     return web.json_response(
-        {"results": [{"code": "MAST20005", "title": "Statistics"}]}
+        await req.app["state"]["db"].search(
+            req.query["query"], req.query["year"], req.query["period"]
+        )
     )
 
 
