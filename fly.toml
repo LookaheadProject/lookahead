@@ -8,6 +8,13 @@ primary_region = 'syd'
 kill_signal = 'SIGINT'
 kill_timeout = '5s'
 
+[mounts]
+  source = "lookahead_store"
+  destination = "/store"
+
+[env]
+  DATABASE_URL = "/store/store.sqlite3"
+
 [experimental]
   auto_rollback = true
 

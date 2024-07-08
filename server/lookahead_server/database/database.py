@@ -11,6 +11,7 @@ log = logging.getLogger(__name__)
 
 class SubjectTimetableModel:
     def __init__(self, database_loc):
+        log.info(f"Initialising database at {database_loc}")
         self.database_url = database_loc
 
     def _connect(self):
