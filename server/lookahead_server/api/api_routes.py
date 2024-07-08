@@ -7,6 +7,7 @@ import os
 import json
 
 from lookahead_server import parsing
+from lookahead_server import database
 
 from dotenv import load_dotenv
 
@@ -50,21 +51,37 @@ async def upload_and_mutate(req):
 
 @routes.get("/getSubject")
 async def api_getSubject(req):
-    log.info("Hello!")
-
     if "code" not in req.query:
         return web.HTTPBadRequest(
             text="Missing `code` query parameter (i.e. `MAST10009`)."
         )
 
     if "year" not in req.query:
-        return web.HTTPBadRequest(text="Missing `year` query parameter (i.e. `2024`).")
+        return web.HTTPBadRequest(
+            text="Missing `year` query parameter (i.e. `2024`)."
+        )
 
     if "period" not in req.query:
-        return web.HTTPBadRequest(text="Missing `period` query parameter (i.e. `SM2`).")
+        return web.HTTPBadRequest(
+            text="Missing `period` query parameter (i.e. `SM2`)."
+        )
 
-    print(req.query.get("subj"))
-    return web.Response(text="OK")
+    log.info(f"Request for {req.query.get('code')}")
+
+    db = req.app["state"]["db"]
+    result = await db.retrieve(
+        req.query["code"], req.query["year"], req.query["period"]
+    )
+
+    return web.Response(text=result, content_type="application/json")
+
+
+@routes.get("/availablePeriods")
+async def api_availablePeriods(req):
+    log.info(f"Request for available periods")
+    db = req.app["state"]["db"]
+
+    return web.json_response(await db.available_periods())
 
 
 @routes.get("/searchSubject")
@@ -75,13 +92,19 @@ async def api_searchSubject(req):
         )
 
     if "year" not in req.query:
-        return web.HTTPBadRequest(text="Missing `year` query parameter (i.e. `2024`).")
+        return web.HTTPBadRequest(
+            text="Missing `year` query parameter (i.e. `2024`)."
+        )
 
     if "period" not in req.query:
-        return web.HTTPBadRequest(text="Missing `period` query parameter (i.e. `SM2`).")
+        return web.HTTPBadRequest(
+            text="Missing `period` query parameter (i.e. `SM2`)."
+        )
 
     return web.json_response(
-        {"results": [{"code": "MAST20005", "title": "Statistics"}]}
+        await req.app["state"]["db"].search(
+            req.query["query"], req.query["year"], req.query["period"]
+        )
     )
 
 
@@ -102,7 +125,15 @@ def enable_CORS(app):
 
 
 def load(base_app, subdir):
+    db = database.SubjectTimetableModel(
+        os.getenv("DATABASE_URL", "store.sqlite3")
+    )
+    asyncio.run(db.test_connect())
+    # not needed
+    # asyncio.run(db.upload("TEST10001", "2024", "SM2", {"test": 1}))
+
     app = web.Application()
+    app["state"] = {"db": db}
     app.add_routes(routes)
 
     enable_CORS(app)

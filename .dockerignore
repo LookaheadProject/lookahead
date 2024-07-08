@@ -3,6 +3,7 @@
 
 **/dist
 server/test
+server/store.sqlite3
 
 client/.parcel-cache
 client/tests
