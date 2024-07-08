@@ -1,9 +1,9 @@
-import React, {useState, useEffect} from 'react';
-import {useSelector, useDispatch} from 'react-redux';
-import {fetchSubjectList} from '../../../redux/actions/subjectListActions';
-import {getSubject} from '../../../redux/actions/subjectActions';
-import {withTheme} from 'styled-components';
-import {SelectContainer} from './SubjectSelectStyles';
+import React, { useState, useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import { fetchSubjectList } from '../../../redux/actions/subjectListActions';
+import { getSubject } from '../../../redux/actions/subjectActions';
+import { withTheme } from 'styled-components';
+import { SelectContainer } from './SubjectSelectStyles';
 import Select from 'react-select';
 import AsyncSelect from 'react-select/async';
 import moment from 'moment';
@@ -15,18 +15,18 @@ let LogRocketInitialised = false;
 const CURRENT_STUDY_PERIOD_INDEX = new Date().getMonth() <= 4 ? 1 : 3; // Switch to Semester 2 from June onwards
 const CURRENT_SUBJECT_LIST_YEAR = 2023;
 const studyPeriods = [
-  {value: 'summer_term', label: 'Summer'},
-  {value: 'semester_1', label: 'Sem 1'},
-  {value: 'winter_term', label: 'Winter'},
-  {value: 'semester_2', label: 'Sem 2'},
-  {value: 'year_long', label: 'Year Long'},
-  {value: 'january', label: 'January'},
-  {value: 'february', label: 'February'},
-  {value: 'march', label: 'March'},
-  {value: 'april', label: 'April'},
-  {value: 'may', label: 'May'},
+  { value: 'summer_term', label: 'Summer' },
+  { value: 'semester_1', label: 'Sem 1' },
+  { value: 'winter_term', label: 'Winter' },
+  { value: 'semester_2', label: 'Sem 2' },
+  { value: 'year_long', label: 'Year Long' },
+  { value: 'january', label: 'January' },
+  { value: 'february', label: 'February' },
+  { value: 'march', label: 'March' },
+  { value: 'april', label: 'April' },
+  { value: 'may', label: 'May' },
 ]
-  .concat(moment.months().map(month => ({value: month.toLowerCase(), label: month})))
+  .concat(moment.months().map(month => ({ value: month.toLowerCase(), label: month })))
   .map(period => ({
     ...period,
     label: `${period.label} ${CURRENT_SUBJECT_LIST_YEAR}`,
@@ -45,10 +45,10 @@ const SubjectSelect = props => {
   const [inputValue, setInputValue] = useState('test');
   // Uncomment below to load subjects at the start
   useEffect(() => {
-    let localStorageSubjects = JSON.parse(localStorage.getItem('subjects'));
+    //let localStorageSubjects = JSON.parse(localStorage.getItem('subjects'));
     if (!localStorageSubjects) return;
     for (const subject of localStorageSubjects) {
-      const {year, code, name, studyPeriod, online} = subject;
+      const { year, code, name, studyPeriod, online } = subject;
       dispatch(getSubject(year, studyPeriod, code, name, online));
     }
     if (!(!process.env.NODE_ENV || process.env.NODE_ENV === 'development')) return;
@@ -128,7 +128,7 @@ const SubjectSelect = props => {
       zIndex: 100,
       marginTop: '2px',
     }),
-    option: (provided, {data, isDisabled, isFocused, isSelected}) => ({
+    option: (provided, { data, isDisabled, isFocused, isSelected }) => ({
       ...provided,
       backgroundColor: isFocused ? 'lightsteelblue' : null,
       color: isFocused ? '#62656E' : null,
@@ -148,7 +148,7 @@ const SubjectSelect = props => {
     },
   };
 
-  const handleSubjectSelect = ({code, value, online}) => {
+  const handleSubjectSelect = ({ code, value, online }) => {
     if (!LogRocketInitialised) {
       if (process.env.NODE_ENV && process.env.NODE_ENV !== 'development') {
         LogRocket.init('ae9dbf/lookahead');
