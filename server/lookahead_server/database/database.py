@@ -31,7 +31,8 @@ class SubjectTimetableModel:
         # TODO: add support for subject names!
 
         async with self._connect() as con:
-            await con.execute("""
+            await con.execute(
+                """
                 CREATE TABLE IF NOT EXISTS "timetable" (
                     "code"	TEXT,
                     "year"	INTEGER,
@@ -40,7 +41,8 @@ class SubjectTimetableModel:
                     "timetable"	TEXT,
                     PRIMARY KEY("code","year","period","version")
                 );
-                """)
+                """
+            )
 
         log.info("Success.")
 
@@ -51,14 +53,24 @@ class SubjectTimetableModel:
 
         # TODO: check if already exists & if so, upload with latest 'version'
         # TODO: check parameters are valid
+
+        if f"{period} {year}" not in self.available_periods():
+            log.info("An error has occured. This is not an available period.")
+            return 0
+
+        version = 1
+        while self.retrieve(code, year, period, version):
+            version += 1
+
         async with self._connect() as con:
             payload = {
                 "code": code,
                 "year": year,
                 "period": period,
-                "version": 1,
+                "version": version,
                 "timetable": json.dumps(timetable),
             }
+
             await con.execute(
                 "INSERT INTO timetable VALUES(:code, :year, :period, :version, :timetable);",
                 payload,
@@ -66,14 +78,16 @@ class SubjectTimetableModel:
             await con.commit()
         log.info("Successfully uploaded.")
 
-    async def retrieve(self, code, year, period):
-        # TODO: versioning & error codes when nothing is returned
-        query_string = "SELECT * FROM timetable WHERE code = :code AND year = :year AND period = :period AND version = 1 LIMIT 1;"
+    async def retrieve(self, code, year, period, version):
+        # TODO: error codes when nothing is returned
+        # TODO: make the version 1 when this function is called normally
+        query_string = "SELECT * FROM timetable WHERE code = :code AND year = :year AND period = :period AND version = :version LIMIT 1;"
 
         async with self._connect() as con:
             con.row_factory = sqlite3.Row
             async with con.execute(
-                query_string, {"code": code, "year": year, "period": period}
+                query_string,
+                {"code": code, "year": year, "period": period, "version": version},
             ) as cursor:
                 result = await cursor.fetchone()
                 return result["timetable"]
@@ -113,8 +127,6 @@ class SubjectTimetableModel:
 
             results_sorted = sorted(results, reverse=True, key=key_func)
 
-            self.available_periods_memo = [
-                f"{v[1]} {v[0]}" for v in results_sorted
-            ]
+            self.available_periods_memo = [f"{v[1]} {v[0]}" for v in results_sorted]
 
         return self.available_periods_memo
