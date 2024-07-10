@@ -59,8 +59,9 @@ class SubjectTimetableModel:
             return 0
 
         version = 1
-        while self.retrieve(code, year, period, version):
-            version += 1
+        result = self.retrieve(code, year, period, 0)
+        if result:
+            version = result["version"] + 1
 
         async with self._connect() as con:
             payload = {
@@ -81,16 +82,30 @@ class SubjectTimetableModel:
     async def retrieve(self, code, year, period, version):
         # TODO: error codes when nothing is returned
         # TODO: make the version 1 when this function is called normally
-        query_string = "SELECT * FROM timetable WHERE code = :code AND year = :year AND period = :period AND version = :version LIMIT 1;"
 
-        async with self._connect() as con:
-            con.row_factory = sqlite3.Row
-            async with con.execute(
-                query_string,
-                {"code": code, "year": year, "period": period, "version": version},
-            ) as cursor:
-                result = await cursor.fetchone()
-                return result["timetable"]
+        if version == 0:  # indicates max version
+            query_string = "SELECT * FROM timetable WHERE code = :code AND year = :year AND period = :period LIMIT -1;"
+
+            async with self._connect() as con:
+                con.row_factory = sqlite3.Row
+                async with con.execute(
+                    query_string,
+                    {"code": code, "year": year, "period": period},
+                ) as cursor:
+                    result_list = await cursor.fetchall()
+                    result = max(result_list, key=lambda x: x["version"])
+                    return result["timetable"]
+        else:  # but version is still an integer
+            query_string = "SELECT * FROM timetable WHERE code = :code AND year = :year AND period = :period AND version = :version LIMIT 1;"
+
+            async with self._connect() as con:
+                con.row_factory = sqlite3.Row
+                async with con.execute(
+                    query_string,
+                    {"code": code, "year": year, "period": period, "version": version},
+                ) as cursor:
+                    result = await cursor.fetchone()
+                    return result["timetable"]
 
     async def search(self, query, year, period):
         # sqlite named placeholders cannot interpret within a SQL string, see
