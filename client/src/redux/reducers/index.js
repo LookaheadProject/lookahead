@@ -1,5 +1,4 @@
 import {combineReducers} from 'redux';
-import subjectLists from './subjectListReducer';
 import studyPeriod from './studyPeriodReducer';
 import subjects from './subjectReducer';
 import optimiser from './optimiserReducer';
@@ -12,7 +11,6 @@ import viewSubject from './viewSubjectReducer';
 export default combineReducers({
   optimiser,
   optimisations,
-  subjectLists,
   studyPeriod,
   subjects,
   timetable,

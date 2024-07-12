@@ -1,15 +1,17 @@
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 
-import { fetchSubjectList } from "../../../redux/actions/subjectListActions";
 import { fetchStudyPeriod } from "../../../redux/actions/studyPeriodActions";
-
 import { getSubject } from "../../../redux/actions/subjectActions";
+
 import { withTheme } from "styled-components";
 import { SelectContainer } from "./SubjectSelectStyles";
+
 import Select from "react-select";
 import AsyncSelect from "react-select/async";
-import moment from "moment";
+import axios from "axios";
+
+const INPUT_VALUE_CUTOFF = 3;
 
 const SubjectSelect = (props) => {
 	// Redux hooks
@@ -21,13 +23,11 @@ const SubjectSelect = (props) => {
 	// React hooks
 	const [selectedStudyPeriod, setSelectedStudyPeriod] = useState(null);
 
-	// Tracks the currently entered text in the subject filter
-	const [inputValue, setInputValue] = useState("test");
-
 	// ---------------------------------------------------------------
 	// Loads on start - retrieve available study periods
 	// ---------------------------------------------------------------
 
+	// TODO: fix local storage
 	useEffect(() => {
 		return;
 		//let localStorageSubjects = JSON.parse(localStorage.getItem('subjects'));
@@ -46,81 +46,62 @@ const SubjectSelect = (props) => {
 		dispatch(fetchStudyPeriod());
 	}, [dispatch]);
 
-	// fetch subject list
 	useEffect(() => {
-		return;
-		const studyPeriod = selectedStudyPeriod.value;
-		const studyPeriodYear = selectedStudyPeriod.year;
-		if (!subjectLists.lists[studyPeriod]) {
-			setInputValue("");
-			dispatch(fetchSubjectList(studyPeriodYear, studyPeriod));
-		}
-	}, [dispatch, selectedStudyPeriod, subjectLists.lists]);
-
-	// update selected study period, whenever the study period list changes
-	useEffect(() => {
-		console.log("Study Period", studyPeriod);
-		if (studyPeriod.lists.length) {
-			console.log("Success");
-			const value = studyPeriod.lists[0].value;
-			setSelectedStudyPeriod({ value, label: value });
+		if (studyPeriod.lists.length > 0) {
+			setSelectedStudyPeriod(studyPeriod.lists[0]);
 		}
 	}, [studyPeriod]);
 
-	//const currentList = subjectLists.lists[selectedStudyPeriod.value];
-	const currentList = subjectLists.lists[0];
-
-	// Filters input to provide relevant subjects
-	const filterSubjects = (inputValue) => {
-		if (!currentList) {
-			return [];
-		}
-
-		if (!inputValue) {
-			return currentList;
-		}
-
-		const returnList = currentList.filter((i) => {
-			return (
-				i.code.toLowerCase().includes(inputValue.toLowerCase().trim()) ||
-				i.value.toLowerCase().includes(inputValue.toLowerCase().trim())
-			);
-		});
-		console.log("Filter:", inputValue, currentList, returnList);
-		return returnList;
-	};
-
 	const loadOptions = (inputValue, callback) => {
-		// Filter the subject list based on the input value
-		const filtered = filterSubjects(inputValue);
-		if (filtered && filtered.length > 300) {
-			callback(null);
+		if (selectedStudyPeriod === null) {
+			callback([]);
 			return;
 		}
-		callback(filterSubjects(inputValue));
+		if (!inputValue) {
+			callback([]);
+			return;
+		}
+
+		// only return results after typing cutoff characters
+		if (inputValue.length < INPUT_VALUE_CUTOFF) {
+			callback([]);
+			return;
+		}
+
+		// TODO: update when sSP.value changes
+		const [studyPeriod, year] = selectedStudyPeriod.value.split(" ");
+		const listURL = `/searchSubject?query=${inputValue}&year=${year}&period=${studyPeriod}`;
+		console.log("List:", listURL);
+		axios
+			.get(listURL)
+			.then((res) => {
+				const result = res.data.map((x) => {
+					return { value: x.code, label: x.code };
+				});
+				console.log(result);
+				callback(result);
+			})
+			.catch((err) =>
+				callback([
+					{
+						value: "error",
+						label: err.message || "Oops! Something went wrong!",
+						isDisabled: true,
+					},
+				]),
+			);
 	};
 
 	// Determines what message to display if there are no options provided
 	const noOptionsMessage = (inputValue) => {
-		const optionLength = filterSubjects(inputValue);
 		// Filter returned 'undefined', so we need more text!
-		if (optionLength.length) {
-			let prefix = `${optionLength.length} possibilities`;
-			let suffix = inputValue
+		if (inputValue.length < INPUT_VALUE_CUTOFF) {
+			return inputValue
 				? "Enter more characters..."
 				: "Enter some characters ⌨";
-			return `${prefix}. ${suffix}.`;
 		}
-		if (optionLength.length === 0) {
-			return `No matching subjects found for: ${selectedStudyPeriod.label}`;
-		}
-		return null;
-	};
-	const applySelectTheme = (theme) => {
-		return {
-			...theme,
-			borderRadius: "3px",
-		};
+
+		return `No matching subjects found in ${selectedStudyPeriod.label}`;
 	};
 
 	const handleSubjectSelect = ({ code, value, online }) => {
@@ -138,6 +119,13 @@ const SubjectSelect = (props) => {
 	// ---------------------------------------------------------------
 	// Theming
 	// ---------------------------------------------------------------
+
+	const applySelectTheme = (theme) => {
+		return {
+			...theme,
+			borderRadius: "3px",
+		};
+	};
 
 	const customStyles = {
 		input: (provided) => ({
@@ -185,7 +173,7 @@ const SubjectSelect = (props) => {
 				searchable={false}
 				isLoading={studyPeriod.loading}
 				isDisabled={studyPeriod.loading}
-				//placeholder="Loading..."
+				placeholder="Loading..."
 				theme={applySelectTheme}
 				styles={customStyles}
 			/>
@@ -194,12 +182,12 @@ const SubjectSelect = (props) => {
 				styles={customStyles}
 				loadOptions={loadOptions}
 				placeholder={
-					subjectLists.loading ? "Loading..." : "Search for a subject..."
+					selectedStudyPeriod === null
+						? "Loading..."
+						: "Search for a subject..."
 				}
 				theme={applySelectTheme}
-				value={inputValue}
-				defaultOptions
-				isDisabled={subjectLists.loading}
+				defaultOptions={true}
 				onChange={handleSubjectSelect}
 				noOptionsMessage={(obj) => noOptionsMessage(obj.inputValue)}
 			/>
