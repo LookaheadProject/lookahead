@@ -1,4 +1,4 @@
-import {combineReducers} from 'redux';
+import { combineReducers } from 'redux';
 import studyPeriod from './studyPeriodReducer';
 import subjects from './subjectReducer';
 import optimiser from './optimiserReducer';
