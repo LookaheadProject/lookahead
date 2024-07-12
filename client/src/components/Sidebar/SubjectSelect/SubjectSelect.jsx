@@ -28,10 +28,8 @@ const SubjectSelect = (props) => {
 	// Loads on start - retrieve available study periods
 	// ---------------------------------------------------------------
 
-	// TODO: fix local storage
 	useEffect(() => {
-		return;
-		//let localStorageSubjects = JSON.parse(localStorage.getItem('subjects'));
+		let localStorageSubjects = JSON.parse(localStorage.getItem("subjects"));
 		if (!localStorageSubjects) return;
 		for (const subject of localStorageSubjects) {
 			const { year, code, name, studyPeriod, online } = subject;
