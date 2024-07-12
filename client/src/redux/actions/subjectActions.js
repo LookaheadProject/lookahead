@@ -7,27 +7,29 @@ import {
 } from '../actionTypes';
 import axios from 'axios';
 
-const getSubjectBegin = (year, code, name, online) => ({
+const getSubjectBegin = (year, code, name, studyPeriod) => ({
   type: GET_SUBJECT_BEGIN,
-  payload: {year, code, name, online},
+  payload: {year, code, name, studyPeriod},
 });
 
-const getSubjectSuccess = (year, code, name, online, studyPeriod, classInfo) => ({
-  type: GET_SUBJECT_SUCCESS,
-  payload: {year, code, name, online, studyPeriod, classInfo},
-});
+const getSubjectSuccess = (year, code, name, studyPeriod, classInfo) => {
+  return {
+    type: GET_SUBJECT_SUCCESS,
+    payload: {year, code, name, studyPeriod, classInfo},
+  };
+};
 
 const getSubjectFailure = (code, error) => ({
   type: GET_SUBJECT_FAILURE,
   payload: {code, error},
 });
 
-export const getSubject = (year, studyPeriod, code, name, online) => dispatch => {
-  dispatch(getSubjectBegin(year, code, name, online, studyPeriod));
-  const listURL = `/subject?year=${year}&period=${studyPeriod}&code=${code}`;
+export const getSubject = (year, studyPeriod, code, name) => dispatch => {
+  dispatch(getSubjectBegin(year, code, name, studyPeriod));
+  const listURL = `/getSubject?year=${year}&period=${studyPeriod}&code=${code}`;
   return axios
     .get(listURL)
-    .then(res => dispatch(getSubjectSuccess(year, code, name, online, studyPeriod, res.data)))
+    .then(res => dispatch(getSubjectSuccess(year, code, name, studyPeriod, res.data)))
     .catch(err => dispatch(getSubjectFailure(code, err)));
 };
 
