@@ -22,6 +22,7 @@ const SubjectSelect = (props) => {
 
 	// React hooks
 	const [selectedStudyPeriod, setSelectedStudyPeriod] = useState(null);
+	const [selectedSubject, setSelectedSubject] = useState(null);
 
 	// ---------------------------------------------------------------
 	// Loads on start - retrieve available study periods
@@ -104,16 +105,22 @@ const SubjectSelect = (props) => {
 		return `No matching subjects found in ${selectedStudyPeriod.label}`;
 	};
 
-	const handleSubjectSelect = ({ code, value, online }) => {
-		dispatch(
-			getSubject(
-				CURRENT_SUBJECT_LIST_YEAR,
-				selectedStudyPeriod,
-				code,
-				value,
-				online,
-			),
-		);
+	const handleSubjectSelect = (
+		{ value: code, label: subjectName },
+		{ action },
+	) => {
+		if (action !== "select-option") {
+			return;
+		}
+
+		// temporary, of course
+		subjectName = "subject placeholder woo";
+
+		const [studyPeriod, year] = selectedStudyPeriod.value.split(" ");
+		dispatch(getSubject(year, studyPeriod, code, subjectName));
+
+		// reset selected option after each choice
+		setSelectedSubject(null);
 	};
 
 	// ---------------------------------------------------------------
@@ -188,6 +195,7 @@ const SubjectSelect = (props) => {
 				}
 				theme={applySelectTheme}
 				defaultOptions={true}
+				value={selectedSubject}
 				onChange={handleSubjectSelect}
 				noOptionsMessage={(obj) => noOptionsMessage(obj.inputValue)}
 			/>
