@@ -29,7 +29,7 @@ const SubjectSelect = (props) => {
 	// ---------------------------------------------------------------
 
 	useEffect(() => {
-		let localStorageSubjects = JSON.parse(localStorage.getItem("subjects"));
+		const localStorageSubjects = JSON.parse(localStorage.getItem("subjects"));
 		if (!localStorageSubjects) return;
 		for (const subject of localStorageSubjects) {
 			const { year, code, name, studyPeriod, online } = subject;

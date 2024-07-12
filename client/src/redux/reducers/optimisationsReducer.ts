@@ -24,6 +24,7 @@ const initialState: IPreferences = {
   allocateBreaks: false,
   minimiseBreaks: false,
 };
+export const defaultPreferences = initialState;
 
 export const optimisationsSlice = createSlice({
   name: "optimisations",
@@ -35,6 +36,11 @@ export const optimisationsSlice = createSlice({
         ...action.payload
       }
       console.log("State change:", newState);
+
+      // save to localStorage
+      localStorage.setItem("preferences", JSON.stringify(newState));
+      console.log("Saved to Local Storace")
+
       return newState;
     }
   }

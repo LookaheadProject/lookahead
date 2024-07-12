@@ -13,12 +13,13 @@ import {
 	Subheader,
 	TimeOptimisation,
 } from "./OptimisationsStyles";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { updatePreferences } from "../../redux/actions/optimisationsActions";
 import { useDispatch, useSelector } from "react-redux";
 
 import DayAvoidButton from "./DayAvoidButton/DayAvoidButton";
 import InputRange from "react-input-range";
+import type { IPreferences } from "optimiser";
 
 import { useAppDispatch, useAppStore, useAppSelector } from "redux/hooks";
 
@@ -37,7 +38,36 @@ function Optimisations() {
 
 	// set up selectors
 	const optimisations = useAppSelector((state) => state.optimisations);
-	const subjects = useAppSelector((state) => state.subjects);
+
+	// load optimisations from localStorage on startup
+	useEffect(() => {
+		const preferences: IPreferences = JSON.parse(
+			localStorage.getItem("preferences"),
+		);
+		console.log(
+			"Load preferences from saved state",
+			preferences,
+			localStorage.getItem("preferences"),
+		);
+
+		if (preferences) {
+			dispatch(updatePreferences(preferences));
+
+			// manually make any changes needed:
+			// set avoid buttons
+			for (const i of preferences.avoidDays) {
+				const setActivated = buttonStates[i][1];
+				setActivated(true);
+			}
+
+			// set input range
+			const { start, end } = preferences.timeRestriction;
+			setInputRange({
+				min: start.hour + start.minute / 60,
+				max: end.hour + end.minute / 60,
+			});
+		}
+	}, [dispatch]);
 
 	const longestRunChanged = (e) => {
 		e.target.value = e.target.value.replace(/[^0-9]/gi, "");
@@ -56,6 +86,7 @@ function Optimisations() {
 	};
 
 	const days = ["Mon", "Tue", "Wed", "Thu", "Fri"];
+	const buttonStates = days.map(() => useState(false));
 
 	// this one is only stored locally, so is in a different format to optimisations.timeRestrictions.
 	const [inputRange, setInputRange] = useState({ min: 8, max: 22 });
@@ -117,6 +148,8 @@ function Optimisations() {
 						{days.map((day, idx) => (
 							<DayAvoidButton
 								key={day}
+								activated={buttonStates[idx][0]}
+								setActivated={buttonStates[idx][1]}
 								onToggled={(val: boolean) => {
 									let avoidDays = optimisations.avoidDays;
 									if (val) {
@@ -151,6 +184,7 @@ function Optimisations() {
 						className="styled-checkbox"
 						id="minimise-clashes"
 						type="checkbox"
+						checked={optimisations.minimiseClashes}
 						onChange={({ target: { checked } }) =>
 							dispatch(
 								updatePreferences({
@@ -172,6 +206,7 @@ function Optimisations() {
 						className="styled-checkbox"
 						id="skip-lectures"
 						type="checkbox"
+						checked={optimisations.skipLectures}
 						onChange={({ target: { checked } }) =>
 							dispatch(
 								updatePreferences({
@@ -187,6 +222,7 @@ function Optimisations() {
 						className="styled-checkbox"
 						id="minimise-days"
 						type="checkbox"
+						checked={optimisations.minimiseDaysOnCampus}
 						onChange={({ target: { checked } }) =>
 							dispatch(
 								updatePreferences({
@@ -202,6 +238,7 @@ function Optimisations() {
 						className="styled-checkbox"
 						id="longest-run-toggle"
 						type="checkbox"
+						checked={optimisations.allocateBreaks}
 						onChange={({ target: { checked } }) => {
 							dispatch(
 								updatePreferences({
@@ -228,6 +265,7 @@ function Optimisations() {
 						className="styled-checkbox"
 						id="minimise-breaks"
 						type="checkbox"
+						checked={optimisations.minimiseBreaks}
 						onChange={({ target: { checked } }) =>
 							dispatch(
 								updatePreferences({
