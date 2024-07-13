@@ -2,7 +2,10 @@
   "compilerOptions": {
     "baseUrl": "src",
     "jsx": "react",
-    "noImplicitAny": true
+    "noImplicitAny": false,
+    "lib": ["ES2017", "DOM"],
+    "esModuleInterop": true,
+    "allowJs": true
   },
   "include": ["src"]
 }

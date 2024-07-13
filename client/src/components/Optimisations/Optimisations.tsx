@@ -15,13 +15,12 @@ import {
 } from "./OptimisationsStyles";
 import React, { useEffect, useState } from "react";
 import { updatePreferences } from "../../redux/actions/optimisationsActions";
-import { useDispatch, useSelector } from "react-redux";
 
 import DayAvoidButton from "./DayAvoidButton/DayAvoidButton";
 import InputRange from "react-input-range";
 import type { IPreferences } from "optimiser";
 
-import { useAppDispatch, useAppStore, useAppSelector } from "redux/hooks";
+import { useAppSelector, useAppDispatch } from "redux/hooks";
 
 const formatRangeLabel = (value) => {
 	const remainder = value % 1;
@@ -34,7 +33,7 @@ const formatRangeLabel = (value) => {
 };
 
 function Optimisations() {
-	const dispatch = useDispatch();
+	const dispatch = useAppDispatch();
 
 	// set up selectors
 	const optimisations = useAppSelector((state) => state.optimisations);
