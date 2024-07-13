@@ -45,51 +45,36 @@ function Subjects() {
 		const handbookURL = `https://handbook.unimelb.edu.au/${year}/subjects/${code.toLowerCase()}`;
 		window.open(handbookURL, "_blank");
 	};
-	const openSWS = (year, code) => {
-		const swsURL = `https://sws.unimelb.edu.au/${year}/Reports/List.aspx?objects=${code}&weeks=1-52&days=1-7&periods=1-56&template=module_by_group_list`;
-		window.open(swsURL, "_blank");
+
+	const openTimetable = (year, code) => {
+		const URL = `https://cloud.timeedit.net/au_unimelb/web/handbook/s.html?sid=4&object=subject.${code}_${year}&type=subject&startdate=${year}0101&enddate=${year}1231&p=0.m%2C0.w&h=t`;
+		window.open(URL, "_blank");
 	};
+
 	const deleteSubject = (_year, code) => {
 		dispatch(removeSubject(code));
 	};
-	const periods = Object.keys(subjects).reduce(
-		(prev, key) =>
-			!subjects[key].loading && subjects[key].data
-				? [...prev, subjects[key].data.period]
-				: prev,
-		[],
-	);
-	const uniquePeriods = Array.from(new Set(periods));
-	const crossStudyPeriod = uniquePeriods.length > 1;
+
+	console.error("Helloooo");
+
+	const uniquePeriods = [
+		...new Set(Object.entries(subjects).map(([k, v]) => v.studyPeriod)),
+	];
+
 	return (
 		<SubjectsWrapper>
-			{crossStudyPeriod && <Warning />}
+			{uniquePeriods.length > 1 && <Warning />}
 
 			{Object.keys(subjects).map((code) => {
 				const subject = subjects[code];
-				console.log("Subject is", subject);
 
 				const { year, studyPeriod, name, online, loading, data, color, error } =
 					subject;
 
-				const {
-					period = "",
-					_weirdStreamContainers = [],
-					_classList = [],
-					_irregularClasses = [],
-					_mandatoryClasses = [],
-					_regularClasses = [],
-					_streamContainers = [],
-				} = data || {};
-				let bgColor = color;
-				let textColor = "white";
-				const isEmpty =
-					empty(_classList) &&
-					empty(_irregularClasses) &&
-					empty(_mandatoryClasses) &&
-					empty(_regularClasses) &&
-					empty(_streamContainers);
-				const isWeird = _weirdStreamContainers.length > 0;
+				const bgColor = color;
+				const textColor = "white";
+				const isEmpty = data === null || !Object.keys(data).length;
+
 				return (
 					<SubjectWrapper key={code}>
 						<SubjectCard error={error} $loading={loading} color={bgColor}>
@@ -102,19 +87,14 @@ function Subjects() {
 											<i className="fas fa-exclamation-triangle" />
 										</span>
 									) : (
-										<span>{studyPeriod}</span>
-									)}
-									{online ? (
-										<>
-											<span>•</span>
-											<span className={"online-only-tag"}>Online Only</span>
-										</>
-									) : (
-										""
+										<span>
+											{studyPeriod} {year}
+										</span>
 									)}
 									{isEmpty && (
 										<>
 											<span>•</span>
+											{/* biome-ignore lint/a11y/useKeyWithClickEvents: <explanation> */}
 											<span
 												onClick={() =>
 													alert(
@@ -175,7 +155,7 @@ function Subjects() {
 										)}
 										<ToolboxButton
 											title="View Official Timetable"
-											onClick={() => openSWS(year, code)}
+											onClick={() => openTimetable(year, code)}
 										>
 											<i className="fa fa-calendar-alt" />
 										</ToolboxButton>
