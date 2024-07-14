@@ -13,7 +13,7 @@ import {
 	Subheader,
 	TimeOptimisation,
 } from "./OptimisationsStyles";
-import React, { useEffect, useState } from "react";
+import React, { FunctionComponent, useEffect, useState } from "react";
 import { updatePreferences } from "../../redux/actions/optimisationsActions";
 
 import DayAvoidButton from "./DayAvoidButton/DayAvoidButton";
@@ -32,7 +32,7 @@ const formatRangeLabel = (value) => {
 	return `${Math.floor(value)}:${postColon}${meridian}`;
 };
 
-function Optimisations() {
+const Optimisations: FunctionComponent<any> = ({ offset, children }: any) => {
 	const dispatch = useAppDispatch();
 
 	// set up selectors
@@ -110,7 +110,6 @@ function Optimisations() {
 							value={inputRange}
 							onChange={(newRange_) => {
 								// onChange is guaranteed to return a Range, not a number, in this case
-								// biome-ignore lint/suspicious/noExplicitAny:
 								const newRange = newRange_ as any;
 
 								// this will update the widget display
@@ -280,6 +279,6 @@ function Optimisations() {
 			</OptimisationsContainer>
 		</OptimisationsWrapper>
 	);
-}
+};
 
 export default Optimisations;

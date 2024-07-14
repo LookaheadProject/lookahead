@@ -55,8 +55,6 @@ function Subjects() {
 		dispatch(removeSubject(code));
 	};
 
-	console.error("Helloooo");
-
 	const uniquePeriods = [
 		...new Set(Object.entries(subjects).map(([k, v]) => v.studyPeriod)),
 	];
@@ -68,7 +66,7 @@ function Subjects() {
 			{Object.keys(subjects).map((code) => {
 				const subject = subjects[code];
 
-				const { year, studyPeriod, name, online, loading, data, color, error } =
+				const { year, studyPeriod, name, loading, data, color, error } =
 					subject;
 
 				const bgColor = color;

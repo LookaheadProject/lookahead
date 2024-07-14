@@ -3,7 +3,7 @@
     "baseUrl": "src",
     "jsx": "react",
     "noImplicitAny": false,
-    "lib": ["ES2017", "DOM"],
+    "lib": ["ES2019", "DOM"],
     "esModuleInterop": true,
     "allowJs": true
   },
