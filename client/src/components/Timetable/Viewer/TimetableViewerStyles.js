@@ -1,12 +1,12 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export default styled.div`
   $opacity: 0.75;
 
   .reserved-event {
-    background-color: ${props => props.theme.reservedBg};
-    border: ${props => props.theme.reservedBorder};
-    color: ${props => props.theme.reservedText};
+    background-color: ${(props) => props.theme.reservedBg};
+    border: ${(props) => props.theme.reservedBorder};
+    color: ${(props) => props.theme.reservedText};
     font-size: 16px;
     backdrop-filter: blur(5px);
   }
@@ -22,7 +22,7 @@ export default styled.div`
 
   .fc-unthemed th,
   .fc-axis {
-    color: ${props => props.theme.ttTextColor};
+    color: ${(props) => props.theme.ttTextColor};
     font-weight: lighter;
     text-align: center;
   }
@@ -45,7 +45,7 @@ export default styled.div`
       z-index: 0;
     }
     table {
-      border-color: ${props => props.theme.ttBorderColor};
+      border-color: ${(props) => props.theme.ttBorderColor};
     }
   }
   .fc-unthemed th,
@@ -58,7 +58,7 @@ export default styled.div`
   .fc-unthemed .fc-popover,
   .fc-unthemed .fc-list-view,
   .fc-unthemed .fc-list-heading td {
-    border-color: inherit;
+    border-color: ${(props) => props.theme.ttBorderColor};
   }
 
   .lookahead-event-wrapper {
