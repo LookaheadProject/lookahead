@@ -67,10 +67,7 @@ export const getCurrentCustomTimetable = () => {
 export const allocationToEvents = (allocation: Allocation, subject: { color: string, data: ISubject }) => {
 	const { lot, index } = allocation;
 
-	console.log(allocation, subject);
-
 	const activity_group = subject.data.activity_group_list[lot];
-	console.log(activity_group);
 	const stream = activity_group.stream_list[index];
 
 	const calculateEventDate = (day: Day, time: string) => {
@@ -94,11 +91,10 @@ export const allocationToEvents = (allocation: Allocation, subject: { color: str
 	}
 
 	const events = stream.activity_list.map(activity => {
-		console.log("Start", activity.times.start);
 		return {
 			title: activity.name,
 			backgroundColor: subject.color,
-			locations: activity.location,
+			locations: [activity.location],
 			type: activity_type,
 			classCode: `CLASSCODE ${subject.data.code}`,
 			online: false,

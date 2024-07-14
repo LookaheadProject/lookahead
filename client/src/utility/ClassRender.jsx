@@ -10,7 +10,6 @@ const CLASS_TYPE_MINIMUM = { height: 0, width: 120 };
  * @param {HTMLElement} el The corresponding HTMLElement
  */
 export default function ({ event, el }) {
-	console.log("ClassRender", event, el);
 	// Handle if background event
 	if (event.rendering && event.rendering === "background") {
 		return;
@@ -24,7 +23,7 @@ export default function ({ event, el }) {
 	const height = content.height();
 	const width = content.width();
 	// Class-specific information is stored in extended props
-	const { subjectName, code, type, online, locations, streamNumber } =
+	const { subjectName, code, type, locations, streamNumber } =
 		event.extendedProps;
 	// HTML Element for the bottom elements (Subject Name + Code)
 	const bottomWrapper = $('<div class="bottom-wrapper"/>');
@@ -43,24 +42,18 @@ export default function ({ event, el }) {
 		width >= CLASS_LOCATION_MINIMUM.width
 	) {
 		let locationsText;
-		if (!online && locations.length > 1) {
+		if (locations.length > 1) {
 			locationsText = $(
 				`<div class="fc-loc">
           
          ${locations.length} locations
       </div>`,
 			);
-		} else if (!online) {
+		} else {
 			locationsText = $(
 				`<div class="fc-loc">
             On Campus
       </div>`,
-			);
-		} else {
-			locationsText = $(
-				`<div class="fc-loc">
-          Online
-        </div>`,
 			);
 		}
 		locationsText.appendTo(content);
@@ -73,19 +66,20 @@ export default function ({ event, el }) {
 	) {
 		const classTypeElement = $(`<div class="fc-type">${type}</div>`);
 		// if its a stream, append the stream number to the text
-		if (type === "Stream") {
+		if (type === "Stream" || type === "Variable") {
 			// prevents JS injection
-			classTypeElement.append(document.createTextNode(` #${streamNumber}`));
+			classTypeElement.append(document.createTextNode(` #${streamNumber + 1}`));
 		}
 		classTypeElement.appendTo(content);
 	}
+
 	// Render the subject code all the time
 	const subjectCode = $(`<div class="fc-code">${code}</div>`);
 	subjectCode.appendTo(bottomWrapper);
 	// Add the bottom wrapper to the calendar element
 	bottomWrapper.appendTo(content);
 	// Show appropriate icon at top right
-	let iconMapping = {
+	const iconMapping = {
 		Mandatory: "lock",
 		Variable: "exchange-alt",
 		Stream: "water",
