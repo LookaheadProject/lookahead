@@ -84,10 +84,6 @@ export default function TimetableViewer() {
 		console.log("Current Timetable:", currentTimetable);
 		console.log("SubjectsObj", subjectsObj);
 		console.log("Subjects", subjects);
-		console.log(
-			"Calendar Ref",
-			calendarRef.current ? calendarRef.current.getApi() : null,
-		);
 
 		// Map timetable classes to events
 		const events = currentTimetable.allocation.flatMap((subjAlloc, subjIndex) =>
@@ -137,9 +133,7 @@ export default function TimetableViewer() {
 		return <NoTimetables hasSubjects={Object.keys(subjects).length > 0} />;
 	}
 
-	console.log("RELOAD");
 	const events = timetable.allEvents;
-	console.log("Initial events ABC", events);
 
 	const numberWithCommas = (x) =>
 		x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
@@ -161,7 +155,7 @@ export default function TimetableViewer() {
 					defaultView="timeGridWeek"
 					height="parent"
 					plugins={[timeGridPlugin, interactionPlugin]}
-					weekends={true}
+					weekends={hasWeekendClasses}
 					initialDate={moment()}
 					slotLabelFormat={{
 						hour: "numeric",

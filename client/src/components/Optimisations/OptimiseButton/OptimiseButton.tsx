@@ -33,7 +33,7 @@ const OptimiseButtonConstructor = ({ offset, children }: any) => {
 				subjects: subjectData,
 				optimisations: {
 					...optimisations,
-					allocateBreaks: 1,
+					allocateBreaks: 0,
 				},
 			}),
 		);
