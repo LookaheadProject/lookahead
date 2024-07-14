@@ -8,10 +8,10 @@
     "watch": "parcel watch src/index.html --no-hmr"
   },
   "dependencies": {
-    "@fullcalendar/core": "^4.4.2",
-    "@fullcalendar/interaction": "^4.4.2",
-    "@fullcalendar/react": "^4.4.2",
-    "@fullcalendar/timegrid": "^4.4.2",
+    "@fullcalendar/core": "4.4.2",
+    "@fullcalendar/interaction": "4.4.2",
+    "@fullcalendar/react": "4.4.2",
+    "@fullcalendar/timegrid": "4.4.2",
     "@parcel/packager-raw-url": "^2.10.3",
     "@parcel/transformer-sass": "^2.10.3",
     "@parcel/transformer-webmanifest": "^2.10.3",

@@ -6,20 +6,21 @@ import {
   CHANGE_SUBJECT_COLOR,
 } from '../actionTypes';
 import colors from '../../utility/SubjectColors.js';
+import type { ISubject } from 'optimiser';
 
-const initialState = {};
+const initialState: { [key: string]: ISubject } = {};
 
 const findColor = state => {
   // Copy colors pool
   let colorPool = [...colors];
-  Object.entries(state).forEach(([code, {color}]) => colorPool.splice(colorPool.indexOf(color), 1));
+  Object.entries(state).forEach(([code, { color }]) => colorPool.splice(colorPool.indexOf(color), 1));
   if (colorPool) {
     return colorPool.pop();
   } else return 'black';
 };
 
-const changeSubjectColor = (state, {code, studyPeriod, year, color}) => {
-  const newState = {...state};
+const changeSubjectColor = (state, { code, studyPeriod, year, color }) => {
+  const newState = { ...state };
   if (state[code] && state[code].year === year && state[code].studyPeriod === studyPeriod) {
     state[code].color = color;
   }
@@ -31,7 +32,7 @@ export default (state = initialState, action) => {
     case CHANGE_SUBJECT_COLOR:
       return changeSubjectColor(state, action.payload);
     case GET_SUBJECT_BEGIN: {
-      const {code, name, year, studyPeriod} = action.payload;
+      const { code, name, year, studyPeriod } = action.payload;
 
       return {
         ...state,
@@ -65,7 +66,7 @@ export default (state = initialState, action) => {
         subjects = [newSubject];
       } else if (
         !subjects.some(
-          ({year, code, studyPeriod}) =>
+          ({ year, code, studyPeriod }) =>
             year === action.payload.year &&
             code === action.payload.code &&
             studyPeriod === action.payload.studyPeriod
@@ -103,7 +104,7 @@ export default (state = initialState, action) => {
       let localStorageSubjects = JSON.parse(localStorage.getItem('subjects'));
       if (localStorageSubjects) {
         localStorageSubjects = localStorageSubjects.filter(
-          ({year, code, studyPeriod}) =>
+          ({ year, code, studyPeriod }) =>
             year !== action.payload.year &&
             code !== action.payload.code &&
             studyPeriod !== action.payload.studyPeriod
@@ -112,7 +113,7 @@ export default (state = initialState, action) => {
         localStorage.setItem('subjects', JSON.stringify(localStorageSubjects));
       }
       // Remove subject from state
-      const {[action.payload.code]: value, ...newState} = state;
+      const { [action.payload.code]: value, ...newState } = state;
       return newState;
     }
     default:

@@ -10,10 +10,7 @@ import { optimise } from "../../../redux/actions/optimiserActions";
 
 import { useAppDispatch, useAppSelector } from "redux/hooks";
 
-const OptimiseButtonConstructor: FunctionComponent = ({
-	offset,
-	children,
-}: any) => {
+const OptimiseButtonConstructor = ({ offset, children }: any) => {
 	const subjects = useAppSelector((state) => state.subjects);
 	const allSubjectsLoaded = !Object.entries(subjects).some(
 		([k, v]) => (v as any).data === null,
@@ -26,7 +23,10 @@ const OptimiseButtonConstructor: FunctionComponent = ({
 	const invokeOptimisation = () => {
 		console.log("Optimise time");
 
-		const subjectData = Object.values(subjects).map((x: any) => x.data);
+		// use (deterministic) sorted order to allocate
+		const subjectData = Object.keys(subjects)
+			.sort()
+			.map((key) => subjects[key].data);
 
 		dispatch(
 			optimise({
