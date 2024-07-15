@@ -11,8 +11,10 @@ import {
 } from "../../../../redux/actions/optimiserActions";
 import Timetable from "../../../../optimiser/Timetable";
 
+import type { ProcessedSubject } from "redux/reducers/subjectReducer";
 import type { ISubject, Time, Day } from "optimiser";
 import { Days } from "optimiser";
+import type { EventApi } from "@fullcalendar/core";
 
 type Allocation = { lot: number, index: number };
 
@@ -26,10 +28,6 @@ export const getBackgroundEvents = () => {
 
 export const getRegularEvents = () => {
 	return store.getState().timetable.regularEvents;
-};
-
-export const getKeepClassesStreamed = () => {
-	return store.getState().optimisations.keepClassesStreamed;
 };
 
 const getCurrentTheme = () => {
@@ -64,7 +62,7 @@ export const getCurrentCustomTimetable = () => {
 	return timetable;
 };
 
-export const allocationToEvents = (allocation: Allocation, subject: { color: string, data: ISubject }) => {
+export const allocationToEvents = (allocation: Allocation, subject: ProcessedSubject) => {
 	const { lot, index } = allocation;
 
 	const activity_group = subject.data.activity_group_list[lot];
@@ -80,10 +78,10 @@ export const allocationToEvents = (allocation: Allocation, subject: { color: str
 	};
 
 	let activity_type: string;
-	let locked = false;
+	let mandatory = false;
 	if (activity_group.stream_list.length === 1) {
 		activity_type = "Mandatory"
-		locked = true;
+		mandatory = true;
 	} else if (activity_group.stream_list[0].activity_list.length === 1) {
 		activity_type = "Variable"
 	} else {
@@ -92,26 +90,29 @@ export const allocationToEvents = (allocation: Allocation, subject: { color: str
 
 	const events = stream.activity_list.map(activity => {
 		return {
+			// basic information about the subject
 			title: activity.name,
-			backgroundColor: subject.color,
-			locations: [activity.location],
-			type: activity_type,
-			classCode: `CLASSCODE ${subject.data.code}`,
-			online: false,
-			codes: "ACTIVITY_CODE_1",
-			streamNumber: index,
 			code: subject.data.code,
 			subjectName: subject.data.name,
+			locations: [activity.location],
+			type: activity_type,
+			// event background colour
+			backgroundColor: subject.color,
+			// all alternative stream positions for the same activity:
+			// - will share the same classCode
+			// - will have different streamNumbers
+			classCode: `${subject.data.code}-${lot}-${activity.activity_id}`,
+			streamNumber: index,
+			// TODO: can probably remove this
+			codes: "ACTIVITY_CODE_1",
+			online: false,
+			// fixed value for styling purposes
 			className: "lookahead-event-wrapper",
 			// TODO: fix, as start/end are string not Time
 			start: calculateEventDate(activity.day, activity.times.start as unknown as string),
 			end: calculateEventDate(activity.day, activity.times.end as unknown as string),
-			// TODO: check if this is needed
-			//startInt: activity.times.start.hour + activity.times.start.minute / 60,
-			//finishInt: activity.times.end.hour + activity.times.end.minute / 60,
-			startInt: 10,
-			finishInt: 12,
-			editable: locked,
+			// change whether this is editable or not, depending on if it is mandatory
+			editable: !mandatory,
 			durationEditable: false,
 			weeks: activity.weeks.join(", "),
 		};
@@ -120,57 +121,6 @@ export const allocationToEvents = (allocation: Allocation, subject: { color: str
 	return events;
 }
 
-// Converter class (SubjectClass -> FullCalendar Event Object)
-export const classToEvent = (cls) => {
-	const subjects = getSubjects();
-
-	console.log("ClassToEvent", cls);
-
-	const calculateEventDate = (dayIndex, hours) => {
-		const today = moment();
-		const startOfWeek = today.startOf("isoWeek");
-		return startOfWeek.add(dayIndex, "days").add(hours, "hours");
-	};
-
-	let {
-		day,
-		classCode,
-		online,
-		start,
-		finish,
-		description,
-		subjectCode,
-		locations,
-		type,
-		streamNumber,
-		codes,
-		weeks,
-	} = cls;
-
-	const startDate = calculateEventDate(day, start).toDate();
-	const finishDate = calculateEventDate(day, finish).toDate();
-	const locked = type === "Mandatory" ? false : true;
-	return {
-		title: description,
-		backgroundColor: subjects[subjectCode].color,
-		locations: locations,
-		type,
-		classCode,
-		online,
-		codes,
-		streamNumber,
-		code: subjectCode,
-		subjectName: subjects[subjectCode].name,
-		className: "lookahead-event-wrapper",
-		start: startDate,
-		end: finishDate,
-		startInt: start,
-		finishInt: finish,
-		editable: locked,
-		durationEditable: false,
-		weeks: weeks.join(", "),
-	};
-};
 
 // When an event is clicked
 // https://fullcalendar.io/docs/eventClick
@@ -209,7 +159,6 @@ export const createReservedEvent = (start, end) => {
 		end: end,
 		editable: false,
 		stick: true,
-		//color:'orange',
 		className: "reserved-event",
 	};
 };
@@ -222,20 +171,20 @@ let currentShownBackgroundEvents = [];
  * @param {[Event]} allEvents
  * @param {Event} currentEvent
  */
-export const handleEventDragStart = (allEvents, currentEvent) => {
+export const handleEventDragStart = (allEvents: Event[], currentEvent: EventApi) => {
+	console.log("Current event", currentEvent.extendedProps);
+
 	let REGULAR_EVENTS_OPACITY = getCurrentTheme().dragDropRegularEventOpacity;
-	// Get all foreground events
-	const regularEvents = getRegularEvents();
-	// Make them opaque
-	regularEvents.forEach((event) => {
-		$(`.${event.className}`).css("opacity", REGULAR_EVENTS_OPACITY);
-	});
+	for (const elem of Array.from(document.querySelectorAll(".lookahead-event-wrapper")) as HTMLElement[]) {
+		elem.style.opacity = REGULAR_EVENTS_OPACITY;
+	}
+
 	// Get all allowed drop events
+	console.log("Background", getBackgroundEvents());
 	const backgroundEvents = getBackgroundEvents().filter(
-		(e) =>
-			e.classCode.type === currentEvent.extendedProps.classCode.type &&
-			e.classCode.number === currentEvent.extendedProps.classCode.number &&
-			e.code === currentEvent.extendedProps.code,
+		// TODO: properly type all this up
+		(e: any) =>
+			e.classCode === currentEvent.extendedProps.classCode
 	);
 	// Show all allowed background events
 	backgroundEvents.forEach(showBackgroundEvent);
@@ -257,31 +206,35 @@ export const handleEventAllow = (dropLocation, draggedEvent, allEvents) => {
 			dropLocation.start.getMinutes() === event.start.getMinutes();
 		return sameDay && sameHour && sameMinutes;
 	});
+
 	const onAClass = intersects.length > 0;
 	const isStream = draggedEvent.extendedProps.type === "Stream";
+
 	if (!isStream) {
 		return onAClass;
 	}
+
 	if (onAClass) {
 		const intersectingEvent = intersects[0];
 		// Find all events that are a part of this stream
 		const sameStream = getBackgroundEvents().filter(
-			(event) =>
-				event.code === intersectingEvent.code &&
-				event.classCode.type === intersectingEvent.classCode.type &&
+			(event: any) =>
+				event.classCode === intersectingEvent.classCode &&
 				event.streamNumber === intersectingEvent.streamNumber &&
 				event.className !== intersectingEvent.className,
 		);
-		if (getKeepClassesStreamed()) {
-			sameStream.forEach((e) => currentStreamIndicators.push(e));
-			sameStream.forEach(showEventIndicator);
+
+		for (const e of sameStream) {
+			currentStreamIndicators.push(e);
+			showEventIndicator(e);
 		}
+
 		return true;
-	} else {
-		currentStreamIndicators.forEach(hideBackgroundEvent);
-		currentStreamIndicators = [];
-		return false;
 	}
+
+	currentStreamIndicators.forEach(hideBackgroundEvent);
+	currentStreamIndicators = [];
+	return false;
 };
 
 /**
@@ -483,40 +436,39 @@ const showEventIndicator = (event) => {
 export const generateBackgroundEvents = () => {
 	const bgEvents = [];
 	const subjects = getSubjects();
+
 	// Loop through each subject, generating background events for them 1-by-1
-	for (const [, { data }] of Object.entries(subjects)) {
+	for (const subject of Object.values(subjects)) {
 		// Check if the data for the subject has been retrieved yet
-		if (!data) {
+		if (!subject.data) {
 			// If not, continue to the next subject
 			continue;
 		}
 		// Helper function to generate unique class names for each background event
-		const generateClassName = ({ subjectCode, description, streamNumber }) =>
-			`lookahead-background-${subjectCode}-${description}-${streamNumber}`
+		const generateClassName = ({ code, title }, lot, index) =>
+			`lookahead-background-${code}-${title}-${lot}-${index}`
 				.replace(/\W+/g, "-")
 				.toLowerCase();
+
 		// Generate bg events for Variable classes
-		for (const cls of data._regularClasses) {
-			const event = {
-				...classToEvent(cls),
-				className: generateClassName(cls),
-				backgroundColor: "transparent",
-				rendering: "background",
-			};
-			bgEvents.push(event);
-		}
-		// Generate bg events for streams
-		for (const { streams } of Object.values(data._streamContainers)) {
-			for (const { classes } of streams) {
-				for (const cls of classes) {
-					const event = {
-						...classToEvent(cls),
-						className: generateClassName(cls),
+		for (const activity_group of subject.data.activity_group_list) {
+			for (const stream of activity_group.stream_list) {
+				const lot = activity_group.group_id;
+				const index = stream.stream_id;
+
+				const allocations = allocationToEvents(
+					{ lot, index },
+					subject
+				);
+				const events = allocations.map(e => (
+					{
+						...e,
+						className: generateClassName(e, lot, index),
 						backgroundColor: "transparent",
-						rendering: "background",
-					};
-					bgEvents.push(event);
-				}
+						rendering: "background"
+					}
+				));
+				bgEvents.push(...events);
 			}
 		}
 	}

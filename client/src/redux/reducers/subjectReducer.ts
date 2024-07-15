@@ -8,7 +8,21 @@ import {
 import colors from '../../utility/SubjectColors.js';
 import type { ISubject } from 'optimiser';
 
-const initialState: { [key: string]: ISubject } = {};
+import type { Reducer, Action } from 'redux';
+import type { UnknownAction } from '@reduxjs/toolkit';
+
+export interface ProcessedSubject {
+  name: string,
+  code: string,
+  year: number,
+  studyPeriod: string,
+  color: string,
+  data: ISubject | null,
+  error: string | null,
+  loading: boolean,
+}
+export interface ProcessedSubjectStore { [key: string]: ProcessedSubject };
+const initialState: ProcessedSubjectStore = {};
 
 const findColor = state => {
   // Copy colors pool
@@ -27,7 +41,7 @@ const changeSubjectColor = (state, { code, studyPeriod, year, color }) => {
   return newState;
 };
 
-export default (state = initialState, action) => {
+const reducer: Reducer<ProcessedSubjectStore, UnknownAction> = (state = initialState, action: any) => {
   switch (action.type) {
     case CHANGE_SUBJECT_COLOR:
       return changeSubjectColor(state, action.payload);
@@ -59,7 +73,6 @@ export default (state = initialState, action) => {
         year: action.payload.year,
         code: action.payload.code,
         name: action.payload.name,
-        online: action.payload.online,
         studyPeriod: action.payload.studyPeriod,
       };
       if (!subjects) {
@@ -120,3 +133,4 @@ export default (state = initialState, action) => {
       return state;
   }
 };
+export default reducer;

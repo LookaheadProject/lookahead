@@ -92,7 +92,9 @@ export default function TimetableViewer() {
 			),
 		);
 		console.log("\n\n\n\nGenerated events:", events);
-		//events.push(...generateBackgroundEvents());
+		const backgroundEvents = generateBackgroundEvents();
+		console.log("Background", backgroundEvents);
+		events.push(...backgroundEvents);
 		console.log(reserved);
 		events.push(...reserved);
 		console.log("Dispatching events...");
@@ -156,7 +158,6 @@ export default function TimetableViewer() {
 					height="parent"
 					plugins={[timeGridPlugin, interactionPlugin]}
 					weekends={hasWeekendClasses}
-					initialDate={moment()}
 					slotLabelFormat={{
 						hour: "numeric",
 						minute: "2-digit",
