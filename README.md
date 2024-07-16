@@ -21,15 +21,19 @@ This project is maintained by students and is unaffiliated with the University. 
 
 
 ## Execution
+You will need an environment `.env` file. An example one, made for developmental builds, can be found at `.env.example`. You should first copy this file to `.env`, or provide the contained environment variables otherwise.
+
 To build and serve both the client and server-side, run:
 ```sh
 $ make install && make dev
 ```
+This will run a local server, and will also rebuild the client-facing front-end on every file change. This is not recommended for production builds. This server has hot-reloading disabled.
+
 To only build the static client side, run:
 ```sh
 $ make build
 ```
-To serve the API and static client, run (noting that this does not contain hot-reloading):
+To serve the API and static client (after it has been built), run (noting that this does not contain hot-reloading):
 ```sh
 $ make serve
 ```
