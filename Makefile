@@ -1,7 +1,8 @@
 NPM = npm --prefix ./client
 POETRY = cd server; poetry
 
-dev: build serve
+dev:
+	$(NPM) run watch & ($(POETRY) run server)
 
 build:
 	$(NPM) run build
