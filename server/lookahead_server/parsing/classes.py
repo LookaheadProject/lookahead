@@ -81,8 +81,11 @@ class Activity:
         )
         duration = int(raw[activity_key]["duration"])
         end_time = start_time + timedelta(minutes=duration)
-        # typecase Date/Time into just Time
-        return Times(start_time.time(), end_time.time())
+        # return dictionary type of {hour: hour, minute: minute, second: second}
+        return {
+            "start_time": {"hour": start_time.hour, "minute": start_time.minute, "second": start_time.second},
+            "end_time": {"hour": end_time.hour, "minute": end_time.minute, "second": start_time.second}
+        }
 
     def to_dict(self):
         """
@@ -94,7 +97,7 @@ class Activity:
             "activity_id": self.__activity_id,
             "weeks": self.__weeks,
             "day": self.__day,
-            "times": self.__times.to_dict(),
+            "times": self.__times,
             "location": self.__location,
         }
 
